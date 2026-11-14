@@ -2,9 +2,9 @@
   "title": "THE NEWS REPORT",
   "generated": {
     "date": "Saturday, 14 November 2026",
-    "display": "Saturday, November 14, 2026  9:57 PM AEDT (Australia/Sydney)",
-    "iso": "2026-11-14T21:57:22.506005+11:00",
-    "time": "9:57 PM AEDT",
+    "display": "Saturday, November 14, 2026  10:05 PM AEDT (Australia/Sydney)",
+    "iso": "2026-11-14T22:05:14.094940+11:00",
+    "time": "10:05 PM AEDT",
     "timezone": "Australia/Sydney"
   },
   "lean": "centre-right",
@@ -40,7 +40,7 @@
       "slot": "featured:2",
       "urgent": false,
       "section": "US",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
@@ -76,7 +76,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "image": "https://assets.realclear.com/images/73/730830_5_.jpeg"
       },
       {
@@ -102,6 +102,28 @@
         "is_new": false
       },
       {
+        "title": "Trump says 'there is only one man' to replace Jensen Huang as Nvidia CEO",
+        "rewrite": "Trump says 'there is only one man' to replace Jensen Huang as Nvidia CEO",
+        "url": "https://www.foxbusiness.com/markets/trump-jensen-huang-nvidia-ceo-replacement",
+        "source": "Fox Business",
+        "published": "2026-11-13T02:51:31+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true
+      },
+      {
+        "title": "Republicans unwilling to force an end to Iran war despite midterm beating",
+        "rewrite": "Republicans unwilling to force an end to Iran war despite midterm beating",
+        "url": "https://www.washingtonexaminer.com/news/senate/4802824/republicans-iran-war-midterm-beating/",
+        "source": "Washington Examiner",
+        "published": "2026-11-14T22:00:00+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true
+      },
+      {
         "title": "Nvidia Scandal Shows Why SCOTUS Must Allow Catherine Herridge To Protect Her Sources",
         "rewrite": "NVIDIA SCANDAL: WHY SCOTUS MUST LET HERRIDGE PROTECT HER SOURCES...",
         "url": "https://thefederalist.com/2026/11/12/nvidia-scandal-shows-why-scotus-must-allow-catherine-herridge-to-protect-her-sources/",
@@ -110,7 +132,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Chris Van Hollen floats using government shutdown threat to force Trump to end Iran war",
@@ -135,17 +157,6 @@
         "is_new": false
       },
       {
-        "title": "Huang's Downfall Costs the A.I. Boom a Top Backer",
-        "rewrite": "Huang's Downfall Costs the A.I. Boom a Top Backer",
-        "url": "https://www.realclearpolitics.com/2026/11/13/huangs_downfall_costs_the_ai_boom_a_top_backer_717522.html",
-        "source": "RealClearPolitics",
-        "published": "2026-11-14T01:24:21+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": true
-      },
-      {
         "title": "Vance and Kamala top presidential race for 2028 — but surprising candidates come in second place",
         "rewrite": "Vance and Kamala top presidential race for 2028 — but surprising candidates come in second place",
         "url": "https://www.theblaze.com/news/poll-2028-president-vance-kamala",
@@ -154,7 +165,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "El-Sayed’s Pick For Senate Leader Ditched His State To Have Cocktails With Gangbanger",
@@ -165,7 +176,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "El-Sayed Teases Nod To Islam At His Senate Swearing-In",
@@ -176,7 +187,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Mamdani to announce ‘rebrand’ of NYPD protest response unit after lefty attacks: sources",
@@ -201,15 +212,15 @@
         "is_new": false
       },
       {
-        "title": "Can the Republicans avert a disastrous intra-party feud?",
-        "rewrite": "Can the Republicans avert a disastrous intra-party feud?",
-        "url": "https://www.spectator.com.au/2026/11/can-the-republicans-avert-a-disastrous-intra-party-feud/",
-        "source": "The Spectator Australia",
-        "published": "2026-11-12T22:50:29+11:00",
+        "title": "Colette Kress named Nvidia interim CEO as Jensen Huang's abrupt resignation raises investor concerns",
+        "rewrite": "Colette Kress named Nvidia interim CEO as Jensen Huang's abrupt resignation raises investor concerns",
+        "url": "https://www.foxbusiness.com/markets/colette-kress-named-nvidia-interim-ceo-jensen-huangs-abrupt-resignation-raises-investor-concerns",
+        "source": "Fox Business",
+        "published": "2026-11-13T08:50:13+11:00",
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": false
+        "is_new": true
       }
     ],
     "center": [
@@ -248,17 +259,6 @@
         "is_new": false
       },
       {
-        "title": "Do these satellite images prove Iran has been secretly developing a nuclear warhead for years? New Photo Evidence investigates the mysterious goings-on at the Taleghan 2 research facility",
-        "rewrite": "Do these satellite images prove Iran has been secretly developing a nuclear warhead for years? New Photo...",
-        "url": "https://www.dailymail.com/news/article-16290643/iran-secret-nuclear-site-taleghan-2-satellite-images-rebuilding-parchin.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-14T13:16:02+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false
-      },
-      {
         "title": "Big Build royal commission: WorkSafe official says government was warned of CFMEU’s tactics during key infrastructure projects",
         "rewrite": "WorkSafe Official Says Government Was Warned Of CFMEU Tactics On Key Projects",
         "url": "https://www.theage.com.au/national/victoria/in-person-in-writing-and-in-a-weekly-newsletter-worksafe-details-cfmeu-warnings-to-minister-20261114-p61dcu.html",
@@ -267,7 +267,7 @@
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "The bikie boss, the $800,000 Ferrari and an $18 million Brighton mansion",
@@ -278,7 +278,7 @@
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Couple racially abused in Melbourne carpark decline woman’s in-person apology offer",
@@ -289,7 +289,7 @@
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "A 17-year-old boy has been found after missing in Victorian bush",
@@ -300,7 +300,7 @@
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "PM Anthony Albanese and Chris Bowen caught on hot mic at COP31 climate summit",
@@ -311,7 +311,7 @@
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Distressing scenes for Cats ruck as Swans reach maiden preliminary final",
@@ -326,71 +326,71 @@
         "image": "https://live-production.wcms.abc-cdn.net.au/0ec44d84d098510e18e706c0da341bb4?impolicy=wcms_watermark_news&cropH=2086&cropW=3708&xPos=0&yPos=175&width=862&height=485&imformat=generic"
       },
       {
-        "title": "Box Office: Johnny Depp's 'Ebenezer' Opening To $20M+",
-        "rewrite": "Johnny Depp's 'Ebenezer' Opening To $20M+ In The U.S.",
-        "url": "https://deadline.com/2026/11/box-office-ebenezer-1237222749/",
-        "source": "Deadline",
+        "title": "Nvidia stock slide wipes out more than $20B in value for Jensen Huang over 5 days",
+        "rewrite": "Nvidia Stock Slide Wipes Out More Than $20B In Value For Jensen Huang Over 5 Days",
+        "url": "https://www.foxbusiness.com/markets/nvidia-stock-slide-wipes-out-billions-value-jensen-huang-days",
+        "source": "Fox Business",
         "published": null,
         "slot": "column",
         "urgent": false,
-        "section": "ENTERTAINMENT",
+        "section": "MARKETS",
         "is_new": true
       },
       {
-        "title": "Box Office: 'Ramayana: Rise of a Legend' Powers to $100M+ Global Cume",
-        "rewrite": "'Ramayana: Rise Of A Legend' Powers Past $100M+ At The Global Box Office",
-        "url": "https://deadline.com/2026/11/box-office-ramayana-rise-of-a-legend-1237222031/",
-        "source": "Deadline",
+        "title": "HSBC downgrades Nvidia, says stock to struggle until new CEO named",
+        "rewrite": "HSBC Downgrades Nvidia, Says Stock To Struggle Until New CEO Named",
+        "url": "https://www.cnbc.com/2026/11/13/hsbc-downgrades-nvidia-says-stock-to-struggle-until-new-ceo-named.html",
+        "source": "CNBC",
         "published": null,
         "slot": "column",
         "urgent": false,
-        "section": "ENTERTAINMENT",
+        "section": "MARKETS",
         "is_new": true
       },
       {
-        "title": "Two and a Half Men Hits Free Streaming For the First Time Via Pluto TV",
-        "rewrite": "'Two And A Half Men' Hits Free Streaming For The First Time Via Pluto TV",
-        "url": "https://variety.com/2026/tv/news/two-and-a-half-men-free-streaming-pluto-tv-1236947325/",
-        "source": "Variety",
+        "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
+        "rewrite": "Chicago Fed's Goolsbee Says The Central Bank 'Has Definitely Got Work To Do' On Inflation",
+        "url": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
+        "source": "CNBC",
         "published": null,
         "slot": "column",
         "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": true
-      },
-      {
-        "title": "'VisionQuest' Finale Ratings: 3.7 Million Views in One Day",
-        "rewrite": "'VisionQuest' Finale Hits 3.7 Million Views In One Day",
-        "url": "https://variety.com/2026/tv/news/visionquest-finale-ratings-views-1236947348/",
-        "source": "Variety",
-        "published": null,
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": true
-      },
-      {
-        "title": "Michael Mann Seeks to Reclaim Rights to Original 'Heat' Screenplay",
-        "rewrite": "Michael Mann Seeks To Reclaim Rights To The Original 'Heat' Screenplay",
-        "url": "https://variety.com/2026/film/news/michael-mann-new-regency-heat-screenplay-lawsuit-1236947532/",
-        "source": "Variety",
-        "published": null,
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": true
-      },
-      {
-        "title": "Gunn Down: How Warner Bros.’ Quirky Savior Became DC’s Biggest Flop",
-        "rewrite": "Gunn Down: How Warner Bros.' Quirky Savior Became DC's Biggest Flop",
-        "url": "https://www.dailywire.com/news/gunn-down-how-warner-bros-quirky-savior-became-dcs-biggest-flop",
-        "source": "Daily Wire",
-        "published": null,
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
+        "section": "MARKETS",
         "is_new": true,
-        "image": "https://dw-wp-production.imgix.net/2026/11/GettyImages-2224035187.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0"
+        "image": "https://image.cnbcfm.com/api/v1/image/108355873-1787937828260-_05A6307.jpg?v=1787937944&w=1920&h=1080"
+      },
+      {
+        "title": "Bitcoin ETFs Lose $2.35B as BlackRock Outflows Hit 11 Sessions",
+        "rewrite": "Bitcoin ETFs Lose $2.35B As BlackRock Outflows Hit 11 Sessions",
+        "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak",
+        "source": "Cointelegraph",
+        "published": null,
+        "slot": "column",
+        "urgent": false,
+        "section": "MARKETS",
+        "is_new": true
+      },
+      {
+        "title": "Bitcoin Stays 4% Lower as US PPI Inflation Cooldown Fails to Lift Stocks",
+        "rewrite": "Bitcoin Stays 4% Lower As A Cooler U.S. PPI Print Fails To Lift Stocks",
+        "url": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print",
+        "source": "Cointelegraph",
+        "published": null,
+        "slot": "column",
+        "urgent": false,
+        "section": "MARKETS",
+        "is_new": true
+      },
+      {
+        "title": "Payward Gains Crypto Spot Market Share as Earnings Fall 66%",
+        "rewrite": "Payward Gains Crypto Spot Market Share As Earnings Fall 66%",
+        "url": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings",
+        "source": "Cointelegraph",
+        "published": null,
+        "slot": "column",
+        "urgent": false,
+        "section": "MARKETS",
+        "is_new": true
       }
     ],
     "right": [
@@ -484,6 +484,17 @@
         "is_new": false
       },
       {
+        "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+        "rewrite": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+        "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+        "source": "CoinDesk",
+        "published": "2026-11-13T09:55:52+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "TECHNOLOGY",
+        "is_new": true
+      },
+      {
         "title": "FBI Pulls Plug On North Korean ‘FaceStealer’ Scheme That Swiped $400 Million In Crypto",
         "rewrite": "FBI Pulls Plug On North Korean 'FaceStealer' Scheme That Swiped $400 Million In Crypto",
         "url": "https://dailycaller.com/2026/11/13/fbi-north-korea-facestealer-cryptocurrency-scheme",
@@ -495,28 +506,83 @@
         "is_new": false
       },
       {
-        "title": "Secretive US military agency announces giant leap toward mega-structures in space",
-        "rewrite": "Secretive US military agency announces giant leap toward mega-structures in space",
-        "url": "https://www.theblaze.com/tech/darpa-caltech-outer-space-assembly",
-        "source": "The Blaze",
-        "published": "2026-11-14T06:30:00+11:00",
+        "title": "Box Office: Johnny Depp's 'Ebenezer' Opening To $20M+",
+        "rewrite": "Johnny Depp's 'Ebenezer' Opening To $20M+ In The U.S.",
+        "url": "https://deadline.com/2026/11/box-office-ebenezer-1237222749/",
+        "source": "Deadline",
+        "published": null,
         "slot": "column",
         "urgent": false,
-        "section": "TECHNOLOGY",
+        "section": "ENTERTAINMENT",
+        "is_new": false
+      },
+      {
+        "title": "Box Office: 'Ramayana: Rise of a Legend' Powers to $100M+ Global Cume",
+        "rewrite": "'Ramayana: Rise Of A Legend' Powers Past $100M+ At The Global Box Office",
+        "url": "https://deadline.com/2026/11/box-office-ramayana-rise-of-a-legend-1237222031/",
+        "source": "Deadline",
+        "published": null,
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": false
+      },
+      {
+        "title": "Two and a Half Men Hits Free Streaming For the First Time Via Pluto TV",
+        "rewrite": "'Two And A Half Men' Hits Free Streaming For The First Time Via Pluto TV",
+        "url": "https://variety.com/2026/tv/news/two-and-a-half-men-free-streaming-pluto-tv-1236947325/",
+        "source": "Variety",
+        "published": null,
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": false
+      },
+      {
+        "title": "'VisionQuest' Finale Ratings: 3.7 Million Views in One Day",
+        "rewrite": "'VisionQuest' Finale Hits 3.7 Million Views In One Day",
+        "url": "https://variety.com/2026/tv/news/visionquest-finale-ratings-views-1236947348/",
+        "source": "Variety",
+        "published": null,
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": false
+      },
+      {
+        "title": "Michael Mann Seeks to Reclaim Rights to Original 'Heat' Screenplay",
+        "rewrite": "Michael Mann Seeks To Reclaim Rights To The Original 'Heat' Screenplay",
+        "url": "https://variety.com/2026/film/news/michael-mann-new-regency-heat-screenplay-lawsuit-1236947532/",
+        "source": "Variety",
+        "published": null,
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": false
+      },
+      {
+        "title": "Gunn Down: How Warner Bros.’ Quirky Savior Became DC’s Biggest Flop",
+        "rewrite": "Gunn Down: How Warner Bros.' Quirky Savior Became DC's Biggest Flop",
+        "url": "https://www.dailywire.com/news/gunn-down-how-warner-bros-quirky-savior-became-dcs-biggest-flop",
+        "source": "Daily Wire",
+        "published": null,
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
         "is_new": false
       }
     ]
   },
   "image_url": "https://assets.rbl.ms/68672786/origin.png",
   "counts": {
-    "total": 44,
+    "total": 50,
     "featured": 4,
     "columns": {
-      "left": 13,
-      "center": 16,
-      "right": 10
+      "left": 14,
+      "center": 15,
+      "right": 16
     },
-    "feeds_ok": 37,
+    "feeds_ok": 42,
     "feeds_failed": 6
   }
 }

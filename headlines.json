@@ -2,10 +2,10 @@
   "title": "THE NEWS REPORT",
   "generated": {
     "date": "Saturday, 14 November 2026",
-    "display": "Saturday, November 14, 2026  10:05 PM AEDT (Australia/Sydney)",
-    "iso": "2026-11-14T22:05:14.094940+11:00",
-    "time": "10:05 PM AEDT",
-    "timezone": "Australia/Sydney"
+    "iso": "2026-11-14T22:17:05.506534+11:00",
+    "timezone": "Australia/Sydney",
+    "display": "Saturday, November 14, 2026  10:17 PM AEDT (Australia/Sydney)",
+    "time": "10:17 PM AEDT"
   },
   "lean": "centre-right",
   "top": {
@@ -47,8 +47,8 @@
       "rewrite": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
       "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do",
       "source": "BBC News",
-      "published": null,
-      "slot": "featured",
+      "published": "2026-11-14T16:52:31+11:00",
+      "slot": "featured:3",
       "urgent": false,
       "section": "WORLD",
       "is_new": false
@@ -110,7 +110,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Republicans unwilling to force an end to Iran war despite midterm beating",
@@ -121,7 +121,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Nvidia Scandal Shows Why SCOTUS Must Allow Catherine Herridge To Protect Her Sources",
@@ -220,14 +220,14 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true
+        "is_new": false
       }
     ],
     "center": [
       {
         "title": "The sex spies infiltrating America - and the 'lonely and naive' geniuses who are easy prey for Russia and China's merciless deep-cover beauties",
         "rewrite": "The sex spies infiltrating America - and the 'lonely and naive' geniuses who are easy prey for Russia and...",
-        "url": "https://www.dailymail.com/news/article-16285275/sex-spies-america-china-russia-silicon-valley.html?ns_campaign=1490",
+        "url": "https://www.dailymail.com/news/article-16285275/sex-spies-america-china-russia-silicon-valley.html",
         "source": "Daily Mail",
         "published": "2026-11-14T10:14:44+11:00",
         "slot": "column",
@@ -259,51 +259,18 @@
         "is_new": false
       },
       {
-        "title": "Big Build royal commission: WorkSafe official says government was warned of CFMEU’s tactics during key infrastructure projects",
-        "rewrite": "WorkSafe Official Says Government Was Warned Of CFMEU Tactics On Key Projects",
-        "url": "https://www.theage.com.au/national/victoria/in-person-in-writing-and-in-a-weekly-newsletter-worksafe-details-cfmeu-warnings-to-minister-20261114-p61dcu.html",
-        "source": "The Age",
-        "published": null,
+        "title": "Trump keeps signaling an end to Iran war, but expert warns a crucial piece of his strategy is missing",
+        "rewrite": "Trump keeps signaling an end to Iran war, but expert warns a crucial piece of his strategy is missing",
+        "url": "https://www.foxnews.com/politics/trump-keeps-signaling-end-iran-war-expert-warns-crucial-piece-his-strategy-missing",
+        "source": "Fox News",
+        "published": "2026-11-14T22:00:05+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false
+        "section": "WORLD",
+        "is_new": true
       },
       {
-        "title": "The bikie boss, the $800,000 Ferrari and an $18 million Brighton mansion",
-        "rewrite": "The Bikie Boss, The $800,000 Ferrari And An $18 Million Brighton Mansion",
-        "url": "https://www.theage.com.au/national/victoria/the-bikie-boss-the-800-000-ferrari-and-an-18-million-brighton-mansion-20261114-p61d87.html",
-        "source": "The Age",
-        "published": null,
-        "slot": "column",
-        "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false
-      },
-      {
-        "title": "Couple racially abused in Melbourne carpark decline woman’s in-person apology offer",
-        "rewrite": "Couple racially abused in Melbourne carpark decline woman's in-person apology offer",
-        "url": "https://7news.com.au/news/vic/couple-racially-abused-in-melbourne-carpark-decline-womans-in-person-apology-offer-c-23162667",
-        "source": "7News Victoria",
-        "published": "2026-11-14T18:04:03+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false
-      },
-      {
-        "title": "A 17-year-old boy has been found after missing in Victorian bush",
-        "rewrite": "A 17-Year-Old Boy Has Been Found After Going Missing In The Victorian Bush",
-        "url": "https://www.theage.com.au/national/victoria/a-17-year-old-boy-has-been-found-after-missing-in-victorian-bush-20261113-p61dvt.html",
-        "source": "The Age",
-        "published": null,
-        "slot": "column",
-        "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false
-      },
-      {
-        "title": "PM Anthony Albanese and Chris Bowen caught on hot mic at COP31 climate summit",
+        "title": "Albanese, Bowen caught talking phones and 'dicks' in hot-mic gaffe",
         "rewrite": "PM Anthony Albanese And Chris Bowen Caught On Hot Mic At COP31 Climate Summit",
         "url": "https://www.abc.net.au/news/2026-11-14/anthony-albanese-chris-bowen-hot-mic-gaffe-cop-31-climate-summit/107385964",
         "source": "ABC News Australia",
@@ -314,16 +281,83 @@
         "is_new": false
       },
       {
-        "title": "Distressing scenes for Cats ruck as Swans reach maiden preliminary final",
-        "rewrite": "Distressing scenes for Cats ruck as Swans reach maiden preliminary final",
-        "url": "https://www.abc.net.au/news/2026-11-14/geelong-cats-piper-dunlop-stretchered-off-aflw-semifinals/107386422",
+        "title": "'The line-up is huge': Australians caught up in US flight chaos",
+        "rewrite": "Australians Stranded as U.S. Flight Chaos Grounds Thousands of Planes",
+        "url": "https://www.abc.net.au/news/2026-11-14/australians-stranded-in-us-amid-flight-cancellations-chaos/107385998",
         "source": "ABC News Australia",
-        "published": "2026-11-14T18:10:53+11:00",
+        "published": "2026-11-14T14:24:57+11:00",
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
+        "is_new": true,
+        "image": "https://live-production.wcms.abc-cdn.net.au/1976153410b4bb19b3673d085b11feab?impolicy=wcms_watermark_news&cropH=678&cropW=1206&xPos=0&yPos=879&width=862&height=485&imformat=generic"
+      },
+      {
+        "title": "Silence on coal, hubris at Cop31",
+        "rewrite": "Silence on coal, hubris at Cop31",
+        "url": "https://www.spectator.com.au/2026/11/silence-on-coal-hubris-at-cop31/",
+        "source": "The Spectator Australia",
+        "published": "2026-11-14T17:00:28+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "AUSTRALIA",
+        "is_new": true
+      },
+      {
+        "title": "Camping, sightseeing booking portal disabled while data breach investigated",
+        "rewrite": "Camping And Sightseeing Booking Portal Disabled While a Data Breach Is Investigated",
+        "url": "https://www.abc.net.au/news/2026-11-14/campers-personal-data-compromised-via-bookeasy-platform-hack/107386186",
+        "source": "ABC News Australia",
+        "published": "2026-11-14T15:17:12+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "AUSTRALIA",
+        "is_new": true
+      },
+      {
+        "title": "In person, in writing and in a weekly newsletter: WorkSafe details CFMEU warnings to minister",
+        "rewrite": "WorkSafe Official Says Government Was Warned Of CFMEU Tactics On Key Projects",
+        "url": "https://www.theage.com.au/national/victoria/in-person-in-writing-and-in-a-weekly-newsletter-worksafe-details-cfmeu-warnings-to-minister-20261114-p61dcu.html",
+        "source": "The Age",
+        "published": null,
+        "slot": "column",
+        "urgent": false,
+        "section": "VICTORIA",
         "is_new": false,
-        "image": "https://live-production.wcms.abc-cdn.net.au/0ec44d84d098510e18e706c0da341bb4?impolicy=wcms_watermark_news&cropH=2086&cropW=3708&xPos=0&yPos=175&width=862&height=485&imformat=generic"
+        "image": "https://static.ffx.io/images/$zoom_0.15%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/cfba841ccdb714827786352ff11c34554e5cb38b"
+      },
+      {
+        "title": "The bikie boss, the $800,000 Ferrari and an $18 million Brighton mansion",
+        "rewrite": "The Bikie Boss, The $800,000 Ferrari And An $18 Million Brighton Mansion",
+        "url": "https://www.theage.com.au/national/victoria/the-bikie-boss-the-800-000-ferrari-and-an-18-million-brighton-mansion-20261114-p61d87.html",
+        "source": "The Age",
+        "published": null,
+        "slot": "column",
+        "urgent": false,
+        "section": "VICTORIA",
+        "is_new": false
+      },
+      {
+        "title": "Couple racially abused in Melbourne carpark decline woman’s in-person apology offer",
+        "rewrite": "Couple racially abused in Melbourne carpark decline woman's in-person apology offer",
+        "url": "https://7news.com.au/news/vic/couple-racially-abused-in-melbourne-carpark-decline-womans-in-person-apology-offer-c-23162667",
+        "source": "7News Victoria",
+        "published": "2026-11-14T18:04:03+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "VICTORIA",
+        "is_new": false
+      },
+      {
+        "title": "A 17-year-old boy has been found after missing in Victorian bush",
+        "rewrite": "A 17-Year-Old Boy Has Been Found After Going Missing In The Victorian Bush",
+        "url": "https://www.theage.com.au/national/victoria/a-17-year-old-boy-has-been-found-after-missing-in-victorian-bush-20261113-p61dvt.html",
+        "source": "The Age",
+        "published": null,
+        "slot": "column",
+        "urgent": false,
+        "section": "VICTORIA",
+        "is_new": false
       },
       {
         "title": "Nvidia stock slide wipes out more than $20B in value for Jensen Huang over 5 days",
@@ -334,7 +368,7 @@
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "HSBC downgrades Nvidia, says stock to struggle until new CEO named",
@@ -345,7 +379,7 @@
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
@@ -356,41 +390,18 @@
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": true,
-        "image": "https://image.cnbcfm.com/api/v1/image/108355873-1787937828260-_05A6307.jpg?v=1787937944&w=1920&h=1080"
+        "is_new": false
       },
       {
-        "title": "Bitcoin ETFs Lose $2.35B as BlackRock Outflows Hit 11 Sessions",
-        "rewrite": "Bitcoin ETFs Lose $2.35B As BlackRock Outflows Hit 11 Sessions",
+        "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
+        "rewrite": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock's losing streak hits 11",
         "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak",
         "source": "Cointelegraph",
-        "published": null,
+        "published": "2026-11-14T17:33:13+11:00",
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": true
-      },
-      {
-        "title": "Bitcoin Stays 4% Lower as US PPI Inflation Cooldown Fails to Lift Stocks",
-        "rewrite": "Bitcoin Stays 4% Lower As A Cooler U.S. PPI Print Fails To Lift Stocks",
-        "url": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print",
-        "source": "Cointelegraph",
-        "published": null,
-        "slot": "column",
-        "urgent": false,
-        "section": "MARKETS",
-        "is_new": true
-      },
-      {
-        "title": "Payward Gains Crypto Spot Market Share as Earnings Fall 66%",
-        "rewrite": "Payward Gains Crypto Spot Market Share As Earnings Fall 66%",
-        "url": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings",
-        "source": "Cointelegraph",
-        "published": null,
-        "slot": "column",
-        "urgent": false,
-        "section": "MARKETS",
-        "is_new": true
+        "is_new": false
       }
     ],
     "right": [
@@ -403,12 +414,13 @@
         "slot": "column",
         "urgent": false,
         "section": "UK",
-        "is_new": false
+        "is_new": false,
+        "image": "https://www.gbnews.com/media-library/piddington-residents-speak-to-chris-philp-and-joy-morissey.png?id=68676334&width=1200&height=600&coordinates=0%2C0%2C0%2C100"
       },
       {
         "title": "ANDREW NEIL: Trump fears assassination by Iran. No wonder he doesn't trust Britain when we're so blasé about the threat the mullahs pose to us all",
         "rewrite": "ANDREW NEIL: Trump fears assassination by Iran. No wonder he doesn't trust Britain when we're so blasé...",
-        "url": "https://www.dailymail.com/news/article-16291397/ANDREW-NEIL-Trump-fears-assassination-Iran.html?ns_campaign=1490",
+        "url": "https://www.dailymail.com/news/article-16291397/ANDREW-NEIL-Trump-fears-assassination-Iran.html",
         "source": "Daily Mail",
         "published": "2026-11-14T21:26:11+11:00",
         "slot": "column",
@@ -419,7 +431,7 @@
       {
         "title": "Siren sounds at RAF base following 'suspected drone activity' days after US 'evacuated aircraft amid Iran threat'",
         "rewrite": "Siren sounds at RAF base following 'suspected drone activity' days after US 'evacuated aircraft amid Iran...",
-        "url": "https://www.dailymail.com/news/article-16291289/Sirens-RAF-bases-drone-US-evacuated-aircraft-Iran.html?ns_campaign=1490",
+        "url": "https://www.dailymail.com/news/article-16291289/Sirens-RAF-bases-drone-US-evacuated-aircraft-Iran.html",
         "source": "Daily Mail",
         "published": "2026-11-14T11:26:42+11:00",
         "slot": "column",
@@ -428,20 +440,9 @@
         "is_new": false
       },
       {
-        "title": "Why I'll never stop banging on about the threat from Iran",
-        "rewrite": "Why I'll never stop banging on about the threat from Iran",
-        "url": "https://www.gbnews.com/opinion/nigel-farage-reformuk-andy-burnham-government-dover",
-        "source": "GB News",
-        "published": "2026-11-14T03:02:43+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "UK",
-        "is_new": false
-      },
-      {
         "title": "Royal Navy is so short of ships we're buying them from Norway... for £90million",
         "rewrite": "Royal Navy is so short of ships we're buying them from Norway... for £90million",
-        "url": "https://www.dailymail.com/news/article-16288785/Royal-Navy-short-ships-buying-Norway-90million.html?ns_campaign=1490",
+        "url": "https://www.dailymail.com/news/article-16288785/Royal-Navy-short-ships-buying-Norway-90million.html",
         "source": "Daily Mail",
         "published": "2026-11-13T10:19:31+11:00",
         "slot": "column",
@@ -469,8 +470,7 @@
         "slot": "column",
         "urgent": false,
         "section": "BUSINESS",
-        "is_new": false,
-        "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/11/inflation-2.jpg"
+        "is_new": false
       },
       {
         "title": "Microsoft says services fully restored after day-long global outage",
@@ -484,17 +484,6 @@
         "is_new": false
       },
       {
-        "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
-        "rewrite": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
-        "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
-        "source": "CoinDesk",
-        "published": "2026-11-13T09:55:52+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": true
-      },
-      {
         "title": "FBI Pulls Plug On North Korean ‘FaceStealer’ Scheme That Swiped $400 Million In Crypto",
         "rewrite": "FBI Pulls Plug On North Korean 'FaceStealer' Scheme That Swiped $400 Million In Crypto",
         "url": "https://dailycaller.com/2026/11/13/fbi-north-korea-facestealer-cryptocurrency-scheme",
@@ -506,55 +495,44 @@
         "is_new": false
       },
       {
-        "title": "Box Office: Johnny Depp's 'Ebenezer' Opening To $20M+",
-        "rewrite": "Johnny Depp's 'Ebenezer' Opening To $20M+ In The U.S.",
+        "title": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
+        "rewrite": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
+        "url": "https://cointelegraph.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme",
+        "source": "Cointelegraph",
+        "published": "2026-11-13T23:19:01+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "TECHNOLOGY",
+        "is_new": true
+      },
+      {
+        "title": "Johnny Depp Pic ‘Ebenezer’ Opening To Spirited $20M+ U.S. – Box Office Update",
+        "rewrite": "Johnny Depp's 'Ebenezer' Opens to a Spirited $20M+ in the U.S.",
         "url": "https://deadline.com/2026/11/box-office-ebenezer-1237222749/",
         "source": "Deadline",
-        "published": null,
+        "published": "2026-11-14T10:02:00+11:00",
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
         "is_new": false
       },
       {
-        "title": "Box Office: 'Ramayana: Rise of a Legend' Powers to $100M+ Global Cume",
-        "rewrite": "'Ramayana: Rise Of A Legend' Powers Past $100M+ At The Global Box Office",
+        "title": "‘Ramayana: Rise Of A Legend’ Powers Past $100M+ At Global Box Office",
+        "rewrite": "'Ramayana: Rise of a Legend' Powers Past $100M+ at the Global Box Office",
         "url": "https://deadline.com/2026/11/box-office-ramayana-rise-of-a-legend-1237222031/",
         "source": "Deadline",
-        "published": null,
+        "published": "2026-11-13T07:03:22+11:00",
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
         "is_new": false
       },
       {
-        "title": "Two and a Half Men Hits Free Streaming For the First Time Via Pluto TV",
-        "rewrite": "'Two And A Half Men' Hits Free Streaming For The First Time Via Pluto TV",
-        "url": "https://variety.com/2026/tv/news/two-and-a-half-men-free-streaming-pluto-tv-1236947325/",
-        "source": "Variety",
-        "published": null,
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false
-      },
-      {
-        "title": "'VisionQuest' Finale Ratings: 3.7 Million Views in One Day",
-        "rewrite": "'VisionQuest' Finale Hits 3.7 Million Views In One Day",
-        "url": "https://variety.com/2026/tv/news/visionquest-finale-ratings-views-1236947348/",
-        "source": "Variety",
-        "published": null,
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false
-      },
-      {
-        "title": "Michael Mann Seeks to Reclaim Rights to Original 'Heat' Screenplay",
-        "rewrite": "Michael Mann Seeks To Reclaim Rights To The Original 'Heat' Screenplay",
+        "title": "Michael Mann Seeks to Reclaim Rights to Original ‘Heat’ Screenplay",
+        "rewrite": "Michael Mann Seeks to Reclaim Rights to the Original 'Heat' Screenplay",
         "url": "https://variety.com/2026/film/news/michael-mann-new-regency-heat-screenplay-lawsuit-1236947532/",
         "source": "Variety",
-        "published": null,
+        "published": "2026-11-14T13:51:07+11:00",
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
@@ -565,22 +543,33 @@
         "rewrite": "Gunn Down: How Warner Bros.' Quirky Savior Became DC's Biggest Flop",
         "url": "https://www.dailywire.com/news/gunn-down-how-warner-bros-quirky-savior-became-dcs-biggest-flop",
         "source": "Daily Wire",
-        "published": null,
+        "published": "2026-11-14T15:30:36+11:00",
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
         "is_new": false
+      },
+      {
+        "title": "European Film Award Nominations: ‘Fatherland’ Reigns Over Contest, Followed by ‘La Bola Negra’",
+        "rewrite": "European Film Award Nominations: 'Fatherland' Reigns Over Contest, Followed by 'La Bola Negra'",
+        "url": "https://variety.com/2026/film/news/fatherland-la-bola-negra-european-film-awards-nominations-1236947619/",
+        "source": "Variety",
+        "published": "2026-11-14T21:28:31+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": true
       }
     ]
   },
   "image_url": "https://assets.rbl.ms/68672786/origin.png",
   "counts": {
-    "total": 50,
+    "total": 49,
     "featured": 4,
     "columns": {
       "left": 14,
-      "center": 15,
-      "right": 16
+      "center": 16,
+      "right": 14
     },
     "feeds_ok": 42,
     "feeds_failed": 6

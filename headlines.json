@@ -2,9 +2,9 @@
   "title": "THE HEADLINE REPORT",
   "generated": {
     "date": "Saturday, 14 November 2026",
-    "display": "Saturday, November 14, 2026  8:47 PM AEDT (Australia/Sydney)",
-    "iso": "2026-11-14T20:47:54.426132+11:00",
-    "time": "8:47 PM AEDT",
+    "display": "Saturday, November 14, 2026  9:16 PM AEDT (Australia/Sydney)",
+    "iso": "2026-11-14T21:16:52.665173+11:00",
+    "time": "9:16 PM AEDT",
     "timezone": "Australia/Sydney"
   },
   "lean": "centre-right",
@@ -14,7 +14,10 @@
     "url": "https://www.gbnews.com/politics/us/donald-trump-fires-sacking-howard-lutnick-nvidia-ceo-jensen-huang-resignation",
     "source": "GB News",
     "published": "2026-11-13T14:18:00+11:00",
-    "slot": "top"
+    "slot": "top",
+    "urgent": false,
+    "section": "US",
+    "is_new": false
   },
   "featured": [
     {
@@ -23,7 +26,10 @@
       "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
       "source": "BBC News",
       "published": "2026-11-14T18:42:11+11:00",
-      "slot": "featured"
+      "slot": "featured",
+      "section": "US",
+      "is_new": false,
+      "urgent": false
     },
     {
       "title": "AOC vows to take aggressive action against Trump when Democrats take power… including impeaching his Supreme Court justices",
@@ -31,7 +37,10 @@
       "url": "https://www.dailymail.com/news/us-politics/article-16290421/aoc-impeachment-trump-supreme-court.html",
       "source": "Daily Mail",
       "published": "2026-11-14T15:37:30+11:00",
-      "slot": "featured"
+      "slot": "featured",
+      "urgent": false,
+      "section": "US",
+      "is_new": false
     },
     {
       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
@@ -39,7 +48,10 @@
       "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do",
       "source": "BBC News",
       "published": "2026-11-14T16:52:31+11:00",
-      "slot": "featured"
+      "slot": "featured",
+      "urgent": false,
+      "section": "WORLD",
+      "is_new": false
     },
     {
       "title": "Iran Claims Attacks on U.S. Radar Station in Bahrain, LNG Tanker in Strait of Hormuz",
@@ -47,7 +59,10 @@
       "url": "https://www.breitbart.com/middle-east/2026/11/13/iran-claims-attacks-on-u-s-radar-station-in-bahrain-lng-tanker-in-strait-of-hormuz/",
       "source": "Breitbart",
       "published": "2026-11-14T10:52:12+11:00",
-      "slot": "featured"
+      "slot": "featured",
+      "urgent": false,
+      "section": "WORLD",
+      "is_new": false
     }
   ],
   "columns": {
@@ -58,7 +73,10 @@
         "url": "https://thepostmillennial.com/news/brooklyn-building-collapsed-into-excavation-pit-permitted-by-mamdani-admin-killing-8",
         "source": "The Post Millennial",
         "published": "2026-11-14T07:16:32+11:00",
-        "slot": "left"
+        "slot": "left",
+        "urgent": false,
+        "section": "US",
+        "is_new": false
       },
       {
         "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
@@ -66,7 +84,10 @@
         "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
         "source": "BBC News",
         "published": "2026-11-14T06:53:57+11:00",
-        "slot": "left"
+        "slot": "left",
+        "urgent": false,
+        "section": "US",
+        "is_new": false
       },
       {
         "title": "El-Sayed tells Hegseth to resign after impeachment effort fails: 'Make it easy for everybody'",
@@ -74,7 +95,10 @@
         "url": "https://www.foxnews.com/media/el-sayed-tells-hegseth-resign-after-democrats-derail-impeachment-effort-make-easy-everybody",
         "source": "Fox News",
         "published": "2026-11-12T12:17:26+11:00",
-        "slot": "left"
+        "slot": "left",
+        "urgent": false,
+        "section": "US",
+        "is_new": false
       },
       {
         "title": "Democratic Senate leader Schumer set to face leadership challenge",
@@ -82,7 +106,10 @@
         "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o",
         "source": "BBC News",
         "published": "2026-11-14T06:03:10+11:00",
-        "slot": "left"
+        "slot": "left",
+        "urgent": false,
+        "section": "US",
+        "is_new": false
       },
       {
         "title": "Sen Bernie Sanders supports Chris Van Hollen's bid to challenge Schumer for Senate Democratic leader post",
@@ -90,7 +117,10 @@
         "url": "https://www.foxnews.com/politics/sen-bernie-sanders-supports-chris-van-hollen-bid-challenge-schumer-senate-democratic-leader-post",
         "source": "Fox News",
         "published": "2026-11-13T22:06:30+11:00",
-        "slot": "left"
+        "slot": "left",
+        "section": "US",
+        "is_new": false,
+        "urgent": false
       },
       {
         "title": "Schumer's leadership rival reveals major Senate rule change he'd pursue if elected",
@@ -98,7 +128,10 @@
         "url": "https://www.foxnews.com/politics/schumers-leadership-rival-reveals-major-senate-rule-change-hed-pursue-if-elected",
         "source": "Fox News",
         "published": "2026-11-14T07:15:55+11:00",
-        "slot": "left"
+        "slot": "left",
+        "urgent": false,
+        "section": "US",
+        "is_new": false
       },
       {
         "title": "Rubio’s Federalist Society performance fuels 2028 fire: ‘If he runs, he’ll be formidable’",
@@ -106,7 +139,10 @@
         "url": "https://www.washingtonexaminer.com/news/white-house/4803686/rubio-federalist-society-speech-fuels-2028-talk/",
         "source": "Washington Examiner",
         "published": "2026-11-14T14:06:53+11:00",
-        "slot": "left"
+        "slot": "left",
+        "urgent": false,
+        "section": "US",
+        "is_new": false
       },
       {
         "title": "Marco Rubio’s daughter steals show at his first post-midterm speech: ‘I don’t know where she got this!’",
@@ -114,7 +150,10 @@
         "url": "https://nypost.com/2026/11/13/us-news/marco-rubios-daughter-steals-the-show-at-his-first-post-midterm-speech-i-dont-know-where-she-got-this/",
         "source": "New York Post",
         "published": "2026-11-14T15:35:54+11:00",
-        "slot": "left"
+        "slot": "left",
+        "urgent": false,
+        "section": "US",
+        "is_new": false
       },
       {
         "title": "Mamdani to announce ‘rebrand’ of NYPD protest response unit after lefty attacks: sources",
@@ -122,7 +161,10 @@
         "url": "https://nypost.com/2026/11/13/us-news/mamdani-to-announce-rebrand-of-controversial-nypd-protest-response-unit-after-lefty-attacks/",
         "source": "New York Post",
         "published": "2026-11-14T10:25:22+11:00",
-        "slot": "left"
+        "slot": "left",
+        "urgent": false,
+        "section": "US",
+        "is_new": false
       },
       {
         "title": "Mamdani Praises Trump for Giving Bodegas 90-Day Extension on Updated SNAP Rules: 'Delivered Relief to Small Business Owners'",
@@ -130,7 +172,10 @@
         "url": "https://www.breitbart.com/politics/2026/11/13/mamdani-praises-trump-giving-bodegas-90-day-extension-updated-snap-rules-delivered-relief-small-business-owners/",
         "source": "Breitbart",
         "published": "2026-11-14T10:04:14+11:00",
-        "slot": "left"
+        "slot": "left",
+        "urgent": false,
+        "section": "US",
+        "is_new": false
       },
       {
         "title": "El-Sayed Teases Nod To Islam At His Senate Swearing-In",
@@ -138,7 +183,10 @@
         "url": "https://www.dailywire.com/news/el-sayed-teases-nod-to-islam-at-his-senate-swearing-in",
         "source": "Daily Wire",
         "published": "2026-11-13T00:11:16+11:00",
-        "slot": "left"
+        "slot": "left",
+        "urgent": false,
+        "section": "US",
+        "is_new": false
       },
       {
         "title": "Alito warns against congressional Supreme Court meddling, says some lower court judges 'have gone far astray'",
@@ -146,7 +194,10 @@
         "url": "https://www.foxnews.com/politics/alito-warns-against-congressional-supreme-court-meddling-says-some-lower-court-judges-have-gone-far-astray",
         "source": "Fox News",
         "published": "2026-11-14T01:35:53+11:00",
-        "slot": "left"
+        "slot": "left",
+        "urgent": false,
+        "section": "US",
+        "is_new": false
       },
       {
         "title": "Supreme Court takes up challenge to Trump’s southern border asylum ban",
@@ -154,15 +205,10 @@
         "url": "https://www.washingtonexaminer.com/news/supreme-court/4803086/supreme-court-takes-up-challenge-trump-southern-border-asylum-ban/",
         "source": "Washington Examiner",
         "published": "2026-11-14T09:58:03+11:00",
-        "slot": "left"
-      },
-      {
-        "title": "Arizona Democrats Look to End Pro-Life Protections, Including the Ban on Aborting Babies with Down Syndrome",
-        "rewrite": "Arizona Democrats Look to End Pro-Life Protections, Including Ban on Aborting Babies with Down Syndrome",
-        "url": "https://www.breitbart.com/politics/2026/11/13/arizona-democrats-look-to-end-pro-life-protections-including-ban-on-aborting-babies-with-down-syndrome/",
-        "source": "Breitbart",
-        "published": "2026-11-14T06:14:15+11:00",
-        "slot": "left"
+        "slot": "left",
+        "urgent": false,
+        "section": "US",
+        "is_new": false
       },
       {
         "title": "'You're a f***ing traitor': Hakeem Jeffries interrupted at Democrat conference — by unhinged leftists",
@@ -170,7 +216,10 @@
         "url": "https://www.theblaze.com/news/hakeem-jeffries-protest-dem-conference",
         "source": "The Blaze",
         "published": "2026-11-14T09:00:00+11:00",
-        "slot": "left"
+        "slot": "left",
+        "urgent": false,
+        "section": "US",
+        "is_new": false
       },
       {
         "title": "‘Unelected, Yet Still Effective’ Democrat Rep. Al Green Plans to Impeach Trump Yet Again",
@@ -178,17 +227,34 @@
         "url": "https://www.breitbart.com/politics/2026/11/13/unelected-yet-still-effective-democrat-rep-al-green-plans-to-impeach-trump-yet-again/",
         "source": "Breitbart",
         "published": "2026-11-14T05:27:26+11:00",
-        "slot": "left"
+        "slot": "left",
+        "urgent": false,
+        "section": "US",
+        "is_new": false
+      },
+      {
+        "title": "Democrats seize on midterm wins to push massive minimum wage hikes, but economists see trouble ahead",
+        "rewrite": "Democrats Seize on Midterm Wins to Push Massive Minimum Wage Hikes, but Economists See Trouble Ahead",
+        "url": "https://www.foxnews.com/politics/democrats-seize-midterm-wins-push-massive-minimum-wage-hikes-economists-see-trouble-ahead",
+        "source": "Fox News",
+        "published": "2026-11-14T21:00:15+11:00",
+        "slot": "left",
+        "urgent": false,
+        "section": "US",
+        "is_new": false
       }
     ],
     "center": [
       {
-        "title": "Chris Van Hollen floats using government shutdown threat to force Trump to end Iran war",
-        "rewrite": "Chris Van Hollen Floats Using a Government Shutdown Threat to Force Trump to End Iran War",
-        "url": "https://www.foxnews.com/media/chris-van-hollen-floats-using-government-shutdown-threat-force-trump-end-iran-war",
-        "source": "Fox News",
-        "published": "2026-11-14T05:16:27+11:00",
-        "slot": "center"
+        "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+        "rewrite": "Rosenberg: Uncompromising Putin Ups Demands for Peace with Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo",
+        "source": "BBC News",
+        "published": "2026-11-14T03:40:31+11:00",
+        "slot": "center",
+        "section": "WORLD",
+        "is_new": false,
+        "urgent": false
       },
       {
         "title": "Do these satellite images prove Iran has been secretly developing a nuclear warhead for years? New Photo Evidence investigates the mysterious goings-on at the Taleghan 2 research facility",
@@ -196,71 +262,10 @@
         "url": "https://www.dailymail.com/news/article-16290643/iran-secret-nuclear-site-taleghan-2-satellite-images-rebuilding-parchin.html",
         "source": "Daily Mail",
         "published": "2026-11-14T13:16:02+11:00",
-        "slot": "center"
-      },
-      {
-        "title": "ANDREW NEIL: Trump fears assassination by Iran. No wonder he doesn't trust Britain when we're so blasé about the threat the mullahs pose to us all",
-        "rewrite": "ANDREW NEIL: Trump Fears Assassination by Iran — and Doesn't Trust Britain to Take the Threat Seriously",
-        "url": "https://www.dailymail.com/news/article-16291397/ANDREW-NEIL-Trump-fears-assassination-Iran.html",
-        "source": "Daily Mail",
-        "published": "2026-11-14T12:05:28+11:00",
-        "slot": "center"
-      },
-      {
-        "title": "Siren sounds at RAF base following 'suspected drone activity' days after US 'evacuated aircraft amid Iran threat'",
-        "rewrite": "Sirens at RAF Base After 'Suspected Drone Activity' as U.S. Aircraft Evacuated Amid Iran Threat",
-        "url": "https://www.dailymail.com/news/article-16291289/Sirens-RAF-bases-drone-US-evacuated-aircraft-Iran.html",
-        "source": "Daily Mail",
-        "published": "2026-11-14T11:26:42+11:00",
-        "slot": "center"
-      },
-      {
-        "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-        "rewrite": "Rosenberg: Uncompromising Putin Ups Demands for Peace with Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo",
-        "source": "BBC News",
-        "published": "2026-11-14T03:40:31+11:00",
-        "slot": "center"
-      },
-      {
-        "title": "Royal Navy is so short of ships we're buying them from Norway... for £90million",
-        "rewrite": "Royal Navy Is So Short of Ships We're Buying Them from Norway... for £90 Million",
-        "url": "https://www.dailymail.com/news/article-16288785/Royal-Navy-short-ships-buying-Norway-90million.html",
-        "source": "Daily Mail",
-        "published": "2026-11-13T10:19:31+11:00",
-        "slot": "center"
-      },
-      {
-        "title": "Reform UK classifies Russia as the 'greatest threat' to Britain's national security",
-        "rewrite": "Reform UK Classifies Russia as the 'Greatest Threat' to Britain's National Security",
-        "url": "https://www.gbnews.com/politics/reform-uk-classifies-russia-greatest-threat-national-security",
-        "source": "GB News",
-        "published": "2026-11-14T13:15:10+11:00",
-        "slot": "center"
-      },
-      {
-        "title": "Microsoft says services fully restored after day-long global outage",
-        "rewrite": "Microsoft Says Services Fully Restored After Day-Long Global Outage",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
-        "source": "BBC News",
-        "published": "2026-11-14T17:42:27+11:00",
-        "slot": "center"
-      },
-      {
-        "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-        "rewrite": "'Miracle on the Mississippi': All Rescued After New Orleans Cruise Ship Collision",
-        "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
-        "source": "BBC News",
-        "published": "2026-11-14T10:40:45+11:00",
-        "slot": "center"
-      },
-      {
-        "title": "Australians stranded as US flight chaos grounds thousands of planes",
-        "rewrite": "Australians Stranded as U.S. Flight Chaos Grounds Thousands of Planes",
-        "url": "https://www.abc.net.au/news/2026-11-14/australians-stranded-in-us-amid-flight-cancellations-chaos/107385998",
-        "source": "ABC News Australia",
-        "published": "2026-11-14T14:24:57+11:00",
-        "slot": "center"
+        "slot": "center",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": false
       },
       {
         "title": "The sex spies infiltrating America - and the 'lonely and naive' geniuses who are easy prey for Russia and China's merciless deep-cover beauties",
@@ -268,7 +273,21 @@
         "url": "https://www.dailymail.com/news/article-16285275/sex-spies-america-china-russia-silicon-valley.html",
         "source": "Daily Mail",
         "published": "2026-11-14T10:14:44+11:00",
-        "slot": "center"
+        "slot": "center",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": false
+      },
+      {
+        "title": "Chris Van Hollen floats using government shutdown threat to force Trump to end Iran war",
+        "rewrite": "Chris Van Hollen Floats Using a Government Shutdown Threat to Force Trump to End Iran War",
+        "url": "https://www.foxnews.com/media/chris-van-hollen-floats-using-government-shutdown-threat-force-trump-end-iran-war",
+        "source": "Fox News",
+        "published": "2026-11-14T05:16:27+11:00",
+        "slot": "center",
+        "urgent": false,
+        "section": "US",
+        "is_new": false
       },
       {
         "title": "Nvidia Scandal Shows Why SCOTUS Must Allow Catherine Herridge To Protect Her Sources",
@@ -276,7 +295,21 @@
         "url": "https://thefederalist.com/2026/11/12/nvidia-scandal-shows-why-scotus-must-allow-catherine-herridge-to-protect-her-sources/",
         "source": "The Federalist",
         "published": "2026-11-13T00:52:43+11:00",
-        "slot": "center"
+        "slot": "center",
+        "urgent": false,
+        "section": "US",
+        "is_new": false
+      },
+      {
+        "title": "Can the Republicans avert a disastrous intra-party feud?",
+        "rewrite": "Can the Republicans Avert a Disastrous Intra-Party Feud?",
+        "url": "https://www.spectator.com.au/2026/11/can-the-republicans-avert-a-disastrous-intra-party-feud/",
+        "source": "The Spectator Australia",
+        "published": "2026-11-12T22:50:29+11:00",
+        "slot": "center",
+        "urgent": false,
+        "section": "US",
+        "is_new": false
       },
       {
         "title": "A failure to deliver, not a rejection of the right",
@@ -284,7 +317,87 @@
         "url": "https://www.spectator.com.au/2026/11/a-failure-to-deliver-not-a-rejection-of-the-right/",
         "source": "The Spectator Australia",
         "published": "2026-11-14T18:20:26+11:00",
-        "slot": "center"
+        "slot": "center",
+        "urgent": false,
+        "section": "US",
+        "is_new": false
+      },
+      {
+        "title": "Vance and Kamala top presidential race for 2028 — but surprising candidates come in second place",
+        "rewrite": "Vance and Kamala Top 2028 Presidential Race — but Surprising Candidates Come in Second",
+        "url": "https://www.theblaze.com/news/poll-2028-president-vance-kamala",
+        "source": "The Blaze",
+        "published": "2026-11-14T00:45:00+11:00",
+        "slot": "center",
+        "urgent": false,
+        "section": "US",
+        "is_new": false
+      },
+      {
+        "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+        "rewrite": "'Miracle on the Mississippi': All Rescued After New Orleans Cruise Ship Collision",
+        "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
+        "source": "BBC News",
+        "published": "2026-11-14T10:40:45+11:00",
+        "slot": "center",
+        "section": "US",
+        "is_new": false,
+        "urgent": false
+      },
+      {
+        "title": "ANDREW NEIL: Trump fears assassination by Iran. No wonder he doesn't trust Britain when we're so blasé about the threat the mullahs pose to us all",
+        "rewrite": "ANDREW NEIL: Trump Fears Assassination by Iran — and Doesn't Trust Britain to Take the Threat Seriously",
+        "url": "https://www.dailymail.com/news/article-16291397/ANDREW-NEIL-Trump-fears-assassination-Iran.html",
+        "source": "Daily Mail",
+        "published": "2026-11-14T12:05:28+11:00",
+        "slot": "center",
+        "urgent": false,
+        "section": "UK",
+        "is_new": false
+      },
+      {
+        "title": "Siren sounds at RAF base following 'suspected drone activity' days after US 'evacuated aircraft amid Iran threat'",
+        "rewrite": "Sirens at RAF Base After 'Suspected Drone Activity' as U.S. Aircraft Evacuated Amid Iran Threat",
+        "url": "https://www.dailymail.com/news/article-16291289/Sirens-RAF-bases-drone-US-evacuated-aircraft-Iran.html",
+        "source": "Daily Mail",
+        "published": "2026-11-14T11:26:42+11:00",
+        "slot": "center",
+        "urgent": false,
+        "section": "UK",
+        "is_new": false
+      },
+      {
+        "title": "Reform UK classifies Russia as the 'greatest threat' to Britain's national security",
+        "rewrite": "Reform UK Classifies Russia as the 'Greatest Threat' to Britain's National Security",
+        "url": "https://www.gbnews.com/politics/reform-uk-classifies-russia-greatest-threat-national-security",
+        "source": "GB News",
+        "published": "2026-11-14T13:15:10+11:00",
+        "slot": "center",
+        "urgent": false,
+        "section": "UK",
+        "is_new": false
+      },
+      {
+        "title": "Microsoft says services fully restored after day-long global outage",
+        "rewrite": "Microsoft Says Services Fully Restored After Day-Long Global Outage",
+        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
+        "source": "BBC News",
+        "published": "2026-11-14T17:42:27+11:00",
+        "slot": "center",
+        "urgent": false,
+        "section": "BUSINESS",
+        "is_new": false
+      },
+      {
+        "title": "Australians stranded as US flight chaos grounds thousands of planes",
+        "rewrite": "Australians Stranded as U.S. Flight Chaos Grounds Thousands of Planes",
+        "url": "https://www.abc.net.au/news/2026-11-14/australians-stranded-in-us-amid-flight-cancellations-chaos/107385998",
+        "source": "ABC News Australia",
+        "published": "2026-11-14T14:24:57+11:00",
+        "slot": "center",
+        "section": "AUSTRALIA",
+        "is_new": false,
+        "urgent": false
       }
     ],
     "right": [
@@ -294,7 +407,10 @@
         "url": "https://www.gbnews.com/politics/piddington-migrant-camp-women-girls-safety-warning-angela-rayner",
         "source": "GB News",
         "published": "2026-11-14T05:58:43+11:00",
-        "slot": "right"
+        "slot": "right",
+        "urgent": false,
+        "section": "UK",
+        "is_new": false
       },
       {
         "title": "Why I'll never stop banging on about the threat from Iran",
@@ -302,79 +418,21 @@
         "url": "https://www.gbnews.com/opinion/nigel-farage-reformuk-andy-burnham-government-dover",
         "source": "GB News",
         "published": "2026-11-14T03:02:43+11:00",
-        "slot": "right"
+        "slot": "right",
+        "urgent": false,
+        "section": "UK",
+        "is_new": false
       },
       {
-        "title": "Awkward moment Albanese and his climate change minister 'Blackout Bowen' are caught in hot mic moment making a very crude remark at summit attended by the world's political elite: 'Because of your d***?'",
-        "rewrite": "Albanese and 'Blackout Bowen' Caught on a Hot Mic in a Crude Remark at a Global Climate Summit",
-        "url": "https://www.dailymail.com/news/article-16291447/albanese-bowen-phone-radiation-penis-comments-turkey-cop.html",
+        "title": "Royal Navy is so short of ships we're buying them from Norway... for £90million",
+        "rewrite": "Royal Navy Is So Short of Ships We're Buying Them from Norway... for £90 Million",
+        "url": "https://www.dailymail.com/news/article-16288785/Royal-Navy-short-ships-buying-Norway-90million.html",
         "source": "Daily Mail",
-        "published": "2026-11-14T13:25:52+11:00",
-        "slot": "right"
-      },
-      {
-        "title": "Silence on coal, hubris at Cop31",
-        "rewrite": "Silence on Coal, Hubris at Cop31",
-        "url": "https://www.spectator.com.au/2026/11/silence-on-coal-hubris-at-cop31/",
-        "source": "The Spectator Australia",
-        "published": "2026-11-14T17:00:28+11:00",
-        "slot": "right"
-      },
-      {
-        "title": "Vance and Kamala top presidential race for 2028 — but surprising candidates come in second place",
-        "rewrite": "Vance and Kamala Top 2028 Presidential Race — but Surprising Candidates Come in Second",
-        "url": "https://www.theblaze.com/news/poll-2028-president-vance-kamala",
-        "source": "The Blaze",
-        "published": "2026-11-14T00:45:00+11:00",
-        "slot": "right"
-      },
-      {
-        "title": "Can the Republicans avert a disastrous intra-party feud?",
-        "rewrite": "Can the Republicans Avert a Disastrous Intra-Party Feud?",
-        "url": "https://www.spectator.com.au/2026/11/can-the-republicans-avert-a-disastrous-intra-party-feud/",
-        "source": "The Spectator Australia",
-        "published": "2026-11-12T22:50:29+11:00",
-        "slot": "right"
-      },
-      {
-        "title": "The Second Amendment has become a security blanket",
-        "rewrite": "The Second Amendment Has Become a Security Blanket",
-        "url": "https://www.theblaze.com/columns/opinion/the-second-amendment-has-become-a-security-blanket",
-        "source": "The Blaze",
-        "published": "2026-11-13T20:00:00+11:00",
-        "slot": "right"
-      },
-      {
-        "title": "El-Sayed’s Pick For Senate Leader Ditched His State To Have Cocktails With Gangbanger",
-        "rewrite": "El-Sayed's Pick for Senate Leader Ditched His State to Have Cocktails with Gangbanger",
-        "url": "https://www.dailywire.com/news/el-sayeds-pick-for-senate-leader-ditched-his-state-to-have-cocktails-with-gangbanger",
-        "source": "Daily Wire",
-        "published": "2026-11-13T05:07:58+11:00",
-        "slot": "right"
-      },
-      {
-        "title": "'The View' co-host calls Democrats missing Hegseth impeachment vote a 'self-inflicted wound'",
-        "rewrite": "'The View' Co-Host Calls Democrats Missing Hegseth Impeachment Vote a 'Self-Inflicted Wound'",
-        "url": "https://www.foxnews.com/media/the-view-co-host-calls-democrats-missing-hegseth-impeachment-vote-self-inflicted-wound",
-        "source": "Fox News",
-        "published": "2026-11-13T00:54:50+11:00",
-        "slot": "right"
-      },
-      {
-        "title": "Five Things Trump Administration Has Gotten Right",
-        "rewrite": "Five Things the Trump Administration Has Gotten Right",
-        "url": "https://www.realclearpolitics.com/2026/11/13/five_things_trump_administration_has_gotten_right_717530.html",
-        "source": "RealClearPolitics",
-        "published": "2026-11-14T08:46:30+11:00",
-        "slot": "right"
-      },
-      {
-        "title": "Distressing scenes for Cats ruck as Swans reach maiden preliminary final",
-        "rewrite": "Distressing Scenes for Cats Ruck as Swans Reach Maiden Preliminary Final",
-        "url": "https://www.abc.net.au/news/2026-11-14/geelong-cats-piper-dunlop-stretchered-off-aflw-semifinals/107386422",
-        "source": "ABC News Australia",
-        "published": "2026-11-14T18:10:53+11:00",
-        "slot": "right"
+        "published": "2026-11-13T10:19:31+11:00",
+        "slot": "right",
+        "urgent": false,
+        "section": "UK",
+        "is_new": false
       },
       {
         "title": "We don’t need another #MeToo moment",
@@ -382,7 +440,10 @@
         "url": "https://www.spectator.com.au/2026/11/we-dont-need-another-metoo-moment/",
         "source": "The Spectator Australia",
         "published": "2026-11-13T05:52:54+11:00",
-        "slot": "right"
+        "slot": "right",
+        "urgent": false,
+        "section": "UK",
+        "is_new": false
       },
       {
         "title": "Jonathan Ross’s unfortunate choice of friends",
@@ -390,17 +451,108 @@
         "url": "https://www.spectator.com.au/2026/11/jonathan-rosss-unfortunate-choice-of-friends/",
         "source": "The Spectator Australia",
         "published": "2026-11-13T14:21:00+11:00",
-        "slot": "right"
+        "slot": "right",
+        "urgent": false,
+        "section": "UK",
+        "is_new": false
+      },
+      {
+        "title": "Awkward moment Albanese and his climate change minister 'Blackout Bowen' are caught in hot mic moment making a very crude remark at summit attended by the world's political elite: 'Because of your d***?'",
+        "rewrite": "Albanese and 'Blackout Bowen' Caught on a Hot Mic in a Crude Remark at a Global Climate Summit",
+        "url": "https://www.dailymail.com/news/article-16291447/albanese-bowen-phone-radiation-penis-comments-turkey-cop.html",
+        "source": "Daily Mail",
+        "published": "2026-11-14T13:25:52+11:00",
+        "slot": "right",
+        "urgent": false,
+        "section": "AUSTRALIA",
+        "is_new": false
+      },
+      {
+        "title": "Distressing scenes for Cats ruck as Swans reach maiden preliminary final",
+        "rewrite": "Distressing Scenes for Cats Ruck as Swans Reach Maiden Preliminary Final",
+        "url": "https://www.abc.net.au/news/2026-11-14/geelong-cats-piper-dunlop-stretchered-off-aflw-semifinals/107386422",
+        "source": "ABC News Australia",
+        "published": "2026-11-14T18:10:53+11:00",
+        "slot": "right",
+        "urgent": false,
+        "section": "AUSTRALIA",
+        "is_new": false
+      },
+      {
+        "title": "Predicting weather in the Southern Hemisphere is challenging. Here's why",
+        "rewrite": "Predicting Weather in the Southern Hemisphere Is Challenging. Here's Why",
+        "url": "https://www.abc.net.au/news/science/2026-11-14/southern-hemisphere-forecasting-accuracy-atmospheric-rivers/107211984",
+        "source": "ABC News Australia",
+        "published": "2026-11-14T13:21:19+11:00",
+        "slot": "right",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": false
+      },
+      {
+        "title": "Hegseth adviser to barracks task force cites black mold, lack of hot water as common problems facing service members",
+        "rewrite": "Hegseth Adviser Cites Black Mold and Lack of Hot Water as Common Problems Facing Troops",
+        "url": "https://www.washingtonexaminer.com/policy/defense/4802675/hegseth-adviser-black-mold-lack-hot-water-troops-problems/",
+        "source": "Washington Examiner",
+        "published": "2026-11-14T21:00:00+11:00",
+        "slot": "right",
+        "urgent": false,
+        "section": "US",
+        "is_new": false
+      },
+      {
+        "title": "The Second Amendment has become a security blanket",
+        "rewrite": "The Second Amendment Has Become a Security Blanket",
+        "url": "https://www.theblaze.com/columns/opinion/the-second-amendment-has-become-a-security-blanket",
+        "source": "The Blaze",
+        "published": "2026-11-13T20:00:00+11:00",
+        "slot": "right",
+        "urgent": false,
+        "section": "US",
+        "is_new": false
+      },
+      {
+        "title": "Five Things Trump Administration Has Gotten Right",
+        "rewrite": "Five Things the Trump Administration Has Gotten Right",
+        "url": "https://www.realclearpolitics.com/2026/11/13/five_things_trump_administration_has_gotten_right_717530.html",
+        "source": "RealClearPolitics",
+        "published": "2026-11-14T08:46:30+11:00",
+        "slot": "right",
+        "urgent": false,
+        "section": "US",
+        "is_new": false
+      },
+      {
+        "title": "El-Sayed’s Pick For Senate Leader Ditched His State To Have Cocktails With Gangbanger",
+        "rewrite": "El-Sayed's Pick for Senate Leader Ditched His State to Have Cocktails with Gangbanger",
+        "url": "https://www.dailywire.com/news/el-sayeds-pick-for-senate-leader-ditched-his-state-to-have-cocktails-with-gangbanger",
+        "source": "Daily Wire",
+        "published": "2026-11-13T05:07:58+11:00",
+        "slot": "right",
+        "urgent": false,
+        "section": "US",
+        "is_new": false
+      },
+      {
+        "title": "'The View' co-host calls Democrats missing Hegseth impeachment vote a 'self-inflicted wound'",
+        "rewrite": "'The View' Co-Host Calls Democrats Missing Hegseth Impeachment Vote a 'Self-Inflicted Wound'",
+        "url": "https://www.foxnews.com/media/the-view-co-host-calls-democrats-missing-hegseth-impeachment-vote-self-inflicted-wound",
+        "source": "Fox News",
+        "published": "2026-11-13T00:54:50+11:00",
+        "slot": "right",
+        "urgent": false,
+        "section": "US",
+        "is_new": false
       }
     ]
   },
   "image_url": "https://www.gbnews.com/media-library/jensen-huang-and-howard-lutnick-with-inset-image-of-donald-trump.png?id=68672788&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
   "counts": {
-    "total": 47,
+    "total": 48,
     "featured": 4,
     "columns": {
       "left": 16,
-      "center": 13,
+      "center": 14,
       "right": 13
     },
     "feeds_ok": 29,

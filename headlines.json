@@ -2,9 +2,9 @@
   "title": "THE NEWS REPORT",
   "generated": {
     "date": "Sunday, 15 November 2026",
-    "display": "Sunday, November 15, 2026  12:04 PM AEDT (Australia/Sydney)",
-    "iso": "2026-11-15T12:04:39.537766+11:00",
-    "time": "12:04 PM AEDT",
+    "display": "Sunday, November 15, 2026  6:04 PM AEDT (Australia/Sydney)",
+    "iso": "2026-11-15T18:04:11.069103+11:00",
+    "time": "6:04 PM AEDT",
     "timezone": "Australia/Sydney"
   },
   "lean": "centre-right",
@@ -17,7 +17,7 @@
     "slot": "top",
     "urgent": false,
     "section": "WORLD",
-    "is_new": true
+    "is_new": false
   },
   "featured": [
     {
@@ -40,7 +40,7 @@
       "slot": "featured:2",
       "urgent": false,
       "section": "US",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
@@ -62,7 +62,7 @@
       "slot": "featured:4",
       "urgent": false,
       "section": "US",
-      "is_new": true
+      "is_new": false
     }
   ],
   "columns": {
@@ -110,7 +110,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Ex-cop charged in brutal jogger slaying attended radical Brooklyn mosque",
@@ -121,7 +121,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Democrat Mary Peltola declares victory against Trump-backed Dan Sullivan in Alaska's controversial Senate race with 'decoy' candidate",
@@ -143,7 +143,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "NYC DSA hatches 2028 White House push for AOC — and plot to topple establishment state Dems",
@@ -154,7 +154,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Inside the DSA campaign to destroy ‘ultra-Zionists’ Schumer and Jeffries",
@@ -165,7 +165,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "WATCH: Hakeem Jeffries Heckled by Fellow Left-Wingers at Colorado Conference",
@@ -176,7 +176,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Arkansas Gov. Sanders offers GOP a playbook after party’s midterm rout",
@@ -187,7 +187,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Anti-Trump Republican courts other defectors as House weighs another vote against Iran war",
@@ -245,15 +245,15 @@
         "is_new": false
       },
       {
-        "title": "Major Inflation Indicator Hits Highest Rate Since Biden Era",
-        "rewrite": "Producer prices hit highest annual rate since 2022",
-        "url": "https://dailycaller.com/2026/11/13/prices-are-sky-high-and-consumers-suffer-inflationppi-cpi-inflation",
-        "source": "Daily Caller",
-        "published": "2026-11-14T03:23:30+11:00",
+        "title": "Mamdani says he and Trump made deal over SNAP rule affecting small businesses nationwide",
+        "rewrite": "Mamdani says he and Trump struck deal on SNAP rule for small businesses",
+        "url": "https://www.washingtonexaminer.com/news/white-house/4804056/mamdani-trump-deal-snap-rule-nyc-small-businesses/",
+        "source": "Washington Examiner",
+        "published": "2026-11-15T01:29:59+00:00",
         "slot": "column",
         "urgent": false,
-        "section": "BUSINESS",
-        "is_new": false
+        "section": "US",
+        "is_new": true
       },
       {
         "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
@@ -297,10 +297,21 @@
         "slot": "column",
         "urgent": false,
         "section": "BUSINESS",
-        "is_new": true
+        "is_new": false
       }
     ],
     "center": [
+      {
+        "title": "Bahrain issues first threat alerts since September as Iran says it attacked US base",
+        "rewrite": "IRAN CLAIMS DRONE STRIKE ON US BASE IN BAHRAIN... BAHRAIN ISSUES FIRST THREAT ALERTS SINCE SEPTEMBER",
+        "url": "https://nypost.com/2026/11/15/world-news/iran-says-it-attacked-us-base-as-bahrain-issues-first-threat-alerts-since-september/",
+        "source": "New York Post",
+        "published": "2026-11-15T05:51:00+00:00",
+        "slot": "column",
+        "urgent": true,
+        "section": "WORLD",
+        "is_new": true
+      },
       {
         "title": "Vladimir Putin demands Britain abandon nuclear protection for Europe in Ukraine peace ultimatum",
         "rewrite": "Putin demands Britain abandon nuclear protection for Europe in Ukraine peace terms",
@@ -366,7 +377,7 @@
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Albanese is caught between climate ambition and political reality at COP31",
@@ -403,15 +414,15 @@
         "is_new": false
       },
       {
-        "title": "Cape Town inquiry spoke to all Aussie bowlers, ABC understands",
-        "rewrite": "Warner lashes ball-tampering probe... sources say all bowlers were interviewed",
-        "url": "https://www.abc.net.au/news/2026-11-14/david-warner-cricket-australia-ball-tampering-investigation/107386252",
-        "source": "ABC News Australia",
-        "published": "2026-11-14T14:44:22+11:00",
+        "title": "Controversial ex-Liberal candidate makes political comeback with One Nation after transgender comments sparked national firestorm",
+        "rewrite": "Katherine Deves returns on One Nation's NSW upper house ticket",
+        "url": "https://www.dailymail.com/news/article-16293681/katherine-deves-one-nation-nsw-parliament-pauline-hanson.html",
+        "source": "Daily Mail",
+        "published": "2026-11-15T06:05:01+00:00",
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
-        "is_new": false
+        "is_new": true
       },
       {
         "title": "Police investigate suspected fatal stabbing of man in Melbourne's south-east",
@@ -422,7 +433,7 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "‘They need to identify the body’: Father sues state over hotel quarantine after daughter’s death",
@@ -437,17 +448,6 @@
         "image": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/8fcc84ef10bb2ebb0d54f7f741882b630e9b39a4"
       },
       {
-        "title": "In person, in writing and in a weekly newsletter: WorkSafe details CFMEU warnings to minister",
-        "rewrite": "WorkSafe says it repeatedly warned government over CFMEU tactics",
-        "url": "https://www.theage.com.au/national/victoria/in-person-in-writing-and-in-a-weekly-newsletter-worksafe-details-cfmeu-warnings-to-minister-20261114-p61dcu.html?ref=rss",
-        "source": "The Age",
-        "published": "2026-11-14T16:00:00+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false
-      },
-      {
         "title": "Questions remain whether Victoria's election is tackling the big issues",
         "rewrite": "Questions remain whether Victoria's election is tackling the big issues",
         "url": "https://www.abc.net.au/news/2026-11-15/victorian-election-big-issues-crime-rate-focus-mental-health/107384002",
@@ -456,18 +456,29 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true
+        "is_new": false
       },
       {
-        "title": "Activity centres or a sprawling CBD? Voters deliver their verdict",
-        "rewrite": "Voters back Liberal housing plan over Labor's activity centres: poll",
-        "url": "https://www.theage.com.au/national/victoria/activity-centres-or-a-sprawling-cbd-voters-deliver-their-verdict-20261114-p61dl1.html?ref=rss",
-        "source": "The Age",
-        "published": "2026-11-14T05:00:00+11:00",
+        "title": "Rival promises as parties rally at Victorian election campaign launches",
+        "rewrite": "Wilson and Carroll rally faithful at Victorian campaign launches",
+        "url": "https://www.abc.net.au/news/2026-11-15/labor-liberal-coalition-campaign-launches-health-youth-crime/107387220",
+        "source": "ABC News Australia",
+        "published": "2026-11-15T04:42:10+00:00",
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": false
+        "is_new": true
+      },
+      {
+        "title": "Victorian youth offenders could be sent to former prison for farm work under Coalition plan ahead of state election",
+        "rewrite": "Coalition plan: youth offenders sent to former prison for farm work",
+        "url": "https://7news.com.au/news/victorian-youth-offenders-could-be-sent-to-former-prison-for-farm-work-under-coalition-plan-ahead-of-state-election-c-23164184",
+        "source": "7News Victoria",
+        "published": "2026-11-15T06:21:44+00:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "VICTORIA",
+        "is_new": true
       },
       {
         "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
@@ -492,17 +503,6 @@
         "is_new": false
       },
       {
-        "title": "HSBC downgrades Nvidia, says stock to struggle until new CEO named",
-        "rewrite": "HSBC downgrades Nvidia: stock to struggle until new CEO named",
-        "url": "https://www.cnbc.com/2026/11/13/hsbc-downgrades-nvidia-says-stock-to-struggle-until-new-ceo-named.html",
-        "source": "CNBC",
-        "published": "2026-11-14T03:24:39+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "MARKETS",
-        "is_new": false
-      },
-      {
         "title": "Nvidia stock slide wipes out more than $20B in value for Jensen Huang over 5 days",
         "rewrite": "Nvidia slide wipes out ~$20B of Huang's stake in a week",
         "url": "https://www.foxbusiness.com/markets/nvidia-stock-slide-wipes-out-billions-value-jensen-huang-days",
@@ -514,15 +514,26 @@
         "is_new": false
       },
       {
-        "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
-        "rewrite": "Metaplanet posts $170M loss as Bitcoin sales hit earnings",
-        "url": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings",
+        "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+        "rewrite": "MegaETH parent cuts 20% of staff in AI pivot",
+        "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push",
         "source": "Cointelegraph",
-        "published": "2026-11-14T05:28:29+11:00",
+        "published": "2026-11-14T08:12:30.048000+00:00",
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": false
+        "is_new": true
+      },
+      {
+        "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+        "rewrite": "stUSDT winds down three years after $2.3B peak",
+        "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak",
+        "source": "Cointelegraph",
+        "published": "2026-11-15T06:27:26.719000+00:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "MARKETS",
+        "is_new": true
       }
     ],
     "right": [
@@ -535,7 +546,7 @@
         "slot": "column",
         "urgent": false,
         "section": "UK",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Man charged in US for RAF Fairford plot 'was dual-British national who was stripped of his citizenship last month after he fled to Middle East'",
@@ -554,17 +565,6 @@
         "url": "https://www.dailymail.com/news/article-16292335/Drones-hover-RAF-bases-residents-sirens.html",
         "source": "Daily Mail",
         "published": "2026-11-15T03:31:32+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "UK",
-        "is_new": false
-      },
-      {
-        "title": "Piddington migrant camp DOES pose risk to women and girls, Government admits amid plans to install CCTV",
-        "rewrite": "Government admits Piddington migrant camp DOES pose risk to women and girls",
-        "url": "https://www.gbnews.com/politics/piddington-migrant-camp-women-girls-safety-warning-angela-rayner",
-        "source": "GB News",
-        "published": "2026-11-14T05:58:43+11:00",
         "slot": "column",
         "urgent": false,
         "section": "UK",
@@ -590,7 +590,7 @@
         "slot": "column",
         "urgent": false,
         "section": "UK",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Channel migrant found dead on French beach after failed small boat crossing",
@@ -615,6 +615,17 @@
         "is_new": false
       },
       {
+        "title": "Met Police start using What3Words after GPS blunder led to fatal crash that killed budding lawyer, 24, her friend, 19, and uncle, 36",
+        "rewrite": "Met Police adopt What3Words after GPS blunder linked to fatal crash",
+        "url": "https://www.dailymail.com/news/article-16293359/Met-Police-use-what3words-GPS-blunder-led-fatal-crash-killed-three.html",
+        "source": "Daily Mail",
+        "published": "2026-11-15T01:38:02+00:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "UK",
+        "is_new": true
+      },
+      {
         "title": "Italy fines Meta €805m over accessing users' photos",
         "rewrite": "Italy fines Meta €805M over access to users' photos",
         "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o",
@@ -635,7 +646,7 @@
         "slot": "column",
         "urgent": false,
         "section": "TECHNOLOGY",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Thousands turn out in Edinburgh to protest against AI data centres",
@@ -646,7 +657,7 @@
         "slot": "column",
         "urgent": false,
         "section": "TECHNOLOGY",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Microsoft says services fully restored after day-long global outage",
@@ -726,17 +737,6 @@
         "is_new": false
       },
       {
-        "title": "Shane Gillis Was Surprised by ‘SNL’ Monologue Backlash and Says He Doesn’t ‘Have a Problem’ With How Women Dress at the Gym",
-        "rewrite": "Shane Gillis surprised by 'SNL' monologue backlash",
-        "url": "https://variety.com/2026/tv/news/shane-gillis-snl-monologue-backlash-whores-joke-1236947671/",
-        "source": "Variety",
-        "published": "2026-11-15T02:43:35+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false
-      },
-      {
         "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
         "rewrite": "'Electric Company' actor and voice of 'Fritz the Cat' Skip Hinnant dies at 86",
         "url": "https://variety.com/2026/tv/news/skip-hinnant-dead-electric-company-fritz-the-cat-bakshi-1236947741/",
@@ -746,16 +746,27 @@
         "urgent": false,
         "section": "ENTERTAINMENT",
         "is_new": false
+      },
+      {
+        "title": "Amanda Seyfried to Make Her Debut as 'Saturday Night Live' Host",
+        "rewrite": "Amanda Seyfried to make 'SNL' hosting debut Dec. 5",
+        "url": "https://variety.com/2026/tv/news/amanda-seyfried-snl-host-debut-december-don-toliver-1236947942/",
+        "source": "Variety",
+        "published": "2026-11-15T05:25:10+00:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": true
       }
     ]
   },
   "image_url": "https://i.dailymail.com/1s/2026/11/15/00/112513735-0-image-a-8_1794701461003.jpg",
   "counts": {
-    "total": 66,
+    "total": 67,
     "featured": 4,
     "columns": {
       "left": 21,
-      "center": 20,
+      "center": 21,
       "right": 20
     },
     "feeds_ok": 42,

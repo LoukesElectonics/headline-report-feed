@@ -1,94 +1,204 @@
 {
   "title": "THE NEWS REPORT",
   "generated": {
-    "date": "Sunday, 15 November 2026",
-    "display": "Sunday, November 15, 2026  6:04 PM AEDT (Australia/Sydney)",
-    "iso": "2026-11-15T18:04:11.069103+11:00",
-    "time": "6:04 PM AEDT",
+    "date": "Monday, 16 November 2026",
+    "display": "Monday, November 16, 2026  6:13 AM AEDT (Australia/Sydney)",
+    "iso": "2026-11-16T06:13:34.215181+11:00",
+    "time": "6:13 AM AEDT",
     "timezone": "Australia/Sydney"
   },
   "lean": "centre-right",
   "top": {
-    "title": "Trump scales back public appearances after CIA and Mossad intercept plans for Iranian drone attack... as the line of succession is shuffled away to secure locations",
-    "rewrite": "REPORT: MOSSAD WARNS CIA OF IRANIAN DRONE PLOT TO KILL TRUMP... PRESIDENT OUT OF PUBLIC VIEW SINCE WEDNESDAY",
-    "url": "https://www.dailymail.com/news/article-16292989/Trump-CIA-Mossad-Iran-drone-plot.html",
-    "source": "Daily Mail",
-    "published": "2026-11-15T11:19:37+11:00",
+    "title": "Iran targets US military base in Bahrain with drone attack",
+    "rewrite": "IRAN LAUNCHES DRONE ATTACK ON U.S. BASE IN BAHRAIN... SECOND IN THREE DAYS... IRGC: 'STRAIT OF HORMUZ IS CLOSED'",
+    "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo",
+    "source": "BBC News",
+    "published": "2026-11-16T00:42:58+11:00",
     "slot": "top",
     "urgent": false,
     "section": "WORLD",
-    "is_new": false
+    "is_new": true
   },
   "featured": [
     {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "rewrite": "ZELENSKY: U.S. FLOATED UKRAINE CEDING DONBAS FOR NATO MEMBERSHIP...",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "rewrite": "ZELENSKY TO U.S. AND MUSK: LIFT STARLINK LIMITS... 'BE ON THE RIGHT SIDE OF HISTORY'",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
       "source": "BBC News",
-      "published": "2026-11-14T21:30:38+11:00",
+      "published": "2026-11-16T04:57:09+11:00",
       "slot": "featured:1",
       "urgent": false,
       "section": "WORLD",
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-      "rewrite": "DUFFY: COPPER WIRE UPGRADE CAUSED NATIONWIDE GROUND STOP... 'INCOMPETENCE' OR FAULTY KIT?",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno",
-      "source": "BBC News",
-      "published": "2026-11-15T06:12:25+11:00",
+      "title": "John Fetterman threatens to flip to Republican if his party make 'troubling' majority leader pick",
+      "rewrite": "FETTERMAN: VAN HOLLEN AS LEADER WOULD BE 'TROUBLING'... SIGNALS HE COULD WALK AWAY FROM DEMOCRATS",
+      "url": "https://www.dailymail.com/news/article-16294275/John-Fetterman-threatens-flip-Republican-troubling-majority-leader.html",
+      "source": "Daily Mail",
+      "published": "2026-11-16T01:26:11+11:00",
       "slot": "featured:2",
       "urgent": false,
       "section": "US",
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "rewrite": "Trump, Putin and Xi plan historic joint meeting in China next week",
-      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do",
-      "source": "BBC News",
-      "published": "2026-11-15T02:53:55+11:00",
+      "title": "Trump's top officials retreat behind military gates as ex-FBI deputy points to what's fueling threats",
+      "rewrite": "Bessent moves to military base amid Iran threats... joins top Trump officials living behind military gates",
+      "url": "https://www.foxnews.com/politics/trumps-top-officials-retreat-behind-military-gates-ex-fbi-deputy-points-whats-fueling-threats",
+      "source": "Fox News",
+      "published": "2026-11-16T00:00:14+11:00",
       "slot": "featured:3",
       "urgent": false,
-      "section": "WORLD",
-      "is_new": false
+      "section": "US",
+      "is_new": true
     },
     {
-      "title": "Ousted Nvidia CEO Jensen Huang Agrees to Testify Before Congress",
-      "rewrite": "Ousted Nvidia boss Huang agrees to testify before Congress under oath",
-      "url": "https://www.breitbart.com/tech/2026/11/14/ousted-nvidia-ceo-jensen-huang-agrees-to-testify-before-congress/",
-      "source": "Breitbart",
-      "published": "2026-11-15T02:17:12+11:00",
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "rewrite": "Israel kills Hamas commander who helped plan October 7 attack",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo",
+      "source": "BBC News",
+      "published": "2026-11-15T19:17:41+11:00",
       "slot": "featured:4",
       "urgent": false,
-      "section": "US",
-      "is_new": false
+      "section": "WORLD",
+      "is_new": true
     }
   ],
   "columns": {
     "left": [
       {
-        "title": "Two top Trump Cabinet officials go to war over China spy scandal amid explosive accusations: report",
-        "rewrite": "Lutnick and Bessent reportedly clash in Situation Room over China spy scandal",
-        "url": "https://www.foxnews.com/politics/two-top-trump-cabinet-officials-go-war-over-china-spy-scandal-amid-explosive-accusations-report",
-        "source": "Fox News",
-        "published": "2026-11-14T06:49:44+11:00",
+        "title": "Van Hollen says Schumer spreading ‘misinformation’ about leadership votes",
+        "rewrite": "Van Hollen accuses Schumer of spreading 'misinformation' on leadership vote count",
+        "url": "https://www.washingtonexaminer.com/news/senate/4804139/van-hollen-schumer-misinformation-senate-majority-leader-votes/",
+        "source": "Washington Examiner",
+        "published": "2026-11-16T02:42:04+11:00",
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": false,
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/bessent-lutnick-001.jpg"
+        "is_new": true
       },
       {
-        "title": "US reportedly loses longstanding measles elimination status as cases surge nationwide",
-        "rewrite": "U.S. reportedly loses measles elimination status after 26 years",
-        "url": "https://www.foxnews.com/health/us-loses-longstanding-measles-elimination-status-cases-surge-nationwide",
+        "title": "Inside Senate GOP's tense post-election reckoning as Thune clashes with Republican critics",
+        "rewrite": "Inside Senate GOP's tense post-election reckoning as Thune clashes with critics",
+        "url": "https://www.foxnews.com/politics/inside-senate-gops-tense-post-election-reckoning-thune-clashes-republican-critics",
         "source": "Fox News",
-        "published": "2026-11-15T06:17:16+11:00",
+        "published": "2026-11-15T23:00:37+11:00",
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": false
+        "is_new": true
+      },
+      {
+        "title": "Mike Pence knifes Trump for not drawing a harder line on China ahead of Xi and Putin meeting this week",
+        "rewrite": "Pence knocks Trump for softer line on China ahead of Xi-Putin meeting",
+        "url": "https://www.dailymail.com/news/article-16294451/Pence-knifes-Trump-China-Xi-Putin-meeting.html",
+        "source": "Daily Mail",
+        "published": "2026-11-16T05:00:07+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true
+      },
+      {
+        "title": "Duffy: Investigators examining 2 routers after nationwide FAA ground stop, no signs of foreign cyberattack",
+        "rewrite": "Duffy: Two FAA routers under investigation... no sign of foreign cyberattack",
+        "url": "https://www.foxnews.com/us/duffy-investigators-examining-2-routers-nationwide-faa-ground-stop-no-signs-foreign-cyberattack",
+        "source": "Fox News",
+        "published": "2026-11-16T05:20:11+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true
+      },
+      {
+        "title": "Trump blames Biden admin for FAA outage debacle — as he repeats Duffy’s call to spend billions on upgrades",
+        "rewrite": "Trump blames Biden admin for FAA meltdown, backs billions for upgrades",
+        "url": "https://nypost.com/2026/11/15/us-news/trump-blames-biden-admin-for-faa-outage-as-he-repeats-duffys-call-to-spend-billions-on-upgrades/",
+        "source": "New York Post",
+        "published": "2026-11-16T04:10:54+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true
+      },
+      {
+        "title": "Two planes collide on Miami runway one day after full ground stop",
+        "rewrite": "Two planes collide on Miami runway one day after nationwide ground stop",
+        "url": "https://www.washingtonexaminer.com/policy/infrastructure/4804126/plane-collision-miami-international-airport-runway/",
+        "source": "Washington Examiner",
+        "published": "2026-11-16T03:32:21+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true
+      },
+      {
+        "title": "Biden-Appointed Judge Stops Closure of D.C. Golf Course Trump Wants Renovated",
+        "rewrite": "Biden-appointed judge halts Trump's D.C. golf course closure",
+        "url": "https://www.breitbart.com/politics/2026/11/15/34173102biden-appointed-judge-stops-closure-of-dc-golf-course-trump-wants-renovated/",
+        "source": "Breitbart",
+        "published": "2026-11-16T02:23:19+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true
+      },
+      {
+        "title": "Horror moment police smash van's windows before they shoot kidnapping suspect dead after harrowing 911 call heard woman scream 'let me go'",
+        "rewrite": "Video: NYPD smash van windows before shooting kidnapping suspect dead",
+        "url": "https://www.dailymail.com/news/article-16294441/police-shoot-kidnapping-suspect-brooklyn.html",
+        "source": "Daily Mail",
+        "published": "2026-11-16T04:35:34+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true
+      },
+      {
+        "title": "Judge orders WA sheriff to stop complying with ICE, rules he is in violation of 'sanctuary statute'",
+        "rewrite": "Judge orders Washington sheriff to stop cooperating with ICE under sanctuary law",
+        "url": "https://thepostmillennial.com/news/judge-orders-wa-sheriff-to-stop-sharing-jail-rosters-with-ice-and-stop-complying-with-ice",
+        "source": "The Post Millennial",
+        "published": "2026-11-16T05:47:05+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true
+      },
+      {
+        "title": "Vagrant sets up City Hall encampment along Mamdani’s daily route, exploiting weak city rules",
+        "rewrite": "Vagrant sets up City Hall encampment along Mamdani's daily route",
+        "url": "https://nypost.com/2026/11/15/us-news/mamdanis-new-neighbor-a-tenacious-tramp-making-city-hall-sidewalk-his-home/",
+        "source": "New York Post",
+        "published": "2026-11-15T21:34:22+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true
+      },
+      {
+        "title": "Congress Probes Disturbing String Of Suicides At NSA, Cyber Command",
+        "rewrite": "Congress probes string of suicides at NSA, Cyber Command",
+        "url": "https://dailycaller.com/2026/11/14/congress-suicides-nsa-cyber-command-japan-times",
+        "source": "Daily Caller",
+        "published": "2026-11-15T04:01:07+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true
+      },
+      {
+        "title": "Hundreds gather to remember ‘loving’ young construction worker killed in Brooklyn building collapse: ‘He was always smiling’",
+        "rewrite": "Hundreds gather to remember young worker killed in Brooklyn building collapse",
+        "url": "https://nypost.com/2026/11/14/us-news/hundreds-gather-to-remember-loving-young-construction-worker-killed-in-brooklyn-building-collapse-he-was-always-smiling/",
+        "source": "New York Post",
+        "published": "2026-11-15T14:27:33+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/vigil-comp.jpg?quality=75&strip=all&w=1200"
       },
       {
         "title": "Owner of Brooklyn building collapse that left eight dead is unmasked as notorious slumlord who owes half a million dollars and tops New York's 'worst landlords' watchlist",
@@ -96,17 +206,6 @@
         "url": "https://www.dailymail.com/news/article-16292611/olufemi-falade-slumlord-nyc-building-collapse-brooklyn.html",
         "source": "Daily Mail",
         "published": "2026-11-15T06:21:15+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false
-      },
-      {
-        "title": "Mom hospitalized after Brooklyn building collapse reveals terrifying moment the building crumbled",
-        "rewrite": "Mom hospitalized after Brooklyn building collapse reveals terrifying moment the building crumbled",
-        "url": "https://nypost.com/2026/11/14/us-news/mom-and-son-hospitalized-after-surviving-brooklyn-building-collapse-moved-in-2-week-ago/",
-        "source": "New York Post",
-        "published": "2026-11-15T08:26:57+11:00",
         "slot": "column",
         "urgent": false,
         "section": "US",
@@ -124,22 +223,11 @@
         "is_new": false
       },
       {
-        "title": "Democrat Mary Peltola declares victory against Trump-backed Dan Sullivan in Alaska's controversial Senate race with 'decoy' candidate",
-        "rewrite": "Peltola declares victory over Trump-backed Sullivan in Alaska Senate race",
-        "url": "https://www.dailymail.com/news/us-politics/article-16292453/mary-peltola-dan-sullivan-alaska-senate-race.html",
-        "source": "Daily Mail",
-        "published": "2026-11-15T03:15:17+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false
-      },
-      {
-        "title": "SCOTUS to Decide Constitutionality of Trump's 'Single Most Important' Border Reform",
-        "rewrite": "SCOTUS to rule on Trump's 'single most important' border order barring asylum claims",
-        "url": "https://www.breitbart.com/politics/2026/11/13/scotus-decide-constitutionality-single-most-important-border-reform/",
-        "source": "Breitbart",
-        "published": "2026-11-14T08:30:04+11:00",
+        "title": "US reportedly loses longstanding measles elimination status as cases surge nationwide",
+        "rewrite": "U.S. reportedly loses measles elimination status after 26 years",
+        "url": "https://www.foxnews.com/health/us-loses-longstanding-measles-elimination-status-cases-surge-nationwide",
+        "source": "Fox News",
+        "published": "2026-11-15T06:17:16+11:00",
         "slot": "column",
         "urgent": false,
         "section": "US",
@@ -157,114 +245,15 @@
         "is_new": false
       },
       {
-        "title": "Inside the DSA campaign to destroy ‘ultra-Zionists’ Schumer and Jeffries",
-        "rewrite": "Inside the DSA campaign to destroy 'ultra-Zionists' Schumer and Jeffries",
-        "url": "https://nypost.com/2026/11/14/us-news/dsa-launching-campaign-to-destroy-chuck-schumer-and-hakeem-jeffries/",
+        "title": "Bessent urges Nvidia to look outside the company for new CEO after Jensen Huang’s resignation: ‘Dramatic shakeup’",
+        "rewrite": "Bessent urges Nvidia to look outside for new CEO... firm has 10 days to answer on banned chip sales",
+        "url": "https://nypost.com/2026/11/15/us-news/treasury-secretary-scott-bessent-says-nvidia-should-look-outside-the-company-for-jensen-huangs-successor/",
         "source": "New York Post",
-        "published": "2026-11-15T10:05:23+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false
-      },
-      {
-        "title": "WATCH: Hakeem Jeffries Heckled by Fellow Left-Wingers at Colorado Conference",
-        "rewrite": "Hakeem Jeffries Heckled by Fellow Left-Wingers at Colorado Conference",
-        "url": "https://www.breitbart.com/politics/2026/11/14/watch-hakeem-jeffries-heckled-by-fellow-left-wingers-at-colorado-conference/",
-        "source": "Breitbart",
-        "published": "2026-11-15T04:20:27+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false
-      },
-      {
-        "title": "Arkansas Gov. Sanders offers GOP a playbook after party’s midterm rout",
-        "rewrite": "Arkansas Gov. Sanders offers GOP a playbook after party's midterm rout",
-        "url": "https://nypost.com/2026/11/14/us-news/sarah-huckabee-sanders-reminds-republicans-how-to-win-in-red-states/",
-        "source": "New York Post",
-        "published": "2026-11-15T08:15:11+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false
-      },
-      {
-        "title": "Anti-Trump Republican courts other defectors as House weighs another vote against Iran war",
-        "rewrite": "Massie courts GOP defectors for new Iran War Powers vote",
-        "url": "https://www.foxnews.com/politics/anti-trump-republican-courts-other-defectors-house-weighs-another-vote-against-iran-war",
-        "source": "Fox News",
-        "published": "2026-11-15T01:00:51+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false
-      },
-      {
-        "title": "Massie's push to impeach Hegseth splits constituents in his own backyard: 'Pure spite'",
-        "rewrite": "Massie's push to impeach Hegseth splits his own district: 'Pure spite'",
-        "url": "https://www.foxnews.com/politics/massie-push-impeach-hegseth-splits-constituents-backyard-pure-spite",
-        "source": "Fox News",
-        "published": "2026-11-14T20:00:19+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false
-      },
-      {
-        "title": "GOP midterm bloodbath exposes cracks in Vance's 2028 White House ambitions",
-        "rewrite": "GOP midterm bloodbath exposes cracks in Vance's 2028 ambitions",
-        "url": "https://www.foxnews.com/politics/gop-midterm-bloodbath-exposes-cracks-vances-2028-white-house-ambitions",
-        "source": "Fox News",
-        "published": "2026-11-15T00:00:38+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false
-      },
-      {
-        "title": "Fetterman says Van Hollen as leader would be ‘troubling’ due to hostility toward Israel",
-        "rewrite": "Fetterman: Van Hollen as Senate leader would be 'troubling'",
-        "url": "https://www.washingtonexaminer.com/news/senate/4803999/fetterman-van-hollen-leader-troubling-hostile-israel/",
-        "source": "Washington Examiner",
-        "published": "2026-11-15T06:12:53+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false
-      },
-      {
-        "title": "Justice Alito warns America must preserve 3 core principles regardless of country’s ‘atmosphere’",
-        "rewrite": "Alito: Americans must cling to free speech, religious liberty and racial equality",
-        "url": "https://www.foxnews.com/politics/justice-alito-warns-america-preserve-3-core-principles-regardless-countrys-atmosphere",
-        "source": "Fox News",
-        "published": "2026-11-15T06:29:34+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false
-      },
-      {
-        "title": "Mamdani says he and Trump made deal over SNAP rule affecting small businesses nationwide",
-        "rewrite": "Mamdani says he and Trump struck deal on SNAP rule for small businesses",
-        "url": "https://www.washingtonexaminer.com/news/white-house/4804056/mamdani-trump-deal-snap-rule-nyc-small-businesses/",
-        "source": "Washington Examiner",
-        "published": "2026-11-15T01:29:59+00:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": true
-      },
-      {
-        "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
-        "rewrite": "Lutnick's sons' firm has deep ties to Nvidia, CNBC finds",
-        "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-        "source": "CNBC",
-        "published": "2026-11-14T10:42:18+11:00",
+        "published": "2026-11-16T05:18:45+11:00",
         "slot": "column",
         "urgent": false,
         "section": "BUSINESS",
-        "is_new": false
+        "is_new": true
       },
       {
         "title": "Nvidia approaches boss of Britain's biggest tech firm to replace Jensen Huang after chief exec admitted romancing alleged Chinese spy",
@@ -278,50 +267,127 @@
         "is_new": false
       },
       {
-        "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
-        "rewrite": "Eric Trump-backed robot soldier startup misses payroll after founder's $4.6M loan",
-        "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-        "source": "CNBC",
-        "published": "2026-11-14T23:00:01+11:00",
+        "title": "CVS says GLP-1s save money when priced below $350 per month",
+        "rewrite": "CVS: GLP-1 weight-loss drugs save money when priced below $350 a month",
+        "url": "https://nypost.com/2026/11/15/business/cvs-says-glp-1s-save-money-when-priced-below-350-per-month/",
+        "source": "New York Post",
+        "published": "2026-11-16T04:43:49+11:00",
         "slot": "column",
         "urgent": false,
         "section": "BUSINESS",
-        "is_new": false
+        "is_new": true
       },
       {
-        "title": "A slowing economy could mean higher youth unemployment, economist warns",
-        "rewrite": "A slowing economy could mean higher youth unemployment, economist warns",
-        "url": "https://www.abc.net.au/news/2026-11-15/youth-unemployment-could-rise-as-economy-softens/107382888",
-        "source": "ABC News Australia",
-        "published": "2026-11-15T08:18:23+11:00",
+        "title": "Waitrose weighs up cutting thousands of products to reinvent itself as the 'home of food lovers'",
+        "rewrite": "Waitrose weighs cutting thousands of products in reinvention",
+        "url": "https://www.dailymail.com/news/article-16294001/Waitrose-weighs-cutting-thousands-products-reinvent-home-food-lovers.html",
+        "source": "Daily Mail",
+        "published": "2026-11-16T00:20:06+11:00",
         "slot": "column",
         "urgent": false,
         "section": "BUSINESS",
-        "is_new": false
+        "is_new": true
+      },
+      {
+        "title": "Nine pubs closing for every one opening as industry ravaged by soaring taxes and energy costs",
+        "rewrite": "Nine British pubs closing for every one opening as taxes and energy costs bite",
+        "url": "https://www.gbnews.com/news/pubs-nine-close-for-every-one-opening",
+        "source": "GB News",
+        "published": "2026-11-16T01:45:04+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "BUSINESS",
+        "is_new": true
+      },
+      {
+        "title": "Blue State Utility Wants To Raise Power Rates By More Than Half, Blames Wildfire Costs",
+        "rewrite": "California utility seeks 57% power rate hike, blames wildfire costs",
+        "url": "https://dailycaller.com/2026/11/15/pacific-power-57-percent-rate-hike-wildfire-costs-gavin-newsom",
+        "source": "Daily Caller",
+        "published": "2026-11-16T04:00:18+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "BUSINESS",
+        "is_new": true
       }
     ],
     "center": [
       {
-        "title": "Bahrain issues first threat alerts since September as Iran says it attacked US base",
-        "rewrite": "IRAN CLAIMS DRONE STRIKE ON US BASE IN BAHRAIN... BAHRAIN ISSUES FIRST THREAT ALERTS SINCE SEPTEMBER",
-        "url": "https://nypost.com/2026/11/15/world-news/iran-says-it-attacked-us-base-as-bahrain-issues-first-threat-alerts-since-september/",
-        "source": "New York Post",
-        "published": "2026-11-15T05:51:00+00:00",
+        "title": "Estonia to CLOSE Russian border in two weeks after 'sabotage' attack",
+        "rewrite": "ESTONIA TO CLOSE RUSSIAN BORDER FROM DEC. 1 AFTER FOILED GRU 'SABOTAGE' AT DRONE FACTORY",
+        "url": "https://www.dailymail.com/news/article-16294399/Estonia-CLOSE-Russian-border.html",
+        "source": "Daily Mail",
+        "published": "2026-11-16T02:50:06+11:00",
         "slot": "column",
         "urgent": true,
         "section": "WORLD",
         "is_new": true
       },
       {
-        "title": "Vladimir Putin demands Britain abandon nuclear protection for Europe in Ukraine peace ultimatum",
-        "rewrite": "Putin demands Britain abandon nuclear protection for Europe in Ukraine peace terms",
-        "url": "https://www.gbnews.com/news/world/vladimir-putin-britain-abandon-nuclear-protection-ukraine-peace",
-        "source": "GB News",
-        "published": "2026-11-15T03:16:29+11:00",
+        "title": "Iran still has stockpile of 2,500 missiles — as regime threatens US bombers as far away as the UK: report",
+        "rewrite": "Report: Iran still has ~2,500 missiles... threatens U.S. bombers at RAF Fairford",
+        "url": "https://nypost.com/2026/11/15/world-news/iran-still-has-2500-missiles-as-it-threatens-us-air-base-in-britain-report/",
+        "source": "New York Post",
+        "published": "2026-11-16T05:44:16+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true
+      },
+      {
+        "title": "Report: Trump May Hold off on Renewed Iran Strikes Unless Tehran Provokes U.S.",
+        "rewrite": "Report: Trump may hold off on renewed Iran strikes unless Tehran provokes U.S.",
+        "url": "https://www.breitbart.com/politics/2026/11/15/report-trump-may-hold-off-on-renewed-iran-strikes-unless-tehran-provokes-u-s/",
+        "source": "Breitbart",
+        "published": "2026-11-15T22:07:46+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true
+      },
+      {
+        "title": "Trump scales back public appearances after CIA and Mossad intercept plans for Iranian drone attack... as the line of succession is shuffled away to secure locations",
+        "rewrite": "Report: Mossad warned CIA of Iranian drone plot to kill Trump",
+        "url": "https://www.dailymail.com/news/article-16292989/Trump-CIA-Mossad-Iran-drone-plot.html",
+        "source": "Daily Mail",
+        "published": "2026-11-15T11:19:37+11:00",
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
         "is_new": false
+      },
+      {
+        "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+        "rewrite": "Trump, Putin and Xi plan historic joint meeting in China next week",
+        "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do",
+        "source": "BBC News",
+        "published": "2026-11-15T02:53:55+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": false
+      },
+      {
+        "title": "Three men sentenced to death in Jordan over church mass shooting",
+        "rewrite": "Jordan sentences three men to death over church funeral massacre",
+        "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo",
+        "source": "BBC News",
+        "published": "2026-11-15T22:06:32+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true
+      },
+      {
+        "title": "Nearly 2,200 Illegal Migrants Reached Canary Islands in Past Two Days",
+        "rewrite": "Nearly 2,200 illegal migrants reach Spain's Canary Islands in two days",
+        "url": "https://www.breitbart.com/europe/2026/11/15/nearly-2200-illegal-migrants-reached-spains-canary-islands-in-past-two-days/",
+        "source": "Breitbart",
+        "published": "2026-11-16T00:09:25+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true
       },
       {
         "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
@@ -336,37 +402,15 @@
         "image": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg"
       },
       {
-        "title": "Thousands take to the streets in France for the fifth Saturday in a row: Police use tear gas and charge at crowds during anti-government protests",
-        "rewrite": "France: Tear gas as anti-government protests hit fifth straight Saturday",
-        "url": "https://www.dailymail.com/news/article-16292889/Thousands-France-Police-tear-gas-crowds-government-protests.html",
-        "source": "Daily Mail",
-        "published": "2026-11-15T07:00:09+11:00",
+        "title": "Albanese stands by Ukraine but won't rule out photo with Putin",
+        "rewrite": "Albanese won't rule out APEC 'family photo' with Putin",
+        "url": "https://www.abc.net.au/news/2026-11-15/albanese-will-not-rule-out-apec-photo-with-putin/107387814",
+        "source": "ABC News Australia",
+        "published": "2026-11-15T18:23:36+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "WORLD",
-        "is_new": false
-      },
-      {
-        "title": "U.N. Chief Says 'Immediate and Drastic' Emissions Cuts Needed to Avert Climate Change Catastrophe",
-        "rewrite": "UN chief Guterres demands 'drastic' emissions cuts at final climate summit",
-        "url": "https://www.breitbart.com/europe/2026/11/14/u-n-chief-says-immediate-and-drastic-emissions-cuts-needed-to-avert-climate-change-catastrophe/",
-        "source": "Breitbart",
-        "published": "2026-11-14T23:45:29+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false
-      },
-      {
-        "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-        "rewrite": "Nigeria warns against transiting Addis Ababa airport after six deaths blamed on altitude",
-        "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo",
-        "source": "BBC News",
-        "published": "2026-11-15T02:42:54+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false
+        "section": "AUSTRALIA",
+        "is_new": true
       },
       {
         "title": "Chris Bowen brushes off crude hot mic 'd***' exchange with Anthony Albanese - insisting it was just a 'blokey, jokey conversation'",
@@ -374,40 +418,6 @@
         "url": "https://www.dailymail.com/news/article-16293155/chris-bowen-hot-mic-chat-anthony-albanese-cop31.html",
         "source": "Daily Mail",
         "published": "2026-11-15T11:31:45+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false
-      },
-      {
-        "title": "Albanese is caught between climate ambition and political reality at COP31",
-        "rewrite": "Albanese caught between climate ambition and political reality at COP31",
-        "url": "https://www.abc.net.au/news/2026-11-15/climate-ambition-political-reality-cop31-albanese/107383424",
-        "source": "ABC News Australia",
-        "published": "2026-11-15T05:50:21+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false
-      },
-      {
-        "title": "'The line-up is huge': Australians caught up in US flight chaos",
-        "rewrite": "Australians stranded as U.S. flight chaos grounds thousands of planes",
-        "url": "https://www.abc.net.au/news/2026-11-14/australians-stranded-in-us-amid-flight-cancellations-chaos/107385998",
-        "source": "ABC News Australia",
-        "published": "2026-11-14T14:24:57+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "image": "https://live-production.wcms.abc-cdn.net.au/1976153410b4bb19b3673d085b11feab?impolicy=wcms_watermark_news&cropH=678&cropW=1206&xPos=0&yPos=879&width=862&height=485&imformat=generic"
-      },
-      {
-        "title": "Experts say Australia appears 'willing to tolerate' rheumatic heart disease",
-        "rewrite": "Australia accused of 'tolerating' world-high rheumatic heart disease rates",
-        "url": "https://www.abc.net.au/news/2026-11-15/australia-criticised-over-indigenous-rheumatic-heart-disease/107377218",
-        "source": "ABC News Australia",
-        "published": "2026-11-15T06:01:48+11:00",
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
@@ -422,7 +432,74 @@
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
+        "is_new": false
+      },
+      {
+        "title": "Volume of illegal tobacco shrinks after years of rapid growth",
+        "rewrite": "Illegal tobacco market shrinking as record 730 tonnes seized in a quarter, government says",
+        "url": "https://www.abc.net.au/news/2026-11-15/illicit-tobacco-market-shrinks/107387590",
+        "source": "ABC News Australia",
+        "published": "2026-11-15T20:00:30+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "AUSTRALIA",
         "is_new": true
+      },
+      {
+        "title": "Australia's super nest egg is set to top $5 trillion. How well is it serving us?",
+        "rewrite": "Australia's super pile set to top $5 trillion... but is it serving members?",
+        "url": "https://www.abc.net.au/news/2026-11-16/is-super-serving-its-members-in-retirement/107387284",
+        "source": "ABC News Australia",
+        "published": "2026-11-16T05:00:00+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "AUSTRALIA",
+        "is_new": true
+      },
+      {
+        "title": "‘Corrupt contractor’ behind Pilbara bribe allegations still working on Big Build",
+        "rewrite": "'Corrupt contractor' behind Pilbara bribe allegations still working on Big Build",
+        "url": "https://www.theage.com.au/national/victoria/corrupt-contractor-behind-pilbara-bribe-allegations-still-working-on-big-build-20261116-p61dnk.html",
+        "source": "The Age",
+        "published": "2026-11-16T05:00:00+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "VICTORIA",
+        "is_new": true
+      },
+      {
+        "title": "Crime gang ‘fractures’ as former tobacco empire goes to war against itself",
+        "rewrite": "Tobacco crime gang 'fractures'... infighting suspected in two murders, shootings, arsons",
+        "url": "https://www.theage.com.au/national/victoria/crime-gang-fractures-as-former-tobacco-empire-goes-to-war-against-itself-20261115-p61e7a.html",
+        "source": "The Age",
+        "published": "2026-11-15T16:33:54+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "VICTORIA",
+        "is_new": true
+      },
+      {
+        "title": "One Nation denies link to racist Facebook page promoting Victorian candidate",
+        "rewrite": "One Nation denies link to racist Facebook page promoting Victorian candidate",
+        "url": "https://www.abc.net.au/news/2026-11-16/one-nation-ai-slop-group-joh-bauch/107383340",
+        "source": "ABC News Australia",
+        "published": "2026-11-16T05:00:00+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "VICTORIA",
+        "is_new": true
+      },
+      {
+        "title": "What Hanson's Victorian campaign absence says about One Nation",
+        "rewrite": "Where is Hanson? One Nation's Victorian campaign without its leader",
+        "url": "https://www.abc.net.au/news/2026-11-16/one-nation-victorian-election-where-is-pauline-hanson/107387414",
+        "source": "ABC News Australia",
+        "published": "2026-11-16T05:00:00+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "VICTORIA",
+        "is_new": true,
+        "image": "https://live-production.wcms.abc-cdn.net.au/5b47b16bc22cfbd693199608a21388f8?impolicy=wcms_watermark_news&cropH=1023&cropW=1819&xPos=0&yPos=0&width=862&height=485&imformat=generic"
       },
       {
         "title": "Police investigate suspected fatal stabbing of man in Melbourne's south-east",
@@ -436,60 +513,26 @@
         "is_new": false
       },
       {
-        "title": "‘They need to identify the body’: Father sues state over hotel quarantine after daughter’s death",
-        "rewrite": "Father sues Victoria over hotel quarantine after daughter's sudden death",
-        "url": "https://www.theage.com.au/national/victoria/they-need-to-identify-the-body-father-sues-state-over-hotel-quarantine-after-daughter-s-death-20261115-p61cdd.html?ref=rss",
-        "source": "The Age",
-        "published": "2026-11-15T05:00:00+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "image": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/8fcc84ef10bb2ebb0d54f7f741882b630e9b39a4"
-      },
-      {
-        "title": "Questions remain whether Victoria's election is tackling the big issues",
-        "rewrite": "Questions remain whether Victoria's election is tackling the big issues",
-        "url": "https://www.abc.net.au/news/2026-11-15/victorian-election-big-issues-crime-rate-focus-mental-health/107384002",
-        "source": "ABC News Australia",
-        "published": "2026-11-15T07:06:58+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false
-      },
-      {
-        "title": "Rival promises as parties rally at Victorian election campaign launches",
-        "rewrite": "Wilson and Carroll rally faithful at Victorian campaign launches",
-        "url": "https://www.abc.net.au/news/2026-11-15/labor-liberal-coalition-campaign-launches-health-youth-crime/107387220",
-        "source": "ABC News Australia",
-        "published": "2026-11-15T04:42:10+00:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": true
-      },
-      {
-        "title": "Victorian youth offenders could be sent to former prison for farm work under Coalition plan ahead of state election",
-        "rewrite": "Coalition plan: youth offenders sent to former prison for farm work",
-        "url": "https://7news.com.au/news/victorian-youth-offenders-could-be-sent-to-former-prison-for-farm-work-under-coalition-plan-ahead-of-state-election-c-23164184",
-        "source": "7News Victoria",
-        "published": "2026-11-15T06:21:44+00:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": true
-      },
-      {
-        "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
-        "rewrite": "Bitcoin ETFs bleed $2.35B in two weeks... BlackRock outflow streak hits 11",
-        "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak",
+        "title": "Bitcoin Falls to Four-Month Low Near $62K as Crypto Market Slides",
+        "rewrite": "Bitcoin hits four-month low near $62K before rebounding above $65K",
+        "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff",
         "source": "Cointelegraph",
-        "published": "2026-11-14T17:33:13+11:00",
+        "published": "2026-11-15T21:23:17+11:00",
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": false
+        "is_new": true
+      },
+      {
+        "title": "Binance targets full reopening of withdrawals by end of this week",
+        "rewrite": "Binance targets full reopening of withdrawals by end of week",
+        "url": "https://nypost.com/2026/11/15/business/binance-targets-full-reopening-of-withdrawals-by-end-of-this-week/",
+        "source": "New York Post",
+        "published": "2026-11-16T05:24:35+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "MARKETS",
+        "is_new": true
       },
       {
         "title": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
@@ -503,22 +546,22 @@
         "is_new": false
       },
       {
-        "title": "Nvidia stock slide wipes out more than $20B in value for Jensen Huang over 5 days",
-        "rewrite": "Nvidia slide wipes out ~$20B of Huang's stake in a week",
-        "url": "https://www.foxbusiness.com/markets/nvidia-stock-slide-wipes-out-billions-value-jensen-huang-days",
-        "source": "Fox Business",
-        "published": "2026-11-14T06:40:12+11:00",
+        "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+        "rewrite": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade",
+        "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+        "source": "CNBC",
+        "published": "2026-11-15T02:50:43+11:00",
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": false
+        "is_new": true
       },
       {
-        "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
-        "rewrite": "MegaETH parent cuts 20% of staff in AI pivot",
-        "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push",
+        "title": "Coinone Warns of Phishing, Identity Theft After Data Breach",
+        "rewrite": "Korean exchange Coinone warns of phishing after customer data breach",
+        "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information",
         "source": "Cointelegraph",
-        "published": "2026-11-14T08:12:30.048000+00:00",
+        "published": "2026-11-15T19:07:58+11:00",
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
@@ -533,49 +576,83 @@
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": true
+        "is_new": false
       }
     ],
     "right": [
+      {
+        "title": "Trident submarine returns home after record-breaking patrol - as Streeting warns Russia Britain's nukes 'not up for negotiation'",
+        "rewrite": "Trident sub home after record patrol... Streeting tells Putin Britain's nukes 'not up for negotiation'",
+        "url": "https://www.dailymail.com/news/article-16294485/Trident-submarine-returns-home-record-breaking.html",
+        "source": "Daily Mail",
+        "published": "2026-11-16T04:55:19+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "UK",
+        "is_new": true
+      },
+      {
+        "title": "Chinese AI firm linked to Iran tracked RAF base and US bombers for months",
+        "rewrite": "Chinese AI firm linked to Iran tracked RAF Fairford and U.S. bombers for months",
+        "url": "https://www.gbnews.com/news/raf-fairford-chinese-ai-firm-iran",
+        "source": "GB News",
+        "published": "2026-11-16T01:08:02+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "UK",
+        "is_new": true,
+        "image": "https://www.gbnews.com/media-library/b1-bomber-takes-off-from-raf-fairford.jpg?id=65310674&width=1200&height=600&coordinates=0%2C410%2C0%2C424"
+      },
+      {
+        "title": "Army launches urgent review after spy infiltration fears exposed in leaked memo",
+        "rewrite": "Army launches urgent review over spy infiltration fears in leaked memo",
+        "url": "https://www.gbnews.com/news/army-launch-urgent-review-after-spy-infiltration-fears-exposed-in-leaked-memo",
+        "source": "GB News",
+        "published": "2026-11-16T00:52:20+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "UK",
+        "is_new": true
+      },
+      {
+        "title": "Ministers accused of a 'cover-up' as number of crimes by foreigners is hidden in bid to protect their rights",
+        "rewrite": "Ministers accused of 'cover-up' as number of crimes by foreigners kept hidden",
+        "url": "https://www.dailymail.com/news/article-16293275/Ministers-crimes-foreigners-hidden-protect-rights.html",
+        "source": "Daily Mail",
+        "published": "2026-11-15T11:15:25+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "UK",
+        "is_new": true
+      },
+      {
+        "title": "Will Burnham bow to Labour rebels over Rosebank? PM sees 'up to 100' of his own MPs mobilise to oppose North Sea oilfield",
+        "rewrite": "Burnham faces first major rebellion as Labour MPs push to block Rosebank oilfield",
+        "url": "https://www.dailymail.com/news/article-16293993/Will-Burnham-bow-Labour-rebels-Rosebank-PM-sees-100-MPs-mobilise-oppose-North-Sea-oilfield.html",
+        "source": "Daily Mail",
+        "published": "2026-11-15T19:29:26+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "UK",
+        "is_new": true
+      },
+      {
+        "title": "Age of consent: Pat McFadden says changes to law will be discussed after Brand allegations",
+        "rewrite": "Age of consent changes to be discussed after Russell Brand allegations",
+        "url": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do",
+        "source": "BBC News",
+        "published": "2026-11-15T23:31:20+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "UK",
+        "is_new": true
+      },
       {
         "title": "Migrant rape suspect was free to come and go from notorious asylum camp for months, undercover investigation reveals",
         "rewrite": "Migrant rape suspect was free to come and go from notorious asylum camp for months, undercover...",
         "url": "https://www.dailymail.com/news/article-16293277/Migrant-rape-suspect-free-notorious-asylum-camp-undercover-investigation.html",
         "source": "Daily Mail",
         "published": "2026-11-15T11:02:25+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "UK",
-        "is_new": false
-      },
-      {
-        "title": "Man charged in US for RAF Fairford plot 'was dual-British national who was stripped of his citizenship last month after he fled to Middle East'",
-        "rewrite": "Man charged in RAF Fairford plot was stripped of British citizenship after fleeing: reports",
-        "url": "https://www.dailymail.com/news/article-16292655/RAF-Fairford-plot-British-national-stripped-citizenship.html",
-        "source": "Daily Mail",
-        "published": "2026-11-15T03:52:18+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "UK",
-        "is_new": false
-      },
-      {
-        "title": "Are these the drones that sparked US panic at RAF Lakenheath? Flashing lights seen near base days after America evacuated planes amid Iran threat",
-        "rewrite": "Footage appears to show suspected drones behind RAF Lakenheath alert",
-        "url": "https://www.dailymail.com/news/article-16292335/Drones-hover-RAF-bases-residents-sirens.html",
-        "source": "Daily Mail",
-        "published": "2026-11-15T03:31:32+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "UK",
-        "is_new": false
-      },
-      {
-        "title": "Nigel Farage hack exposed: Reform UK leader targeted by French spy",
-        "rewrite": "Farage targeted by ex-French spy who tried to access his finances",
-        "url": "https://www.gbnews.com/politics/nigel-farage-hack-exposed-reform-uk-leader-targeted-french-spy",
-        "source": "GB News",
-        "published": "2026-11-14T23:27:01+11:00",
         "slot": "column",
         "urgent": false,
         "section": "UK",
@@ -593,37 +670,48 @@
         "is_new": false
       },
       {
-        "title": "Channel migrant found dead on French beach after failed small boat crossing",
-        "rewrite": "Channel migrant found dead on French beach after failed crossing",
-        "url": "https://www.gbnews.com/news/channel-migrant-found-dead-french-beach-failed-small-boat-crossing",
-        "source": "GB News",
-        "published": "2026-11-15T00:11:25+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "UK",
-        "is_new": false
-      },
-      {
-        "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
-        "rewrite": "Milburn: Young people need legal job guarantee... or lose benefits",
-        "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo",
+        "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says ",
+        "rewrite": "Suspected China spy linked to ex-Nvidia boss left Megaspeed in 2025, company says",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
         "source": "BBC News",
-        "published": "2026-11-15T00:48:37+11:00",
+        "published": "2026-11-16T01:56:21+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "UK",
-        "is_new": false
+        "section": "TECHNOLOGY",
+        "is_new": true
       },
       {
-        "title": "Met Police start using What3Words after GPS blunder led to fatal crash that killed budding lawyer, 24, her friend, 19, and uncle, 36",
-        "rewrite": "Met Police adopt What3Words after GPS blunder linked to fatal crash",
-        "url": "https://www.dailymail.com/news/article-16293359/Met-Police-use-what3words-GPS-blunder-led-fatal-crash-killed-three.html",
-        "source": "Daily Mail",
-        "published": "2026-11-15T01:38:02+00:00",
+        "title": "'Piece of Sh*t': Nvidia Founder Jensen Huang Was Beating Himself Up in Final Days as CEO",
+        "rewrite": "Huang was 'beating himself up' in final days as Nvidia CEO",
+        "url": "https://www.breitbart.com/tech/2026/11/15/piece-of-sht-nvidia-founder-jensen-huang-was-beating-himself-up-in-final-days-as-ceo/",
+        "source": "Breitbart",
+        "published": "2026-11-16T01:46:05+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "UK",
+        "section": "TECHNOLOGY",
         "is_new": true
+      },
+      {
+        "title": "Fake AI event invites target Microsoft and Google logins",
+        "rewrite": "Fake OpenAI event invites used to steal Microsoft and Google logins",
+        "url": "https://www.foxnews.com/tech/fake-ai-event-invites-target-microsoft-google-logins",
+        "source": "Fox News",
+        "published": "2026-11-16T02:51:15+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "TECHNOLOGY",
+        "is_new": true
+      },
+      {
+        "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+        "rewrite": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+        "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo",
+        "source": "BBC News",
+        "published": "2026-11-15T09:09:40+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "TECHNOLOGY",
+        "is_new": false
       },
       {
         "title": "Italy fines Meta €805m over accessing users' photos",
@@ -638,17 +726,6 @@
         "image": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg"
       },
       {
-        "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-        "rewrite": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-        "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo",
-        "source": "BBC News",
-        "published": "2026-11-15T09:09:40+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false
-      },
-      {
         "title": "Thousands turn out in Edinburgh to protest against AI data centres",
         "rewrite": "Thousands turn out in Edinburgh to protest against AI data centres",
         "url": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo",
@@ -660,37 +737,59 @@
         "is_new": false
       },
       {
-        "title": "Microsoft says services fully restored after day-long global outage",
-        "rewrite": "Microsoft says services fully restored after day-long global outage",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
-        "source": "BBC News",
-        "published": "2026-11-14T17:42:27+11:00",
+        "title": "Box Office: Domestic Ticket Sales Up 20% From Last Year as Hollywood Awaits ‘Hunger Games’ Prequel, ‘Dune 3’ and ‘Avengers: Doomsday’",
+        "rewrite": "BOX OFFICE: Domestic ticket sales up 20% on last year ahead of 'Hunger Games', 'Dune 3', 'Avengers'",
+        "url": "https://variety.com/2026/film/box-office/box-office-domestic-ticket-sales-increase-hunger-games-dune-3-avengers-doomsday-1236948160/",
+        "source": "Variety",
+        "published": "2026-11-16T06:04:29+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false
+        "section": "ENTERTAINMENT",
+        "is_new": true
       },
       {
-        "title": "Another Day, Another Outage: HR Platform Workday Suffers Massive Failure Impacting Millions of Workers",
-        "rewrite": "Another day, another outage: Workday failure hits millions of workers",
-        "url": "https://www.breitbart.com/tech/2026/11/14/another-day-another-outage-hr-platform-workday-suffers-massive-failure-impacting-millions-of-workers/",
-        "source": "Breitbart",
-        "published": "2026-11-15T02:07:48+11:00",
+        "title": "Rock & Roll Hall of Fame Ceremony Gets Fired Up With Live-Wire Numbers From U2, the Chili Peppers, Usher, Cynthia Erivo, Sienna Spiro, Aerosmith and More",
+        "rewrite": "U2, Chili Peppers, Usher, Aerosmith fire up Rock & Roll Hall of Fame ceremony",
+        "url": "https://variety.com/2026/music/news/rock-roll-hall-fame-induction-ceremony-2026-performances-1236948068/",
+        "source": "Variety",
+        "published": "2026-11-16T05:33:42+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false
+        "section": "ENTERTAINMENT",
+        "is_new": true
       },
       {
-        "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
-        "rewrite": "OpenAI launches ChatGPT wallet for AI agent payments with Visa, Mastercard, Amex",
-        "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex",
-        "source": "Cointelegraph",
-        "published": "2026-11-14T09:01:03+11:00",
+        "title": "Richard Sterban, Oak Ridge Boys’ Bass Singer, Dies at 83",
+        "rewrite": "Oak Ridge Boys bass singer Richard Sterban dies at 83",
+        "url": "https://www.hollywoodreporter.com/music/music-news/richard-sterban-dead-oak-ridge-boys-bass-singer-1236755545/",
+        "source": "The Hollywood Reporter",
+        "published": "2026-11-15T11:39:33+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false
+        "section": "ENTERTAINMENT",
+        "is_new": true
+      },
+      {
+        "title": "Bowen Yang Makes Surprise ‘SNL’ Appearance as Jensen Huang as John Mulaney Pokes at FAA Ground Stop and Microsoft Outage in Cold Open",
+        "rewrite": "'SNL': Bowen Yang returns as Jensen Huang as Mulaney mocks FAA ground stop",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/bowen-yang-snl-john-mulaney-ground-stop-microsoft-1236755542/",
+        "source": "The Hollywood Reporter",
+        "published": "2026-11-15T15:57:39+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": true
+      },
+      {
+        "title": "‘Frisco King’ release date: Here’s when Taylor Sheridan’s buzzy ‘Tulsa King’ spinoff drops",
+        "rewrite": "Release date set for Taylor Sheridan's 'Tulsa King' spinoff 'Frisco King'",
+        "url": "https://decider.com/2026/11/15/frisco-king-release-date-cast-premiere-date-where-to-watch-taylor-sheridans-tulsa-king-spinoff/",
+        "source": "Decider",
+        "published": "2026-11-16T05:30:00+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": true
       },
       {
         "title": "Box Office: Johnny Depp’s ‘Ebenezer’ Leads With $6.7 Million on Opening Day, ‘How to Rob a Bank’ Struggling With $2.2 Million on Friday",
@@ -702,71 +801,16 @@
         "urgent": false,
         "section": "ENTERTAINMENT",
         "is_new": false
-      },
-      {
-        "title": "‘Below Deck’ star arrested after brawl leaves 17-year-old dead",
-        "rewrite": "'Below Deck' star arrested in Turkey after brawl leaves teen dead",
-        "url": "https://www.foxnews.com/entertainment/below-deck-star-arrested-after-brawl-leaves-17-year-old-dead",
-        "source": "Fox News",
-        "published": "2026-11-15T04:00:27+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false
-      },
-      {
-        "title": "James Gunn Says ‘No One From Skydance’ Has Seen ‘Superman’ Sequel ‘Man of Tomorrow’ as Rumors Fly After His DC Studios Exit",
-        "rewrite": "Gunn: 'No one from Skydance' has seen 'Man of Tomorrow'",
-        "url": "https://variety.com/2026/film/news/james-gunn-skydance-superman-man-of-tomorrow-dc-exit-1236947669/",
-        "source": "Variety",
-        "published": "2026-11-15T02:27:58+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false
-      },
-      {
-        "title": "Adam Driver Says Disney Killing ‘The Hunt for Ben Solo’ Felt ‘Criminal’: ‘Steven Soderbergh Wants to Make a “Star Wars” Movie. What Are We Debating?’",
-        "rewrite": "Adam Driver: Disney killing 'Hunt for Ben Solo' felt 'criminal'",
-        "url": "https://variety.com/2026/film/news/adam-driver-disney-hunt-for-ben-solo-criminal-1236947685/",
-        "source": "Variety",
-        "published": "2026-11-15T03:02:04+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false
-      },
-      {
-        "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
-        "rewrite": "'Electric Company' actor and voice of 'Fritz the Cat' Skip Hinnant dies at 86",
-        "url": "https://variety.com/2026/tv/news/skip-hinnant-dead-electric-company-fritz-the-cat-bakshi-1236947741/",
-        "source": "Variety",
-        "published": "2026-11-15T05:13:00+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false
-      },
-      {
-        "title": "Amanda Seyfried to Make Her Debut as 'Saturday Night Live' Host",
-        "rewrite": "Amanda Seyfried to make 'SNL' hosting debut Dec. 5",
-        "url": "https://variety.com/2026/tv/news/amanda-seyfried-snl-host-debut-december-don-toliver-1236947942/",
-        "source": "Variety",
-        "published": "2026-11-15T05:25:10+00:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": true
       }
     ]
   },
-  "image_url": "https://i.dailymail.com/1s/2026/11/15/00/112513735-0-image-a-8_1794701461003.jpg",
+  "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/0351/live/2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg",
   "counts": {
-    "total": 67,
+    "total": 71,
     "featured": 4,
     "columns": {
-      "left": 21,
-      "center": 21,
+      "left": 22,
+      "center": 24,
       "right": 20
     },
     "feeds_ok": 42,

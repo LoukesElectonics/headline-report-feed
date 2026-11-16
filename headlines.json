@@ -1,77 +1,101 @@
 {
   "title": "THE NEWS REPORT",
   "generated": {
-    "date": "Monday, 16 November 2026",
-    "display": "Monday, November 16, 2026  1:10 PM AEDT (Australia/Sydney)",
-    "iso": "2026-11-16T13:10:10.522523+11:00",
-    "time": "1:10 PM AEDT",
+    "date": "Tuesday, 17 November 2026",
+    "display": "Tuesday, November 17, 2026  6:07 AM AEDT (Australia/Sydney)",
+    "iso": "2026-11-17T06:07:10.742940+11:00",
+    "time": "6:07 AM AEDT",
     "timezone": "Australia/Sydney"
   },
   "lean": "centre-right",
   "top": {
-    "title": "Iran targets US military base in Bahrain with drone attack",
-    "rewrite": "IRAN LAUNCHES DRONE ATTACK ON U.S. BASE IN BAHRAIN... SECOND IN THREE DAYS... IRGC: 'STRAIT OF HORMUZ IS CLOSED'",
-    "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo",
+    "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+    "rewrite": "RUSSIA: 2,049 UKRAINIAN DRONES IN BIGGEST ATTACK OF WAR... CRIMEA BRIDGE HIT, REFINERIES STRUCK",
+    "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o",
     "source": "BBC News",
-    "published": "2026-11-16T00:42:58+11:00",
+    "published": "2026-11-16T14:58:12+00:00",
     "slot": "top",
     "urgent": false,
     "section": "WORLD",
-    "is_new": false,
-    "summary": "Iran's Revolutionary Guards say six drones targeted a US air defence radar at al-Riffa air base on Sunday. Bahrain says its air defences intercepted them before they hit anything. It follows Friday's drone attack, Iran's first on a Gulf state since September, as the US-Iran stand-off over the Strait of Hormuz continues."
+    "is_new": true,
+    "summary": "Russia's military says it intercepted 2,049 Ukrainian drones over a single day, the most since the war began. The Kerch bridge linking Russia to occupied Crimea, one of Putin's signature projects, sustained minor damage and several oil refineries were hit, while Kyiv came under a record 17 air raid alerts."
   },
   "featured": [
     {
-      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "rewrite": "ZELENSKY TO U.S. AND MUSK: LIFT STARLINK LIMITS... 'BE ON THE RIGHT SIDE OF HISTORY'",
-      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
-      "source": "BBC News",
-      "published": "2026-11-16T04:57:09+11:00",
+      "title": "Trump says he ‘may meet’ North Korea’s Kim Jong Un in China",
+      "rewrite": "TRUMP: I 'MAY' MEET KIM JONG UN IN CHINA... ALREADY SET FOR THREE-WAY SUMMIT WITH XI, PUTIN",
+      "url": "https://nypost.com/2026/11/16/us-news/trump-says-he-may-meet-north-koreas-kim-jong-un-in-china/",
+      "source": "New York Post",
+      "published": "2026-11-17T01:48:21+11:00",
       "slot": "featured:1",
       "urgent": false,
       "section": "WORLD",
-      "is_new": false,
-      "summary": "Zelensky says the Starshield service, a military-grade Starlink link supplied by the US government, is still running too slowly for Ukraine to stop Russian attacks. He says protecting lives and energy infrastructure before winter depends on the limits being lifted. The BBC has asked the White House and Starlink to respond."
+      "is_new": true,
+      "summary": "Trump said on Monday he 'may' see the North Korean leader during his upcoming China visit. The trip already includes a three-way summit with Xi Jinping and Vladimir Putin; Trump suggested Kim's presence is up to Xi."
     },
     {
-      "title": "John Fetterman threatens to flip to Republican if his party make 'troubling' majority leader pick",
-      "rewrite": "FETTERMAN: VAN HOLLEN AS LEADER WOULD BE 'TROUBLING'... SIGNALS HE COULD WALK AWAY FROM DEMOCRATS",
-      "url": "https://www.dailymail.com/news/article-16294275/John-Fetterman-threatens-flip-Republican-troubling-majority-leader.html",
-      "source": "Daily Mail",
-      "published": "2026-11-16T01:26:11+11:00",
+      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+      "rewrite": "Trump 'would certainly not mind' Jensen Huang back at Nvidia as 'Bring Jensen Back' campaign launches",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
+      "source": "BBC News",
+      "published": "2026-11-16T11:45:40+00:00",
       "slot": "featured:2",
       "urgent": false,
-      "section": "US",
-      "is_new": false,
-      "summary": "In his first interview since the midterms, Fetterman told Fox's Kayleigh McEnany that electing Chris Van Hollen as majority leader would make him reassess his party allegiance. He cited Van Hollen's record as 'very anti-hostile to Israel' and said he could leave if the party keeps moving left."
+      "section": "TECHNOLOGY",
+      "is_new": true,
+      "summary": "Trump said he 'would certainly not mind' seeing Huang reinstated as allies and tech figures urged Nvidia's board to give him his job back. Huang resigned as chief executive last week after two affairs emerged."
     },
     {
-      "title": "Trump's top officials retreat behind military gates as ex-FBI deputy points to what's fueling threats",
-      "rewrite": "Bessent moves to military base amid Iran threats... joins top Trump officials living behind military gates",
-      "url": "https://www.foxnews.com/politics/trumps-top-officials-retreat-behind-military-gates-ex-fbi-deputy-points-whats-fueling-threats",
-      "source": "Fox News",
-      "published": "2026-11-16T00:00:14+11:00",
+      "title": "Trump stands by Duffy and Lutnick after FAA ground stop and Nvidia controversies",
+      "rewrite": "Trump stands by Duffy and Lutnick after FAA ground stop and Nvidia spy scandal... GOP scrutiny of Lutnick grows",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4804552/trump-stands-by-duffy-and-lutnick-after-faa-ground-stop-and-nvidia-controversies/",
+      "source": "Washington Examiner",
+      "published": "2026-11-17T03:27:37+11:00",
       "slot": "featured:3",
       "urgent": false,
       "section": "US",
-      "is_new": false,
-      "summary": "Treasury Secretary Scott Bessent has moved his family to a military base over reported Iranian threats, joining Todd Blanche, Marco Rubio and Pete Hegseth. Ex-FBI deputy director Dan Bongino blames a 'permission structure on the left for violence' combined with easy tracking of officials for the surge in threats."
+      "is_new": true,
+      "summary": "Trump is backing both secretaries, but congressional Republicans are increasingly questioning Lutnick over his decision to delay restrictions on the company linked to the Chinese spy at the centre of the Huang affair. Duffy is under fire over last week's nationwide FAA ground stop."
     },
     {
-      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-      "rewrite": "Israel kills Hamas commander who helped plan October 7 attack",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo",
-      "source": "BBC News",
-      "published": "2026-11-15T19:17:41+11:00",
+      "title": "Mamdani disbands counter-terrorism and riot response unit",
+      "rewrite": "MAMDANI DISBANDS NYPD COUNTER-TERROR AND RIOT UNIT... CIVILIANS TO TAKE OVER PROTEST ROLE",
+      "url": "https://www.theblaze.com/news/mamdani-riot-cops-counter-terrorism",
+      "source": "The Blaze",
+      "published": "2026-11-17T03:00:00+11:00",
       "slot": "featured:4",
       "urgent": false,
-      "section": "WORLD",
-      "is_new": false,
-      "summary": "Samir Abu Younis, newly appointed commander of Hamas's Rafah Brigade and an alleged planner of the 7 October attack, was killed on Saturday in Al-Mawasi, southern Gaza. Witnesses say four missiles hit a tent in a camp sheltering hundreds of displaced people. Israel says it took steps to limit civilian harm."
+      "section": "US",
+      "is_new": true,
+      "summary": "The mayor announced the end of the Strategic Response Group in a video on Monday, saying counterterrorism and protest response 'should be separated'. A new community dialogue and de-escalation division in the Mayor's Office of Community Safety will use non-uniformed civilians; police unions blasted the move."
     }
   ],
   "columns": {
     "left": [
+      {
+        "title": "John Fetterman threatens to flip to Republican if his party make 'troubling' majority leader pick",
+        "rewrite": "FETTERMAN: VAN HOLLEN AS LEADER WOULD BE 'TROUBLING'... SIGNALS HE COULD WALK AWAY FROM DEMOCRATS",
+        "url": "https://www.dailymail.com/news/article-16294275/John-Fetterman-threatens-flip-Republican-troubling-majority-leader.html",
+        "source": "Daily Mail",
+        "published": "2026-11-16T01:26:11+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": false,
+        "summary": "In his first interview since the midterms, Fetterman told Fox's Kayleigh McEnany that electing Chris Van Hollen as majority leader would make him reassess his party allegiance. He cited Van Hollen's record as 'very anti-hostile to Israel' and said he could leave if the party keeps moving left."
+      },
+      {
+        "title": "Trump's top officials retreat behind military gates as ex-FBI deputy points to what's fueling threats",
+        "rewrite": "Bessent moves to military base amid Iran threats... joins top Trump officials living behind military gates",
+        "url": "https://www.foxnews.com/politics/trumps-top-officials-retreat-behind-military-gates-ex-fbi-deputy-points-whats-fueling-threats",
+        "source": "Fox News",
+        "published": "2026-11-16T00:00:14+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": false,
+        "summary": "Treasury Secretary Scott Bessent has moved his family to a military base over reported Iranian threats, joining Todd Blanche, Marco Rubio and Pete Hegseth. Ex-FBI deputy director Dan Bongino blames a 'permission structure on the left for violence' combined with easy tracking of officials for the surge in threats."
+      },
       {
         "title": "Van Hollen says Schumer spreading ‘misinformation’ about leadership votes",
         "rewrite": "Van Hollen accuses Schumer of spreading 'misinformation' on leadership vote count",
@@ -85,16 +109,16 @@
         "summary": "Van Hollen, who launched his challenge on Thursday, says several Democratic senators have switched from Schumer to him. On ABC's This Week he said there is 'no doubt' he has a path to the majority leader job and accused Schumer of trying to 'instill fear' in his backers."
       },
       {
-        "title": "Inside Senate GOP's tense post-election reckoning as Thune clashes with Republican critics",
-        "rewrite": "Inside Senate GOP's tense post-election reckoning as Thune clashes with critics",
-        "url": "https://www.foxnews.com/politics/inside-senate-gops-tense-post-election-reckoning-thune-clashes-republican-critics",
-        "source": "Fox News",
-        "published": "2026-11-15T23:00:37+11:00",
+        "title": "Sanders endorses Van Hollen for Senate leader: ‘This is not a personality contest’",
+        "rewrite": "Sanders endorses Van Hollen over Schumer: 'This is not a personality contest'",
+        "url": "https://www.washingtonexaminer.com/news/senate/4804520/bernie-sanders-endorses-chris-van-hollen-senate-majority-leader/",
+        "source": "Washington Examiner",
+        "published": "2026-11-17T02:31:53+11:00",
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": false,
-        "summary": "Senate Republicans kept John Thune as leader by acclamation after an hours-long closed-door meeting some compared to 'Festivus'. It was their first since Democrats won back the majority. Thune says cost-of-living worries drove the midterm result."
+        "is_new": true,
+        "summary": "The Vermont independent says the party needs a new direction after its sweeping midterm win. His backing boosts Van Hollen's challenge for Senate Democratic leader."
       },
       {
         "title": "Mike Pence knifes Trump for not drawing a harder line on China ahead of Xi and Putin meeting this week",
@@ -145,18 +169,6 @@
         "summary": "A cargo plane and a passenger plane collided while both were taxiing at Miami International Airport around 9:15pm Saturday. The FAA is investigating. It came a day after a nationwide ground stop halted flights at every US airport."
       },
       {
-        "title": "Biden-Appointed Judge Stops Closure of D.C. Golf Course Trump Wants Renovated",
-        "rewrite": "Biden-appointed judge halts Trump's D.C. golf course closure",
-        "url": "https://www.breitbart.com/politics/2026/11/15/34173102biden-appointed-judge-stops-closure-of-dc-golf-course-trump-wants-renovated/",
-        "source": "Breitbart",
-        "published": "2026-11-16T02:23:19+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "US District Judge Ana Reyes issued a two-week restraining order on Saturday, a day before East Potomac Golf Links was due to close for 15 months. Trump announced in May a 'historic renovation' to prepare the public course on federal land to host major professional events."
-      },
-      {
         "title": "Horror moment police smash van's windows before they shoot kidnapping suspect dead after harrowing 911 call heard woman scream 'let me go'",
         "rewrite": "Video: NYPD smash van windows before shooting kidnapping suspect dead",
         "url": "https://www.dailymail.com/news/article-16294441/police-shoot-kidnapping-suspect-brooklyn.html",
@@ -181,18 +193,6 @@
         "summary": "Spokane Superior Court Judge Marla Polin issued a permanent injunction on Friday, finding Adams County Sheriff Dale Wagner shared jail rosters and release dates with ICE and let agents interview inmates. The suit was brought by Attorney General Nick Brown in 2025. Wagner calls it politically motivated and plans to appeal."
       },
       {
-        "title": "Congress Probes Disturbing String Of Suicides At NSA, Cyber Command",
-        "rewrite": "Congress probes string of suicides at NSA, Cyber Command",
-        "url": "https://dailycaller.com/2026/11/14/congress-suicides-nsa-cyber-command-japan-times",
-        "source": "Daily Caller",
-        "published": "2026-11-15T04:01:07+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "At least 11 people working for the NSA and US Cyber Command have died by suicide in the past year, including five within about a month that officials classed as a cluster. Congress and the White House are looking into it and working hours have been restricted. Officials have not found that work pressure caused the deaths."
-      },
-      {
         "title": "Hundreds gather to remember ‘loving’ young construction worker killed in Brooklyn building collapse: ‘He was always smiling’",
         "rewrite": "Hundreds gather to remember young worker killed in Brooklyn building collapse",
         "url": "https://nypost.com/2026/11/14/us-news/hundreds-gather-to-remember-loving-young-construction-worker-killed-in-brooklyn-building-collapse-he-was-always-smiling/",
@@ -206,18 +206,6 @@
         "summary": "About 300 people gathered in Corona, Queens, on Saturday for Gabriel Siguencia, 22, one of eight people killed when a three-storey Brooklyn building collapsed on Wednesday. His father described him as loving and cheerful. He had planned to marry the mother of his three-year-old son."
       },
       {
-        "title": "US reportedly loses longstanding measles elimination status as cases surge nationwide",
-        "rewrite": "U.S. reportedly loses measles elimination status after 26 years",
-        "url": "https://www.foxnews.com/health/us-loses-longstanding-measles-elimination-status-cases-surge-nationwide",
-        "source": "Fox News",
-        "published": "2026-11-15T06:17:16+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "The Wall Street Journal reports the US has lost the measles elimination status it held for 26 years, meaning the same chain of transmission has persisted for 12 months. PAHO is expected to announce it on 17 November. Wisconsin has reported its first measles death in 36 years, an infant."
-      },
-      {
         "title": "Report: Democrats Take Control of State Legislatures Dominated by Republicans for 15+ Years",
         "rewrite": "Report: Democrats Take Control of State Legislatures Dominated by Republicans for 15+ Years",
         "url": "https://www.breitbart.com/politics/2026/11/15/report-democrats-take-control-of-state-legislatures-dominated-by-republicans-for-15-years/",
@@ -226,7 +214,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "NPR's nationwide count shows the midterms ended Republican control of state legislatures that began in 2010, a shift it called 'historic'. Democratic legislatures can now rewrite laws on taxes, abortion, health care, school funding and school choice."
       },
       {
@@ -238,32 +226,56 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "A Washington Post report highlights a renewed Democratic push behind the National Popular Vote Interstate Compact, under which states pledge their electors to the national popular vote winner. It would take effect once member states reach 270 electoral votes and would likely face a Supreme Court challenge."
       },
       {
-        "title": "Sen.-elect Scott Colom undecided in Van Hollen-Schumer race: ‘I’m in listening mode’",
-        "rewrite": "Sen.-elect Scott Colom undecided in Van Hollen-Schumer race: 'I'm in listening mode'",
-        "url": "https://www.washingtonexaminer.com/news/senate/4804203/scott-colom-van-hollen-schumer-listening-mode/",
+        "title": "Resolution backing AOC 2028 presidential run passes at NYC Democratic Socialists of America meeting",
+        "rewrite": "Resolution backing AOC 2028 presidential run passes at NYC Democratic Socialists of America meeting",
+        "url": "https://www.washingtonexaminer.com/news/campaigns/presidential/4804331/resolution-aoc-2028-run-passes-nyc-democratic-socialists-meeting/",
         "source": "Washington Examiner",
-        "published": "2026-11-16T05:22:06+11:00",
+        "published": "2026-11-16T12:53:35+11:00",
         "slot": "column",
         "urgent": false,
         "section": "US",
         "is_new": true,
-        "summary": "Mississippi Democrat Scott Colom told NBC's Meet the Press he has not decided between Schumer and Van Hollen for caucus leader. He said a senator advised him to listen to colleagues first. He is one of several incoming freshmen yet to commit."
+        "summary": "The New York City chapter of the Democratic Socialists of America passed a resolution on Saturday urging Rep. Alexandria Ocasio-Cortez to run for president in 2028. Co-chair Gustavo Gordillo said DSA would create the conditions for such a campaign. The resolution is separate from the chapter's formal endorsement process."
       },
       {
-        "title": "‘Newly formed cracks’ at Chinatown senior complex spark call to halt high-rise-jail construction: ‘Serious concern’",
-        "rewrite": "'Newly formed cracks' at Chinatown senior complex spark call to halt high-rise-jail construction: 'Serious...",
-        "url": "https://nypost.com/2026/11/15/us-news/cracks-in-chinatown-senior-home-spark-call-to-halt-high-rise-jail-construction/",
-        "source": "New York Post",
-        "published": "2026-11-16T07:36:01+11:00",
+        "title": "Justices Thomas and Alito slam high court for rejecting challenge to ‘implicit bias’ training for doctors",
+        "rewrite": "Thomas, Alito dissent as Supreme Court refuses challenge to California 'implicit bias' training for doctors",
+        "url": "https://www.washingtonexaminer.com/news/supreme-court/4804553/justices-clarence-thomas-samuel-alito-slam-high-court-for-rejecting-challenge-implicit-bias-training-for-doctors/",
+        "source": "Washington Examiner",
+        "published": "2026-11-17T04:29:17+11:00",
         "slot": "column",
         "urgent": false,
         "section": "US",
         "is_new": true,
-        "summary": "Councilman Christopher Marte says he saw new cracks at Chung Pak, a senior housing complex at 96 Baxter St, next to the city's high-rise jail site. He has asked the Department of Buildings for a stop-work order until the damage is assessed. It comes days after the deadly Brooklyn building collapse."
+        "summary": "The court declined on Monday to hear the free-speech challenge to California's mandatory training for medical licence renewals. Justice Clarence Thomas led the dissent."
+      },
+      {
+        "title": "Ro Khanna calls for $1,700 Iran war ‘refund checks’ in first week of Democratic majority",
+        "rewrite": "Khanna wants $1,700 Iran war 'refund checks' in first week of Democratic majority",
+        "url": "https://www.washingtonexaminer.com/news/house/4804811/ro-khanna-iran-war-refund-checks-congress/",
+        "source": "Washington Examiner",
+        "published": "2026-11-17T05:59:53+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "The California Democrat says every American should get the rebate once Democrats retake Congress in 2027. 'Now Democrats have a chance to deliver,' he said in a statement on Monday."
+      },
+      {
+        "title": "Forensic expert says his analysis raises doubts about how Epstein died",
+        "rewrite": "Forensic expert tells BBC Epstein's injuries 'consistent with a homicide'",
+        "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo",
+        "source": "BBC News",
+        "published": "2026-11-16T18:57:48+00:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Professor Michael Freeman told BBC Newsnight he reviewed the New York City medical examiner's file and believes Epstein's death in prison was homicide, not suicide. Epstein was awaiting trial on sex-trafficking charges when he was found dead in his cell."
       },
       {
         "title": "Bessent urges Nvidia to look outside the company for new CEO after Jensen Huang’s resignation: ‘Dramatic shakeup’",
@@ -332,9 +344,9 @@
         "source": "Daily Mail",
         "published": "2026-11-16T11:08:42+11:00",
         "slot": "column",
-        "urgent": true,
+        "urgent": false,
         "section": "BUSINESS",
-        "is_new": true,
+        "is_new": false,
         "summary": "Coles has brought in global experts to 'contain and secure' its IT systems and is working with the Australian Cyber Security Centre. It says it has found no evidence that customer, staff or supplier data was taken, and stores and online orders are running as normal."
       },
       {
@@ -346,11 +358,35 @@
         "slot": "column",
         "urgent": false,
         "section": "BUSINESS",
-        "is_new": true,
+        "is_new": false,
         "summary": "IBISWorld counts about 2.3 gigawatts of capacity across 79 Australian data centres, and analyst Andrew Ledovskikh says the pipeline has 'exploded' in the past year. The construction boom is now being blamed for adding to inflation, and more neighbourhoods are pushing back against new sites, as has happened in the US."
       }
     ],
     "center": [
+      {
+        "title": "Iran targets US military base in Bahrain with drone attack",
+        "rewrite": "IRAN LAUNCHES DRONE ATTACK ON U.S. BASE IN BAHRAIN... SECOND IN THREE DAYS... IRGC: 'STRAIT OF HORMUZ IS CLOSED'",
+        "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo",
+        "source": "BBC News",
+        "published": "2026-11-16T00:42:58+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": false,
+        "summary": "Iran's Revolutionary Guards say six drones targeted a US air defence radar at al-Riffa air base on Sunday. Bahrain says its air defences intercepted them before they hit anything. It follows Friday's drone attack, Iran's first on a Gulf state since September, as the US-Iran stand-off over the Strait of Hormuz continues."
+      },
+      {
+        "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+        "rewrite": "ZELENSKY TO U.S. AND MUSK: LIFT STARLINK LIMITS... 'BE ON THE RIGHT SIDE OF HISTORY'",
+        "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
+        "source": "BBC News",
+        "published": "2026-11-16T04:57:09+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": false,
+        "summary": "Zelensky says the Starshield service, a military-grade Starlink link supplied by the US government, is still running too slowly for Ukraine to stop Russian attacks. He says protecting lives and energy infrastructure before winter depends on the limits being lifted. The BBC has asked the White House and Starlink to respond."
+      },
       {
         "title": "Estonia to CLOSE Russian border in two weeks after 'sabotage' attack",
         "rewrite": "ESTONIA TO CLOSE RUSSIAN BORDER FROM DEC. 1 AFTER FOILED GRU 'SABOTAGE' AT DRONE FACTORY",
@@ -376,54 +412,6 @@
         "summary": "A US intelligence assessment reported by the Wall Street Journal puts Iran's remaining stockpile at 1,500 to 2,500 missiles, meaning even the low estimate is about half its pre-war arsenal. Iran warned on Sunday its modified missiles could reach US bombers at RAF Fairford in England."
       },
       {
-        "title": "Report: Trump May Hold off on Renewed Iran Strikes Unless Tehran Provokes U.S.",
-        "rewrite": "Report: Trump may hold off on renewed Iran strikes unless Tehran provokes U.S.",
-        "url": "https://www.breitbart.com/politics/2026/11/15/report-trump-may-hold-off-on-renewed-iran-strikes-unless-tehran-provokes-u-s/",
-        "source": "Breitbart",
-        "published": "2026-11-15T22:07:46+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "Reuters, citing three people familiar with the talks, says Trump told advisers he may not resume strikes unless Iran or the Houthis provoke the US further. No final decision has been made. Gulf allies are urging restraint while Israel presses for more strikes, and Trump has sought the views of Saudi Arabia's crown prince and Turkey's Erdogan."
-      },
-      {
-        "title": "Trump scales back public appearances after CIA and Mossad intercept plans for Iranian drone attack... as the line of succession is shuffled away to secure locations",
-        "rewrite": "Report: Mossad warned CIA of Iranian drone plot to kill Trump",
-        "url": "https://www.dailymail.com/news/article-16292989/Trump-CIA-Mossad-Iran-drone-plot.html",
-        "source": "Daily Mail",
-        "published": "2026-11-15T11:19:37+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "Israel Hayom reports that Mossad told the CIA Iran plans to try to kill Trump with explosive drones, after Mossad chief Roman Gofman met CIA Director John Ratcliffe in Washington. Trump has not appeared in public since Wednesday after weeks of midterm rallies."
-      },
-      {
-        "title": "Three men sentenced to death in Jordan over church mass shooting",
-        "rewrite": "Jordan sentences three men to death over church funeral massacre",
-        "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo",
-        "source": "BBC News",
-        "published": "2026-11-15T22:06:32+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "A Jordanian court sentenced two brothers and their brother-in-law to death by hanging for terrorism over the 23 October attack. Nine people were killed and 34 injured at a funeral in a Greek Orthodox church in Karak. The men fled and were arrested three days later. They have not been named."
-      },
-      {
-        "title": "Nearly 2,200 Illegal Migrants Reached Canary Islands in Past Two Days",
-        "rewrite": "Nearly 2,200 illegal migrants reach Spain's Canary Islands in two days",
-        "url": "https://www.breitbart.com/europe/2026/11/15/nearly-2200-illegal-migrants-reached-spains-canary-islands-in-past-two-days/",
-        "source": "Breitbart",
-        "published": "2026-11-16T00:09:25+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "Spain's maritime rescue service says it helped 1,324 people aboard 14 dinghies, most landing on El Hierro, close to the route's daily record of 1,461 set in 2020. More than 13,000 of the 28,000 people who reached Spain by sea between January and October arrived in the Canaries."
-      },
-      {
         "title": "Iran vows ‘we will find you’ to 2 US Navy officers the day warship returns from Middle East",
         "rewrite": "Iran vows 'we will find you' to 2 US Navy officers the day warship returns from Middle East",
         "url": "https://www.foxnews.com/world/iran-vows-we-find-you-2-us-navy-officers-day-warship-returns-from-middle-east",
@@ -432,7 +420,7 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/spruance-san-diego.jpg",
         "summary": "Iran's embassy in South Africa posted on X on 13 November naming and picturing Cmdr Leigh Tate and Lt Cmdr Jeffrey York, the USS Spruance's commanding and executive officers. The destroyer returned to San Diego on Friday from a 357-day deployment that included combat against Iran. Analyst Behnam Taleblu says it should set off 'alarm bells'."
       },
@@ -445,8 +433,106 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "summary": "Speaking in New Delhi on Saturday, Biden's former secretary of state said Iran builds weapons so deep inside its territory that airstrikes alone may not destroy them. He said Iran's size and population of about 90 million make a land invasion, which may be needed to finish the job, an 'absolute disaster'."
+      },
+      {
+        "title": "Putin, Xi and Trump will discuss 'world peace' in meeting this week - but Ukraine is off the table",
+        "rewrite": "Trump, Xi, Putin to talk nuclear arms cuts and Iran this week... Ukraine off the table",
+        "url": "https://www.dailymail.com/news/article-16295711/Putin-Xi-Trump-discuss-world-peace-meeting-week-Ukraine-table.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-17T04:16:34+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "US officials say Trump wants to discuss reducing nuclear arsenals and raise the Iran war at the three-way meeting, but Russia's war in Ukraine is not expected to be discussed."
+      },
+      {
+        "title": "Five EU countries announce migrant deportation centre in Rwanda",
+        "rewrite": "Five EU countries to open migrant deportation 'return hub' in Rwanda",
+        "url": "https://www.bbc.co.uk/news/articles/cw987343352go",
+        "source": "BBC News",
+        "published": "2026-11-16T11:17:34+00:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "Germany, Denmark, Austria, Greece and the Netherlands expect the centre for failed asylum seekers to accept transfers in 2027. The Dutch and Danish governments announced it as part of a wider push to boost removals.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg"
+      },
+      {
+        "title": "South Africa shootings: 17 killed in Pietermaritzburg and Pretoria",
+        "rewrite": "17 killed in two mass shootings in South Africa",
+        "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo",
+        "source": "BBC News",
+        "published": "2026-11-16T10:57:48+00:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "Eight men were shot dead in a minibus in KwaZulu-Natal on Sunday night, and hours later nine people were killed in a second attack in Gauteng. Police say about 60 people are murdered every day in South Africa."
+      },
+      {
+        "title": "Malaysia Is Accused of Playing 'Decisive Role' in Helping Iran’s ‘Shadow Fleet’ Evade US Oil Blockade",
+        "rewrite": "Malaysia accused of 'decisive role' helping Iran's shadow fleet slip U.S. oil blockade",
+        "url": "https://freebeacon.com/national-security/malaysia-is-accused-of-playing-decisive-role-in-helping-irans-shadow-fleet-evade-us-oil-blockade/",
+        "source": "Washington Free Beacon",
+        "published": "2026-11-17T05:55:01+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "A watchdog group's shipping data and satellite monitoring suggest Malaysia is helping Iran's ghost fleet get oil past the US naval blockade, generating cash for Tehran."
+      },
+      {
+        "title": "Coalition leads Labor in new poll which spells wipeout for Albanese - with government on track to lose 40 seats",
+        "rewrite": "Roy Morgan poll: Coalition leads Labor... government on track to lose 40 seats",
+        "url": "https://www.dailymail.com/news/article-16295633/roy-morgan-labor-albanese-poll-coalition.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-17T01:12:42+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "AUSTRALIA",
+        "is_new": true,
+        "summary": "The new Roy Morgan poll puts the Coalition ahead of Labor and points to a wipeout for the Albanese government if an election were held today."
+      },
+      {
+        "title": "Australia backs Trump's AI alliance as US takes on China",
+        "rewrite": "Australia signs on to Trump's AI alliance as U.S. takes on China",
+        "url": "https://www.abc.net.au/news/2026-11-17/australia-signs-us-led-ai-supply-chain-agreement/107392252",
+        "source": "ABC News Australia",
+        "published": "2026-11-16T18:00:00+00:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "AUSTRALIA",
+        "is_new": true,
+        "summary": "Australia has signed a US-led AI supply chain agreement, moving closer to Washington as cheaper Chinese AI attracts interest across the region. Albanese told regional leaders they must 'shape AI' rather than the other way around.",
+        "image": "https://live-production.wcms.abc-cdn.net.au/df115608c873d0a54abdfc6005ca561f?impolicy=wcms_watermark_news&cropH=772&cropW=1373&xPos=119&yPos=3&width=862&height=485&imformat=generic"
+      },
+      {
+        "title": "Rudd-era mining tax could have boosted budget by $135b",
+        "rewrite": "PBO: Rudd's scrapped mining tax could have boosted budget by $135 billion",
+        "url": "https://www.abc.net.au/news/2026-11-17/kevin-rudd-labor-mining-super-profits-tax-budget-135-billion-pbo/107389174",
+        "source": "ABC News Australia",
+        "published": "2026-11-17T05:00:00+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "AUSTRALIA",
+        "is_new": true,
+        "summary": "A Parliamentary Budget Office analysis finds the abandoned tax, which led to Kevin Rudd's 2010 toppling, would have improved the budget by $135 billion."
+      },
+      {
+        "title": "Penny Wong defends taxpayer-funded COP31 'the movie' starring Moana actress - as Chris Bowen and Anthony Albanese are criticised over luxury hotel",
+        "rewrite": "Wong defends $3 million taxpayer-funded COP31 'movie' starring Moana actress",
+        "url": "https://www.dailymail.com/news/article-16295601/penny-wong-cop31-movie-anthony-albanese.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-16T20:35:45+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "AUSTRALIA",
+        "is_new": true,
+        "summary": "The film cost taxpayers $3 million and aired at the UN climate summit. Foreign Minister Penny Wong defended the spending."
       },
       {
         "title": "Albanese stands by Ukraine but won't rule out photo with Putin",
@@ -461,40 +547,16 @@
         "summary": "Albanese, who is at the ASEAN summit in Manila, where he will meet Trump, says he will consider China's wishes on a group photo at the APEC summit that could include Putin. He still calls the Ukraine invasion 'illegal and immoral' and has welcomed proposed talks between Russia, China and the US."
       },
       {
-        "title": "Chris Bowen brushes off crude hot mic 'd***' exchange with Anthony Albanese - insisting it was just a 'blokey, jokey conversation'",
-        "rewrite": "Chris Bowen brushes off crude hot mic 'd***' exchange with Anthony Albanese - insisting it was just a...",
-        "url": "https://www.dailymail.com/news/article-16293155/chris-bowen-hot-mic-chat-anthony-albanese-cop31.html",
-        "source": "Daily Mail",
-        "published": "2026-11-15T11:31:45+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "summary": "Albanese apologised on Sunday after a hot mic caught him and Climate Minister Chris Bowen joking about keeping phones in trouser pockets at COP31 in Antalya, with the PM using the word 'd***'. He said 'I, of course, regret that and I apologise', calling it light-hearted banter."
-      },
-      {
-        "title": "Controversial ex-Liberal candidate makes political comeback with One Nation after transgender comments sparked national firestorm",
-        "rewrite": "Katherine Deves returns on One Nation's NSW upper house ticket",
-        "url": "https://www.dailymail.com/news/article-16293681/katherine-deves-one-nation-nsw-parliament-pauline-hanson.html",
-        "source": "Daily Mail",
-        "published": "2026-11-15T06:05:01+00:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "summary": "Katherine Deves, the former Liberal candidate for Warringah, has joined One Nation's upper house ticket for the 2027 NSW election, four years after her comments on transgender people caused a national row. State leader Mike Newman named her alongside three others, saying the team 'bleeds orange'."
-      },
-      {
-        "title": "Volume of illegal tobacco shrinks after years of rapid growth",
-        "rewrite": "Illegal tobacco market shrinking as record 730 tonnes seized in a quarter, government says",
-        "url": "https://www.abc.net.au/news/2026-11-15/illicit-tobacco-market-shrinks/107387590",
+        "title": "Woolworths apologises after customers report drained gift card balances",
+        "rewrite": "Woolworths apologises after customers report drained gift card balances",
+        "url": "https://www.abc.net.au/news/2026-11-16/woolworths-customers-report-money-stolen-from-digital-gift-cards/107387340",
         "source": "ABC News Australia",
-        "published": "2026-11-15T20:00:30+11:00",
+        "published": "2026-11-16T10:07:36+11:00",
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
         "is_new": false,
-        "summary": "Authorities seized a record 730 tonnes of illegal tobacco between July and September. The government says the crackdown at the border and on illicit stores has shrunk the black market for the first time in years."
+        "summary": "Dozens of customers told the ABC their digital WISH gift cards were drained by transactions they did not authorise, with some losing hundreds of dollars. Many had bought the cards in a 4% bonus promotion. Woolworths has acknowledged the problem, apologised and is investigating, with replacement cards among the options."
       },
       {
         "title": "Australia's super nest egg is set to top $5 trillion. How well is it serving us?",
@@ -509,16 +571,16 @@
         "summary": "An ABC analysis says Australians' combined superannuation is about to pass $5 trillion, if it has not already, about $178,571 for each of 28 million people. The analysis says there is still much work to do to make sure the system delivers the best outcomes for members."
       },
       {
-        "title": "Woolworths apologises after customers report drained gift card balances",
-        "rewrite": "Woolworths apologises after customers report drained gift card balances",
-        "url": "https://www.abc.net.au/news/2026-11-16/woolworths-customers-report-money-stolen-from-digital-gift-cards/107387340",
+        "title": "Jess Wilson wanted parents to pay kinder gap fee, letter reveals",
+        "rewrite": "Letter reveals Jess Wilson wanted parents to pay kinder 'gap fee'",
+        "url": "https://www.abc.net.au/news/2026-11-17/victorian-coalition-liberal-leader-jess-wilson-kindergarten-fee/107392078",
         "source": "ABC News Australia",
-        "published": "2026-11-16T10:07:36+11:00",
+        "published": "2026-11-17T05:14:15+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "AUSTRALIA",
+        "section": "VICTORIA",
         "is_new": true,
-        "summary": "Dozens of customers told the ABC their digital WISH gift cards were drained by transactions they did not authorise, with some losing hundreds of dollars. Many had bought the cards in a 4% bonus promotion. Woolworths has acknowledged the problem, apologised and is investigating, with replacement cards among the options."
+        "summary": "The Victorian Liberal leader urged the Labor government to let kindergartens charge a 'small gap fee', arguing the free kinder scheme was too restrictive. The letter surfaces days before early voting opens."
       },
       {
         "title": "‘Corrupt contractor’ behind Pilbara bribe allegations still working on Big Build",
@@ -545,31 +607,6 @@
         "summary": "Joh Bauch, One Nation's candidate for the outer-Melbourne seat of Sydenham, is one of two administrators of a pro-Hanson Facebook group linked to an account posting racist AI-generated material. The party says Bauch used the group to campaign and denies any link to overseas content creators. Victorians vote on 28 November."
       },
       {
-        "title": "What Hanson's Victorian campaign absence says about One Nation",
-        "rewrite": "Where is Hanson? One Nation's Victorian campaign without its leader",
-        "url": "https://www.abc.net.au/news/2026-11-16/one-nation-victorian-election-where-is-pauline-hanson/107387414",
-        "source": "ABC News Australia",
-        "published": "2026-11-16T05:00:00+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "image": "https://live-production.wcms.abc-cdn.net.au/5b47b16bc22cfbd693199608a21388f8?impolicy=wcms_watermark_news&cropH=1023&cropW=1819&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-        "summary": "Hanson has spent little time in Victoria before the 28 November election, seen as a key test for One Nation. Its candidates have reportedly paid $5,500 towards their own material, and the party has spent $21,300 on Meta ads since 1 September, against $2.81 million by Labor and about $550,000 by the Liberals. Barnaby Joyce campaigns there this week."
-      },
-      {
-        "title": "Live: Stalking laws in focus, days from early voting in Victorian election",
-        "rewrite": "Stalking laws in focus, days from early voting in Victorian election",
-        "url": "https://www.abc.net.au/news/2026-11-16/vic-election-live-stalking-laws-nov-16/107388914",
-        "source": "ABC News Australia",
-        "published": "2026-11-16T10:20:13+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": true,
-        "summary": "Two days before early voting opens on Wednesday, Labor and the Coalition have both promised youth crime 'boot camps', which youth workers and criminologists have greeted with mixed views. At a Liberal event, Celeste Manno's mother Aggie Di Mauro broke down describing what the Coalition's proposed stalking laws would have meant for her family."
-      },
-      {
         "title": "Labor urged to address fire station delays months before fatal blaze",
         "rewrite": "Labor urged to address fire station delays months before fatal blaze",
         "url": "https://www.abc.net.au/news/2026-11-16/geelong-council-wrote-to-government-over-fire-station-blaze/107387752",
@@ -578,20 +615,44 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "The City of Greater Geelong wrote to the state government months before a fatal Armstrong Creek house fire, urging it to take responsibility for delays to a promised fire station. Days before the fire the government blamed the council. The mayor says 'lives are at risk as long as it's not built'."
       },
       {
-        "title": "Bitcoin Falls to Four-Month Low Near $62K as Crypto Market Slides",
-        "rewrite": "Bitcoin hits four-month low near $62K before rebounding above $65K",
-        "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff",
+        "title": "'Tradies' in high-vis steal Makybe Diva trophies",
+        "rewrite": "'Tradies' in high-vis steal Makybe Diva trophies",
+        "url": "https://www.abc.net.au/news/2026-11-16/makybe-diva-melbourne-cup-trophies-stolen/107391010",
+        "source": "ABC News Australia",
+        "published": "2026-11-16T15:45:19+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "Thieves dressed in high-vis clothing broke into a display at Flemington Racecourse and stole all three of Makybe Diva's Melbourne Cup trophies in a daylight robbery. The legendary mare's owner says he is \"totally devastated\"."
+      },
+      {
+        "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
+        "rewrite": "Bitcoin fails to hold $65K as U.S. stocks slide on AI nerves",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves",
         "source": "Cointelegraph",
-        "published": "2026-11-15T21:23:17+11:00",
+        "published": "2026-11-17T03:26:52+11:00",
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": false,
-        "summary": "Bitcoin hit $62,081 on Sunday, its lowest since July, before rebounding above $65,000. It is still down nearly 15% for the week. Ether fell 19.5% and Solana 20.7% over seven days, and the total crypto market fell 4% in 24 hours to $2.26 trillion."
+        "is_new": true,
+        "summary": "Bitcoin is around $64,300 after hitting $62,100 on Sunday, its lowest since 14 July. Traders are weighing Nvidia's third-quarter earnings and Anthropic's IPO announcement."
+      },
+      {
+        "title": "Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks",
+        "rewrite": "Strategy buys 485 Bitcoin for $33M... spends $228M buying back STRC shares",
+        "url": "https://cointelegraph.com/news/strategy-buy-485-bitcoin-228-million-strc-buyback",
+        "source": "Cointelegraph",
+        "published": "2026-11-17T00:29:11+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "MARKETS",
+        "is_new": true,
+        "summary": "The purchases were largely funded by new common stock sales."
       },
       {
         "title": "Binance targets full reopening of withdrawals by end of this week",
@@ -606,28 +667,16 @@
         "summary": "Binance says it reopened withdrawals on 87 networks this week and aims to restore all remaining networks and assets by the end of next week. The exchange has covered 95% of the $6.3 billion stolen last month in what experts call the largest crypto theft ever. The FBI blames North Korea, which denies it."
       },
       {
-        "title": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
-        "rewrite": "Berkshire hits record high as fourth-quarter rally reaches 19%",
-        "url": "https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html",
-        "source": "CNBC",
-        "published": "2026-11-15T01:02:39+11:00",
+        "title": "ASX falls as major mining stocks drag — as it happened",
+        "rewrite": "ASX falls as major mining stocks drag — as it happened",
+        "url": "https://www.abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134",
+        "source": "ABC News Australia",
+        "published": "2026-11-16T06:59:09+11:00",
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": false,
-        "summary": "Berkshire's Class A shares have closed at record highs 11 times since 1 October, including four in a row this week, and are up 19.1% for the quarter. Over the same stretch the S&P 500 has slipped 1.2%, as investors appear to treat Berkshire as a haven from worries about AI stocks and spending."
-      },
-      {
-        "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-        "rewrite": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade",
-        "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-        "source": "CNBC",
-        "published": "2026-11-15T02:50:43+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "MARKETS",
-        "is_new": false,
-        "summary": "Roundhill CEO Dave Mazza told CNBC's ETF Edge that the biggest tech stocks may end up the winners. If investors lose trust in Nvidia after Jensen Huang's resignation, buyers could turn to other chip suppliers. A Democratic Congress slowing the data-centre build-out could also make existing computing capacity more valuable."
+        "is_new": true,
+        "summary": "The Australian share market closed lower on Monday as BHP, Rio Tinto and Fortescue each fell more than 2 per cent. Coles also disclosed it was investigating a cybersecurity incident."
       },
       {
         "title": "Coinone Warns of Phishing, Identity Theft After Data Breach",
@@ -640,21 +689,57 @@
         "section": "MARKETS",
         "is_new": false,
         "summary": "Coinone says an attacker got into servers run by its outsourced support provider MetaM on Thursday and viewed or took customer service records. Exposed data may include names, phone numbers, birth dates, bank account numbers, passwords, national ID numbers and wallet addresses. The exchange is warning users about phishing."
-      },
-      {
-        "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
-        "rewrite": "stUSDT winds down three years after $2.3B peak",
-        "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak",
-        "source": "Cointelegraph",
-        "published": "2026-11-15T06:27:26.719000+00:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "MARKETS",
-        "is_new": false,
-        "summary": "Interest on stUSDT stopped on Saturday, and holders have until 14 May 2027 to redeem through the official portal, with later requests handled monthly until August 2027. The team gave no reason for shutting down but says all underlying assets remain fully backed. The protocol peaked at $2.3 billion locked nearly three years ago."
       }
     ],
     "right": [
+      {
+        "title": "UK lost more than it gained from Brexit, Burnham to say ahead of EU summit",
+        "rewrite": "Burnham: 'The Brexit we were given has not worked'... UK lost more than it gained",
+        "url": "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo",
+        "source": "BBC News",
+        "published": "2026-11-16T06:35:16+00:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "UK",
+        "is_new": true,
+        "summary": "In a Lord Mayor's Banquet speech ahead of a UK-EU summit this week, the prime minister compares the Brexit deal to the 'emperor's new clothes' and says a 'needlessly hard Brexit' created barriers."
+      },
+      {
+        "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
+        "rewrite": "No 10: Russell Brand 'not guilty' prison message 'appalling'... urgent investigation",
+        "url": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o",
+        "source": "BBC News",
+        "published": "2026-11-16T10:51:16+00:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "UK",
+        "is_new": true,
+        "summary": "Brand, serving 10 and a half years for rape and three counts of sexual assault, had his wife read a message on their podcast saying he was 'not guilty of the offences I have been jailed for'. Downing Street says it is being urgently investigated."
+      },
+      {
+        "title": "Labour accused of being 'hell-bent' on opening Piddington migrant camp despite warnings it could cost taxpayers £1billion over a decade",
+        "rewrite": "Labour 'hell-bent' on Piddington migrant camp despite warnings of £1 billion cost",
+        "url": "https://www.dailymail.com/news/article-16296963/Labour-accused-hell-bent-opening-Piddington-migrant-camp-despite-warnings-cost-taxpayers-1billion-decade.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-17T03:45:58+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "UK",
+        "is_new": true,
+        "summary": "Housing secretary Angela Rayner approved the camp at MoD Bicester last week, even though nearby Piddington symbolically voted to leave the UK."
+      },
+      {
+        "title": "Labour's ban on zero-hours contracts 'could cost NHS and fire services billions of pounds'",
+        "rewrite": "Labour's zero-hours ban 'could cost NHS and fire services billions'",
+        "url": "https://www.dailymail.com/news/article-16296073/Labours-ban-zero-hours-contracts-cost-NHS-fire-services-billions-pounds.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-16T22:55:00+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "UK",
+        "is_new": true,
+        "summary": "The warning targets Angela Rayner's new laws to end 'exploitative' employment arrangements."
+      },
       {
         "title": "Trident submarine returns home after record-breaking patrol - as Streeting warns Russia Britain's nukes 'not up for negotiation'",
         "rewrite": "Trident sub home after record patrol... Streeting tells Putin Britain's nukes 'not up for negotiation'",
@@ -693,18 +778,6 @@
         "summary": "A leaked memo shows a soldier was promoted to a sensitive command without proper vetting. Army leaders have been told to check staff security clearances amid growing concern that vetting rules were not followed. It comes a week after two Iranian migrants were convicted of espionage."
       },
       {
-        "title": "Ministers accused of a 'cover-up' as number of crimes by foreigners is hidden in bid to protect their rights",
-        "rewrite": "Ministers accused of 'cover-up' as number of crimes by foreigners kept hidden",
-        "url": "https://www.dailymail.com/news/article-16293275/Ministers-crimes-foreigners-hidden-protect-rights.html",
-        "source": "Daily Mail",
-        "published": "2026-11-15T11:15:25+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "UK",
-        "is_new": false,
-        "summary": "The Centre for Migration Control asked the Ministry of Justice under freedom of information laws for 2025 convictions broken down by nationality and offence. The ministry refused, saying the figures could identify individuals and that their data protection rights outweighed the public interest."
-      },
-      {
         "title": "Will Burnham bow to Labour rebels over Rosebank? PM sees 'up to 100' of his own MPs mobilise to oppose North Sea oilfield",
         "rewrite": "Burnham faces first major rebellion as Labour MPs push to block Rosebank oilfield",
         "url": "https://www.dailymail.com/news/article-16293993/Will-Burnham-bow-Labour-rebels-Rosebank-PM-sees-100-MPs-mobilise-oppose-North-Sea-oilfield.html",
@@ -717,40 +790,40 @@
         "summary": "Up to 100 Labour MPs are reported to be organising against approval of the Rosebank oilfield, the first major rebellion of Andy Burnham's premiership. Burnham has promised a 'pragmatic approach' to North Sea drilling, and Trump praised him after the government approved the Jackdaw gas field last month."
       },
       {
-        "title": "Age of consent: Pat McFadden says changes to law will be discussed after Brand allegations",
-        "rewrite": "Age of consent changes to be discussed after Russell Brand allegations",
-        "url": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do",
+        "title": "Commerce Department issues rule limiting other countries' access to America's advanced AI chips",
+        "rewrite": "Commerce issues rule limiting foreign access to America's advanced AI chips",
+        "url": "https://justthenews.com/nation/technology/commerce-department-issues-rule-limiting-other-countries-access-americas-advanced",
+        "source": "Just the News",
+        "published": "2026-11-16T12:43:00-05:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "TECHNOLOGY",
+        "is_new": true,
+        "summary": "The interim rule, issued Monday, aims to stop export restrictions being sidestepped through remote computing at data centres in third countries. It follows Bessent's criticism that Commerce failed to restrict Megaspeed, the Nvidia customer at the centre of the Huang scandal."
+      },
+      {
+        "title": "Microsoft explains ‘root cause’ of global outage four days after fiasco",
+        "rewrite": "Microsoft blames global outage on Wednesday glitches that exposed a summer software defect",
+        "url": "https://www.washingtonexaminer.com/policy/technology/4804738/microsoft-explains-root-cause-global-outage/",
+        "source": "Washington Examiner",
+        "published": "2026-11-17T05:05:56+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "TECHNOLOGY",
+        "is_new": true,
+        "summary": "A top Microsoft executive said on Monday that technical difficulties starting Wednesday left systems vulnerable to a software defect discovered over the summer."
+      },
+      {
+        "title": "GTA 6 hacker pleads guilty after release from secure hospital",
+        "rewrite": "GTA 6 hacker pleads guilty after release from secure hospital",
+        "url": "https://www.bbc.co.uk/news/articles/cq99exy89dngo",
         "source": "BBC News",
-        "published": "2026-11-15T23:31:20+11:00",
+        "published": "2026-11-17T00:34:22+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "UK",
-        "is_new": false,
-        "summary": "On the BBC's Sunday with Laura Kuenssberg, the work and pensions secretary said a staggered age of consent has 'been raised and will be discussed', but he could not say what would be decided. A woman who alleges Russell Brand raped her at 16 is campaigning to make relationships between 16- and 17-year-olds and adults illegal."
-      },
-      {
-        "title": "Migrant rape suspect was free to come and go from notorious asylum camp for months, undercover investigation reveals",
-        "rewrite": "Migrant rape suspect was free to come and go from notorious asylum camp for months, undercover...",
-        "url": "https://www.dailymail.com/news/article-16293277/Migrant-rape-suspect-free-notorious-asylum-camp-undercover-investigation.html",
-        "source": "Daily Mail",
-        "published": "2026-11-15T11:02:25+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "UK",
-        "is_new": false,
-        "summary": "Iranian Aref Sadeghi, 36, wanted over an alleged rape in Germany, came and went from the Crowborough camp in East Sussex for two months under a false name before his arrest earlier this year, an ITV documentary reports. The former army base houses up to 540 male asylum seekers. There is no suggestion staff knew of the allegation."
-      },
-      {
-        "title": "Nigel Farage's new defence spokesman signals 'clean break' with his past accusations of being a Vladimir Putin apologist",
-        "rewrite": "Nigel Farage's new defence spokesman signals 'clean break' with his past accusations of being a Vladimir...",
-        "url": "https://www.dailymail.com/news/article-16292857/Nigel-Farage-break-comments-Putin.html",
-        "source": "Daily Mail",
-        "published": "2026-11-15T11:32:07+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "UK",
-        "is_new": false,
-        "summary": "Former RAF commander Angus MacIntyre, appointed this month as Reform UK's armed forces spokesman, used a Mail on Sunday article to set out clear support for Kyiv. He quoted Farage calling Putin 'a cornered rat'. Farage drew criticism at the last election for saying EU and NATO expansion gave Putin a reason for the war."
+        "section": "TECHNOLOGY",
+        "is_new": true,
+        "summary": "Arion Kurtaj, 21, admitted the Rockstar Games hack and other attacks he carried out as a teenager."
       },
       {
         "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says ",
@@ -765,55 +838,6 @@
         "summary": "Singapore-based Megaspeed, the biggest buyer of Nvidia chips in South East Asia, says Alice Huang left her executive role there in August 2025 and it has opened an internal investigation. Jensen Huang quit as Nvidia CEO after alleged affairs with her and with an employee came to light, raising questions about whether advanced chips reached China."
       },
       {
-        "title": "'Piece of Sh*t': Nvidia Founder Jensen Huang Was Beating Himself Up in Final Days as CEO",
-        "rewrite": "Huang was 'beating himself up' in final days as Nvidia CEO",
-        "url": "https://www.breitbart.com/tech/2026/11/15/piece-of-sht-nvidia-founder-jensen-huang-was-beating-himself-up-in-final-days-as-ceo/",
-        "source": "Breitbart",
-        "published": "2026-11-16T01:46:05+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false,
-        "summary": "Bloomberg reports Nvidia's board told Huang on Wednesday night that he had to step down and named CFO Colette Kress interim CEO. He left with no role at the company he co-founded in 1993. The scandal began in late October with reports linking him to Alice Huang, a suspected Chinese spy now reportedly in Beijing."
-      },
-      {
-        "title": "Fake AI event invites target Microsoft and Google logins",
-        "rewrite": "Fake OpenAI event invites used to steal Microsoft and Google logins",
-        "url": "https://www.foxnews.com/tech/fake-ai-event-invites-target-microsoft-google-logins",
-        "source": "Fox News",
-        "published": "2026-11-16T02:51:15+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false,
-        "summary": "Push Security says attackers built convincing registration pages for fake OpenAI, SpaceX and Anthropic events, offering perks such as three months of ChatGPT Pro to people who sign up with their work accounts. The pages steal Microsoft and Google logins, and some of the attacks can get past extra security checks."
-      },
-      {
-        "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-        "rewrite": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-        "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo",
-        "source": "BBC News",
-        "published": "2026-11-15T09:09:40+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false,
-        "summary": "SpaceX caught Starship's upper stage with the launch tower's 'chopsticks' arms for the first time, after Friday's launch from Texas. It had hoped to catch both stages, but the booster catch was called off minutes after launch and the booster was sent to the ocean, where it burst into flames."
-      },
-      {
-        "title": "Italy fines Meta €805m over accessing users' photos",
-        "rewrite": "Italy fines Meta €805M over access to users' photos",
-        "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o",
-        "source": "BBC News",
-        "published": "2026-11-15T05:28:06+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false,
-        "image": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
-        "summary": "Italy's data protection authority says Meta failed to properly tell about 20 million Android users that a Facebook app feature gave it access to their photos and videos. Meta has 60 days to switch the feature off by default and ask for separate consent. The €805m fine is among the largest an Italian authority has imposed on a tech company."
-      },
-      {
         "title": "Duffy says contract with company behind FAA outage can’t be cancelled, pushes Congress for $50 billion in upgrades",
         "rewrite": "Duffy says contract with company behind FAA outage can't be cancelled, pushes Congress for $50 billion in...",
         "url": "https://thepostmillennial.com/news/duffy-says-contract-with-company-behind-faa-outage-can-t-be-cancelled-pushes-congress-for-usd50",
@@ -822,55 +846,91 @@
         "slot": "column",
         "urgent": false,
         "section": "TECHNOLOGY",
-        "is_new": true,
+        "is_new": false,
         "summary": "On NBC's Meet the Press, Duffy said L3Harris won the contract decades ago and owns the FAA's communications network, so it cannot simply be cancelled. He wants Congress to fund a brand-new network built by companies including AT&T and Verizon, calling it 'an emergency' after Friday's nationwide ground stop."
       },
       {
-        "title": "Box Office: Domestic Ticket Sales Up 20% From Last Year as Hollywood Awaits ‘Hunger Games’ Prequel, ‘Dune 3’ and ‘Avengers: Doomsday’",
-        "rewrite": "BOX OFFICE: Domestic ticket sales up 20% on last year ahead of 'Hunger Games', 'Dune 3', 'Avengers'",
-        "url": "https://variety.com/2026/film/box-office/box-office-domestic-ticket-sales-increase-hunger-games-dune-3-avengers-doomsday-1236948160/",
+        "title": "Small regional town fights back against proposed AI data centre",
+        "rewrite": "Small regional town fights back against proposed AI data centre",
+        "url": "https://www.abc.net.au/news/2026-11-16/thousands-of-people-protest-ai-data-centre-proposals/107389678",
+        "source": "ABC News Australia",
+        "published": "2026-11-16T17:45:00+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "TECHNOLOGY",
+        "is_new": true,
+        "summary": "Residents of Miners Rest, near Ballarat, say a planned AI data centre on the town's old quarry could change their quiet country life. Dozens travelled from across the Ballarat region to protest the proposal, which has yet to be approved."
+      },
+      {
+        "title": "EXCLUSIVE: ICE Fights Back Against Public Scrutiny With New Automatic Bodycam Technology",
+        "rewrite": "ICE rolls out bodycams that switch on together when one agent's camera activates",
+        "url": "https://www.dailywire.com/news/exclusive-ice-fights-back-against-public-scrutiny-with-new-automatic-bodycam-technology",
+        "source": "Daily Wire",
+        "published": "2026-11-16T23:03:51+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "TECHNOLOGY",
+        "is_new": true,
+        "summary": "Starting last week, when one agent's camera turns on, all cameras nearby activate too, three agency sources told The Daily Wire. The agency says the change is aimed at accountability amid hostile encounters."
+      },
+      {
+        "title": "British actor Robert Pattinson named as new James Bond",
+        "rewrite": "ROBERT PATTINSON NAMED NEW JAMES BOND",
+        "url": "https://www.abc.net.au/news/2026-11-17/robert-pattinson-named-as-new-james-bond/107392892",
+        "source": "ABC News Australia",
+        "published": "2026-11-17T02:39:07+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "Pattinson succeeds Daniel Craig, who left the role after 2021's No Time to Die. Amazon MGM's new film will be directed by Denis Villeneuve, who worked with Pattinson on Dune."
+      },
+      {
+        "title": "‘The Joker’s Wild’ Game Show Sets Reboot Hosted by Howie Mandel",
+        "rewrite": "Howie Mandel to host 'The Joker's Wild' reboot",
+        "url": "https://variety.com/2026/tv/news/the-jokers-wild-reboot-howie-mandel-1236949145/",
         "source": "Variety",
-        "published": "2026-11-16T06:04:29+11:00",
+        "published": "2026-11-17T05:00:00+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "Production begins this month for a fall 2027 launch in broadcast syndication on CBS Owned Stations."
+      },
+      {
+        "title": "‘Avengers: Doomsday’ Including the Original X-Men ‘Just Felt Right,’ Says Kevin Feige: It’s a ‘Fun Way to Culminate’ 25 Years",
+        "rewrite": "'Avengers: Doomsday' Including the Original X-Men 'Just Felt Right,' Says Kevin Feige: It's a 'Fun Way to...",
+        "url": "https://variety.com/2026/film/news/kevin-feige-original-x-men-avengers-doomsday-1236948220/",
+        "source": "Variety",
+        "published": "2026-11-16T10:10:01+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "'Avengers: Doomsday' opens on 18 December and brings original 'X-Men' characters into the MCU, including James Marsden's Cyclops, Rebecca Romijn's Mystique, Professor X and Magneto. Marvel Studios president Kevin Feige, an associate producer on the 2000 'X-Men', says it felt right for Marvel's 25th year."
+      },
+      {
+        "title": "‘Slow Horses’ Will End With Season 8, Says Olivia Cooke: ‘We’re All Melancholy… The Show’s Been a Shining Light’",
+        "rewrite": "'Slow Horses' Will End With Season 8, Says Olivia Cooke: 'We're All Melancholy… The Show's Been a Shining...",
+        "url": "https://variety.com/2026/tv/news/slow-horses-end-season-8-olivia-cooke-1236948306/",
+        "source": "Variety",
+        "published": "2026-11-16T10:54:30+11:00",
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
         "is_new": false
       },
       {
-        "title": "Rock & Roll Hall of Fame Ceremony Gets Fired Up With Live-Wire Numbers From U2, the Chili Peppers, Usher, Cynthia Erivo, Sienna Spiro, Aerosmith and More",
-        "rewrite": "U2, Chili Peppers, Usher, Aerosmith fire up Rock & Roll Hall of Fame ceremony",
-        "url": "https://variety.com/2026/music/news/rock-roll-hall-fame-induction-ceremony-2026-performances-1236948068/",
+        "title": "Governors Awards 2026: Glenn Close, Ridley Scott and More Receive Honorary Oscars From The Academy (Live Updates)",
+        "rewrite": "Governors Awards 2026: Glenn Close, Ridley Scott and More Receive Honorary Oscars From The Academy (Live...",
+        "url": "https://variety.com/2026/awards/news/governors-awards-glenn-close-ridley-scott-oscars-live-blog-1236948318/",
         "source": "Variety",
-        "published": "2026-11-16T05:33:42+11:00",
+        "published": "2026-11-16T11:30:36+11:00",
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
         "is_new": false,
-        "summary": "The induction ceremony was held on Saturday at the Peacock Theater in Los Angeles and filmed for an ABC special in December. Highlights included Cynthia Erivo and Travis Barker teaming up for the ailing Phil Collins, Usher honouring the late Luther Vandross, and St. Vincent with a metal line-up playing for the absent Iron Maiden."
-      },
-      {
-        "title": "Richard Sterban, Oak Ridge Boys’ Bass Singer, Dies at 83",
-        "rewrite": "Oak Ridge Boys bass singer Richard Sterban dies at 83",
-        "url": "https://www.hollywoodreporter.com/music/music-news/richard-sterban-dead-oak-ridge-boys-bass-singer-1236755545/",
-        "source": "The Hollywood Reporter",
-        "published": "2026-11-15T11:39:33+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "Sterban, the bass voice on the Oak Ridge Boys' hit cover of 'Elvira', died on Saturday in Hendersonville, Tennessee. His family and the band say he died of complications from bronchitis and pneumonia after a battle with cancer. He was born in Camden, New Jersey, in 1943."
-      },
-      {
-        "title": "Bowen Yang Makes Surprise ‘SNL’ Appearance as Jensen Huang as John Mulaney Pokes at FAA Ground Stop and Microsoft Outage in Cold Open",
-        "rewrite": "'SNL': Bowen Yang returns as Jensen Huang as Mulaney mocks FAA ground stop",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/bowen-yang-snl-john-mulaney-ground-stop-microsoft-1236755542/",
-        "source": "The Hollywood Reporter",
-        "published": "2026-11-15T15:57:39+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "In the 14 November cold open, Bowen Yang's Jensen Huang warned tech moguls, including Altman, Thiel, Musk, Zuckerberg and Amodei, how to tell a woman who likes them from 'a woman who is clearly a spy'. It was John Mulaney's seventh time hosting."
+        "summary": "The Academy's 17th Governors Awards in Los Angeles opened the 2027 Oscars race. Glenn Close, who has had eight competitive acting nominations without a win, receives an honorary Oscar recognising her career. Ridley Scott was also honoured."
       },
       {
         "title": "‘Frisco King’ release date: Here’s when Taylor Sheridan’s buzzy ‘Tulsa King’ spinoff drops",
@@ -885,38 +945,26 @@
         "summary": "The first two episodes premiere on Friday 18 December at 3:01am ET on Paramount+, with a new episode every Friday after that. Samuel L. Jackson stars as Russell Lee Washington Jr., a New Orleans gangster who builds a business in Frisco, Texas. Sylvester Stallone's Dwight Manfredi makes a special appearance."
       },
       {
-        "title": "Governors Awards 2026: Glenn Close, Ridley Scott and More Receive Honorary Oscars From The Academy (Live Updates)",
-        "rewrite": "Governors Awards 2026: Glenn Close, Ridley Scott and More Receive Honorary Oscars From The Academy (Live...",
-        "url": "https://variety.com/2026/awards/news/governors-awards-glenn-close-ridley-scott-oscars-live-blog-1236948318/",
+        "title": "Box Office: Domestic Ticket Sales Up 20% From Last Year as Hollywood Awaits ‘Hunger Games’ Prequel, ‘Dune 3’ and ‘Avengers: Doomsday’",
+        "rewrite": "BOX OFFICE: Domestic ticket sales up 20% on last year ahead of 'Hunger Games', 'Dune 3', 'Avengers'",
+        "url": "https://variety.com/2026/film/box-office/box-office-domestic-ticket-sales-increase-hunger-games-dune-3-avengers-doomsday-1236948160/",
         "source": "Variety",
-        "published": "2026-11-16T11:30:36+11:00",
+        "published": "2026-11-16T06:04:29+11:00",
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
-        "summary": "The Academy's 17th Governors Awards in Los Angeles opened the 2027 Oscars race. Glenn Close, who has had eight competitive acting nominations without a win, receives an honorary Oscar recognising her career. Ridley Scott was also honoured."
-      },
-      {
-        "title": "‘Slow Horses’ Will End With Season 8, Says Olivia Cooke: ‘We’re All Melancholy… The Show’s Been a Shining Light’",
-        "rewrite": "'Slow Horses' Will End With Season 8, Says Olivia Cooke: 'We're All Melancholy… The Show's Been a Shining...",
-        "url": "https://variety.com/2026/tv/news/slow-horses-end-season-8-olivia-cooke-1236948306/",
-        "source": "Variety",
-        "published": "2026-11-16T10:54:30+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": true
+        "is_new": false
       }
     ]
   },
-  "image_url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
+  "image_url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f174/live/bc6fa8f0-e1c4-11f1-a094-5fdc692f3e33.jpg",
   "counts": {
-    "total": 74,
+    "total": 78,
     "featured": 4,
     "columns": {
-      "left": 23,
-      "center": 25,
-      "right": 21
+      "left": 24,
+      "center": 27,
+      "right": 22
     },
     "feeds_ok": 44,
     "feeds_failed": 6

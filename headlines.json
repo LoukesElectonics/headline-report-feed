@@ -1,77 +1,137 @@
 {
   "title": "THE NEWS REPORT",
   "generated": {
-    "date": "Wednesday, 18 November 2026",
-    "display": "Wednesday, November 18, 2026  6:24 PM AEDT (Australia/Sydney)",
-    "iso": "2026-11-18T18:24:40.919124+11:00",
-    "time": "6:24 PM AEDT",
+    "date": "Thursday, 19 November 2026",
+    "display": "Thursday, November 19, 2026  6:02 AM AEDT (Australia/Sydney)",
+    "iso": "2026-11-19T06:02:54.866609+11:00",
+    "time": "6:02 AM AEDT",
     "timezone": "Australia/Sydney"
   },
   "lean": "centre-right",
   "top": {
-    "title": "Mary Peltola finally declared winner of Alaska Senate race 2 weeks after midterms",
-    "rewrite": "Mary Peltola finally declared winner of Alaska Senate race 2 weeks after midterms",
-    "url": "https://nypost.com/2026/11/17/us-news/mary-peltola-finally-declared-winner-of-alaska-senate-race-2-weeks-after-midterms/",
-    "source": "New York Post",
-    "published": "2026-11-18T15:46:06+11:00",
+    "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
+    "rewrite": "Fed's Waller says central bank may need to 'shock people' with half-point rate hike",
+    "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+    "source": "CNBC",
+    "published": "2026-11-19T02:13:39+11:00",
     "slot": "top",
     "urgent": false,
-    "section": "US",
+    "section": "BUSINESS",
     "is_new": true,
-    "summary": "The AP called the race two weeks after Election Day: Peltola took 50.1% to Sullivan's 45.8% with more than 95% of ballots counted, giving Democrats a 56-44 Senate edge from January. She is Alaska's first Democratic senator since 2008, after a late row over a 'decoy' Dan Sullivan candidate, who drew 1.7%."
+    "summary": "Waller told CNBC a half-point rise is probably needed at the Fed's Dec. 8-9 meeting, and that the three quarter-point cuts from last year should be reversed, possibly with more to follow. 'I'm very, very concerned about inflation,' he said. Futures already fully price a quarter-point hike in December."
   },
   "featured": [
     {
-      "title": "US carries out self-defense strike on IRGC missile launch site on Qeshm Island",
-      "rewrite": "US carries out self-defense strike on IRGC missile launch site on Qeshm Island",
-      "url": "https://www.foxnews.com/world/us-carries-out-self-defense-strike-irgc-missile-launch-site-qeshm-island",
-      "source": "Fox News",
-      "published": "2026-11-17T20:32:00+00:00",
+      "title": "Nvidia interim CEO says 'we’ve got this' as company looks to future without Jensen Huang",
+      "rewrite": "Nvidia interim CEO says 'we've got this' as company looks to future without Jensen Huang",
+      "url": "https://www.foxbusiness.com/markets/nvidia-interim-ceo-says-weve-got-this-company-looks-future-without-jensen-huang",
+      "source": "Fox Business",
+      "published": "2026-11-19T04:53:57+11:00",
+      "slot": "featured",
+      "urgent": false,
+      "section": "BUSINESS",
+      "is_new": true,
+      "summary": "Colette Kress, Nvidia's CFO since 2013, told the earnings call the company is well positioned after Jensen Huang's abrupt resignation last week. Quarterly revenue of $115.8 billion beat estimates. 'Our momentum is real. Our demand is accelerating,' she said."
+    },
+    {
+      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+      "rewrite": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o",
+      "source": "BBC News",
+      "published": "2026-11-19T00:04:48+11:00",
       "slot": "featured",
       "urgent": false,
       "section": "WORLD",
       "is_new": true,
-      "summary": "Two US military officials told Fox News that American fighter jets used precision munitions on an IRGC missile launch site on Qeshm Island on Tuesday, in response to IRGC aggression against US personnel. It came hours after Tehran claimed to target a US radar at Bahrain's Sheikh Isa base; CENTCOM says the Iranian drones were all intercepted."
+      "summary": "Kuwait said an Iranian drone attack targeting Ali Al Salem Airbase, which hosts US forces, was its first in over two months, with no damage reported. Bahrain also reported an attack after the US struck a missile site on Qeshm Island, and the UAE's state oil firm said a crew member was missing after a tanker was hit in the Gulf."
     },
     {
-      "title": "Rubio insists no ‘imminent threat’ amid reports Iran could deploy ‘dirty bomb’",
-      "rewrite": "Rubio insists no 'imminent threat' amid reports Iran could deploy 'dirty bomb'",
-      "url": "https://www.washingtonexaminer.com/news/white-house/4806977/rubio-no-imminent-threat-iran-dirty-bomb/",
-      "source": "Washington Examiner",
-      "published": "2026-11-18T13:39:26+11:00",
-      "slot": "featured",
-      "urgent": false,
-      "section": "WORLD",
-      "is_new": true,
-      "summary": "Speaking on the sidelines of the ASEAN summit in Manila, Secretary of State Marco Rubio said he doesn't think there is any imminent threat, citing his confidence in US intelligence services to identify such plots ahead of time."
-    },
-    {
-      "title": "Iranian agent sentenced to over 27 years in prison for plot to assassinate Trump",
-      "rewrite": "Iranian agent sentenced to over 27 years in prison for plot to assassinate Trump",
-      "url": "https://www.washingtonexaminer.com/news/justice/4806900/iran-agent-sentenced-plot-assassinate-trump/",
-      "source": "Washington Examiner",
-      "published": "2026-11-18T12:15:24+11:00",
+      "title": "Dems probe Lutnick son’s ties to Nvidia, stock trades in China ‘spy’ scandal investigation",
+      "rewrite": "Dems probe Lutnick son's ties to Nvidia, stock trades in China 'spy' scandal investigation",
+      "url": "https://nypost.com/2026/11/18/us-news/dems-probe-lutnick-sons-ties-to-nvidia-stock-trades-in-china-spy-scandal-investigation/",
+      "source": "New York Post",
+      "published": "2026-11-19T04:21:21+11:00",
       "slot": "featured",
       "urgent": false,
       "section": "US",
       "is_new": true,
-      "summary": "Asif Merchant, a Pakistani national described as a trained IRGC intelligence asset, was sentenced on Tuesday after his conviction in March for attempted terrorism and murder for hire. The plot also targeted other former US officials."
+      "summary": "Reps. Raskin, Meeks and Kamlager-Dove asked Cantor Fitzgerald chairman Brandon Lutnick for years of Nvidia trading records and encrypted messages. They are probing whether Commerce Secretary Howard Lutnick blocked curbs on Singapore's Megaspeed, suspected of smuggling restricted Nvidia chips to China."
     },
     {
-      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-      "rewrite": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
-      "source": "BBC News",
-      "published": "2026-11-18T11:28:01+11:00",
+      "title": "Mary Peltola finally declared winner of Alaska Senate race 2 weeks after midterms",
+      "rewrite": "Mary Peltola finally declared winner of Alaska Senate race 2 weeks after midterms",
+      "url": "https://nypost.com/2026/11/17/us-news/mary-peltola-finally-declared-winner-of-alaska-senate-race-2-weeks-after-midterms/",
+      "source": "New York Post",
+      "published": "2026-11-18T15:46:06+11:00",
       "slot": "featured",
       "urgent": false,
-      "section": "TECHNOLOGY",
+      "section": "US",
       "is_new": true,
-      "summary": "Quarterly sales doubled to $115.8bn and profit to $65bn, and shares rose almost 4% after hours. Chair Harvey Jones said the board does not intend to reinstate Huang, hours after he said he would be 'honoured' to return; interim CEO Colette Kress said it is 'business as usual'."
+      "summary": "The AP called the race two weeks after Election Day: Peltola took 50.1% to Sullivan's 45.8% with more than 95% of ballots counted, giving Democrats a 56-44 Senate edge from January. She is Alaska's first Democratic senator since 2008, after a late row over a 'decoy' Dan Sullivan candidate, who drew 1.7%."
     }
   ],
   "columns": {
     "left": [
+      {
+        "title": "Brian Kilmeade says JD Vance ‘never should have been’ VP",
+        "rewrite": "Brian Kilmeade says JD Vance 'never should have been' VP",
+        "url": "https://thepostmillennial.com/news/brian-kilmeade-says-jd-vance-never-should-have-been-vp",
+        "source": "The Post Millennial",
+        "published": "2026-11-19T05:27:52+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "The Fox host appeared to object to how Vance has characterised the Iran war."
+      },
+      {
+        "title": "Trump blames Paxton's LAZY EYE for historic Texas rout: His humiliating offer of a Palm Beach doctor... Natalie's whispers in president's ear... and glamorous cabinet secretary insiders are blaming",
+        "rewrite": "Trump blames Paxton's LAZY EYE for historic Texas rout: His humiliating offer of a Palm Beach doctor......",
+        "url": "https://www.dailymail.com/news/article-16299799/ken-paxton-texas-lazy-eye-senate-midterms-trump.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-19T04:44:36+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Paxton's defeat handed Democrats their first Senate seat in Texas since 1988."
+      },
+      {
+        "title": "Van Hollen’s Maryland colleague sticks with Schumer leadership endorsement",
+        "rewrite": "Van Hollen's Maryland colleague sticks with Schumer leadership endorsement",
+        "url": "https://www.washingtonexaminer.com/news/senate/4807430/angela-alsobrooks-van-hollen-maryland-schumer-endorsement/",
+        "source": "Washington Examiner",
+        "published": "2026-11-19T04:20:19+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Sen. Angela Alsobrooks won't back Sen. Chris Van Hollen's long-shot challenge for Democratic leader, keeping her earlier commitment to Chuck Schumer."
+      },
+      {
+        "title": "Florida eyes poaching NYPD officers after Mamdani dismantles elite unit",
+        "rewrite": "Florida eyes poaching NYPD officers after Mamdani dismantles elite unit",
+        "url": "https://www.foxnews.com/politics/florida-eyes-poaching-nypd-officers-mamdani-dismantles-elite-unit",
+        "source": "Fox News",
+        "published": "2026-11-19T03:00:19+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Sen. Ashley Moody invited officers from the NYPD's Strategic Response Group to Florida after Mayor Zohran Mamdani announced the counterterrorism unit will be disbanded."
+      },
+      {
+        "title": "Trump’s grip on GOP faces major post-election test as his hand-picked leader faces challenge from within",
+        "rewrite": "Trump's grip on GOP faces major post-election test as his hand-picked leader faces challenge from within",
+        "url": "https://www.foxnews.com/politics/trumps-grip-gop-faces-major-post-election-test-hand-picked-leader-faces-challenge-within",
+        "source": "Fox News",
+        "published": "2026-11-18T23:55:51+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Trump is working to save RNC Chair Joe Gruters from a re-election challenge by co-chair KC Crosbie after the GOP's midterm losses."
+      },
       {
         "title": "Mamdani's luxury second home tax hits $500M milestone despite thousands of exemptions",
         "rewrite": "Mamdani's luxury second home tax hits $500M milestone despite thousands of exemptions",
@@ -81,7 +141,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Mayor Zohran Mamdani's pied-a-terre tax has billed wealthy second-home owners more than $500 million, although the bills came in far below initial estimates."
       },
       {
@@ -93,8 +153,20 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Cruz is urging outgoing Sen. John Cornyn to advance Trump's pick for a Dallas judgeship, T. Elliot Gaiser, who leads the Justice Department's Office of Legal Counsel. Cruz called the former Supreme Court clerk 'exceptionally well qualified'."
+      },
+      {
+        "title": "Iranian agent sentenced to over 27 years in prison for plot to assassinate Trump",
+        "rewrite": "Iranian agent sentenced to over 27 years in prison for plot to assassinate Trump",
+        "url": "https://www.washingtonexaminer.com/news/justice/4806900/iran-agent-sentenced-plot-assassinate-trump/",
+        "source": "Washington Examiner",
+        "published": "2026-11-18T12:15:24+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": false,
+        "summary": "Asif Merchant, a Pakistani national described as a trained IRGC intelligence asset, was sentenced on Tuesday after his conviction in March for attempted terrorism and murder for hire. The plot also targeted other former US officials."
       },
       {
         "title": "DC Circuit weighs Trump’s takeover of two agencies after Supreme Court agency head removal ruling",
@@ -213,7 +285,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "The justices declined to hear a challenge to the Maryland law, which bans concealed carry in numerous 'sensitive places' throughout the state."
       },
       {
@@ -277,160 +349,28 @@
         "summary": "A senior Justice Department official warned Democratic lawmakers that their oversight threats may not be fully shielded from criminal subpoenas, pointing to a Supreme Court dispute involving the late Sen. Lindsey Graham."
       },
       {
-        "title": "Abdul El-Sayed Faces Heightened Scrutiny Over Photos With Nazi-Linked Activist",
-        "rewrite": "Abdul El-Sayed Faces Heightened Scrutiny Over Photos With Nazi-Linked Activist",
-        "url": "https://freebeacon.com/democrats/abdul-el-sayed-faces-heightened-scrutiny-over-photos-with-nazi-linked-activist/",
-        "source": "Washington Free Beacon",
-        "published": "2026-11-17T09:20:03+11:00",
+        "title": "Labour's plans to tackle youth unemployment could see 100,000 women a year lose funding to train as nurses, carers and teaching assistants",
+        "rewrite": "Labour's plans to tackle youth unemployment could see 100,000 women a year lose funding to train as...",
+        "url": "https://www.dailymail.com/news/article-16303713/Labour-Milburn-unemployment-women-lose-apprenticeship-nurse-care.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-19T05:44:13+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Scrutiny of Democrat Abdul El-Sayed grew after a photo surfaced of him smiling with Kelly Neumann, a Michigan personal injury lawyer and Democratic fundraiser whose grandfather served in Hitler's military. The Free Beacon says the controversy escalated this week."
+        "section": "BUSINESS",
+        "is_new": true,
+        "summary": "An analysis of official figures finds about 100,000 women a year would lose funding to train later in life as nurses, carers and teaching assistants under Alan Milburn's proposals."
       },
       {
-        "title": "JD Vance says he and Trump still 'don't know' whether Alice Huang was a Chinese spy",
-        "rewrite": "VANCE: WE STILL 'DON'T KNOW' IF ALICE HUANG WAS A CHINESE SPY... INTEL 'POINTS IN DIFFERENT DIRECTIONS'",
-        "url": "https://www.foxnews.com/media/jd-vance-trump-dont-know-alice-huang-chinese-spy",
-        "source": "Fox News",
-        "published": "2026-11-17T09:01:09+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Vance told Fox's Laura Ingraham the intelligence on Alice Huang 'points in different directions', so neither he nor Trump can say whether she spied for China. US officials suspect she was recruited to push Nvidia to make advanced chips more available to Beijing, the New York Times reported. Trump backs a possible return for ex-CEO Jensen Huang."
-      },
-      {
-        "title": "Watchdog group files ethics complaint over Thomas Massie’s failed Hegseth impeachment effort",
-        "rewrite": "Watchdog group files ethics complaint over Thomas Massie's failed Hegseth impeachment effort",
-        "url": "https://www.washingtonexaminer.com/news/house/4804917/watchdog-group-ethics-complaint-thomas-massie-failed-pete-hegseth-impeachment-articles/",
-        "source": "Washington Examiner",
-        "published": "2026-11-17T07:34:33+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "A watchdog group has filed an ethics complaint against Rep. Thomas Massie (R-KY) over his failed bid to impeach War Secretary Pete Hegseth. The complaint argues the effort improperly targeted Hegseth for actions taken by President Trump."
-      },
-      {
-        "title": "Ashley Moody suggests NYPD officers from disbanded unit join Florida’s law enforcement agencies",
-        "rewrite": "Ashley Moody suggests NYPD officers from disbanded unit join Florida's law enforcement agencies",
-        "url": "https://www.washingtonexaminer.com/news/crime/4804885/ashley-moody-nypd-disbanded-unit-florida/",
-        "source": "Washington Examiner",
-        "published": "2026-11-17T07:28:40+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Sen. Ashley Moody (R-FL) suggested officers from the NYPD's Strategic Response Group look at jobs with Florida law enforcement. Mayor Zohran Mamdani disbanded the unit, which handled protest response, on Monday."
-      },
-      {
-        "title": "These Republicans are holding up Trump's judicial appointments",
-        "rewrite": "These Republicans are holding up Trump's judicial appointments",
-        "url": "https://www.theblaze.com/news/these-republicans-are-holding-up-trump-s-judicial-appointments",
-        "source": "The Blaze",
-        "published": "2026-11-17T06:00:00+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "The Senate has confirmed only 58 of Trump's second-term judicial nominees, against 234 appointments in his first term, including three Supreme Court justices. The Blaze names the Republicans it says are holding up confirmations as Trump pushes to add more before Democrats take control of Congress in January."
-      },
-      {
-        "title": "Ro Khanna calls for $1,700 Iran war ‘refund checks’ in first week of Democratic majority",
-        "rewrite": "Khanna wants $1,700 Iran war 'refund checks' in first week of Democratic majority",
-        "url": "https://www.washingtonexaminer.com/news/house/4804811/ro-khanna-iran-war-refund-checks-congress/",
-        "source": "Washington Examiner",
-        "published": "2026-11-17T05:59:53+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "The California Democrat says every American should get the rebate once Democrats retake Congress in 2027. 'Now Democrats have a chance to deliver,' he said in a statement on Monday."
-      },
-      {
-        "title": "Thomas Calls On SCOTUS To Assess Restrictions On Guns In ‘Sensitive Places’",
-        "rewrite": "Thomas Calls On SCOTUS To Assess Restrictions On Guns In 'Sensitive Places'",
-        "url": "https://thefederalist.com/2026/11/16/thomas-calls-on-scotus-to-assess-restrictions-on-guns-in-sensitive-places/",
-        "source": "The Federalist",
-        "published": "2026-11-17T04:32:18+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Justice Clarence Thomas urged the Supreme Court to review state bans on carrying guns in 'sensitive places'. He wrote that he harbours 'serious doubts' the nation's history of firearm regulation supports many of the sweeping restrictions."
-      },
-      {
-        "title": "Justices Thomas and Alito slam high court for rejecting challenge to ‘implicit bias’ training for doctors",
-        "rewrite": "Thomas, Alito dissent as Supreme Court refuses challenge to California 'implicit bias' training for doctors",
-        "url": "https://www.washingtonexaminer.com/news/supreme-court/4804553/justices-clarence-thomas-samuel-alito-slam-high-court-for-rejecting-challenge-implicit-bias-training-for-doctors/",
-        "source": "Washington Examiner",
-        "published": "2026-11-17T04:29:17+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "The court declined on Monday to hear the free-speech challenge to California's mandatory training for medical licence renewals. Justice Clarence Thomas led the dissent."
-      },
-      {
-        "title": "Trump stands by Duffy and Lutnick after FAA ground stop and Nvidia controversies",
-        "rewrite": "Trump stands by Duffy and Lutnick after FAA ground stop and Nvidia spy scandal... GOP scrutiny of Lutnick grows",
-        "url": "https://www.washingtonexaminer.com/news/white-house/4804552/trump-stands-by-duffy-and-lutnick-after-faa-ground-stop-and-nvidia-controversies/",
-        "source": "Washington Examiner",
-        "published": "2026-11-17T03:27:37+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Trump is backing both secretaries, but congressional Republicans are increasingly questioning Lutnick over his decision to delay restrictions on the company linked to the Chinese spy at the centre of the Huang affair. Duffy is under fire over last week's nationwide FAA ground stop."
-      },
-      {
-        "title": "Mamdani disbands counter-terrorism and riot response unit",
-        "rewrite": "MAMDANI DISBANDS NYPD COUNTER-TERROR AND RIOT UNIT... CIVILIANS TO TAKE OVER PROTEST ROLE",
-        "url": "https://www.theblaze.com/news/mamdani-riot-cops-counter-terrorism",
-        "source": "The Blaze",
-        "published": "2026-11-17T03:00:00+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "The mayor announced the end of the Strategic Response Group in a video on Monday, saying counterterrorism and protest response 'should be separated'. A new community dialogue and de-escalation division in the Mayor's Office of Community Safety will use non-uniformed civilians; police unions blasted the move."
-      },
-      {
-        "title": "Sanders endorses Van Hollen for Senate leader: ‘This is not a personality contest’",
-        "rewrite": "Sanders endorses Van Hollen over Schumer: 'This is not a personality contest'",
-        "url": "https://www.washingtonexaminer.com/news/senate/4804520/bernie-sanders-endorses-chris-van-hollen-senate-majority-leader/",
-        "source": "Washington Examiner",
-        "published": "2026-11-17T02:31:53+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "The Vermont independent says the party needs a new direction after its sweeping midterm win. His backing boosts Van Hollen's challenge for Senate Democratic leader."
-      },
-      {
-        "title": "Washington Supreme Court considers $20 bail for some crimes",
-        "rewrite": "Washington Supreme Court considers $20 bail for some crimes",
-        "url": "https://thepostmillennial.com/news/washington-supreme-court-considers-usd20-bail-for-some-crimes",
-        "source": "The Post Millennial",
-        "published": "2026-11-17T02:21:50+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Washington state's Supreme Court is weighing proposals that would set bail as low as $20 for some crimes. Critics say the plan amounts to a sweeping overhaul of pretrial detention that is likely to hurt public safety in cities."
-      },
-      {
-        "title": "Forensic expert says his analysis raises doubts about how Epstein died",
-        "rewrite": "Forensic expert tells BBC Epstein's injuries 'consistent with a homicide'",
-        "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo",
+        "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+        "rewrite": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+        "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
         "source": "BBC News",
-        "published": "2026-11-16T18:57:48+00:00",
+        "published": "2026-11-19T00:17:06+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Professor Michael Freeman told BBC Newsnight he reviewed the New York City medical examiner's file and believes Epstein's death in prison was homicide, not suicide. Epstein was awaiting trial on sex-trafficking charges when he was found dead in his cell."
+        "section": "BUSINESS",
+        "is_new": true,
+        "summary": "A typical household bill is expected to rise about 26% a year from January, as UK inflation hits its highest rate in a year."
       },
       {
         "title": "Wage growth picks up but real wages continue to go backwards — as it happened",
@@ -441,7 +381,7 @@
         "slot": "column",
         "urgent": false,
         "section": "BUSINESS",
-        "is_new": true,
+        "is_new": false,
         "summary": "The wage price index rose 1.1% in the September quarter and 3.5% over the year, the fourth straight quarter in which wages lagged inflation."
       },
       {
@@ -479,34 +419,45 @@
         "section": "BUSINESS",
         "is_new": false,
         "summary": "The Supreme Court declined to hear Custodia Bank's appeal, so a lower-court ruling letting the Federal Reserve reject its account application stands. The bank had sought direct access to the Fed's payment system."
-      },
-      {
-        "title": "Live: David Jones administrators meet with 500 creditors for first time",
-        "rewrite": "David Jones administrators meet with 500 creditors for first time",
-        "url": "https://www.abc.net.au/news/2026-11-17/asx-markets-business-news-live-updates-tuesday-17-november/107393100",
-        "source": "ABC News Australia",
-        "published": "2026-11-17T07:32:43+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "BUSINESS",
-        "is_new": false,
-        "summary": "Administrators for department store David Jones held their first meeting with about 500 creditors. The ABC's live markets blog also reports the ASX opened in the red after all major Wall Street indexes fell."
-      },
-      {
-        "title": "Spanberger Wants Power Giants To Pay Customers $6.5 Billion Before They Can Merge",
-        "rewrite": "Spanberger Wants Power Giants To Pay Customers $6.5 Billion Before They Can Merge",
-        "url": "https://dailycaller.com/2026/11/16/abigail-spanberger-nextera-dominion-energy-merger-rebate-rate-freeze",
-        "source": "Daily Caller",
-        "published": "2026-11-17T06:20:05+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "BUSINESS",
-        "is_new": false,
-        "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/11/spanberger-data-center-press-conference-richmond-getty.jpg",
-        "summary": "Spanberger wants two utility giants to pay customers about $6.5 billion, equal to their merger's breakup fee, if regulators approve the deal. The payment would have to come before the merger can go ahead."
       }
     ],
     "center": [
+      {
+        "title": "Russian warships being 'worked to death' as they are forced to spend longer at sea to protect Putin's decrepit fleet of sanctioned oil tankers",
+        "rewrite": "Russian warships being 'worked to death' as they are forced to spend longer at sea to protect Putin's...",
+        "url": "https://www.dailymail.com/news/article-16303315/russian-warships-death-protect-vladimir-putin-shadow-fleet.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-19T05:47:53+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "NATO now outnumbers Moscow's Baltic fleet almost 10 to one in the region as the alliance steps up operations on Europe's eastern flank."
+      },
+      {
+        "title": "Hegseth Sits Down With Maduro’s Replacement In Conquered Venezuelan Dictator’s Palace",
+        "rewrite": "Hegseth Sits Down With Maduro's Replacement In Conquered Venezuelan Dictator's Palace",
+        "url": "https://www.dailywire.com/news/hegseth-sits-down-with-maduros-replacement-in-conquered-venezuelan-dictators-palace",
+        "source": "Daily Wire",
+        "published": "2026-11-18T23:56:23+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "Hegseth made an unannounced trip to Caracas and appeared on Venezuelan state TV at the presidential palace with acting President Delcy Rodriguez, a Maduro ally, the AP reported."
+      },
+      {
+        "title": "Rubio insists no ‘imminent threat’ amid reports Iran could deploy ‘dirty bomb’",
+        "rewrite": "Rubio insists no 'imminent threat' amid reports Iran could deploy 'dirty bomb'",
+        "url": "https://www.washingtonexaminer.com/news/white-house/4806977/rubio-no-imminent-threat-iran-dirty-bomb/",
+        "source": "Washington Examiner",
+        "published": "2026-11-18T13:39:26+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": false,
+        "summary": "Speaking on the sidelines of the ASEAN summit in Manila, Secretary of State Marco Rubio said he doesn't think there is any imminent threat, citing his confidence in US intelligence services to identify such plots ahead of time."
+      },
       {
         "title": "JD Vance Vows Trump Won't Let Iran Become a 'Forever War' — Blasts Neocons Pushing Indefinite Conflict",
         "rewrite": "JD Vance Vows Trump Won't Let Iran Become a 'Forever War' — Blasts Neocons Pushing Indefinite Conflict",
@@ -516,7 +467,7 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "summary": "Vice President JD Vance said on Monday that Trump will not let the Iran conflict become a 'forever war' and that the US will not be drawn into another prolonged military commitment in the Middle East."
       },
       {
@@ -544,6 +495,18 @@
         "summary": "Iran's foreign minister blamed Israel for reports that Tehran planned a dirty bomb attack in Washington and dismissed them as propaganda. The reports, first carried by CNN citing US intelligence, have not been independently verified."
       },
       {
+        "title": "US carries out self-defense strike on IRGC missile launch site on Qeshm Island",
+        "rewrite": "US carries out self-defense strike on IRGC missile launch site on Qeshm Island",
+        "url": "https://www.foxnews.com/world/us-carries-out-self-defense-strike-irgc-missile-launch-site-qeshm-island",
+        "source": "Fox News",
+        "published": "2026-11-17T20:32:00+00:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": false,
+        "summary": "Two US military officials told Fox News that American fighter jets used precision munitions on an IRGC missile launch site on Qeshm Island on Tuesday, in response to IRGC aggression against US personnel. It came hours after Tehran claimed to target a US radar at Bahrain's Sheikh Isa base; CENTCOM says the Iranian drones were all intercepted."
+      },
+      {
         "title": "Vance hits back at ‘neoconservatives’ advocating ‘forever’ war with Iran",
         "rewrite": "Vance hits back at 'neoconservatives' advocating 'forever' war with Iran",
         "url": "https://www.washingtonexaminer.com/news/white-house/4805575/vance-neoconservatives-forever-war-iran/",
@@ -554,55 +517,6 @@
         "section": "WORLD",
         "is_new": false,
         "summary": "Vance accused 'neoconservatives' criticising the administration's talks with Iran of pushing for a 'forever' war, which he said he and Trump want to avoid. Trump has pulled Vance from the Iran negotiations and told him to focus on rooting out fraud."
-      },
-      {
-        "title": "Imprisoned ex-Pakistan PM Imran Khan, 74, warns he 'may not return alive': British sons make plea",
-        "rewrite": "Imprisoned ex-Pakistan PM Imran Khan, 74, warns he 'may not return alive': British sons make plea",
-        "url": "https://www.dailymail.com/news/article-16297637/Imprisoned-ex-Pakistan-PM-Imran-Khan.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-17T09:15:09+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "Former Pakistan PM Imran Khan, 74 and jailed since 2023, has asked Pakistan's Supreme Court to let him be treated in a hospital in Islamabad, warning he may not come out alive."
-      },
-      {
-        "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-        "rewrite": "Houthi rebel advance in Yemen may further destabilise global economy",
-        "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo",
-        "source": "BBC News",
-        "published": "2026-11-17T08:40:07+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eb50/live/f528e3c0-e1f9-11f1-a094-5fdc692f3e33.jpg",
-        "summary": "The Iran-backed Houthis have forced the army of Yemen's internationally recognised government to pull back from the Red Sea coast to defend its interim capital, Aden. The BBC's security correspondent warns the advance bodes ill for the government and could have dangerous wider consequences."
-      },
-      {
-        "title": "Malaysia Is Accused of Playing 'Decisive Role' in Helping Iran’s ‘Shadow Fleet’ Evade US Oil Blockade",
-        "rewrite": "Malaysia accused of 'decisive role' helping Iran's shadow fleet slip U.S. oil blockade",
-        "url": "https://freebeacon.com/national-security/malaysia-is-accused-of-playing-decisive-role-in-helping-irans-shadow-fleet-evade-us-oil-blockade/",
-        "source": "Washington Free Beacon",
-        "published": "2026-11-17T05:55:01+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "A watchdog group's shipping data and satellite monitoring suggest Malaysia is helping Iran's ghost fleet get oil past the US naval blockade, generating cash for Tehran."
-      },
-      {
-        "title": "Putin, Xi and Trump will discuss 'world peace' in meeting this week - but Ukraine is off the table",
-        "rewrite": "Trump, Xi, Putin to talk nuclear arms cuts and Iran this week... Ukraine off the table",
-        "url": "https://www.dailymail.com/news/article-16295711/Putin-Xi-Trump-discuss-world-peace-meeting-week-Ukraine-table.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-17T04:16:34+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "US officials say Trump wants to discuss reducing nuclear arsenals and raise the Iran war at the three-way meeting, but Russia's war in Ukraine is not expected to be discussed."
       },
       {
         "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
@@ -617,41 +531,16 @@
         "summary": "Images from Ukrainian officials show a section of the Crimean Bridge collapsed into the water after what Zelensky called an 'unprecedented operation'. The Kremlin says it will rebuild the road and rail link 'better than before'."
       },
       {
-        "title": "Trump says he ‘may meet’ North Korea’s Kim Jong Un in China",
-        "rewrite": "TRUMP: I 'MAY' MEET KIM JONG UN IN CHINA... ALREADY SET FOR THREE-WAY SUMMIT WITH XI, PUTIN",
-        "url": "https://nypost.com/2026/11/16/us-news/trump-says-he-may-meet-north-koreas-kim-jong-un-in-china/",
-        "source": "New York Post",
-        "published": "2026-11-17T01:48:21+11:00",
+        "title": "Albanese lukewarm on Trump, but Australia still drawing closer to US",
+        "rewrite": "Albanese lukewarm on Trump, but Australia still drawing closer to US",
+        "url": "https://www.abc.net.au/news/2026-11-19/david-speers-trump-quad-apec-ally/107398518",
+        "source": "ABC News Australia",
+        "published": "2026-11-19T05:00:00+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "Trump said on Monday he 'may' see the North Korean leader during his upcoming China visit. The trip already includes a three-way summit with Xi Jinping and Vladimir Putin; Trump suggested Kim's presence is up to Xi."
-      },
-      {
-        "title": "Five EU countries announce migrant deportation centre in Rwanda",
-        "rewrite": "Five EU countries to open migrant deportation 'return hub' in Rwanda",
-        "url": "https://www.bbc.co.uk/news/articles/cw987343352go",
-        "source": "BBC News",
-        "published": "2026-11-16T11:17:34+00:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "Germany, Denmark, Austria, Greece and the Netherlands expect the centre for failed asylum seekers to accept transfers in 2027. The Dutch and Danish governments announced it as part of a wider push to boost removals.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg"
-      },
-      {
-        "title": "South Africa shootings: 17 killed in Pietermaritzburg and Pretoria",
-        "rewrite": "17 killed in two mass shootings in South Africa",
-        "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo",
-        "source": "BBC News",
-        "published": "2026-11-16T10:57:48+00:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "Eight men were shot dead in a minibus in KwaZulu-Natal on Sunday night, and hours later nine people were killed in a second attack in Gauteng. Police say about 60 people are murdered every day in South Africa."
+        "section": "AUSTRALIA",
+        "is_new": true,
+        "summary": "Analysis: despite Trump's midterm setback and his awkward meeting with Putin, the US remains an important ally for Australia. The open question is what happens next."
       },
       {
         "title": "Pauline Hanson rejects claims that Trump's Iran war sparked cost of living crisis - and blames Albanese for inflation",
@@ -662,7 +551,7 @@
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "One Nation surges, Labor overtakes Liberals in latest Tasmanian poll results",
@@ -673,7 +562,7 @@
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "Support for Tasmania's Liberal government is at its lowest EMRS result since 2001. Labor and One Nation are gaining ground by focusing on healthcare and cost of living, the two biggest issues for voters."
       },
       {
@@ -725,52 +614,28 @@
         "summary": "Treasurer Jim Chalmers confirmed a 'substantial' package of savings in the mid-year budget update, due in December, while saying the spending cuts will not go too far."
       },
       {
-        "title": "Live: Backpacker visa changes to be altered following backlash",
-        "rewrite": "Backpacker visa changes to be altered following backlash",
-        "url": "https://www.abc.net.au/news/2026-11-17/federal-politics-live-blog-senate-albanese-/107391106",
+        "title": "Regional Victoria feels forgotten and is growing politically angry",
+        "rewrite": "Regional Victoria feels forgotten and is growing politically angry",
+        "url": "https://www.abc.net.au/news/2026-11-19/state-election-contest-is-on-in-regional-victoria/107367898",
         "source": "ABC News Australia",
-        "published": "2026-11-17T06:58:32+11:00",
+        "published": "2026-11-19T05:17:15+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "summary": "The federal government has announced further changes to the backpacker visa scheme after a backlash from regional Australia."
+        "section": "VICTORIA",
+        "is_new": true,
+        "image": "https://live-production.wcms.abc-cdn.net.au/c1cf8cefefe0579b37d28a2d3f464d00?impolicy=wcms_watermark_news&cropH=1164&cropW=2070&xPos=0&yPos=78&width=862&height=485&imformat=generic",
+        "summary": "Labor is fighting for its political life across regional Victoria, with One Nation rising and the Nationals facing generational change. Candidates are campaigning on ageing local infrastructure, from Shepparton to most other regional seats."
       },
       {
-        "title": "Rudd-era mining tax could have boosted budget by $135b",
-        "rewrite": "PBO: Rudd's scrapped mining tax could have boosted budget by $135 billion",
-        "url": "https://www.abc.net.au/news/2026-11-17/kevin-rudd-labor-mining-super-profits-tax-budget-135-billion-pbo/107389174",
-        "source": "ABC News Australia",
-        "published": "2026-11-17T05:00:00+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "summary": "A Parliamentary Budget Office analysis finds the abandoned tax, which led to Kevin Rudd's 2010 toppling, would have improved the budget by $135 billion."
-      },
-      {
-        "title": "Coalition leads Labor in new poll which spells wipeout for Albanese - with government on track to lose 40 seats",
-        "rewrite": "Roy Morgan poll: Coalition leads Labor... government on track to lose 40 seats",
-        "url": "https://www.dailymail.com/news/article-16295633/roy-morgan-labor-albanese-poll-coalition.html?ns_campaign=1490",
+        "title": "Leaked texts show how Liberals knifed Nationals for Pauline Hanson's One Nation in explosive revelation set to spark a political civil war ahead of Victoria election: PVO",
+        "rewrite": "Leaked texts show how Liberals knifed Nationals for Pauline Hanson's One Nation in explosive revelation...",
+        "url": "https://www.dailymail.com/news/article-16301531/PVO-leaked-texts-jo-armstrong-one-nation-nationals-victoria-election-liberals-texts.html?ns_campaign=1490",
         "source": "Daily Mail",
-        "published": "2026-11-17T01:12:42+11:00",
+        "published": "2026-11-19T00:29:59+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "summary": "The new Roy Morgan poll puts the Coalition ahead of Labor and points to a wipeout for the Albanese government if an election were held today."
-      },
-      {
-        "title": "Australia backs Trump's AI alliance as US takes on China",
-        "rewrite": "Australia signs on to Trump's AI alliance as U.S. takes on China",
-        "url": "https://www.abc.net.au/news/2026-11-17/australia-signs-us-led-ai-supply-chain-agreement/107392252",
-        "source": "ABC News Australia",
-        "published": "2026-11-16T18:00:00+00:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "summary": "Australia has signed a US-led AI supply chain agreement, moving closer to Washington as cheaper Chinese AI attracts interest across the region. Albanese told regional leaders they must 'shape AI' rather than the other way around."
+        "section": "VICTORIA",
+        "is_new": true
       },
       {
         "title": "Dozens of students run for their lives as a Victorian school bus erupts into flames on the Great Ocean Road",
@@ -781,7 +646,7 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "The fire spread rapidly to nearby grassland, and local farmers rushed to help."
       },
       {
@@ -793,7 +658,7 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "A Supreme Court of Victoria judge has granted bail to Luke Rainey, who is accused of murdering his neighbour, mother of three Melonie McKay, in Reservoir."
       },
       {
@@ -809,28 +674,28 @@
         "summary": "Victoria Police say the deaths of a 36-year-old woman and a two-year-old child at a Craigieburn lake are not being treated as suspicious. A report will be prepared for the coroner."
       },
       {
-        "title": "Early voting begins in Victoria's biggest election ever",
-        "rewrite": "Early voting begins in Victoria's biggest election ever",
-        "url": "https://www.abc.net.au/news/2026-11-18/logistics-behind-victoria-biggest-election-revealed/107355416",
-        "source": "ABC News Australia",
-        "published": "2026-11-18T05:26:57+11:00",
+        "title": "Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike",
+        "rewrite": "Bitcoin, stocks wobble as Fed's Waller talks of 'shock' 50-point rate hike",
+        "url": "https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike",
+        "source": "Cointelegraph",
+        "published": "2026-11-19T03:34:20+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "Early voting is under way, with more than 4.7 million Victorians enrolled to vote by November 28, the most on record. The scale is testing the Victorian Electoral Commission's processes."
+        "section": "MARKETS",
+        "is_new": true,
+        "summary": "Bitcoin fell below $63,000 after the hawkish Fed comments, as optimism from Nvidia's earnings faded."
       },
       {
-        "title": "Victorian election leaders’ debate as it happened: Ben Carroll, Jess Wilson, Warren Pickering and Ellen Sandell pitch to undecided voters",
-        "rewrite": "Victorian election leaders' debate as it happened: Ben Carroll, Jess Wilson, Warren Pickering and Ellen...",
-        "url": "https://www.theage.com.au/national/victoria/victorian-election-leaders-debate-live-ben-carroll-jess-wilson-warren-pickering-and-ellen-sandell-make-pitch-to-undecided-voters-20261117-p61exb.html?ref=rss",
-        "source": "The Age",
-        "published": "2026-11-17T21:14:58+11:00",
+        "title": "The key S&P 500 level Wall Street is watching",
+        "rewrite": "The key S&P 500 level Wall Street is watching",
+        "url": "https://www.cnbc.com/2026/11/18/sp-500-falls-below-200-day-moving-average.html",
+        "source": "CNBC",
+        "published": "2026-11-19T02:16:13+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "With 11 days to the election, Premier Ben Carroll and Opposition Leader Jess Wilson faced off in a four-way debate that also included the One Nation and Greens leaders."
+        "section": "MARKETS",
+        "is_new": true,
+        "summary": "The S&P 500 closed Tuesday at 7,340.53, just under its 200-day average of 7,346.64, and the next move may be lower."
       },
       {
         "title": "Fed’s Waller cites Binance hack in warning over tokenized finance",
@@ -891,30 +756,6 @@
         "section": "MARKETS",
         "is_new": false,
         "summary": "Reserve Bank governor Michele Bullock issued a new warning to mortgage holders as business leaders raise the alarm about the economy."
-      },
-      {
-        "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
-        "rewrite": "Bitcoin fails to hold $65K as U.S. stocks slide on AI nerves",
-        "url": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves",
-        "source": "Cointelegraph",
-        "published": "2026-11-17T03:26:52+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "MARKETS",
-        "is_new": false,
-        "summary": "Bitcoin is around $64,300 after hitting $62,100 on Sunday, its lowest since 14 July. Traders are weighing Nvidia's third-quarter earnings and Anthropic's IPO announcement."
-      },
-      {
-        "title": "Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks",
-        "rewrite": "Strategy buys 485 Bitcoin for $33M... spends $228M buying back STRC shares",
-        "url": "https://cointelegraph.com/news/strategy-buy-485-bitcoin-228-million-strc-buyback",
-        "source": "Cointelegraph",
-        "published": "2026-11-17T00:29:11+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "MARKETS",
-        "is_new": false,
-        "summary": "The purchases were largely funded by new common stock sales."
       }
     ],
     "right": [
@@ -927,7 +768,7 @@
         "slot": "column",
         "urgent": false,
         "section": "UK",
-        "is_new": true,
+        "is_new": false,
         "summary": "The former Labour minister called for a shake-up of the benefits system that he says would save 3.6 billion pounds a year."
       },
       {
@@ -968,40 +809,40 @@
         "summary": "The government will change the law so failed asylum seekers no longer get five working days' notice before removal; ministers say the notice leads to last-minute appeals. Under the proposed rules the Home Office would have six months to remove a person without telling them in advance."
       },
       {
-        "title": "Labour accused of being 'hell-bent' on opening Piddington migrant camp despite warnings it could cost taxpayers £1billion over a decade",
-        "rewrite": "Labour 'hell-bent' on Piddington migrant camp despite warnings of £1 billion cost",
-        "url": "https://www.dailymail.com/news/article-16296963/Labour-accused-hell-bent-opening-Piddington-migrant-camp-despite-warnings-cost-taxpayers-1billion-decade.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-17T03:45:58+11:00",
+        "title": "TikTok owner nears $500 million deal for Microsoft servers despite OpenAI’s fear of AI theft",
+        "rewrite": "TikTok owner nears $500 million deal for Microsoft servers despite OpenAI's fear of AI theft",
+        "url": "https://www.washingtonexaminer.com/news/business/4807179/tiktok-owner-bytedance-nears-deal-microsoft-ai-theft-fears/",
+        "source": "Washington Examiner",
+        "published": "2026-11-19T04:41:58+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "UK",
-        "is_new": false,
-        "summary": "Housing secretary Angela Rayner approved the camp at MoD Bicester last week, even though nearby Piddington symbolically voted to leave the UK."
+        "section": "TECHNOLOGY",
+        "is_new": true,
+        "summary": "Microsoft is nearing a deal worth about $500 million to give ByteDance access to OpenAI's AI tools, according to The Information, despite security concerns from OpenAI."
       },
       {
-        "title": "Labour's ban on zero-hours contracts 'could cost NHS and fire services billions of pounds'",
-        "rewrite": "Labour's zero-hours ban 'could cost NHS and fire services billions'",
-        "url": "https://www.dailymail.com/news/article-16296073/Labours-ban-zero-hours-contracts-cost-NHS-fire-services-billions-pounds.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-16T22:55:00+11:00",
+        "title": "Trump’s top intel official reveals common cause behind outages at NSA, Microsoft, JPMorgan — and why AI is involved",
+        "rewrite": "Trump's top intel official reveals common cause behind outages at NSA, Microsoft, JPMorgan — and why AI is...",
+        "url": "https://nypost.com/2026/11/18/us-news/dni-jay-clayton-affirms-widespread-tech-outages-not-coordinated-result-of-updating-legacy-systems/",
+        "source": "New York Post",
+        "published": "2026-11-19T03:52:22+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "UK",
-        "is_new": false,
-        "summary": "The warning targets Angela Rayner's new laws to end 'exploitative' employment arrangements."
+        "section": "TECHNOLOGY",
+        "is_new": true,
+        "summary": "DNI Jay Clayton told a hearing the widespread outages were caused by maintenance and technical changes, not malign actors."
       },
       {
-        "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
-        "rewrite": "No 10: Russell Brand 'not guilty' prison message 'appalling'... urgent investigation",
-        "url": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o",
-        "source": "BBC News",
-        "published": "2026-11-16T10:51:16+00:00",
+        "title": "US senators warn White House that AI-enabled cyber threats are outpacing defenses",
+        "rewrite": "US senators warn White House that AI-enabled cyber threats are outpacing defenses",
+        "url": "https://nypost.com/2026/11/18/us-news/us-senators-warn-white-house-that-ai-enabled-cyber-threats-are-outpacing-defenses/",
+        "source": "New York Post",
+        "published": "2026-11-19T03:48:53+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "UK",
-        "is_new": false,
-        "summary": "Brand, serving 10 and a half years for rape and three counts of sexual assault, had his wife read a message on their podcast saying he was 'not guilty of the offences I have been jailed for'. Downing Street says it is being urgently investigated."
+        "section": "TECHNOLOGY",
+        "is_new": true,
+        "summary": "Sens. Cantwell and Rounds urged the White House to bolster cyberdefences as rapid AI advances expose flaws in widely used software such as PHP."
       },
       {
         "title": "Rubio insists ‘zero evidence’ that widespread US tech outages, cyberattacks are linked",
@@ -1012,7 +853,7 @@
         "slot": "column",
         "urgent": false,
         "section": "TECHNOLOGY",
-        "is_new": true,
+        "is_new": false,
         "summary": "Rubio acknowledged that back-to-back outages at Microsoft, the Federal Aviation Administration and several major banks have put some Americans on edge, but said there is zero evidence they are linked to cyberattacks."
       },
       {
@@ -1088,64 +929,52 @@
         "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging it misled and endangered the public by testing AI agents without proper safeguards. He cites the July attack in which hundreds of OpenAI agents breached Hugging Face's systems. OpenAI says it is being singled out; it appears to be the first such suit by a US state."
       },
       {
-        "title": "US moves to stop AI chip-smuggling amid push to reinstate Huang",
-        "rewrite": "US moves to stop AI chip-smuggling amid push to reinstate Huang",
-        "url": "https://www.abc.net.au/news/2026-11-17/donald-trump-says-he-would-not-mind-jensen-huang-comeback/107393002",
-        "source": "ABC News Australia",
-        "published": "2026-11-17T06:48:49+11:00",
+        "title": "‘Grendel’ Animated Series Set at Netflix From ‘Widow’s Bay’ Writer Years After Live-Action Adaptation Was Scrapped",
+        "rewrite": "'Grendel' Animated Series Set at Netflix From 'Widow's Bay' Writer Years After Live-Action Adaptation Was...",
+        "url": "https://variety.com/2026/tv/news/grendel-animated-series-netflix-1236952144/",
+        "source": "Variety",
+        "published": "2026-11-19T05:53:43+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false,
-        "summary": "Trump has added weight to a push to reinstate Jensen Huang as Nvidia CEO, days after he resigned amid fears of a relationship with a suspected Chinese spy. The ABC reports the US is also moving to stop AI chip smuggling."
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "Netflix has greenlit an adult animated series based on Matt Wagner's Dark Horse comic. Showrunner Bobak Esfarjani previously wrote and produced on 'Widow's Bay', 'Alien: Earth' and 'WandaVision'."
       },
       {
-        "title": "Microsoft explains ‘root cause’ of global outage four days after fiasco",
-        "rewrite": "Microsoft blames global outage on Wednesday glitches that exposed a summer software defect",
-        "url": "https://www.washingtonexaminer.com/policy/technology/4804738/microsoft-explains-root-cause-global-outage/",
-        "source": "Washington Examiner",
-        "published": "2026-11-17T05:05:56+11:00",
+        "title": "‘Ginny & Georgia’ Sets Season 4 Release Date, Drops First Look Photos",
+        "rewrite": "'Ginny & Georgia' Sets Season 4 Release Date, Drops First Look Photos",
+        "url": "https://variety.com/2026/tv/news/ginny-georgia-season-4-release-date-1236952146/",
+        "source": "Variety",
+        "published": "2026-11-19T05:53:22+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false,
-        "summary": "A top Microsoft executive said on Monday that technical difficulties starting Wednesday left systems vulnerable to a software defect discovered over the summer."
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "Season 4 premieres on Netflix on Jan. 21, picking up with Georgia Miller (Brianne Howey) having dodged a murder charge."
       },
       {
-        "title": "GTA 6 hacker pleads guilty after release from secure hospital",
-        "rewrite": "GTA 6 hacker pleads guilty after release from secure hospital",
-        "url": "https://www.bbc.co.uk/news/articles/cq99exy89dngo",
+        "title": "Netflix actor, 38, ID’d after slapping woman then drowning off Santa Monica Pier as his dad calls it ‘a big mystery’",
+        "rewrite": "Netflix actor, 38, ID'd after slapping woman then drowning off Santa Monica Pier as his dad calls it 'a...",
+        "url": "https://nypost.com/2026/11/18/us-news/netflix-actor-idd-as-man-who-hit-woman-drowned-at-santa-monica-pier/",
+        "source": "New York Post",
+        "published": "2026-11-19T05:22:09+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "The LA County Medical Examiner named the 38-year-old as Haskins, who died near the pier on Monday. He is believed to have drowned; no cause of death has been released."
+      },
+      {
+        "title": "Joanna Page says male actor made 'awful' and 'inappropriate' comments to her on set",
+        "rewrite": "Joanna Page says male actor made 'awful' and 'inappropriate' comments to her on set",
+        "url": "https://www.bbc.co.uk/news/articles/cqj3kelenm0do",
         "source": "BBC News",
-        "published": "2026-11-17T00:34:22+11:00",
+        "published": "2026-11-18T22:00:05+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false,
-        "summary": "Arion Kurtaj, 21, admitted the Rockstar Games hack and other attacks he carried out as a teenager."
-      },
-      {
-        "title": "EXCLUSIVE: ICE Fights Back Against Public Scrutiny With New Automatic Bodycam Technology",
-        "rewrite": "ICE rolls out bodycams that switch on together when one agent's camera activates",
-        "url": "https://www.dailywire.com/news/exclusive-ice-fights-back-against-public-scrutiny-with-new-automatic-bodycam-technology",
-        "source": "Daily Wire",
-        "published": "2026-11-16T23:03:51+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false,
-        "summary": "Starting last week, when one agent's camera turns on, all cameras nearby activate too, three agency sources told The Daily Wire. The agency says the change is aimed at accountability amid hostile encounters."
-      },
-      {
-        "title": "Commerce Department issues rule limiting other countries' access to America's advanced AI chips",
-        "rewrite": "Commerce issues rule limiting foreign access to America's advanced AI chips",
-        "url": "https://justthenews.com/nation/technology/commerce-department-issues-rule-limiting-other-countries-access-americas-advanced",
-        "source": "Just the News",
-        "published": "2026-11-16T12:43:00-05:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false,
-        "summary": "The interim rule, issued Monday, aims to stop export restrictions being sidestepped through remote computing at data centres in third countries. It follows Bessent's criticism that Commerce failed to restrict Megaspeed, the Nvidia customer at the centre of the Huang scandal."
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "Page described the comments on Tuesday's episode of I'm a Celebrity... Get Me Out Of Here!"
       },
       {
         "title": "‘Dune: Prophecy’ Star Tabu Joins YRF Entertainment’s Netflix Rescue Drama ‘Tunnel Men’ (EXCLUSIVE)",
@@ -1156,7 +985,7 @@
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
+        "is_new": false,
         "summary": "The Indian star, known internationally for 'Life of Pi' and 'Dune: Prophecy', has signed on to the Netflix series from Yash Raj Films' streaming banner. It is her first original Hindi-language series for streaming."
       },
       {
@@ -1254,29 +1083,17 @@
         "section": "ENTERTAINMENT",
         "is_new": false,
         "summary": "The extended cut of 'Spider-Man: Brand New Day', with footage previously left on the cutting-room floor, returns to theatres on Dec. 4. Tickets go on sale Nov. 19."
-      },
-      {
-        "title": "British actor Robert Pattinson named as new James Bond",
-        "rewrite": "ROBERT PATTINSON NAMED NEW JAMES BOND",
-        "url": "https://www.abc.net.au/news/2026-11-17/robert-pattinson-named-as-new-james-bond/107392892",
-        "source": "ABC News Australia",
-        "published": "2026-11-17T02:39:07+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "Pattinson succeeds Daniel Craig, who left the role after 2021's No Time to Die. Amazon MGM's new film will be directed by Denis Villeneuve, who worked with Pattinson on Dune."
       }
     ]
   },
   "image_url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f174/live/bc6fa8f0-e1c4-11f1-a094-5fdc692f3e33.jpg",
   "counts": {
-    "total": 104,
+    "total": 89,
     "featured": 4,
     "columns": {
-      "left": 36,
-      "center": 34,
-      "right": 29
+      "left": 29,
+      "center": 28,
+      "right": 27
     },
     "feeds_ok": 44,
     "feeds_failed": 6

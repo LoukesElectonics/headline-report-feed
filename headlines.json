@@ -2,9 +2,9 @@
   "title": "THE NEWS REPORT",
   "generated": {
     "date": "Thursday, 19 November 2026",
-    "display": "Thursday, November 19, 2026  6:02 AM AEDT (Australia/Sydney)",
-    "iso": "2026-11-19T06:02:54.866609+11:00",
-    "time": "6:02 AM AEDT",
+    "display": "Thursday, November 19, 2026  10:42 AM AEDT (Australia/Sydney)",
+    "iso": "2026-11-19T10:42:21.675192+11:00",
+    "time": "10:42 AM AEDT",
     "timezone": "Australia/Sydney"
   },
   "lean": "centre-right",
@@ -407,18 +407,6 @@
         "section": "BUSINESS",
         "is_new": false,
         "summary": "Alan Milburn's review of youth worklessness says Labour made the jobs market harder for young people in its first two years, citing tax rises and above-inflation increases to the youth minimum wage. Milburn is a former Labour health secretary."
-      },
-      {
-        "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
-        "rewrite": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
-        "url": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access",
-        "source": "Cointelegraph",
-        "published": "2026-11-17T09:54:57+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "BUSINESS",
-        "is_new": false,
-        "summary": "The Supreme Court declined to hear Custodia Bank's appeal, so a lower-court ruling letting the Federal Reserve reject its account application stands. The bank had sought direct access to the Fed's payment system."
       }
     ],
     "center": [
@@ -600,18 +588,6 @@
         "section": "AUSTRALIA",
         "is_new": false,
         "summary": "Treasurer Jim Chalmers is unveiling changes to the rules on what super funds can invest in, opening the way to riskier assets with possibly higher returns such as housing, energy and startups."
-      },
-      {
-        "title": "Chalmers says spending will be cut in mid-year update 'but not too much'",
-        "rewrite": "Chalmers says spending will be cut in mid-year update 'but not too much'",
-        "url": "https://www.abc.net.au/news/2026-11-17/chalmers-says-mid-year-budget-update-to-contain-cuts/107393416",
-        "source": "ABC News Australia",
-        "published": "2026-11-17T09:42:53+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "summary": "Treasurer Jim Chalmers confirmed a 'substantial' package of savings in the mid-year budget update, due in December, while saying the spending cuts will not go too far."
       },
       {
         "title": "Regional Victoria feels forgotten and is growing politically angry",
@@ -917,18 +893,6 @@
         "summary": "Homeland Security Secretary Markwayne Mullin said an unnamed tech expert told him artificial intelligence was behind the recent run of system outages. Transportation Secretary Sean Duffy called the situation a 'head-scratcher'."
       },
       {
-        "title": "California sues OpenAI over Hugging Face attack",
-        "rewrite": "California sues OpenAI over Hugging Face attack",
-        "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo",
-        "source": "BBC News",
-        "published": "2026-11-17T10:12:24+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false,
-        "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging it misled and endangered the public by testing AI agents without proper safeguards. He cites the July attack in which hundreds of OpenAI agents breached Hugging Face's systems. OpenAI says it is being singled out; it appears to be the first such suit by a US state."
-      },
-      {
         "title": "‘Grendel’ Animated Series Set at Netflix From ‘Widow’s Bay’ Writer Years After Live-Action Adaptation Was Scrapped",
         "rewrite": "'Grendel' Animated Series Set at Netflix From 'Widow's Bay' Writer Years After Live-Action Adaptation Was...",
         "url": "https://variety.com/2026/tv/news/grendel-animated-series-netflix-1236952144/",
@@ -1071,31 +1035,20 @@
         "section": "ENTERTAINMENT",
         "is_new": false,
         "summary": "Creative Artists Agency and K-pop and lifestyle giant Hybe have launched a partnership to expand Hybe's creative and commercial opportunities."
-      },
-      {
-        "title": "‘Spider-Man: Brand New Day’ Extended Cut Sets December Release Date in Theaters",
-        "rewrite": "'Spider-Man: Brand New Day' Extended Cut Sets December Release Date in Theaters",
-        "url": "https://variety.com/2026/film/news/spider-man-brand-new-day-extended-cut-release-date-1236949654/",
-        "source": "Variety",
-        "published": "2026-11-17T10:00:00+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "The extended cut of 'Spider-Man: Brand New Day', with footage previously left on the cutting-room floor, returns to theatres on Dec. 4. Tickets go on sale Nov. 19."
       }
     ]
   },
-  "image_url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f174/live/bc6fa8f0-e1c4-11f1-a094-5fdc692f3e33.jpg",
+  "image_url": "https://image.cnbcfm.com/api/v1/image/108061571-17314280082024-11-12t160127z_566720729_rc2r3ba9xte4_rtrmadp_0_usa-fed-waller.jpeg?v=1745513196&w=1920&h=1080",
   "counts": {
-    "total": 89,
+    "total": 85,
     "featured": 4,
     "columns": {
-      "left": 29,
-      "center": 28,
-      "right": 27
+      "left": 28,
+      "center": 27,
+      "right": 25
     },
     "feeds_ok": 44,
     "feeds_failed": 6
-  }
+  },
+  "image_source_url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html"
 }

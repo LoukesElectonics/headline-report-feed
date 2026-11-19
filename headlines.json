@@ -1,49 +1,49 @@
 {
   "title": "THE NEWS REPORT",
   "generated": {
-    "date": "Thursday, 19 November 2026",
-    "display": "Thursday, November 19, 2026  6:21 PM AEDT (Australia/Sydney)",
-    "iso": "2026-11-19T18:21:22.633576+11:00",
-    "time": "6:21 PM AEDT",
+    "date": "Friday, 20 November 2026",
+    "display": "Friday, November 20, 2026  6:23 AM AEDT (Australia/Sydney)",
+    "iso": "2026-11-20T06:23:06.863436+11:00",
+    "time": "6:23 AM AEDT",
     "timezone": "Australia/Sydney"
   },
   "lean": "centre-right",
   "top": {
-    "title": "Trump blasts Vance-negotiated Iran deal as a ‘waste of time’",
-    "rewrite": "Trump blasts Vance-negotiated Iran deal as a 'waste of time'",
-    "url": "https://nypost.com/2026/11/18/us-news/trump-blasts-vance-negotiated-iran-deal-as-a-waste-of-time/",
-    "source": "New York Post",
-    "published": "2026-11-19T12:54:29+11:00",
+    "title": "Trump, Xi and Putin release joint statement after historic talks",
+    "rewrite": "Trump, Xi and Putin release joint statement after historic talks",
+    "url": "https://www.abc.net.au/news/2026-11-19/albanese-tells-putin-to-end-ukraine-war-now/107406348",
+    "source": "ABC News Australia",
+    "published": "2026-11-19T20:36:33+11:00",
     "slot": "top",
     "urgent": false,
     "section": "WORLD",
     "is_new": true,
-    "summary": "Speaking to Fox News in China, Trump said the memorandum of understanding Vance negotiated with Iran in June 'delayed things' but 'wasn't a mistake', adding: 'I never believe too much in memorandums.' The pact fell apart in July after Iranian attacks on commercial ships. Trump said he would fight the war again and that Vance is doing 'a very good job'."
+    "summary": "The leaders met for about 90 minutes on the APEC sidelines in Shenzhen. China's CCTV readout made no mention of Ukraine but said bodies like the International Criminal Court should not abuse their jurisdiction; Putin faces an ICC warrant. They also pledged to cut nuclear risks. Hours earlier Albanese told Putin to end the war 'now'."
   },
   "featured": [
     {
-      "title": "Trump reveals 'indications Iran is looking at bioweapons' as he's quizzed over Cabinet members relocating amid growing fears of attack on US soil",
-      "rewrite": "Trump reveals 'indications Iran is looking at bioweapons' as he's quizzed over Cabinet members relocating...",
-      "url": "https://www.dailymail.com/news/article-16304527/Trump-reveals-indications-Iran-looking-bioweapons-hes-quizzed-Cabinet-members-relocating-amid-growing-fears-attack-US-soil.html?ns_campaign=1490",
+      "title": "Trump's money man Scott Bessent secretly moved from home over 'Iranian chemical plot'",
+      "rewrite": "Trump's money man Scott Bessent secretly moved from home over 'Iranian chemical plot' as president weighs...",
+      "url": "https://www.dailymail.com/news/article-16306347/Trump-Scott-Bessent-moved-Iranian-chemical.html?ns_campaign=1490",
       "source": "Daily Mail",
-      "published": "2026-11-19T15:02:58+11:00",
+      "published": "2026-11-20T04:55:17+11:00",
       "slot": "featured",
       "urgent": false,
       "section": "US",
       "is_new": true,
-      "summary": "Asked about reports of an Iranian 'dirty bomb' threat to Washington, Trump told Fox News there is 'indication that Iran is looking at gasses, looking at bio' and hinted at something after January 1. Rubio, Hegseth, Blanche, Bessent and Stephen Miller are reported to have moved onto a military base in Washington over the threats."
+      "summary": "Bessent was moved from his Washington home to a military base earlier this month over threats to his life, which a New York Times report links to an Iranian 'chemical plot'. Asked by Fox's Larry Kudlow about Iranian attempts on his life, Bessent said he would 'not talk about that' and cited a 'high threat level'."
     },
     {
-      "title": "US races to build bunkers across Middle East as Iranian strikes threaten American troops",
-      "rewrite": "US races to build bunkers across Middle East as Iranian strikes threaten American troops",
-      "url": "https://www.foxnews.com/world/us-races-build-bunkers-across-middle-east-iranian-strikes-threaten-american-troops",
-      "source": "Fox News",
-      "published": "2026-11-19T08:18:28+11:00",
+      "title": "Trump blasts Vance-negotiated Iran deal as a ‘waste of time’",
+      "rewrite": "Trump blasts Vance-negotiated Iran deal as a 'waste of time'",
+      "url": "https://nypost.com/2026/11/18/us-news/trump-blasts-vance-negotiated-iran-deal-as-a-waste-of-time/",
+      "source": "New York Post",
+      "published": "2026-11-19T12:54:29+11:00",
       "slot": "featured",
       "urgent": false,
       "section": "WORLD",
-      "is_new": true,
-      "summary": "An Army procurement notice calls for 17 reinforced concrete bunkers, 10 in Israel, five in Saudi Arabia and two in Lebanon, to replace converted shipping containers. Iranian attacks have killed at least 23 US service members since the war began in late February, and Iran claimed its third strike on a US base in Bahrain in five days on Tuesday."
+      "is_new": false,
+      "summary": "Speaking to Fox News in China, Trump said the memorandum of understanding Vance negotiated with Iran in June 'delayed things' but 'wasn't a mistake', adding: 'I never believe too much in memorandums.' The pact fell apart in July after Iranian attacks on commercial ships. Trump said he would fight the war again and that Vance is doing 'a very good job'."
     },
     {
       "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
@@ -54,24 +54,108 @@
       "slot": "featured",
       "urgent": false,
       "section": "MARKETS",
-      "is_new": true,
+      "is_new": false,
       "summary": "Anthropic will price shares at $83 when it lists on Nasdaq on Thursday, valuing it at more than $1.4tn, up from an earlier $70-$78 range. It would be the first US company focused purely on AI to go public, raising about $94bn including private placements; an early investor told the BBC the offer was more than 10 times oversubscribed."
     },
     {
-      "title": "Nvidia interim CEO says 'we’ve got this' as company looks to future without Jensen Huang",
-      "rewrite": "Nvidia interim CEO says 'we've got this' as company looks to future without Jensen Huang",
-      "url": "https://www.foxbusiness.com/markets/nvidia-interim-ceo-says-weve-got-this-company-looks-future-without-jensen-huang",
-      "source": "Fox Business",
-      "published": "2026-11-19T04:53:57+11:00",
+      "title": "Appeals court halts bid to revive Venezuelan temporary protected status after Trump goes to Supreme Court",
+      "rewrite": "Appeals court halts bid to revive Venezuelan temporary protected status after Trump goes to Supreme Court",
+      "url": "https://www.washingtonexaminer.com/news/justice/4808711/appeals-court-halts-bid-revive-venezuela-tps-trump-supreme-court/",
+      "source": "Washington Examiner",
+      "published": "2026-11-20T05:10:36+11:00",
       "slot": "featured",
       "urgent": false,
-      "section": "BUSINESS",
+      "section": "US",
       "is_new": true,
-      "summary": "Colette Kress, Nvidia's CFO since 2013, told the earnings call the company is well positioned after Jensen Huang's abrupt resignation last week. Quarterly revenue of $115.8 billion beat estimates. 'Our momentum is real. Our demand is accelerating,' she said."
+      "summary": "Hours after the Trump administration asked the Supreme Court to step in, a Ninth Circuit panel blocked a lower-court order that would have restored Temporary Protected Status for Venezuelans from Friday. The block lasts until at least seven days after the panel rules on the appeal."
     }
   ],
   "columns": {
     "left": [
+      {
+        "title": "Mamdani refuses to 'walk through the math' when confronted over his plan for city-owned supermarkets",
+        "rewrite": "Mamdani refuses to 'walk through the math' when confronted over his plan for city-owned supermarkets",
+        "url": "https://thepostmillennial.com/news/mamdani-refuses-to-walk-through-the-math-when-confronted-over-his-plan-for-city-owned",
+        "source": "The Post Millennial",
+        "published": "2026-11-20T05:48:55+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Host Andrew Ross Sorkin pressed Mamdani at the DealBook Summit, noting supermarkets typically run on margins of one to 4 percent."
+      },
+      {
+        "title": "More voters blame Trump’s tariffs for raising cost of living than Iran war: poll",
+        "rewrite": "More voters blame Trump's tariffs for raising cost of living than Iran war: poll",
+        "url": "https://nypost.com/2026/11/19/us-news/voters-blame-trumps-tariffs-for-raising-cost-of-living-poll/",
+        "source": "New York Post",
+        "published": "2026-11-20T04:56:59+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "In a November J.L. Partners survey, 22% of voters named Trump's tariffs and trade wars as most responsible for the rising cost of living."
+      },
+      {
+        "title": "Horrifying new video shows deadly Brooklyn building collapse in matter of seconds",
+        "rewrite": "Horrifying new video shows deadly Brooklyn building collapse in matter of seconds",
+        "url": "https://nypost.com/2026/11/19/us-news/horrifying-new-video-shows-brooklyn-building-collapse-in-matter-of-seconds/",
+        "source": "New York Post",
+        "published": "2026-11-20T04:40:37+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Eight people, six adults and two children, died and at least 18 others were hurt in the collapse."
+      },
+      {
+        "title": "Union immediately sues Mamdani over horse-carriage ban as century-old Central Park industry faces doomsday",
+        "rewrite": "Union immediately sues Mamdani over horse-carriage ban as century-old Central Park industry faces doomsday",
+        "url": "https://nypost.com/2026/11/19/us-news/union-immediately-sues-mamdani-over-horse-carriage-ban-as-century-old-central-park-industry-faces-doomsday/",
+        "source": "New York Post",
+        "published": "2026-11-20T04:35:10+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "The union argues the ban strips drivers of their medallions without guaranteed compensation."
+      },
+      {
+        "title": "Under-fire DHS boss Markwayne Mullin sidelined by White House after disastrous TV interviews, college football trip",
+        "rewrite": "Under-fire DHS boss Markwayne Mullin sidelined by White House after disastrous TV interviews, college...",
+        "url": "https://nypost.com/2026/11/19/us-news/under-fire-dhs-boss-markwayne-mullin-sidelined-by-white-house-after-disastrous-tv-interviews-college-football-trip/",
+        "source": "New York Post",
+        "published": "2026-11-20T03:39:56+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Mullin has been pulled as the face of the administration's response to the tech outages after criticised comments on the matter and a trip to the LSU-Texas football game."
+      },
+      {
+        "title": "AOC leaves door open to 2028 presidential run, signals willingness to work with Trump",
+        "rewrite": "AOC leaves door open to 2028 presidential run, signals willingness to work with Trump",
+        "url": "https://www.foxnews.com/politics/aoc-leaves-door-open-2028-presidential-run-signals-willingness-work-trump",
+        "source": "Fox News",
+        "published": "2026-11-20T01:52:29+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Ocasio-Cortez told Fox News Digital 'this election just happened' and her focus is getting results after Democrats reclaimed the House. She also said she is willing to work with Trump on some legislative priorities."
+      },
+      {
+        "title": "Democrats could enter congressional majority in a government shutdown",
+        "rewrite": "Democrats could enter congressional majority in a government shutdown",
+        "url": "https://www.foxnews.com/politics/democrats-enter-congressional-majority-government-shutdown",
+        "source": "Fox News",
+        "published": "2026-11-19T22:00:50+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "House Republicans fear Democrats' post-midterm clout could trigger another shutdown ahead of the Dec. 11 funding deadline."
+      },
       {
         "title": "Aspiring lawmaker is booted from historic Texas country club 'for wellbeing of other members' after he shared shocking anti-Indian videos",
         "rewrite": "Aspiring lawmaker is booted from historic Texas country club 'for wellbeing of other members' after he...",
@@ -81,7 +165,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "The Republican, who lost his race in the midterms, was stripped of his club membership over his stance on immigration and videos he shared."
       },
       {
@@ -93,8 +177,20 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "The Department of Buildings said on Wednesday evening that 1323 Flatbush Ave will be torn down."
+      },
+      {
+        "title": "Trump reveals 'indications Iran is looking at bioweapons' as he's quizzed over Cabinet members relocating amid growing fears of attack on US soil",
+        "rewrite": "Trump reveals 'indications Iran is looking at bioweapons' as he's quizzed over Cabinet members relocating...",
+        "url": "https://www.dailymail.com/news/article-16304527/Trump-reveals-indications-Iran-looking-bioweapons-hes-quizzed-Cabinet-members-relocating-amid-growing-fears-attack-US-soil.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-19T15:02:58+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": false,
+        "summary": "Asked about reports of an Iranian 'dirty bomb' threat to Washington, Trump told Fox News there is 'indication that Iran is looking at gasses, looking at bio' and hinted at something after January 1. Rubio, Hegseth, Blanche, Bessent and Stephen Miller are reported to have moved onto a military base in Washington over the threats."
       },
       {
         "title": "Mayor of US city with largest Muslim population calls El-Sayed's election 'an American story'",
@@ -105,7 +201,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Dearborn's mayor praised Sen. Abdul El-Sayed, the first Muslim American elected to the Senate, calling his win a truly American story."
       },
       {
@@ -117,7 +213,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "At the New York Times DealBook Summit, Mamdani defended his Oct. 7 post on X, telling Andrew Ross Sorkin there must be room to mourn everyone."
       },
       {
@@ -337,112 +433,17 @@
         "summary": "Concerns that Iran could be plotting an attack on Washington haven't persuaded Democrats to give Republicans and the Trump administration more money for the Pentagon and the war against Tehran."
       },
       {
-        "title": "Vance’s midterm blame game hits snag as Trump’s own Israel ambassador disputes key claim",
-        "rewrite": "Vance's midterm blame game hits snag as Trump's own Israel ambassador disputes key claim",
-        "url": "https://www.foxnews.com/world/vances-midterm-blame-game-hits-snag-trumps-own-israel-ambassador-disputes-key-claim",
-        "source": "Fox News",
-        "published": "2026-11-18T06:52:03+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "US Ambassador to Israel Mike Huckabee rejected Vance's claim that Israel cost Republicans the midterms, blaming voter apathy and low evangelical turnout for the defeat instead."
-      },
-      {
-        "title": "Eric Adams eviscerates Mamdani for gutting NYPD's counter-terrorism unit",
-        "rewrite": "Eric Adams eviscerates Mamdani for gutting NYPD's counter-terrorism unit",
-        "url": "https://www.theblaze.com/news/mamdani-eric-adams-terrorism-unit",
-        "source": "The Blaze",
-        "published": "2026-11-18T06:25:00+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Former mayor Eric Adams warned that dismantling the NYPD's Strategic Response Group would put lives at risk. Mamdani announced on Monday that the unit would be replaced by non-uniformed civilians trained in de-escalation."
-      },
-      {
-        "title": "Warren grills Trump Navy secretary on cost of Iran war: 'You don't have any idea?'",
-        "rewrite": "Warren grills Trump Navy secretary on cost of Iran war: 'You don't have any idea?'",
-        "url": "https://www.foxnews.com/politics/warren-grills-trump-navy-secretary-cost-iran-war-you-dont-have-any-idea",
-        "source": "Fox News",
-        "published": "2026-11-18T06:15:54+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Sen. Elizabeth Warren pressed acting Navy Secretary Hung Cao on what the Iran war blockade is costing. He dodged the questions and urged funding to reach a 355-ship fleet."
-      },
-      {
-        "title": "Thune weighs pre-Thanksgiving push to advance new Pentagon funding",
-        "rewrite": "Thune weighs pre-Thanksgiving push to advance new Pentagon funding",
-        "url": "https://www.washingtonexaminer.com/news/senate/4806130/john-thune-pre-thanksgiving-push-pentagon-funding/",
-        "source": "Washington Examiner",
-        "published": "2026-11-18T05:35:36+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Senate Majority Leader John Thune is weighing a first vote on tens of billions in new Pentagon funding before senators leave for Thanksgiving. Republicans want to use their final weeks in control of Congress after losses in the midterm elections."
-      },
-      {
-        "title": "California prosecutors sue to block Newsom’s plan to commute all death sentences",
-        "rewrite": "California prosecutors sue to block Newsom's plan to commute all death sentences",
-        "url": "https://www.washingtonexaminer.com/news/justice/4805948/california-sue-newsom-death-sentence-commute/",
-        "source": "Washington Examiner",
-        "published": "2026-11-18T04:45:48+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "A coalition of prosecutors, police groups and murder victims' relatives has asked the California Supreme Court to stop Gov. Gavin Newsom commuting all 548 death sentences in the state. They accuse him of abusing his clemency power and sidelining victims' families."
-      },
-      {
-        "title": "Fed Governor Lisa Cook threatens to skip ‘unfair’ hearing in scathing letter to White House",
-        "rewrite": "Fed Governor Lisa Cook threatens to skip 'unfair' hearing in scathing letter to White House",
-        "url": "https://nypost.com/2026/11/17/business/fed-governor-lisa-cook-threatens-to-skip-unfair-hearing-in-scathing-letter-to-white-house/",
-        "source": "New York Post",
-        "published": "2026-11-18T03:24:24+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Fed Governor Lisa Cook has written to the White House calling the planned hearing on her removal unfair and threatening not to attend. The Supreme Court ruled in June that Trump cannot fire a Fed governor at will but may do so for cause if she gets a chance to defend herself."
-      },
-      {
-        "title": "Supreme Court Declines Challenge to Maryland's 'Sensitive Places' Carry Restrictions",
-        "rewrite": "Supreme Court Declines Challenge to Maryland's 'Sensitive Places' Carry Restrictions",
-        "url": "https://www.breitbart.com/2nd-amendment/2026/11/17/supreme-court-declines-challenge-marylands-sensitive-places-carry-restrictions/",
+        "title": "KFC Franchise Operator with 84 Locations Files for Bankruptcy Protection",
+        "rewrite": "KFC Franchise Operator with 84 Locations Files for Bankruptcy Protection",
+        "url": "https://www.breitbart.com/economy/2026/11/19/kfc-franchise-operator-with-84-locations-files-for-bankruptcy-protection/",
         "source": "Breitbart",
-        "published": "2026-11-18T02:34:58+11:00",
+        "published": "2026-11-20T03:47:15+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "The justices declined to hear a challenge to the Maryland law, which bans concealed carry in numerous 'sensitive places' throughout the state."
-      },
-      {
-        "title": "Conservatives launch $10M anti-socialism blitz after Democrats dominate youth vote",
-        "rewrite": "Conservatives launch $10M anti-socialism blitz after Democrats dominate youth vote",
-        "url": "https://www.foxnews.com/politics/conservatives-launch-10m-anti-socialism-blitz-after-democrats-dominate-youth-vote",
-        "source": "Fox News",
-        "published": "2026-11-18T02:18:54+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Young America's Foundation is launching a $10 million 'Freedom Not Socialism' campaign in 30 Democratic strongholds. It follows Democrats winning most of the youth vote in the midterms."
-      },
-      {
-        "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-        "rewrite": "TRUMP: U.S. TAKING IRAN DIRTY BOMB PLOT REPORT 'VERY SERIOUSLY'... 'WE'RE LOOKING INTO IT'",
-        "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo",
-        "source": "BBC News",
-        "published": "2026-11-17T16:42:00+00:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Asked in Manila about a CNN report that Iran planned a dirty bomb attack on Washington, Trump said 'We're looking into it' and that the US takes it 'very seriously'. The White House says there are no credible threats to the homeland at this time, and Iran calls the claim baseless."
+        "section": "BUSINESS",
+        "is_new": true,
+        "image": "https://media.breitbart.com/media/2026/11/kfc-outlets-640x335.jpg",
+        "summary": "Texas-based Tasty Chick'n, which runs more than 80 KFCs in 10 states, filed for Chapter 11 citing falling sales, rising debt and a dispute over unpaid franchise fees."
       },
       {
         "title": "Labour's plans to tackle youth unemployment could see 100,000 women a year lose funding to train as nurses, carers and teaching assistants",
@@ -457,6 +458,18 @@
         "summary": "An analysis of official figures finds about 100,000 women a year would lose funding to train later in life as nurses, carers and teaching assistants under Alan Milburn's proposals."
       },
       {
+        "title": "Nvidia interim CEO says 'we’ve got this' as company looks to future without Jensen Huang",
+        "rewrite": "Nvidia interim CEO says 'we've got this' as company looks to future without Jensen Huang",
+        "url": "https://www.foxbusiness.com/markets/nvidia-interim-ceo-says-weve-got-this-company-looks-future-without-jensen-huang",
+        "source": "Fox Business",
+        "published": "2026-11-19T04:53:57+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "BUSINESS",
+        "is_new": false,
+        "summary": "Colette Kress, Nvidia's CFO since 2013, told the earnings call the company is well positioned after Jensen Huang's abrupt resignation last week. Quarterly revenue of $115.8 billion beat estimates. 'Our momentum is real. Our demand is accelerating,' she said."
+      },
+      {
         "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
         "rewrite": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
         "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
@@ -467,33 +480,21 @@
         "section": "BUSINESS",
         "is_new": false,
         "summary": "A typical household bill is expected to rise about 26% a year from January, as UK inflation hits its highest rate in a year."
-      },
-      {
-        "title": "Wage growth picks up but real wages continue to go backwards — as it happened",
-        "rewrite": "Wage growth picks up but real wages continue to go backwards — as it happened",
-        "url": "https://www.abc.net.au/news/2026-11-18/asx-markets-business-live-news-nvidia/107396692",
-        "source": "ABC News Australia",
-        "published": "2026-11-18T06:56:42+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "BUSINESS",
-        "is_new": false,
-        "summary": "The wage price index rose 1.1% in the September quarter and 3.5% over the year, the fourth straight quarter in which wages lagged inflation."
-      },
-      {
-        "title": "Almost half a million people signed on to unemployment benefits without any obligation to look for work in the last year",
-        "rewrite": "Almost half a million people signed on to unemployment benefits without any obligation to look for work in...",
-        "url": "https://www.dailymail.com/news/article-16300385/Half-million-unemployment-benefits-obligation-work-Labour.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-18T06:38:25+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "BUSINESS",
-        "is_new": false,
-        "summary": "More than four million people were on Universal Credit with no work requirements in August, up 486,000 in a year, the latest data shows."
       }
     ],
     "center": [
+      {
+        "title": "Trump says US will ‘see what happens’ in conflict with Iran after Jan. 1",
+        "rewrite": "Trump says US will 'see what happens' in conflict with Iran after Jan. 1",
+        "url": "https://nypost.com/2026/11/19/us-news/trump-says-us-will-see-what-happens-in-conflict-with-iran-after-january-1/",
+        "source": "New York Post",
+        "published": "2026-11-20T02:33:16+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "'We're going to have a new year coming up, and we'll see what happens after Jan. 1. But they've been nasty,' Trump told Fox News during his China trip."
+      },
       {
         "title": "Trump ‘serious’ about desire to meet with Kim Jong Un in China. Rubio says ‘talking’ to enemies never a ‘concession’",
         "rewrite": "Trump 'serious' about desire to meet with Kim Jong Un in China. Rubio says 'talking' to enemies never a...",
@@ -505,6 +506,18 @@
         "section": "WORLD",
         "is_new": false,
         "summary": "Trump joins a trilateral meeting with Xi Jinping and Vladimir Putin in China on Thursday, plus a separate one-on-one with Putin. A meeting with North Korea's Kim Jong Un remains unconfirmed."
+      },
+      {
+        "title": "US races to build bunkers across Middle East as Iranian strikes threaten American troops",
+        "rewrite": "US races to build bunkers across Middle East as Iranian strikes threaten American troops",
+        "url": "https://www.foxnews.com/world/us-races-build-bunkers-across-middle-east-iranian-strikes-threaten-american-troops",
+        "source": "Fox News",
+        "published": "2026-11-19T08:18:28+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": false,
+        "summary": "An Army procurement notice calls for 17 reinforced concrete bunkers, 10 in Israel, five in Saudi Arabia and two in Lebanon, to replace converted shipping containers. Iranian attacks have killed at least 23 US service members since the war began in late February, and Iran claimed its third strike on a US base in Bahrain in five days on Tuesday."
       },
       {
         "title": "Kim Jong Un's nuclear buildup sparks 'serious concern' ahead of Trump-Xi-Putin summit",
@@ -604,28 +617,16 @@
         "summary": "The crew of 25 abandoned the Panama-flagged LPG tanker off Khasab on Oman's coast, maritime security sources said."
       },
       {
-        "title": "Iranian foreign minister blames Israel for dirty bomb reports",
-        "rewrite": "Iranian foreign minister blames Israel for dirty bomb reports",
-        "url": "https://www.washingtonexaminer.com/news/world/4806122/iran-blame-israel-dirty-bomb-report/",
-        "source": "Washington Examiner",
-        "published": "2026-11-18T05:01:38+11:00",
+        "title": "Kimberley man who whipped and beat partner to death jailed for 10 years",
+        "rewrite": "Kimberley man who whipped and beat partner to death jailed for 10 years",
+        "url": "https://www.abc.net.au/news/2026-11-19/wa-craig-rastus-sentenced-manslaughter-derby/107400406",
+        "source": "ABC News Australia",
+        "published": "2026-11-19T19:37:09+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "Iran's foreign minister blamed Israel for reports that Tehran planned a dirty bomb attack in Washington and dismissed them as propaganda. The reports, first carried by CNN citing US intelligence, have not been independently verified."
-      },
-      {
-        "title": "US carries out self-defense strike on IRGC missile launch site on Qeshm Island",
-        "rewrite": "US carries out self-defense strike on IRGC missile launch site on Qeshm Island",
-        "url": "https://www.foxnews.com/world/us-carries-out-self-defense-strike-irgc-missile-launch-site-qeshm-island",
-        "source": "Fox News",
-        "published": "2026-11-17T20:32:00+00:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "Two US military officials told Fox News that American fighter jets used precision munitions on an IRGC missile launch site on Qeshm Island on Tuesday, in response to IRGC aggression against US personnel. It came hours after Tehran claimed to target a US radar at Bahrain's Sheikh Isa base; CENTCOM says the Iranian drones were all intercepted."
+        "section": "AUSTRALIA",
+        "is_new": true,
+        "summary": "The Supreme Court heard Craig Charlton Rastus assaulted the woman for more than half an hour in Mowanjum, inflicting fatal injuries."
       },
       {
         "title": "Government, Landbridge rift over Darwin Port deepens as dispute action looms",
@@ -636,7 +637,7 @@
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
-        "is_new": true,
+        "is_new": false,
         "image": "https://live-production.wcms.abc-cdn.net.au/8325864ad3de5ad59d2161a14748b8fe?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=11&width=862&height=485&imformat=generic",
         "summary": "Albanese has suggested talks with Landbridge over the Darwin Port lease are continuing, but the Chinese-owned company denies that and says it will press on with international legal action."
       },
@@ -649,7 +650,7 @@
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "While Albanese attends global summits, his government faces a Senate grilling over budget measures it is trying to pass."
       },
       {
@@ -712,28 +713,41 @@
         "summary": "One Nation says Australia can no longer afford its existing visa programs, and its policy would scrap parent visas entirely while cutting the humanitarian intake by 90 per cent."
       },
       {
-        "title": "Trump praises Albanese as Quad unveils defence and minerals deals",
-        "rewrite": "Trump praises Albanese as Quad unveils defence and minerals deals",
-        "url": "https://www.abc.net.au/news/2026-11-18/quad-meeting-india-japan-usa-anthony-albanese-donald-trump/107396716",
-        "source": "ABC News Australia",
-        "published": "2026-11-18T00:59:01+11:00",
+        "title": "Finks bikie boss warned of murder plot as gang division simmers",
+        "rewrite": "Finks bikie boss warned of murder plot as gang division simmers",
+        "url": "https://www.theage.com.au/national/victoria/finks-bikie-boss-warned-of-murder-plot-as-gang-division-simmers-20261120-p61ewy.html?ref=rss",
+        "source": "The Age",
+        "published": "2026-11-20T05:50:00+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "summary": "At a Quad summit in Manila, Trump praised Anthony Albanese as the US, Australia, India and Japan agreed deals on defence, technology and critical minerals. The talks come ahead of major meetings in China."
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "Mark Balsillie has been told a contract is out on his life as police step up pressure on the gang over a drive-by shooting at an aged care facility."
       },
       {
-        "title": "Chalmers proposes rules to allow super to invest in housing, energy, startups",
-        "rewrite": "Chalmers proposes rules to allow super to invest in housing, energy, startups",
-        "url": "https://www.abc.net.au/news/2026-11-17/chalmers-proposes-new-rules-for-super-funds/107396462",
+        "title": "Blackout warnings as Victorian Liberal leader throws open doors to gas",
+        "rewrite": "Blackout warnings as Victorian Liberal leader throws open doors to gas",
+        "url": "https://www.abc.net.au/news/2026-11-20/victorian-election-blackouts-gas-plan-unachievable-experts-say/107405518",
         "source": "ABC News Australia",
-        "published": "2026-11-17T22:30:19+11:00",
+        "published": "2026-11-20T05:06:44+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "summary": "Treasurer Jim Chalmers is unveiling changes to the rules on what super funds can invest in, opening the way to riskier assets with possibly higher returns such as housing, energy and startups."
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "Experts say Victoria could face blackouts within two years and that Jess Wilson's plan to use more gas can't be delivered for at least five years, three years after a key coal plant closes."
+      },
+      {
+        "title": "‘Un-Australian not to be racist’: Liberal volunteer dumped over slurs",
+        "rewrite": "'Un-Australian not to be racist': Liberal volunteer dumped over slurs",
+        "url": "https://www.theage.com.au/national/victoria/un-australian-not-to-be-racist-liberal-volunteer-dumped-over-slurs-20261119-p61fp0.html?ref=rss",
+        "source": "The Age",
+        "published": "2026-11-19T19:30:00+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "VICTORIA",
+        "is_new": true,
+        "image": "https://static.ffx.io/images/$zoom_0.8825000000000001%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_529/t_crop_custom/q_86%2Cf_auto/7e5e00455eca21ee72a9ea469244e0178e22ba08",
+        "summary": "The man was recorded at an early voting centre in Melbourne's south-east railing against migrants to a One Nation supporter. The Liberals say he is not a party member and will be banned from volunteering."
       },
       {
         "title": "Big Build royal commission LIVE updates: Two witnesses referred to police over evidence as first hearing block finishes",
@@ -744,7 +758,7 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "The royal commission ended its first block of hearings by referring two witnesses to police over their evidence."
       },
       {
@@ -756,45 +770,20 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "Detectives raided a home in Armidale in the NSW Northern Tablelands on Wednesday over alleged threats of an attack on Melbourne Airport on October 28 and 29."
       },
       {
-        "title": "Melbourne teacher accused of supplying drugs and alcohol to Sunbury Downs College students",
-        "rewrite": "Melbourne teacher accused of supplying drugs and alcohol to Sunbury Downs College students",
-        "url": "https://7news.com.au/news/vic/melbourne-teacher-accused-of-supplying-drugs-and-alcohol-to-sunbury-downs-college-students-c-23184706",
-        "source": "7News Victoria",
-        "published": "2026-11-19T14:13:55+11:00",
+        "title": "How High Did Anthropic Fly In Its Wall Street Debut?",
+        "rewrite": "How High Did Anthropic Fly In Its Wall Street Debut?",
+        "url": "https://www.dailywire.com/news/the-wildest-part-of-anthropics-ipo-isnt-the-81-billion",
+        "source": "Daily Wire",
+        "published": "2026-11-19T22:10:23+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "VICTORIA",
+        "section": "MARKETS",
         "is_new": true,
-        "image": "https://images.7news.com.au/publication/C-23184706/74b031b8939d426c5e90865f800090fc1d3bf120-16x9-x0y0w1280h720.png?imwidth=1200",
-        "summary": "The female teacher at the school in Melbourne's northwest has taken leave while the allegations are investigated. The school says it learned of them in early November."
-      },
-      {
-        "title": "ADF barracks rocked by AI child abuse scandal: 'Autistic' cyber-warfare expert used banned program to make 'perverse' material - as he's booted out of the military",
-        "rewrite": "ADF barracks rocked by AI child abuse scandal: 'Autistic' cyber-warfare expert used banned program to make...",
-        "url": "https://www.dailymail.com/news/article-16301499/Jack-Bell-AI-ADF-Child-Abuse-Material-Melbourne-soldier.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-19T10:21:15+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "The former full-time ADF member created AI-generated child abuse material while stationed at a Melbourne army base."
-      },
-      {
-        "title": "Power surge leaves residents facing thousands in unexpected costs",
-        "rewrite": "Power surge leaves residents facing thousands in unexpected costs",
-        "url": "https://www.abc.net.au/news/2026-11-19/families-struggle-with-mildura-power-surge-aftermath/107376806",
-        "source": "ABC News Australia",
-        "published": "2026-11-19T08:00:43+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "A power surge in Mildura in September damaged household appliances, leaving many residents thousands of dollars out of pocket, and some insurance claims have been rejected."
+        "summary": "Anthropic opened at $111.50 on its Thursday market debut, 34% above its $83 IPO price."
       },
       {
         "title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
@@ -805,7 +794,7 @@
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": true,
+        "is_new": false,
         "summary": "Hyperscale Data needs another $74.8 million to finish its Michigan data centre project, even after selling its remaining bitcoin and raising new debt."
       },
       {
@@ -855,45 +844,32 @@
         "section": "MARKETS",
         "is_new": false,
         "summary": "Waller told CNBC a half-point rise is probably needed at the Fed's Dec. 8-9 meeting, and that the three quarter-point cuts from last year should be reversed, possibly with more to follow. 'I'm very, very concerned about inflation,' he said. Futures already fully price a quarter-point hike in December."
-      },
-      {
-        "title": "Fed’s Waller cites Binance hack in warning over tokenized finance",
-        "rewrite": "Fed's Waller cites Binance hack in warning over tokenized finance",
-        "url": "https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance",
-        "source": "Cointelegraph",
-        "published": "2026-11-18T04:39:41+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "MARKETS",
-        "is_new": false,
-        "summary": "Fed Governor Christopher Waller pointed to the Binance hack as he asked who bears the losses from fraud, compromised keys and failed transactions as traditional assets move onto blockchains."
-      },
-      {
-        "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
-        "rewrite": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
-        "url": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
-        "source": "CoinDesk",
-        "published": "2026-11-17T23:00:55+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "MARKETS",
-        "is_new": false,
-        "summary": "A fund run by a former OpenAI researcher sold out of bitcoin miners and cut its IREN stake by 94% after a portfolio slump. It swapped Bloom Energy, Nebius and SanDisk shares for call options, keeping its bet on AI power, computing and memory."
-      },
-      {
-        "title": "Anthropic gets a buy rating ahead of IPO this week. What this analyst expects from the AI giant",
-        "rewrite": "Anthropic gets a buy rating ahead of IPO this week. What this analyst expects from the AI giant",
-        "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-new-street-buy-rating.html",
-        "source": "CNBC",
-        "published": "2026-11-17T22:22:20+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "MARKETS",
-        "is_new": false,
-        "summary": "New Street Research started coverage of Anthropic with a buy rating and a $105 price target ahead of the AI company's expected IPO this week."
       }
     ],
     "right": [
+      {
+        "title": "Piddington migrant camp could be built before High Court decides its legal - with construction set to begin in January, MP warns",
+        "rewrite": "Piddington migrant camp could be built before High Court decides its legal - with construction set to...",
+        "url": "https://www.dailymail.com/news/article-16305407/Piddington-migrant-camp-built-High-Court-decides-legal-construction-set-begin-January-MP-warns.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-20T03:38:45+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "UK",
+        "is_new": true,
+        "summary": "Calum Miller, MP for Bicester and Woodstock, said Home Office minister Anna Turley gave him the updated timeline for the site at a meeting."
+      },
+      {
+        "title": "Burnham joins European leaders to deepen military backing for Ukraine as Trump holds talks with Russian autocrat 'friend' Putin and China's Xi",
+        "rewrite": "Burnham joins European leaders to deepen military backing for Ukraine as Trump holds talks with Russian...",
+        "url": "https://www.dailymail.com/news/article-16305401/Burnham-Coalition-willing-Ukraine-Trump-friend-Putin.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-20T00:59:41+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "UK",
+        "is_new": true
+      },
       {
         "title": "Council worker removed protest flags from proposed migrant camp in dead of night",
         "rewrite": "Council worker removed protest flags from proposed migrant camp in dead of night",
@@ -903,7 +879,7 @@
         "slot": "column",
         "urgent": false,
         "section": "UK",
-        "is_new": true,
+        "is_new": false,
         "summary": "Protesters have gathered for months outside RAF Barnham in Suffolk, where the Home Office plans to house up to 1,000 asylum seekers. The flags went up in June."
       },
       {
@@ -932,28 +908,16 @@
         "summary": "The former Labour minister called for a shake-up of the benefits system that he says would save 3.6 billion pounds a year."
       },
       {
-        "title": "Henry Nowak's killer Vickrum Digwa applies to appeal murder conviction",
-        "rewrite": "Henry Nowak's killer Vickrum Digwa applies to appeal murder conviction",
-        "url": "https://www.gbnews.com/news/henry-nowak-killer-vickrum-digwa-applies-appeal-murder-conviction",
-        "source": "GB News",
-        "published": "2026-11-18T02:47:51+11:00",
+        "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
+        "rewrite": "Ethereum's Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
+        "url": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027",
+        "source": "Cointelegraph",
+        "published": "2026-11-20T05:20:49+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "UK",
-        "is_new": false,
-        "summary": "Vickrum Digwa, serving at least 25 years for fatally stabbing 18-year-old Henry Nowak in Southampton, has asked the Supreme Court to review his murder conviction, his lawyers confirmed."
-      },
-      {
-        "title": "Council worker who removed protest flags from migrant camp in the middle of the night handed police order",
-        "rewrite": "Council worker who removed protest flags from migrant camp in the middle of the night handed police order",
-        "url": "https://www.gbnews.com/news/migrant-crisis-barnham-camp-protest-flags-council-worker-police-order",
-        "source": "GB News",
-        "published": "2026-11-18T01:55:36+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "UK",
-        "is_new": false,
-        "summary": "A council worker who took down protest flags and banners near the planned RAF Barnham migrant site at night has been handed a police order. The Home Office plans to house nearly 1,000 migrants at the former base."
+        "section": "TECHNOLOGY",
+        "is_new": true,
+        "summary": "Developers are weighing gas-pricing changes that could break existing smart contracts and have contacted at least 50 affected companies."
       },
       {
         "title": "Elon Musk claims Russia would have won the war already if Ukraine didn’t have Starlink",
@@ -964,7 +928,7 @@
         "slot": "column",
         "urgent": false,
         "section": "TECHNOLOGY",
-        "is_new": true,
+        "is_new": false,
         "summary": "Musk said Starlink was Ukraine's one line of defence that could not be destroyed when Russian forces invaded."
       },
       {
@@ -976,7 +940,7 @@
         "slot": "column",
         "urgent": false,
         "section": "TECHNOLOGY",
-        "is_new": true,
+        "is_new": false,
         "summary": "Stablecoins made up at least $3.46 billion of the $6.3 billion stolen; the hackers also took memecoins, tokenised gold and gaming tokens."
       },
       {
@@ -988,7 +952,7 @@
         "slot": "column",
         "urgent": false,
         "section": "TECHNOLOGY",
-        "is_new": true,
+        "is_new": false,
         "summary": "Trump urged Americans to 'relax' over the FAA and Microsoft outages and warned that any country targeting US systems would be hit hard."
       },
       {
@@ -1052,40 +1016,28 @@
         "summary": "Rubio acknowledged that back-to-back outages at Microsoft, the Federal Aviation Administration and several major banks have put some Americans on edge, but said there is zero evidence they are linked to cyberattacks."
       },
       {
-        "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
-        "rewrite": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
-        "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
-        "source": "CoinDesk",
-        "published": "2026-11-18T00:02:56+11:00",
+        "title": "Poorna Jagannathan, Clark Gregg, Isabela Ferrer, Christopher Rodriguez Marquette and Paul Ben-Victor Join ‘Twenty-Seven’ (EXCLUSIVE)",
+        "rewrite": "Poorna Jagannathan, Clark Gregg, Isabela Ferrer, Christopher Rodriguez Marquette and Paul Ben-Victor Join...",
+        "url": "https://variety.com/2026/film/news/twenty-seven-cast-poorna-jagannathan-clark-gregg-isabela-ferrer-1236952647/",
+        "source": "Variety",
+        "published": "2026-11-20T05:15:00+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false,
-        "summary": "Beyond the estimate of up to 15,000 affected apps, independent audits have found hundreds of separate compatibility problems. Core developers will reconsider the changes on Thursday."
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "They join Levon Hawke and Anthony Hopkins in 'Twenty-Seven', an indie drama written and directed by Gregory Caruso."
       },
       {
-        "title": "US government confirms investigation into tech firm Megaspeed",
-        "rewrite": "US government confirms investigation into tech firm Megaspeed",
-        "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o",
-        "source": "BBC News",
-        "published": "2026-11-17T22:17:32+11:00",
+        "title": "Dean Koontz’s Jane Hawk Books to Be Developed as TV Series by Monarch Media (EXCLUSIVE)",
+        "rewrite": "Dean Koontz's Jane Hawk Books to Be Developed as TV Series by Monarch Media (EXCLUSIVE)",
+        "url": "https://variety.com/2026/tv/news/dean-koontz-jane-hawk-books-tv-series-monarch-media-1236953222/",
+        "source": "Variety",
+        "published": "2026-11-20T05:00:00+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false,
-        "summary": "US officials confirmed they are investigating Singapore-based Megaspeed, which is suspected of helping ship high-end Nvidia AI chips to China in breach of US export rules."
-      },
-      {
-        "title": "The Chip Boss’s Bedroom Scandal Just Got A Date On Capitol Hill",
-        "rewrite": "The Chip Boss's Bedroom Scandal Just Got A Date On Capitol Hill",
-        "url": "https://www.dailywire.com/news/the-chip-bosss-bedroom-scandal-just-got-a-date-on-capitol-hill",
-        "source": "Daily Wire",
-        "published": "2026-11-17T21:46:05+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false,
-        "summary": "Jensen Huang will testify to Congress on Monday, December 1, in closed-door sessions, followed by Nvidia general counsel Tim Teter, according to a joint committee announcement."
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "Monarch Media has the rights to Koontz's Jane Hawk novels and is now seeking a showrunner before taking the series to market."
       },
       {
         "title": "Jamie Dornan Hasn’t ‘Spoken Directly’ to Viggo Mortensen About Aragorn Recasting in ‘Lord of the Rings: Hunt for Gollum,’ But Says ‘His Approval’ is ‘All I Care About’",
@@ -1096,7 +1048,7 @@
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
+        "is_new": false,
         "summary": "Dornan, cast as Aragorn in 'The Hunt for Gollum', told 'Watch What Happens Live' he has not yet spoken with Mortensen about the role."
       },
       {
@@ -1108,7 +1060,7 @@
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
+        "is_new": false,
         "summary": "Diane Warren was also among the 2026 HMMA winners."
       },
       {
@@ -1120,7 +1072,7 @@
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
+        "is_new": false,
         "summary": "It was Swift's first performance at the Country Music Association Awards in 13 years."
       },
       {
@@ -1242,44 +1194,20 @@
         "section": "ENTERTAINMENT",
         "is_new": false,
         "summary": "Speaking at a Semafor event in Silicon Valley, Amazon founder Jeff Bezos said he was 'heavily involved' in Amazon MGM choosing Robert Pattinson as the next 007."
-      },
-      {
-        "title": "Blink-182 and Pierce the Veil to Headline When We Were Young 2027",
-        "rewrite": "Blink-182 and Pierce the Veil to Headline When We Were Young 2027",
-        "url": "https://variety.com/2026/music/news/blink-182-pierce-the-veil-headline-when-we-were-young-2027-1236950552/",
-        "source": "Variety",
-        "published": "2026-11-18T05:19:08+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "Blink-182 and Pierce the Veil will headline When We Were Young on October 16, 2027, as the festival returns to the Las Vegas Festival Grounds after a year off."
-      },
-      {
-        "title": "Peacock Reveals ‘The Traitors’ Season 5 Premiere Date, First Look",
-        "rewrite": "Peacock Reveals 'The Traitors' Season 5 Premiere Date, First Look",
-        "url": "https://variety.com/2026/tv/news/the-traitors-season-5-premiere-date-peacock-first-look-1236950496/",
-        "source": "Variety",
-        "published": "2026-11-18T05:00:00+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "Peacock says 'The Traitors' Season 5 premieres Thursday, January 14, and released a first look. The cast includes Kristin Chenoweth, Dominic Monaghan, Joey Graziadei and Chloe Kim."
       }
     ]
   },
-  "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-e07ll4x6k-1795056076703.jpg?quality=75&strip=all&1795038128&w=1200",
+  "image_url": "https://live-production.wcms.abc-cdn.net.au/5718247632880706a2eaf87e5847a4f8?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
   "counts": {
-    "total": 104,
+    "total": 98,
     "featured": 4,
     "columns": {
-      "left": 35,
-      "center": 33,
-      "right": 31
+      "left": 34,
+      "center": 30,
+      "right": 29
     },
     "feeds_ok": 44,
     "feeds_failed": 6
   },
-  "image_source_url": "https://nypost.com/2026/11/18/us-news/trump-blasts-vance-negotiated-iran-deal-as-a-waste-of-time/"
+  "image_source_url": "https://www.abc.net.au/news/2026-11-19/albanese-tells-putin-to-end-ukraine-war-now/107406348"
 }

@@ -2,9 +2,9 @@
   "title": "THE NEWS REPORT",
   "generated": {
     "date": "Friday, 20 November 2026",
-    "display": "Friday, November 20, 2026  6:23 AM AEDT (Australia/Sydney)",
-    "iso": "2026-11-20T06:23:06.863436+11:00",
-    "time": "6:23 AM AEDT",
+    "display": "Friday, November 20, 2026  12:29 PM AEDT (Australia/Sydney)",
+    "iso": "2026-11-20T12:29:05.763712+11:00",
+    "time": "12:29 PM AEDT",
     "timezone": "Australia/Sydney"
   },
   "lean": "centre-right",
@@ -17,7 +17,7 @@
     "slot": "top",
     "urgent": false,
     "section": "WORLD",
-    "is_new": true,
+    "is_new": false,
     "summary": "The leaders met for about 90 minutes on the APEC sidelines in Shenzhen. China's CCTV readout made no mention of Ukraine but said bodies like the International Criminal Court should not abuse their jurisdiction; Putin faces an ICC warrant. They also pledged to cut nuclear risks. Hours earlier Albanese told Putin to end the war 'now'."
   },
   "featured": [
@@ -30,32 +30,32 @@
       "slot": "featured",
       "urgent": false,
       "section": "US",
-      "is_new": true,
+      "is_new": false,
       "summary": "Bessent was moved from his Washington home to a military base earlier this month over threats to his life, which a New York Times report links to an Iranian 'chemical plot'. Asked by Fox's Larry Kudlow about Iranian attempts on his life, Bessent said he would 'not talk about that' and cited a 'high threat level'."
     },
     {
-      "title": "Trump blasts Vance-negotiated Iran deal as a ‘waste of time’",
-      "rewrite": "Trump blasts Vance-negotiated Iran deal as a 'waste of time'",
-      "url": "https://nypost.com/2026/11/18/us-news/trump-blasts-vance-negotiated-iran-deal-as-a-waste-of-time/",
-      "source": "New York Post",
-      "published": "2026-11-19T12:54:29+11:00",
+      "title": "Zelenskyy presses US for expanded Russia talks as Kushner announces breakthrough",
+      "rewrite": "Zelenskyy presses US for expanded Russia talks as Kushner announces breakthrough",
+      "url": "https://www.foxnews.com/world/zelenskyy-presses-us-expanded-russia-talks-kushner-announces-breakthrough",
+      "source": "Fox News",
+      "published": "2026-11-20T10:20:13+11:00",
       "slot": "featured",
       "urgent": false,
       "section": "WORLD",
-      "is_new": false,
-      "summary": "Speaking to Fox News in China, Trump said the memorandum of understanding Vance negotiated with Iran in June 'delayed things' but 'wasn't a mistake', adding: 'I never believe too much in memorandums.' The pact fell apart in July after Iranian attacks on commercial ships. Trump said he would fight the war again and that Vance is doing 'a very good job'."
+      "is_new": true,
+      "summary": "At the Coalition of the Willing summit in Berlin, US envoy Jared Kushner said Moscow and Trump had agreed to a multilateral negotiating format that includes Europe. Zelenskyy urged Washington to organise a first team-level meeting with full European participation 'as soon as possible', aiming to keep Kyiv and Europe from being sidelined."
     },
     {
-      "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-      "rewrite": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "rewrite": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
       "source": "BBC News",
-      "published": "2026-11-19T10:44:27+11:00",
+      "published": "2026-11-20T10:33:51+11:00",
       "slot": "featured",
       "urgent": false,
       "section": "MARKETS",
-      "is_new": false,
-      "summary": "Anthropic will price shares at $83 when it lists on Nasdaq on Thursday, valuing it at more than $1.4tn, up from an earlier $70-$78 range. It would be the first US company focused purely on AI to go public, raising about $94bn including private placements; an early investor told the BBC the offer was more than 10 times oversubscribed."
+      "is_new": true,
+      "summary": "Anthropic's shares flew past their $83 allocation price on their Thursday Nasdaq debut, taking its valuation to roughly $1.76 trillion. It is the first purely AI company to list publicly, making the debut a key test of investor appetite given the huge sums being poured into the technology."
     },
     {
       "title": "Appeals court halts bid to revive Venezuelan temporary protected status after Trump goes to Supreme Court",
@@ -66,12 +66,72 @@
       "slot": "featured",
       "urgent": false,
       "section": "US",
-      "is_new": true,
+      "is_new": false,
       "summary": "Hours after the Trump administration asked the Supreme Court to step in, a Ninth Circuit panel blocked a lower-court order that would have restored Temporary Protected Status for Venezuelans from Friday. The block lasts until at least seven days after the panel rules on the appeal."
     }
   ],
   "columns": {
     "left": [
+      {
+        "title": "Slotkin snubs Schumer with Chris Van Hollen leader endorsement",
+        "rewrite": "Slotkin snubs Schumer with Chris Van Hollen leader endorsement",
+        "url": "https://www.washingtonexaminer.com/news/senate/4809591/slotkin-snubs-schumer-chris-van-hollen-leader-endorsement/",
+        "source": "Washington Examiner",
+        "published": "2026-11-20T11:19:13+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Sen. Elissa Slotkin said Schumer is not best positioned to lead and she will back Chris Van Hollen. Schumer remains the heavy favourite, with 15 public supporters ahead of a secret-ballot election in early December; Van Hollen had only four endorsements before Thursday."
+      },
+      {
+        "title": "Mamdani quietly hunting for ways to thin out Rikers Island population before NYC jail’s ordered closure",
+        "rewrite": "Mamdani quietly hunting for ways to thin out Rikers Island population before NYC jail's ordered closure",
+        "url": "https://nypost.com/2026/11/19/us-news/mamdani-quietly-hunting-for-ways-to-thin-out-rikers-island-population-before-nyc-jails-ordered-closure/",
+        "source": "New York Post",
+        "published": "2026-11-20T10:00:17+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Mayor Mamdani's team has asked city prosecutors to help cut Rikers Island's roughly 6,000-inmate population ahead of the jail's August 2027 closure deadline."
+      },
+      {
+        "title": "Tim Scott ‘happy’ to call Bessent to testify alongside Lutnick about Nvidia chips scandal",
+        "rewrite": "Tim Scott 'happy' to call Bessent to testify alongside Lutnick about Nvidia chips scandal",
+        "url": "https://www.washingtonexaminer.com/news/senate/4809261/tim-scott-call-bessent-testify-lutnick-nvidia-competing-accounts-chip-exports/",
+        "source": "Washington Examiner",
+        "published": "2026-11-20T09:23:55+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Sen. John Kennedy asked banking committee chairman Tim Scott to invite Bessent to December's hearing with Commerce Secretary Lutnick and export-control chief Jeffrey Kessler over China obtaining US chips. Bessent has faulted Commerce for not blacklisting Megaspeed. It is unclear whether Scott will formally invite him."
+      },
+      {
+        "title": "Mamdani to tap just 30 civilian responders to replace NYPD’s 500 cop Strategic Response Group",
+        "rewrite": "Mamdani to tap just 30 civilian responders to replace NYPD's 500 cop Strategic Response Group",
+        "url": "https://thepostmillennial.com/news/mamdani-to-tap-just-30-civilian-responders-to-replace-nypd-s-500-cop-strategic-response-group",
+        "source": "The Post Millennial",
+        "published": "2026-11-20T08:07:01+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Mamdani said a civilian 'community dialogue and de-escalation division' of about 30 staff, housed in the Office of Community Safety, will mediate with protesters. It follows his disbanding of the roughly 500-officer Strategic Response Group, whose officers will be reassigned."
+      },
+      {
+        "title": "Dems, GOP rebels fail to rein in Trump's Iran war in Senate, but bigger battle looms",
+        "rewrite": "Dems, GOP rebels fail to rein in Trump's Iran war in Senate, but bigger battle looms",
+        "url": "https://www.foxnews.com/politics/dems-gop-rebels-fail-rein-trumps-iran-war-senate-bigger-battle-looms",
+        "source": "Fox News",
+        "published": "2026-11-20T06:51:40+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "A non-binding war powers resolution, backed by Democrats and Republicans Collins, Murkowski and Paul, failed in the Senate. It would have required removing troops from hostilities Congress has not authorised. Democrats are eyeing another fight ahead."
+      },
       {
         "title": "Mamdani refuses to 'walk through the math' when confronted over his plan for city-owned supermarkets",
         "rewrite": "Mamdani refuses to 'walk through the math' when confronted over his plan for city-owned supermarkets",
@@ -81,7 +141,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Host Andrew Ross Sorkin pressed Mamdani at the DealBook Summit, noting supermarkets typically run on margins of one to 4 percent."
       },
       {
@@ -93,7 +153,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "In a November J.L. Partners survey, 22% of voters named Trump's tariffs and trade wars as most responsible for the rising cost of living."
       },
       {
@@ -105,7 +165,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Eight people, six adults and two children, died and at least 18 others were hurt in the collapse."
       },
       {
@@ -117,8 +177,20 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "The union argues the ban strips drivers of their medallions without guaranteed compensation."
+      },
+      {
+        "title": "Bernie Sanders Says He Would Back AOC Against Chuck Schumer for Senate Majority Leader",
+        "rewrite": "Bernie Sanders Says He Would Back AOC Against Chuck Schumer for Senate Majority Leader",
+        "url": "https://www.breitbart.com/politics/2026/11/19/bernie-sanders-says-he-would-back-aoc-against-chuck-schumer-for-senate-majority-leader/",
+        "source": "Breitbart",
+        "published": "2026-11-20T04:13:26+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Sanders said he would support Ocasio-Cortez in a direct challenge to Schumer for the Senate Democratic leadership. Sen. Chris Van Hollen has already announced his own bid against Schumer."
       },
       {
         "title": "Under-fire DHS boss Markwayne Mullin sidelined by White House after disastrous TV interviews, college football trip",
@@ -129,7 +201,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Mullin has been pulled as the face of the administration's response to the tech outages after criticised comments on the matter and a trip to the LSU-Texas football game."
       },
       {
@@ -141,7 +213,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Ocasio-Cortez told Fox News Digital 'this election just happened' and her focus is getting results after Democrats reclaimed the House. She also said she is willing to work with Trump on some legislative priorities."
       },
       {
@@ -153,7 +225,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "House Republicans fear Democrats' post-midterm clout could trigger another shutdown ahead of the Dec. 11 funding deadline."
       },
       {
@@ -361,78 +433,6 @@
         "summary": "The AP called the race two weeks after Election Day: Peltola took 50.1% to Sullivan's 45.8% with more than 95% of ballots counted, giving Democrats a 56-44 Senate edge from January. She is Alaska's first Democratic senator since 2008, after a late row over a 'decoy' Dan Sullivan candidate, who drew 1.7%."
       },
       {
-        "title": "Mamdani's luxury second home tax hits $500M milestone despite thousands of exemptions",
-        "rewrite": "Mamdani's luxury second home tax hits $500M milestone despite thousands of exemptions",
-        "url": "https://www.foxnews.com/politics/mamdanis-luxury-second-home-tax-hits-500m-milestone-despite-thousands-exemptions",
-        "source": "Fox News",
-        "published": "2026-11-18T14:06:17+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Mayor Zohran Mamdani's pied-a-terre tax has billed wealthy second-home owners more than $500 million, although the bills came in far below initial estimates."
-      },
-      {
-        "title": "Cruz and Cornyn at odds over judicial vacancy in Texas",
-        "rewrite": "Cruz and Cornyn at odds over judicial vacancy in Texas",
-        "url": "https://www.washingtonexaminer.com/news/justice/4806896/cruz-cornyn-judicial-vacancy-texas/",
-        "source": "Washington Examiner",
-        "published": "2026-11-18T12:37:47+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Cruz is urging outgoing Sen. John Cornyn to advance Trump's pick for a Dallas judgeship, T. Elliot Gaiser, who leads the Justice Department's Office of Legal Counsel. Cruz called the former Supreme Court clerk 'exceptionally well qualified'."
-      },
-      {
-        "title": "Iranian agent sentenced to over 27 years in prison for plot to assassinate Trump",
-        "rewrite": "Iranian agent sentenced to over 27 years in prison for plot to assassinate Trump",
-        "url": "https://www.washingtonexaminer.com/news/justice/4806900/iran-agent-sentenced-plot-assassinate-trump/",
-        "source": "Washington Examiner",
-        "published": "2026-11-18T12:15:24+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Asif Merchant, a Pakistani national described as a trained IRGC intelligence asset, was sentenced on Tuesday after his conviction in March for attempted terrorism and murder for hire. The plot also targeted other former US officials."
-      },
-      {
-        "title": "DC Circuit weighs Trump’s takeover of two agencies after Supreme Court agency head removal ruling",
-        "rewrite": "DC Circuit weighs Trump's takeover of two agencies after Supreme Court agency head removal ruling",
-        "url": "https://www.washingtonexaminer.com/news/justice/4806685/dc-circuit-trump-takeover-agencies-slaughter-ruling/",
-        "source": "Washington Examiner",
-        "published": "2026-11-18T10:41:47+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "A federal appeals court heard two cases on Tuesday over the administration's takeover of two government agencies. They are among firing cases courts had paused while the Supreme Court weighed Trump's removal powers last term."
-      },
-      {
-        "title": "White House blasts 'Trumpcare for All' pitch from far-left El-Sayed who called president 'unserious fool'",
-        "rewrite": "White House blasts 'Trumpcare for All' pitch from far-left El-Sayed who called president 'unserious fool'",
-        "url": "https://www.foxnews.com/politics/white-house-blasts-trumpcare-all-pitch-far-left-el-sayed-called-president-unserious-fool",
-        "source": "Fox News",
-        "published": "2026-11-18T10:10:20+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "The White House attacked Abdul El-Sayed's 'Trumpcare for All' pitch, warning his Medicare for All plan would threaten the health coverage Americans already have."
-      },
-      {
-        "title": "Iranian ‘dirty bomb’ threat fails to move Democrats off demands to defund war",
-        "rewrite": "Iranian 'dirty bomb' threat fails to move Democrats off demands to defund war",
-        "url": "https://www.washingtonexaminer.com/news/senate/4806753/iranian-dirty-bomb-threat-fails-move-democrats-off-demands-defund-war/",
-        "source": "Washington Examiner",
-        "published": "2026-11-18T09:17:04+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Concerns that Iran could be plotting an attack on Washington haven't persuaded Democrats to give Republicans and the Trump administration more money for the Pentagon and the war against Tehran."
-      },
-      {
         "title": "KFC Franchise Operator with 84 Locations Files for Bankruptcy Protection",
         "rewrite": "KFC Franchise Operator with 84 Locations Files for Bankruptcy Protection",
         "url": "https://www.breitbart.com/economy/2026/11/19/kfc-franchise-operator-with-84-locations-files-for-bankruptcy-protection/",
@@ -441,7 +441,7 @@
         "slot": "column",
         "urgent": false,
         "section": "BUSINESS",
-        "is_new": true,
+        "is_new": false,
         "image": "https://media.breitbart.com/media/2026/11/kfc-outlets-640x335.jpg",
         "summary": "Texas-based Tasty Chick'n, which runs more than 80 KFCs in 10 states, filed for Chapter 11 citing falling sales, rising debt and a dispute over unpaid franchise fees."
       },
@@ -484,6 +484,18 @@
     ],
     "center": [
       {
+        "title": "Iran regime's execution spree continues as twins face death penalty, decades in prison after alleged torture",
+        "rewrite": "Iran regime's execution spree continues as twins face death penalty, decades in prison after alleged torture",
+        "url": "https://www.foxnews.com/world/iran-regime-execution-spree-continues-twins-face-death-penalty-decades-prison-alleged-torture",
+        "source": "Fox News",
+        "published": "2026-11-20T06:14:51+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "Jailed protesters Taraneh and Romina Rahimi found that the judge hearing their torture complaint against the IRGC was the official they accuse of assaulting them in interrogation, their US-based cousin told Fox News Digital. He said the complaint was dismissed."
+      },
+      {
         "title": "Trump says US will ‘see what happens’ in conflict with Iran after Jan. 1",
         "rewrite": "Trump says US will 'see what happens' in conflict with Iran after Jan. 1",
         "url": "https://nypost.com/2026/11/19/us-news/trump-says-us-will-see-what-happens-in-conflict-with-iran-after-january-1/",
@@ -492,8 +504,20 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "summary": "'We're going to have a new year coming up, and we'll see what happens after Jan. 1. But they've been nasty,' Trump told Fox News during his China trip."
+      },
+      {
+        "title": "Trump blasts Vance-negotiated Iran deal as a ‘waste of time’",
+        "rewrite": "Trump blasts Vance-negotiated Iran deal as a 'waste of time'",
+        "url": "https://nypost.com/2026/11/18/us-news/trump-blasts-vance-negotiated-iran-deal-as-a-waste-of-time/",
+        "source": "New York Post",
+        "published": "2026-11-19T12:54:29+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": false,
+        "summary": "Speaking to Fox News in China, Trump said the memorandum of understanding Vance negotiated with Iran in June 'delayed things' but 'wasn't a mistake', adding: 'I never believe too much in memorandums.' The pact fell apart in July after Iranian attacks on commercial ships. Trump said he would fight the war again and that Vance is doing 'a very good job'."
       },
       {
         "title": "Trump ‘serious’ about desire to meet with Kim Jong Un in China. Rubio says ‘talking’ to enemies never a ‘concession’",
@@ -581,40 +605,29 @@
         "summary": "Hegseth made an unannounced trip to Caracas and appeared on Venezuelan state TV at the presidential palace with acting President Delcy Rodriguez, a Maduro ally, the AP reported."
       },
       {
-        "title": "Rubio insists no ‘imminent threat’ amid reports Iran could deploy ‘dirty bomb’",
-        "rewrite": "Rubio insists no 'imminent threat' amid reports Iran could deploy 'dirty bomb'",
-        "url": "https://www.washingtonexaminer.com/news/white-house/4806977/rubio-no-imminent-threat-iran-dirty-bomb/",
-        "source": "Washington Examiner",
-        "published": "2026-11-18T13:39:26+11:00",
+        "title": "One Nation warning as ex-NSW opposition leader quits politics",
+        "rewrite": "One Nation warning as ex-NSW opposition leader quits politics",
+        "url": "https://www.abc.net.au/news/2026-11-20/nsw-former-nsw-opposition-leader-mark-speakman-resigns/107407292",
+        "source": "ABC News Australia",
+        "published": "2026-11-20T09:47:08+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "Speaking on the sidelines of the ASEAN summit in Manila, Secretary of State Marco Rubio said he doesn't think there is any imminent threat, citing his confidence in US intelligence services to identify such plots ahead of time."
+        "section": "AUSTRALIA",
+        "is_new": true,
+        "image": "https://live-production.wcms.abc-cdn.net.au/8efba4f6bd82c04299d0f19672fcb7a6?impolicy=wcms_watermark_news&cropH=2807&cropW=4991&xPos=0&yPos=231&width=862&height=485&imformat=generic",
+        "summary": "Former NSW opposition leader Mark Speakman, replaced by Kellie Sloane last November, is quitting politics. He is the eighth Liberal MP to announce a departure in recent months, with the party trailing Labor and One Nation in the polls."
       },
       {
-        "title": "JD Vance Vows Trump Won't Let Iran Become a 'Forever War' — Blasts Neocons Pushing Indefinite Conflict",
-        "rewrite": "JD Vance Vows Trump Won't Let Iran Become a 'Forever War' — Blasts Neocons Pushing Indefinite Conflict",
-        "url": "https://www.breitbart.com/politics/2026/11/17/jd-vance-vows-trump-wont-let-iran-become-a-forever-war-blasts-neocons-pushing-indefinite-conflict/",
-        "source": "Breitbart",
-        "published": "2026-11-18T09:26:30+11:00",
+        "title": "Australian businesses push for beef and rice access to China",
+        "rewrite": "Australian businesses push for beef and rice access to China",
+        "url": "https://www.abc.net.au/news/2026-11-20/albanese-to-meet-xi-for-trade/107406222",
+        "source": "ABC News Australia",
+        "published": "2026-11-20T06:37:16+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "Vice President JD Vance said on Monday that Trump will not let the Iran conflict become a 'forever war' and that the US will not be drawn into another prolonged military commitment in the Middle East."
-      },
-      {
-        "title": "Moment gas tanker is completely consumed by flames after being 'hit by projectile while sailing through the Strait of Hormuz'",
-        "rewrite": "Moment gas tanker is completely consumed by flames after being 'hit by projectile while sailing through...",
-        "url": "https://www.dailymail.com/news/article-16300767/gas-tanker-flames-projectile-sailing-Strait-Hormuz.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-18T09:01:18+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "The crew of 25 abandoned the Panama-flagged LPG tanker off Khasab on Oman's coast, maritime security sources said."
+        "section": "AUSTRALIA",
+        "is_new": true,
+        "summary": "Albanese meets Xi Jinping in Shenzhen today. Beef and rice exports are on the agenda for a CEO roundtable, along with medical technology, resources and AI in agriculture, as business pushes for market access and trade certainty."
       },
       {
         "title": "Kimberley man who whipped and beat partner to death jailed for 10 years",
@@ -625,7 +638,7 @@
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "The Supreme Court heard Craig Charlton Rastus assaulted the woman for more than half an hour in Mowanjum, inflicting fatal injuries."
       },
       {
@@ -689,28 +702,16 @@
         "is_new": false
       },
       {
-        "title": "One Nation surges, Labor overtakes Liberals in latest Tasmanian poll results",
-        "rewrite": "One Nation surges, Labor overtakes Liberals in latest Tasmanian poll results",
-        "url": "https://www.abc.net.au/news/2026-11-18/emrs-poll-labor-ahead-one-nation-rockliff-popular-voter-issues/107397812",
+        "title": "Live: Victorian election ballots isolated after incident at voting centre",
+        "rewrite": "Victorian election ballots isolated after incident at voting centre",
+        "url": "https://www.abc.net.au/news/2026-11-20/victorian-election-live-campaign-liberal-labor/107407614",
         "source": "ABC News Australia",
-        "published": "2026-11-18T12:59:08+11:00",
+        "published": "2026-11-20T10:03:19+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "summary": "Support for Tasmania's Liberal government is at its lowest EMRS result since 2001. Labor and One Nation are gaining ground by focusing on healthcare and cost of living, the two biggest issues for voters."
-      },
-      {
-        "title": "Pauline Hanson unveils plan to scrap parent visas and slash refugee intake by 90 per cent",
-        "rewrite": "Pauline Hanson unveils plan to scrap parent visas and slash refugee intake by 90 per cent",
-        "url": "https://www.dailymail.com/news/article-16300857/pauline-hanson-one-nation-refugee-parent-visas-migration.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-18T10:29:12+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "summary": "One Nation says Australia can no longer afford its existing visa programs, and its policy would scrap parent visas entirely while cutting the humanitarian intake by 90 per cent."
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "Someone gained unauthorised entry to a Richmond voting centre, and the ballots there have been isolated. The Victorian Electoral Commission says there is no suggestion the integrity of the vote has been compromised."
       },
       {
         "title": "Finks bikie boss warned of murder plot as gang division simmers",
@@ -721,7 +722,7 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "Mark Balsillie has been told a contract is out on his life as police step up pressure on the gang over a drive-by shooting at an aged care facility."
       },
       {
@@ -733,7 +734,7 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "Experts say Victoria could face blackouts within two years and that Jess Wilson's plan to use more gas can't be delivered for at least five years, three years after a key coal plant closes."
       },
       {
@@ -745,7 +746,7 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "image": "https://static.ffx.io/images/$zoom_0.8825000000000001%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_529/t_crop_custom/q_86%2Cf_auto/7e5e00455eca21ee72a9ea469244e0178e22ba08",
         "summary": "The man was recorded at an early voting centre in Melbourne's south-east railing against migrants to a One Nation supporter. The Liberals say he is not a party member and will be banned from volunteering."
       },
@@ -762,28 +763,16 @@
         "summary": "The royal commission ended its first block of hearings by referring two witnesses to police over their evidence."
       },
       {
-        "title": "Armed police swoop after Melbourne Airport terror threat - as cops charge failed Trumpet of Patriots candidate over alleged weapons and bomb-making cache",
-        "rewrite": "Armed police swoop after Melbourne Airport terror threat - as cops charge failed Trumpet of Patriots...",
-        "url": "https://www.dailymail.com/news/article-16304499/Melbourne-Airport-terror-threat-sparks-armed-swoop-home-cops-allegedly-cache-weapons-bomb-materials-charge-failed-Trumpet-Patriots-candidate.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-19T15:44:19+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "Detectives raided a home in Armidale in the NSW Northern Tablelands on Wednesday over alleged threats of an attack on Melbourne Airport on October 28 and 29."
-      },
-      {
-        "title": "How High Did Anthropic Fly In Its Wall Street Debut?",
-        "rewrite": "How High Did Anthropic Fly In Its Wall Street Debut?",
-        "url": "https://www.dailywire.com/news/the-wildest-part-of-anthropics-ipo-isnt-the-81-billion",
-        "source": "Daily Wire",
-        "published": "2026-11-19T22:10:23+11:00",
+        "title": "Live: Anthropic's record-breaking listing hits Nasdaq, ASX drops",
+        "rewrite": "Anthropic's record-breaking listing hits Nasdaq, ASX drops",
+        "url": "https://www.abc.net.au/news/2026-11-20/asx-markets-business-live-news-nov-20/107403768",
+        "source": "ABC News Australia",
+        "published": "2026-11-20T07:16:21+11:00",
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
         "is_new": true,
-        "summary": "Anthropic opened at $111.50 on its Thursday market debut, 34% above its $83 IPO price."
+        "summary": "Anthropic opened at US$111.51, about 34% above its US$83 IPO price, while the ASX fell. NEXTDC's chair dismissed talk of a shareholder class action at its AGM."
       },
       {
         "title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
@@ -856,7 +845,7 @@
         "slot": "column",
         "urgent": false,
         "section": "UK",
-        "is_new": true,
+        "is_new": false,
         "summary": "Calum Miller, MP for Bicester and Woodstock, said Home Office minister Anna Turley gave him the updated timeline for the site at a meeting."
       },
       {
@@ -868,7 +857,7 @@
         "slot": "column",
         "urgent": false,
         "section": "UK",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Council worker removed protest flags from proposed migrant camp in dead of night",
@@ -896,16 +885,28 @@
         "summary": "Thousands of St George's flags and Union flags had been put up on lampposts and other public structures across the city since 2025."
       },
       {
-        "title": "Alan Milburn warns Angela Rayner’s job reforms risk worsening youth unemployment crisis",
-        "rewrite": "Alan Milburn warns Angela Rayner's job reforms risk worsening youth unemployment crisis",
-        "url": "https://www.gbnews.com/politics/alan-milburn-angela-rayners-job-reforms-neets",
-        "source": "GB News",
-        "published": "2026-11-18T11:54:06+11:00",
+        "title": "California targets Nvidia in China AI chip probe",
+        "rewrite": "California targets Nvidia in China AI chip probe",
+        "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no",
+        "source": "BBC News",
+        "published": "2026-11-20T10:04:30+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "UK",
-        "is_new": false,
-        "summary": "The former Labour minister called for a shake-up of the benefits system that he says would save 3.6 billion pounds a year."
+        "section": "TECHNOLOGY",
+        "is_new": true,
+        "summary": "California attorney general Rob Bonta served an investigative subpoena on Nvidia, probing whether the company's or Jensen Huang's actions let China obtain advanced chips or confidential information. He said that could breach state law if Nvidia misled investors and the public."
+      },
+      {
+        "title": "'Let's Move On': Nvidia's Interim CEO Tells Staff to Forget Jensen Huang",
+        "rewrite": "'Let's Move On': Nvidia's Interim CEO Tells Staff to Forget Jensen Huang",
+        "url": "https://www.breitbart.com/tech/2026/11/19/lets-move-on-nvidias-interim-ceo-tells-staff-to-forget-jensen-huang/",
+        "source": "Breitbart",
+        "published": "2026-11-20T05:38:29+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "TECHNOLOGY",
+        "is_new": true,
+        "summary": "At Nvidia's first all-hands since Jensen Huang's resignation, interim CEO Colette Kress told staff 'let's move forward', according to people familiar with the meeting. New board chairman Harvey Jones repeated that Huang will not return and said the company is not looking for a 'Jensen clone'."
       },
       {
         "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
@@ -916,7 +917,7 @@
         "slot": "column",
         "urgent": false,
         "section": "TECHNOLOGY",
-        "is_new": true,
+        "is_new": false,
         "summary": "Developers are weighing gas-pricing changes that could break existing smart contracts and have contacted at least 50 affected companies."
       },
       {
@@ -1004,16 +1005,16 @@
         "summary": "Sens. Cantwell and Rounds urged the White House to bolster cyberdefences as rapid AI advances expose flaws in widely used software such as PHP."
       },
       {
-        "title": "Rubio insists ‘zero evidence’ that widespread US tech outages, cyberattacks are linked",
-        "rewrite": "Rubio insists 'zero evidence' that widespread US tech outages, cyberattacks are linked",
-        "url": "https://nypost.com/2026/11/17/us-news/rubio-insists-zero-evidence-that-widespread-us-tech-outages-cyberattacks-are-linked/",
-        "source": "New York Post",
-        "published": "2026-11-18T14:03:47+11:00",
+        "title": "Bill Hader’s Feature Directorial Debut ‘They Know’ Acquired by Black Bear",
+        "rewrite": "Bill Hader's Feature Directorial Debut 'They Know' Acquired by Black Bear",
+        "url": "https://variety.com/2026/film/news/bill-hader-horror-movie-they-know-acquired-black-bear-1236953795/",
+        "source": "Variety",
+        "published": "2026-11-20T11:30:46+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false,
-        "summary": "Rubio acknowledged that back-to-back outages at Microsoft, the Federal Aviation Administration and several major banks have put some Americans on edge, but said there is zero evidence they are linked to cyberattacks."
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "Black Bear bought North American rights to the horror-thriller, which Hader wrote and stars in with Linda Cardellini. MRC fully financed the film, now in post-production."
       },
       {
         "title": "Poorna Jagannathan, Clark Gregg, Isabela Ferrer, Christopher Rodriguez Marquette and Paul Ben-Victor Join ‘Twenty-Seven’ (EXCLUSIVE)",
@@ -1024,7 +1025,7 @@
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
+        "is_new": false,
         "summary": "They join Levon Hawke and Anthony Hopkins in 'Twenty-Seven', an indie drama written and directed by Gregory Caruso."
       },
       {
@@ -1036,7 +1037,7 @@
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
+        "is_new": false,
         "summary": "Monarch Media has the rights to Koontz's Jane Hawk novels and is now seeking a showrunner before taking the series to market."
       },
       {
@@ -1158,53 +1159,17 @@
         "section": "ENTERTAINMENT",
         "is_new": false,
         "summary": "The Indian star, known internationally for 'Life of Pi' and 'Dune: Prophecy', has signed on to the Netflix series from Yash Raj Films' streaming banner. It is her first original Hindi-language series for streaming."
-      },
-      {
-        "title": "Don Toliver Announces Sixth Album ‘Nitrous,’ Due Next Month",
-        "rewrite": "Don Toliver Announces Sixth Album 'Nitrous,' Due Next Month",
-        "url": "https://variety.com/2026/music/news/don-toliver-announces-sixth-album-nitrous-release-date-1236951108/",
-        "source": "Variety",
-        "published": "2026-11-18T11:38:24+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "'Nitrous' is out December 4 on Cactus Jack/Atlantic. Toliver, who just received five Grammy nominations, recorded, produced and engineered it entirely himself."
-      },
-      {
-        "title": "Longtime Exec Howard Lee Departs as Skydance Confirms New Cable Structure and Division Name Under Channing Dungey",
-        "rewrite": "Longtime Exec Howard Lee Departs as Skydance Confirms New Cable Structure and Division Name Under Channing...",
-        "url": "https://variety.com/2026/tv/news/howard-lee-exits-skydance-global-cable-media-1236951079/",
-        "source": "Variety",
-        "published": "2026-11-18T10:47:53+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "Skydance's merged cable networks will be called Skydance Global Cable Media, combining the Warner Bros. TV and US Networks groups under Channing Dungey, who also set out the new structure. Longtime executive Howard Lee is leaving."
-      },
-      {
-        "title": "Jeff Bezos Was ‘Heavily Involved’ in Casting Robert Pattinson as James Bond and Admits Initial Fears ‘Because He’s Already So Famous’",
-        "rewrite": "Jeff Bezos Was 'Heavily Involved' in Casting Robert Pattinson as James Bond and Admits Initial Fears...",
-        "url": "https://variety.com/2026/film/news/jeff-bezos-involved-casting-robert-pattinson-james-bond-1236950970/",
-        "source": "Variety",
-        "published": "2026-11-18T10:03:42+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "Speaking at a Semafor event in Silicon Valley, Amazon founder Jeff Bezos said he was 'heavily involved' in Amazon MGM choosing Robert Pattinson as the next 007."
       }
     ]
   },
   "image_url": "https://live-production.wcms.abc-cdn.net.au/5718247632880706a2eaf87e5847a4f8?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
   "counts": {
-    "total": 98,
+    "total": 95,
     "featured": 4,
     "columns": {
       "left": 34,
-      "center": 30,
-      "right": 29
+      "center": 29,
+      "right": 27
     },
     "feeds_ok": 44,
     "feeds_failed": 6

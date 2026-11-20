@@ -2,9 +2,9 @@
   "title": "THE NEWS REPORT",
   "generated": {
     "date": "Friday, 20 November 2026",
-    "display": "Friday, November 20, 2026  12:29 PM AEDT (Australia/Sydney)",
-    "iso": "2026-11-20T12:29:05.763712+11:00",
-    "time": "12:29 PM AEDT",
+    "display": "Friday, November 20, 2026  6:24 PM AEDT (Australia/Sydney)",
+    "iso": "2026-11-20T18:24:46.268071+11:00",
+    "time": "6:24 PM AEDT",
     "timezone": "Australia/Sydney"
   },
   "lean": "centre-right",
@@ -42,7 +42,7 @@
       "slot": "featured",
       "urgent": false,
       "section": "WORLD",
-      "is_new": true,
+      "is_new": false,
       "summary": "At the Coalition of the Willing summit in Berlin, US envoy Jared Kushner said Moscow and Trump had agreed to a multilateral negotiating format that includes Europe. Zelenskyy urged Washington to organise a first team-level meeting with full European participation 'as soon as possible', aiming to keep Kyiv and Europe from being sidelined."
     },
     {
@@ -54,7 +54,7 @@
       "slot": "featured",
       "urgent": false,
       "section": "MARKETS",
-      "is_new": true,
+      "is_new": false,
       "summary": "Anthropic's shares flew past their $83 allocation price on their Thursday Nasdaq debut, taking its valuation to roughly $1.76 trillion. It is the first purely AI company to list publicly, making the debut a key test of investor appetite given the huge sums being poured into the technology."
     },
     {
@@ -73,6 +73,54 @@
   "columns": {
     "left": [
       {
+        "title": "Hasan Piker claims the far-left is worse off because Dems dominated 2026 midterms",
+        "rewrite": "Hasan Piker claims the far-left is worse off because Dems dominated 2026 midterms",
+        "url": "https://nypost.com/2026/11/19/media/hasan-piker-claims-the-far-left-is-worse-off-because-dems-dominated-2026-midterms/",
+        "source": "New York Post",
+        "published": "2026-11-20T14:37:02+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Far-left streamer Hasan Piker argued that Democrats' big midterm win weakened progressives' leverage, saying a 40-seat margin means the party no longer needs to make far-left concessions."
+      },
+      {
+        "title": "What Democrats are saying about the possibility of a government shutdown in December",
+        "rewrite": "What Democrats are saying about the possibility of a government shutdown in December",
+        "url": "https://www.washingtonexaminer.com/news/house/4809015/democrats-government-shutdown-possibility-december/",
+        "source": "Washington Examiner",
+        "published": "2026-11-20T13:48:23+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Sens. Duckworth, Bennet, Sanders and Van Hollen say they will block any short-term funding package that doesn't limit the Iran war, as Congress faces a Dec. 11 funding cliff. House Minority Leader Hakeem Jeffries has not ruled out a shutdown over the demand."
+      },
+      {
+        "title": "EXCLUSIVE: Retired police sergeant issues warning over Mamdani's NYPD shake-up ahead of Thanksgiving parade",
+        "rewrite": "Retired police sergeant issues warning over Mamdani's NYPD shake-up ahead of Thanksgiving parade",
+        "url": "https://www.foxnews.com/politics/exclusive-retired-police-sergeant-issues-warning-over-mamdanis-nypd-shake-up-ahead-thanksgiving-parade",
+        "source": "Fox News",
+        "published": "2026-11-20T12:57:47+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Retired Sgt. Betsy Brantner Smith of the National Police Association told Fox News Digital she wouldn't take her family to NYC now. Mamdani is disbanding the roughly 500-officer Strategic Response Group, which handles counterterrorism support and crowd control, and she warns of security gaps at the Macy's parade."
+      },
+      {
+        "title": "Mamdani Signs Ban Ending 150-Year Carriage Tradition Trump Called ‘a Quintessential New York Experience’",
+        "rewrite": "Mamdani Signs Ban Ending 150-Year Carriage Tradition Trump Called 'a Quintessential New York Experience'",
+        "url": "https://www.breitbart.com/politics/2026/11/19/mamdani-signs-ban-ending-150-year-carriage-tradition-trump-called-a-quintessential-new-york-experience/",
+        "source": "Breitbart",
+        "published": "2026-11-20T12:43:59+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Mamdani signed Romanch's Law on Thursday, ending Central Park horse-drawn carriage rides by June 1, 2028. No new licences will be issued, and the city plans to buy back medallions and fund job training for about 200 workers. The council passed it 40-7; Trump had argued the tradition should stay."
+      },
+      {
         "title": "Slotkin snubs Schumer with Chris Van Hollen leader endorsement",
         "rewrite": "Slotkin snubs Schumer with Chris Van Hollen leader endorsement",
         "url": "https://www.washingtonexaminer.com/news/senate/4809591/slotkin-snubs-schumer-chris-van-hollen-leader-endorsement/",
@@ -81,7 +129,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Sen. Elissa Slotkin said Schumer is not best positioned to lead and she will back Chris Van Hollen. Schumer remains the heavy favourite, with 15 public supporters ahead of a secret-ballot election in early December; Van Hollen had only four endorsements before Thursday."
       },
       {
@@ -93,7 +141,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Mayor Mamdani's team has asked city prosecutors to help cut Rikers Island's roughly 6,000-inmate population ahead of the jail's August 2027 closure deadline."
       },
       {
@@ -105,8 +153,20 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Sen. John Kennedy asked banking committee chairman Tim Scott to invite Bessent to December's hearing with Commerce Secretary Lutnick and export-control chief Jeffrey Kessler over China obtaining US chips. Bessent has faulted Commerce for not blacklisting Megaspeed. It is unclear whether Scott will formally invite him."
+      },
+      {
+        "title": "Turns Out Voters Did Blame Iran War For Driving Up Their Costs Afterall",
+        "rewrite": "Turns Out Voters Did Blame Iran War For Driving Up Their Costs Afterall",
+        "url": "https://dailycaller.com/2026/11/19/midterm-voters-dissect-corpse-of-republican-party-american-compass-survey-election-2026",
+        "source": "Daily Caller",
+        "published": "2026-11-20T08:10:34+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "An American Compass post-election poll found about 85% of voters said the Iran war raised their personal costs, more than named tariffs, immigration enforcement or the deficit. Affordability drove the 2026 midterms, in which Democrats won Congress."
       },
       {
         "title": "Mamdani to tap just 30 civilian responders to replace NYPD’s 500 cop Strategic Response Group",
@@ -117,7 +177,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Mamdani said a civilian 'community dialogue and de-escalation division' of about 30 staff, housed in the Office of Community Safety, will mediate with protesters. It follows his disbanding of the roughly 500-officer Strategic Response Group, whose officers will be reassigned."
       },
       {
@@ -129,7 +189,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "A non-binding war powers resolution, backed by Democrats and Republicans Collins, Murkowski and Paul, failed in the Senate. It would have required removing troops from hostilities Congress has not authorised. Democrats are eyeing another fight ahead."
       },
       {
@@ -189,7 +249,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Sanders said he would support Ocasio-Cortez in a direct challenge to Schumer for the Senate Democratic leadership. Sen. Chris Van Hollen has already announced his own bid against Schumer."
       },
       {
@@ -227,6 +287,18 @@
         "section": "US",
         "is_new": false,
         "summary": "House Republicans fear Democrats' post-midterm clout could trigger another shutdown ahead of the Dec. 11 funding deadline."
+      },
+      {
+        "title": "Supreme Court urged to defang ‘criminal trap’ that has sent Trump officials to prison",
+        "rewrite": "Supreme Court urged to defang 'criminal trap' that has sent Trump officials to prison",
+        "url": "https://www.foxnews.com/politics/supreme-court-urged-defang-criminal-trap-sent-trump-officials-prison",
+        "source": "Fox News",
+        "published": "2026-11-19T21:00:50+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Peter Navarro, who served four months in prison for defying a Jan. 6 committee subpoena, has asked the Supreme Court to overturn his contempt of Congress convictions. If the justices take the case, they could make it harder to convict people who refuse congressional subpoenas."
       },
       {
         "title": "Aspiring lawmaker is booted from historic Texas country club 'for wellbeing of other members' after he shared shocking anti-Indian videos",
@@ -421,18 +493,6 @@
         "summary": "Trump is working to save RNC Chair Joe Gruters from a re-election challenge by co-chair KC Crosbie after the GOP's midterm losses."
       },
       {
-        "title": "Mary Peltola finally declared winner of Alaska Senate race 2 weeks after midterms",
-        "rewrite": "Mary Peltola finally declared winner of Alaska Senate race 2 weeks after midterms",
-        "url": "https://nypost.com/2026/11/17/us-news/mary-peltola-finally-declared-winner-of-alaska-senate-race-2-weeks-after-midterms/",
-        "source": "New York Post",
-        "published": "2026-11-18T15:46:06+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "The AP called the race two weeks after Election Day: Peltola took 50.1% to Sullivan's 45.8% with more than 95% of ballots counted, giving Democrats a 56-44 Senate edge from January. She is Alaska's first Democratic senator since 2008, after a late row over a 'decoy' Dan Sullivan candidate, who drew 1.7%."
-      },
-      {
         "title": "KFC Franchise Operator with 84 Locations Files for Bankruptcy Protection",
         "rewrite": "KFC Franchise Operator with 84 Locations Files for Bankruptcy Protection",
         "url": "https://www.breitbart.com/economy/2026/11/19/kfc-franchise-operator-with-84-locations-files-for-bankruptcy-protection/",
@@ -484,6 +544,18 @@
     ],
     "center": [
       {
+        "title": "Donald Trump tells Europe to defund Ukraine in blistering 'tirade' against Nato allies as he bows down to Putin",
+        "rewrite": "Donald Trump tells Europe to defund Ukraine in blistering 'tirade' against Nato allies as he bows down to...",
+        "url": "https://www.gbnews.com/news/world/donald-trump-europe-ukraine-blistering-tirade-nato-allies-putin",
+        "source": "GB News",
+        "published": "2026-11-20T11:08:55+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "Trump dialled into the Coalition of the Willing meeting in Berlin from Air Force One, shortly after his summit with Putin and Xi, and told European leaders to stop funding Ukraine, GB News reports. Chuck Schumer called it 'a historic embarrassment'."
+      },
+      {
         "title": "Iran regime's execution spree continues as twins face death penalty, decades in prison after alleged torture",
         "rewrite": "Iran regime's execution spree continues as twins face death penalty, decades in prison after alleged torture",
         "url": "https://www.foxnews.com/world/iran-regime-execution-spree-continues-twins-face-death-penalty-decades-prison-alleged-torture",
@@ -492,7 +564,7 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "summary": "Jailed protesters Taraneh and Romina Rahimi found that the judge hearing their torture complaint against the IRGC was the official they accuse of assaulting them in interrogation, their US-based cousin told Fox News Digital. He said the complaint was dismissed."
       },
       {
@@ -605,6 +677,19 @@
         "summary": "Hegseth made an unannounced trip to Caracas and appeared on Venezuelan state TV at the presidential palace with acting President Delcy Rodriguez, a Maduro ally, the AP reported."
       },
       {
+        "title": "Adelaide father and son found guilty of stabbing murder",
+        "rewrite": "Adelaide father and son found guilty of stabbing murder",
+        "url": "https://www.abc.net.au/news/2026-11-20/liam-and-brian-slann-guilty-of-stabbing-murder/107408242",
+        "source": "ABC News Australia",
+        "published": "2026-11-20T17:10:54+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "AUSTRALIA",
+        "is_new": true,
+        "image": "https://live-production.wcms.abc-cdn.net.au/a7071fdb0e42ea562245451f2172072b?impolicy=wcms_watermark_news&cropH=354&cropW=629&xPos=0&yPos=254&width=862&height=485&imformat=generic",
+        "summary": "A Supreme Court jury found Brian Slann, 54, and his son Liam, 29, guilty of murdering 21-year-old William Holdback, who was stabbed after a disagreement about drugs. Both had pleaded not guilty."
+      },
+      {
         "title": "One Nation warning as ex-NSW opposition leader quits politics",
         "rewrite": "One Nation warning as ex-NSW opposition leader quits politics",
         "url": "https://www.abc.net.au/news/2026-11-20/nsw-former-nsw-opposition-leader-mark-speakman-resigns/107407292",
@@ -613,7 +698,7 @@
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
-        "is_new": true,
+        "is_new": false,
         "image": "https://live-production.wcms.abc-cdn.net.au/8efba4f6bd82c04299d0f19672fcb7a6?impolicy=wcms_watermark_news&cropH=2807&cropW=4991&xPos=0&yPos=231&width=862&height=485&imformat=generic",
         "summary": "Former NSW opposition leader Mark Speakman, replaced by Kellie Sloane last November, is quitting politics. He is the eighth Liberal MP to announce a departure in recent months, with the party trailing Labor and One Nation in the polls."
       },
@@ -626,7 +711,7 @@
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "Albanese meets Xi Jinping in Shenzhen today. Beef and rice exports are on the agenda for a CEO roundtable, along with medical technology, resources and AI in agriculture, as business pushes for market access and trade certainty."
       },
       {
@@ -691,15 +776,28 @@
         "summary": "Analysis: despite Trump's midterm setback and his awkward meeting with Putin, the US remains an important ally for Australia. The open question is what happens next."
       },
       {
-        "title": "Pauline Hanson rejects claims that Trump's Iran war sparked cost of living crisis - and blames Albanese for inflation",
-        "rewrite": "Pauline Hanson rejects claims that Trump's Iran war sparked cost of living crisis - and blames Albanese...",
-        "url": "https://www.dailymail.com/news/article-16301541/pauline-hanson-inflation-cost-living-iran-albanese-spending.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-18T16:37:11+11:00",
+        "title": "Calls for One Nation candidate to withdraw from election over misconduct",
+        "rewrite": "Calls for One Nation candidate to withdraw from election over misconduct",
+        "url": "https://www.abc.net.au/news/2026-11-20/anti-violence-advocates-call-one-nation-garner-smith-to-withdraw/107367618",
+        "source": "ABC News Australia",
+        "published": "2026-11-20T17:17:31+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "Anti-violence advocates want One Nation's Murray Plains candidate Garner Smith to withdraw from the Victorian election. He breached five standards of conduct as a Gannawarra councillor, and had commented on a 2022 video of Dustin Martin allegedly touching a woman's breasts."
+      },
+      {
+        "title": "Fifth Melbourne Cup revealed as stolen after 'staggering' heists",
+        "rewrite": "Fifth Melbourne Cup revealed as stolen after 'staggering' heists",
+        "url": "https://www.abc.net.au/news/2026-11-20/fifth-melbourne-cup-revealed-as-stolen-spring-carnival-heists/107410262",
+        "source": "ABC News Australia",
+        "published": "2026-11-20T16:18:56+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "The ABC reports the 1973 Melbourne Cup was stolen from Flemington several years ago and never found. It follows this spring's thefts of the 1948 Caulfield Cup and Makybe Diva's three Melbourne Cups, with racing insiders criticising the Victoria Racing Club's security."
       },
       {
         "title": "Live: Victorian election ballots isolated after incident at voting centre",
@@ -710,7 +808,7 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "Someone gained unauthorised entry to a Richmond voting centre, and the ballots there have been isolated. The Victorian Electoral Commission says there is no suggestion the integrity of the vote has been compromised."
       },
       {
@@ -738,29 +836,28 @@
         "summary": "Experts say Victoria could face blackouts within two years and that Jess Wilson's plan to use more gas can't be delivered for at least five years, three years after a key coal plant closes."
       },
       {
-        "title": "‘Un-Australian not to be racist’: Liberal volunteer dumped over slurs",
-        "rewrite": "'Un-Australian not to be racist': Liberal volunteer dumped over slurs",
-        "url": "https://www.theage.com.au/national/victoria/un-australian-not-to-be-racist-liberal-volunteer-dumped-over-slurs-20261119-p61fp0.html?ref=rss",
-        "source": "The Age",
-        "published": "2026-11-19T19:30:00+11:00",
+        "title": "Anthropic IPO turns thousands of tech workers into overnight millionaires, reports say",
+        "rewrite": "Anthropic IPO turns thousands of tech workers into overnight millionaires, reports say",
+        "url": "https://www.foxbusiness.com/markets/anthropic-ipo-turns-thousands-tech-workers-overnight-millionaires-reports-say",
+        "source": "Fox Business",
+        "published": "2026-11-20T11:05:39+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "image": "https://static.ffx.io/images/$zoom_0.8825000000000001%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_529/t_crop_custom/q_86%2Cf_auto/7e5e00455eca21ee72a9ea469244e0178e22ba08",
-        "summary": "The man was recorded at an early voting centre in Melbourne's south-east railing against migrants to a One Nation supporter. The Liberals say he is not a party member and will be banned from volunteering."
+        "section": "MARKETS",
+        "is_new": true,
+        "summary": "Anthropic priced its IPO at $83 a share and opened at $111.50 on Nasdaq under the ticker ANT. CNBC estimates its roughly 5,300 employees hold about $232 billion at the IPO price, averaging some $44 million each."
       },
       {
-        "title": "Big Build royal commission LIVE updates: Two witnesses referred to police over evidence as first hearing block finishes",
-        "rewrite": "Big Build royal commission LIVE updates: Two witnesses referred to police over evidence as first hearing...",
-        "url": "https://www.theage.com.au/national/victoria/big-build-royal-commission-live-updates-labour-hire-boss-continues-evidence-as-inquiry-probes-gap-road-project-20261119-p61ff0.html?ref=rss",
-        "source": "The Age",
-        "published": "2026-11-19T16:46:38+11:00",
+        "title": "Anthropic Stock Jumped 17%. So How Did Some Buyers End The Day Down 13%?",
+        "rewrite": "Anthropic Stock Jumped 17%. So How Did Some Buyers End The Day Down 13%?",
+        "url": "https://dailycaller.com/2026/11/19/anthropic-stock-jumped-17-so-how-did-some-buyers-end-the-day-down-13",
+        "source": "Daily Caller",
+        "published": "2026-11-20T09:12:22+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "The royal commission ended its first block of hearings by referring two witnesses to police over their evidence."
+        "section": "MARKETS",
+        "is_new": true,
+        "summary": "Anthropic closed at $97.17, 17% above its $83 IPO price but well below the $111.50 opening trade, so buyers at the open ended down nearly 13%. Its filing shows third-quarter revenue near $17 billion, with computing and infrastructure costs up to $9.9 billion."
       },
       {
         "title": "Live: Anthropic's record-breaking listing hits Nasdaq, ASX drops",
@@ -771,8 +868,20 @@
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": true,
+        "is_new": false,
         "summary": "Anthropic opened at US$111.51, about 34% above its US$83 IPO price, while the ASX fell. NEXTDC's chair dismissed talk of a shareholder class action at its AGM."
+      },
+      {
+        "title": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
+        "rewrite": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
+        "url": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
+        "source": "CoinDesk",
+        "published": "2026-11-20T02:20:38+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "MARKETS",
+        "is_new": true,
+        "summary": "The exchange says it has already replaced the stolen assets using its own funds and insurance reserves."
       },
       {
         "title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
@@ -809,33 +918,22 @@
         "section": "MARKETS",
         "is_new": false,
         "summary": "Bitcoin fell below $63,000 after the hawkish Fed comments, as optimism from Nvidia's earnings faded."
-      },
-      {
-        "title": "The key S&P 500 level Wall Street is watching",
-        "rewrite": "The key S&P 500 level Wall Street is watching",
-        "url": "https://www.cnbc.com/2026/11/18/sp-500-falls-below-200-day-moving-average.html",
-        "source": "CNBC",
-        "published": "2026-11-19T02:16:13+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "MARKETS",
-        "is_new": false,
-        "summary": "The S&P 500 closed Tuesday at 7,340.53, just under its 200-day average of 7,346.64, and the next move may be lower."
-      },
-      {
-        "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
-        "rewrite": "Fed's Waller says central bank may need to 'shock people' with half-point rate hike",
-        "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
-        "source": "CNBC",
-        "published": "2026-11-19T02:13:39+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "MARKETS",
-        "is_new": false,
-        "summary": "Waller told CNBC a half-point rise is probably needed at the Fed's Dec. 8-9 meeting, and that the three quarter-point cuts from last year should be reversed, possibly with more to follow. 'I'm very, very concerned about inflation,' he said. Futures already fully price a quarter-point hike in December."
       }
     ],
     "right": [
+      {
+        "title": "Piddington migrant camp 'to be built before legal appeal verdict' as construction set to begin in just WEEKS",
+        "rewrite": "Piddington migrant camp 'to be built before legal appeal verdict' as construction set to begin in just WEEKS",
+        "url": "https://www.gbnews.com/news/piddington-migrant-camp-legal-appeal-verdict-construction-set-begin",
+        "source": "GB News",
+        "published": "2026-11-20T14:55:21+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "UK",
+        "is_new": true,
+        "image": "https://www.gbnews.com/media-library/piddington-sign.jpg?id=68725997&width=1200&height=600&coordinates=0%2C85%2C0%2C86",
+        "summary": "Construction of the migrant camp at Piddington, an Oxfordshire village, could start in January, before a legal appeal is decided, local MP Calum Miller says. Angela Rayner used special powers to grant permission for the site."
+      },
       {
         "title": "Piddington migrant camp could be built before High Court decides its legal - with construction set to begin in January, MP warns",
         "rewrite": "Piddington migrant camp could be built before High Court decides its legal - with construction set to...",
@@ -893,8 +991,19 @@
         "slot": "column",
         "urgent": false,
         "section": "TECHNOLOGY",
-        "is_new": true,
+        "is_new": false,
         "summary": "California attorney general Rob Bonta served an investigative subpoena on Nvidia, probing whether the company's or Jensen Huang's actions let China obtain advanced chips or confidential information. He said that could breach state law if Nvidia misled investors and the public."
+      },
+      {
+        "title": "UK conducting offensive cyber ops against Russia, China, Iran and North Korea, says top commander",
+        "rewrite": "UK conducting offensive cyber ops against Russia, China, Iran and North Korea, says top commander",
+        "url": "https://news.sky.com/story/uk-conducting-offensive-cyber-ops-against-russia-china-iran-and-north-korea-top-commander-reveals-13614163",
+        "source": "Sky News UK",
+        "published": "2026-11-20T07:35:00+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "TECHNOLOGY",
+        "is_new": true
       },
       {
         "title": "'Let's Move On': Nvidia's Interim CEO Tells Staff to Forget Jensen Huang",
@@ -905,7 +1014,7 @@
         "slot": "column",
         "urgent": false,
         "section": "TECHNOLOGY",
-        "is_new": true,
+        "is_new": false,
         "summary": "At Nvidia's first all-hands since Jensen Huang's resignation, interim CEO Colette Kress told staff 'let's move forward', according to people familiar with the meeting. New board chairman Harvey Jones repeated that Huang will not return and said the company is not looking for a 'Jensen clone'."
       },
       {
@@ -1005,6 +1114,30 @@
         "summary": "Sens. Cantwell and Rounds urged the White House to bolster cyberdefences as rapid AI advances expose flaws in widely used software such as PHP."
       },
       {
+        "title": "Maharaja Ranjit Singh, the Sikh Ruler Known as ‘Sher-e-Punjab,’ Gets Biopic, Plans 2027 Shoot (EXCLUSIVE)",
+        "rewrite": "Maharaja Ranjit Singh, the Sikh Ruler Known as 'Sher-e-Punjab,' Gets Biopic, Plans 2027 Shoot (EXCLUSIVE)",
+        "url": "https://variety.com/2026/film/news/maharaja-ranjit-singh-sher-e-punjab-biopic-2027-shoot-1236952982/",
+        "source": "Variety",
+        "published": "2026-11-20T16:30:00+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "Katha Studios and B4 Makers Studios are partnering on a theatrical epic about the 19th-century Sikh ruler known as the Lion of Punjab, with production set to start in 2027."
+      },
+      {
+        "title": "Melania Trump attends world premiere for her new docuseries at NYC’s Lincoln Center",
+        "rewrite": "Melania Trump attends world premiere for her new docuseries at NYC's Lincoln Center",
+        "url": "https://nypost.com/2026/11/19/us-news/melania-the-series-makes-its-world-premiere-at-nycs-lincoln-center/",
+        "source": "New York Post",
+        "published": "2026-11-20T12:44:11+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "The first lady premiered her two-part docuseries 'Melania, The Series' at Lincoln Center in New York, following her chart-topping self-titled documentary."
+      },
+      {
         "title": "Bill Hader’s Feature Directorial Debut ‘They Know’ Acquired by Black Bear",
         "rewrite": "Bill Hader's Feature Directorial Debut 'They Know' Acquired by Black Bear",
         "url": "https://variety.com/2026/film/news/bill-hader-horror-movie-they-know-acquired-black-bear-1236953795/",
@@ -1013,7 +1146,7 @@
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
+        "is_new": false,
         "summary": "Black Bear bought North American rights to the horror-thriller, which Hader wrote and stars in with Linda Cardellini. MRC fully financed the film, now in post-production."
       },
       {
@@ -1147,29 +1280,17 @@
         "section": "ENTERTAINMENT",
         "is_new": false,
         "summary": "Page described the comments on Tuesday's episode of I'm a Celebrity... Get Me Out Of Here!"
-      },
-      {
-        "title": "‘Dune: Prophecy’ Star Tabu Joins YRF Entertainment’s Netflix Rescue Drama ‘Tunnel Men’ (EXCLUSIVE)",
-        "rewrite": "'Dune: Prophecy' Star Tabu Joins YRF Entertainment's Netflix Rescue Drama 'Tunnel Men' (EXCLUSIVE)",
-        "url": "https://variety.com/2026/tv/news/dune-prophecy-star-tabu-yrf-netflix-series-tunnel-men-1236950175/",
-        "source": "Variety",
-        "published": "2026-11-18T17:30:00+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "The Indian star, known internationally for 'Life of Pi' and 'Dune: Prophecy', has signed on to the Netflix series from Yash Raj Films' streaming banner. It is her first original Hindi-language series for streaming."
       }
     ]
   },
   "image_url": "https://live-production.wcms.abc-cdn.net.au/5718247632880706a2eaf87e5847a4f8?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
   "counts": {
-    "total": 95,
+    "total": 105,
     "featured": 4,
     "columns": {
-      "left": 34,
-      "center": 29,
-      "right": 27
+      "left": 39,
+      "center": 31,
+      "right": 30
     },
     "feeds_ok": 44,
     "feeds_failed": 6

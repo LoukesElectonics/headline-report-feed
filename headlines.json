@@ -2,36 +2,48 @@
   "title": "THE NEWS REPORT",
   "generated": {
     "date": "Saturday, 21 November 2026",
-    "display": "Saturday, November 21, 2026  6:30 AM AEDT (Australia/Sydney)",
-    "iso": "2026-11-21T06:30:08.664265+11:00",
-    "time": "6:30 AM AEDT",
+    "display": "Saturday, November 21, 2026  12:31 PM AEDT (Australia/Sydney)",
+    "iso": "2026-11-21T12:31:02.952062+11:00",
+    "time": "12:31 PM AEDT",
     "timezone": "Australia/Sydney"
   },
   "lean": "centre-right",
   "top": {
-    "title": "Putin launches Ukraine barrage hours after Trump meeting amid alleged Russian missile breach of NATO airspace",
-    "rewrite": "Putin launches Ukraine barrage hours after Trump meeting amid alleged Russian missile breach of NATO airspace",
-    "url": "https://www.foxnews.com/world/putin-launches-ukraine-barrage-hours-after-trump-meeting-amid-alleged-russian-missile-breach-nato-airspace",
+    "title": "Trump responds after Vance blames Iran war for midterm losses, VP says his job is to support president",
+    "rewrite": "Trump responds after Vance blames Iran war for midterm losses, VP says his job is to support president",
+    "url": "https://www.foxnews.com/politics/trump-responds-vance-blames-iran-war-midterm-losses-vp-says-job-support-president",
     "source": "Fox News",
-    "published": "2026-11-21T02:13:39+11:00",
+    "published": "2026-11-21T07:03:11+11:00",
     "slot": "top",
     "urgent": false,
-    "section": "WORLD",
+    "section": "US",
     "is_new": false,
-    "summary": "Russia fired more than 400 drones and 110 missiles at Ukraine overnight Friday, killing at least eight people and striking three major bridges in Kyiv, hours after Putin stood with Trump and Xi at their summit in China. Suspected Russian missiles and a drone also entered NATO member Poland."
+    "summary": "Trump said Friday he would launch the Iran operation again 'because we cannot allow Iran to have a nuclear weapon,' pushing back on reports of friction after Vance blamed Republican midterm losses on voter anger over the war and oil prices. Trump said he thought Vance's statement was 'fine.'"
   },
   "featured": [
     {
-      "title": "Trump, Xi and Putin release joint statement after historic talks",
-      "rewrite": "Trump, Xi and Putin release joint statement after historic talks",
-      "url": "https://www.abc.net.au/news/2026-11-19/albanese-tells-putin-to-end-ukraine-war-now/107406348",
-      "source": "ABC News Australia",
-      "published": "2026-11-19T20:36:33+11:00",
+      "title": "Putin launches Ukraine barrage hours after Trump meeting amid alleged Russian missile breach of NATO airspace",
+      "rewrite": "Putin launches Ukraine barrage hours after Trump meeting amid alleged Russian missile breach of NATO airspace",
+      "url": "https://www.foxnews.com/world/putin-launches-ukraine-barrage-hours-after-trump-meeting-amid-alleged-russian-missile-breach-nato-airspace",
+      "source": "Fox News",
+      "published": "2026-11-21T02:13:39+11:00",
       "slot": "featured",
       "urgent": false,
       "section": "WORLD",
       "is_new": false,
-      "summary": "The leaders met for about 90 minutes on the APEC sidelines in Shenzhen. China's CCTV readout made no mention of Ukraine but said bodies like the International Criminal Court should not abuse their jurisdiction; Putin faces an ICC warrant. They also pledged to cut nuclear risks. Hours earlier Albanese told Putin to end the war 'now'."
+      "summary": "Russia fired more than 400 drones and 110 missiles at Ukraine overnight Friday, killing at least eight people and striking three major bridges in Kyiv, hours after Putin stood with Trump and Xi at their summit in China. Suspected Russian missiles and a drone also entered NATO member Poland."
+    },
+    {
+      "title": "Donald Trump wants Ukraine peace deal by January as he brands Russian missile strike on Poland 'mistake'",
+      "rewrite": "Donald Trump wants Ukraine peace deal by January as he brands Russian missile strike on Poland 'mistake'",
+      "url": "https://www.dailymail.com/news/article-16310391/Trump-Ukraine-peace-deal-January.html?ns_campaign=1490",
+      "source": "Daily Mail",
+      "published": "2026-11-21T11:24:32+11:00",
+      "slot": "featured",
+      "urgent": false,
+      "section": "WORLD",
+      "is_new": false,
+      "summary": "Trump is pressing European leaders to get Kyiv to agree terms with Putin by early in the new year, before he loses control of Congress, according to reports. He appeared to shrug off Russia's strikes on Poland, saying Putin had been 'landing drones in Poland, and a couple of little missiles, by mistake.'"
     },
     {
       "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
@@ -44,18 +56,6 @@
       "section": "MARKETS",
       "is_new": false,
       "summary": "Anthropic's shares slid back toward their initial price after a soaring first day as a wider tech sell-off deepened. By Friday lunchtime the S&P 500 was down more than 2% and the Dow 0.7%, with both indexes touching correction territory, 10% or more below a recent high."
-    },
-    {
-      "title": "Zelenskyy presses US for expanded Russia talks as Kushner announces breakthrough",
-      "rewrite": "Zelenskyy presses US for expanded Russia talks as Kushner announces breakthrough",
-      "url": "https://www.foxnews.com/world/zelenskyy-presses-us-expanded-russia-talks-kushner-announces-breakthrough",
-      "source": "Fox News",
-      "published": "2026-11-20T10:20:13+11:00",
-      "slot": "featured",
-      "urgent": false,
-      "section": "WORLD",
-      "is_new": false,
-      "summary": "At the Coalition of the Willing summit in Berlin, US envoy Jared Kushner said Moscow and Trump had agreed to a multilateral negotiating format that includes Europe. Zelenskyy urged Washington to organise a first team-level meeting with full European participation 'as soon as possible', aiming to keep Kyiv and Europe from being sidelined."
     },
     {
       "title": "Mamdani Launches Plan to Empty and Close Rikers Island Jail",
@@ -73,6 +73,90 @@
   "columns": {
     "left": [
       {
+        "title": "Locals of Michigan city with largest Muslim population in US call El-Sayed election victory 'needed' change",
+        "rewrite": "Locals of Michigan city with largest Muslim population in US call El-Sayed election victory 'needed' change",
+        "url": "https://www.foxnews.com/media/locals-michigan-city-largest-muslim-population-us-call-el-sayed-election-victory-needed-change",
+        "source": "Fox News",
+        "published": "2026-11-21T10:51:50+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Dearborn residents praised Sen.-elect Abdul El-Sayed's win as the first Muslim American elected to the US Senate, telling Fox News Digital that Michigan 'needed a change.' About half the city's population is Muslim."
+      },
+      {
+        "title": "Boebert’s midterm post-mortem: ‘I think it’s all of it’",
+        "rewrite": "Boebert's midterm post-mortem: 'I think it's all of it'",
+        "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4810647/boebert-midterm-post-mortem-after-clashing-with-trump-and-his-last-minute-endorsement/",
+        "source": "Washington Examiner",
+        "published": "2026-11-21T10:40:50+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Outgoing Rep. Lauren Boebert told the AP that Trump administration policies and congressional stagnation cost her Colorado's 4th District seat, saying gas prices and the Iran war opened a rift between the GOP and working-class voters."
+      },
+      {
+        "title": "Mamdani couldn’t explain how NYC-run grocery stores will afford 30% discounts",
+        "rewrite": "Mamdani couldn't explain how NYC-run grocery stores will afford 30% discounts",
+        "url": "https://nypost.com/2026/11/20/us-news/mamdani-couldnt-explain-how-nyc-run-grocery-stores-will-afford-30-discounts/",
+        "source": "New York Post",
+        "published": "2026-11-21T10:09:07+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Mamdani has promised five publicly funded, privately run stores selling staples at an average 30% below retail. City documents show taxpayers would build them, pay rent and property taxes and cover operators' discount losses; experts doubt the pledge."
+      },
+      {
+        "title": "DeSantis shoots down prospect of sitting on Supreme Court",
+        "rewrite": "DeSantis shoots down prospect of sitting on Supreme Court",
+        "url": "https://www.washingtonexaminer.com/news/supreme-court/4810673/ron-desantis-shoots-down-supreme-court-prospect/",
+        "source": "Washington Examiner",
+        "published": "2026-11-21T09:46:34+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "In a New York Times interview published Friday, outgoing Florida Gov. Ron DeSantis said he doesn't want to 'end up a potted plant on the Supreme Court,' saying he prefers to lead as an executive."
+      },
+      {
+        "title": "Supreme Court sitting on emergency petition over Washington’s transgender sports policies",
+        "rewrite": "Supreme Court sitting on emergency petition over Washington's transgender sports policies",
+        "url": "https://www.washingtonexaminer.com/news/supreme-court/4809943/supreme-court-sitting-on-emergency-petition-over-washington-transgender-sports-policies/",
+        "source": "Washington Examiner",
+        "published": "2026-11-21T08:57:48+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Wrestler Kallie Keeler, represented by Alliance Defending Freedom, filed an emergency petition on Oct. 2 asking the justices to halt Washington's policy letting biological males compete in girls' sports, after two lower courts declined. The court has yet to act, a question complicated by a newly passed ballot measure."
+      },
+      {
+        "title": "Poll: Americans Still Say Most Illegal Aliens Should Be Deported; Only 7% Believe All Should Stay",
+        "rewrite": "Poll: Americans Still Say Most Illegal Aliens Should Be Deported; Only 7% Believe All Should Stay",
+        "url": "https://www.breitbart.com/immigration/2026/11/20/poll-americans-still-say-most-illegal-aliens-should-be-deported-only-7-believe-all-should-stay/",
+        "source": "Breitbart",
+        "published": "2026-11-21T08:35:48+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "An Economist/YouGov post-midterm survey found 51% say most illegal immigrants should be deported (23% all immediately, 28% most with exceptions), while 41% say only those who committed serious crimes should be, and 7% say all should stay."
+      },
+      {
+        "title": "Iran takes pointed jab at Trump Cabinet secretary for moving onto military base",
+        "rewrite": "Iran takes pointed jab at Trump Cabinet secretary for moving onto military base",
+        "url": "https://www.foxnews.com/politics/iran-takes-pointed-jab-trump-cabinet-secretary-moving-military-base",
+        "source": "Fox News",
+        "published": "2026-11-21T07:36:05+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Iran's embassy in South Africa mocked Treasury Secretary Scott Bessent as 'sweetie' on X after reports he moved from his Washington home onto a military base amid security threats attributed to Tehran. He is the latest senior Trump official to relocate behind military gates."
+      },
+      {
         "title": "Hawley leaves door open to 2028 presidential campaign after previously ruling out bid",
         "rewrite": "Hawley leaves door open to 2028 presidential campaign after previously ruling out bid",
         "url": "https://www.washingtonexaminer.com/news/campaigns/presidential/4810140/hawley-leave-door-open-2028-presidential-campaign/",
@@ -81,7 +165,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Sen. Josh Hawley said Thursday he is considering a 2028 White House bid. In September he told the Washington Examiner he had 'no intention of doing so, period.' A run could pit him against JD Vance and Marco Rubio."
       },
       {
@@ -93,7 +177,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "A swing California county's voter registration office faces congressional scrutiny after an investigative report found local election officials used taxpayer resources specifically to turn out Democratic voters for the 2026 midterms."
       },
       {
@@ -105,7 +189,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "A review of photos and video by Crain's New York Business found the NYPD's Strategic Response Group arrested Mamdani at least twice between 2021 and 2024, including at a June 2024 rent protest at Hunter College. He has now disbanded the unit, as he promised during his campaign."
       },
       {
@@ -117,7 +201,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Republican Nick Begich held Alaska's only House seat with about 51.4% of the vote to 48.7% for Democratic-endorsed independent Bill Hill, one of the last midterm races called. Some on the left blame a spoiler candidate who ran as a Democrat and has never visited Alaska."
       },
       {
@@ -129,7 +213,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Van Hollen scores support from another Dem amid Senate majority leader bid",
@@ -140,7 +224,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Sen. Elissa Slotkin said she will back Sen. Chris Van Hollen for the Senate Democratic leadership role as he challenges Chuck Schumer."
       },
       {
@@ -432,78 +516,6 @@
         "summary": "Asked about reports of an Iranian 'dirty bomb' threat to Washington, Trump told Fox News there is 'indication that Iran is looking at gasses, looking at bio' and hinted at something after January 1. Rubio, Hegseth, Blanche, Bessent and Stephen Miller are reported to have moved onto a military base in Washington over the threats."
       },
       {
-        "title": "Mayor of US city with largest Muslim population calls El-Sayed's election 'an American story'",
-        "rewrite": "Mayor of US city with largest Muslim population calls El-Sayed's election 'an American story'",
-        "url": "https://www.foxnews.com/media/mayor-us-city-largest-muslim-population-calls-el-sayed-election-an-american-story",
-        "source": "Fox News",
-        "published": "2026-11-19T13:10:24+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Dearborn's mayor praised Sen. Abdul El-Sayed, the first Muslim American elected to the Senate, calling his win a truly American story."
-      },
-      {
-        "title": "Mamdani grilled on rhetoric toward Oct 7, combating antisemitism as Jewish New Yorkers fear current climate",
-        "rewrite": "Mamdani grilled on rhetoric toward Oct 7, combating antisemitism as Jewish New Yorkers fear current climate",
-        "url": "https://www.foxnews.com/media/mamdani-grilled-rhetoric-oct-7-combatting-antisemitism-jewish-new-yorkers-fear-current-climate",
-        "source": "Fox News",
-        "published": "2026-11-19T12:49:06+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "At the New York Times DealBook Summit, Mamdani defended his Oct. 7 post on X, telling Andrew Ross Sorkin there must be room to mourn everyone."
-      },
-      {
-        "title": "Elon Musk makes incredible U-turn on MAGA while admitting he regrets spending 'foolish' $445 million on midterms",
-        "rewrite": "Elon Musk makes incredible U-turn on MAGA while admitting he regrets spending 'foolish' $445 million on...",
-        "url": "https://www.dailymail.com/news/article-16304273/Elon-Musk-MAGA-regrets-spending.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-19T11:36:06+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Only about three of the roughly 40 Republican House candidates Musk backed with more than $445m won their races, and he now says he regrets some of the spending."
-      },
-      {
-        "title": "Mamdani’s superfan ‘nightlife director’ is an amateur raver who was busted for illegal warehouse rager",
-        "rewrite": "Mamdani's superfan 'nightlife director' is an amateur raver who was busted for illegal warehouse rager",
-        "url": "https://nypost.com/2026/11/18/us-news/mamdanis-nightlife-director-is-a-raving-mam-man-who-threw-illegal-warehouse-rager/",
-        "source": "New York Post",
-        "published": "2026-11-19T09:18:17+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Eric Thor was named head of New York City's Office of Nightlife last week."
-      },
-      {
-        "title": "Karoline Leavitt issues ominous warning to Republicans about AOC as she eyes 2028 run",
-        "rewrite": "Karoline Leavitt issues ominous warning to Republicans about AOC as she eyes 2028 run",
-        "url": "https://www.dailymail.com/news/us-politics/article-16303931/Karoline-Leavitt-issues-ominous-warning-Republicans-AOC-eyes-2028-run.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-19T08:53:50+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "The White House press secretary said Republicans should not underestimate Alexandria Ocasio-Cortez as a potential 2028 presidential candidate."
-      },
-      {
-        "title": "Shiloh Hendrix vows to take case to Supreme Court if Minnesota Appeals Court rejects it after conviction for calling Somali n-word in park",
-        "rewrite": "Shiloh Hendrix vows to take case to Supreme Court if Minnesota Appeals Court rejects it after conviction...",
-        "url": "https://thepostmillennial.com/news/shiloh-hendrix-vows-to-take-case-to-supreme-court-if-minnesota-appeals-court-rejects-it-after",
-        "source": "The Post Millennial",
-        "published": "2026-11-19T08:23:28+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Her lawyers say they are prepared to take the case all the way to the US Supreme Court if the Minnesota appeals court rules against her."
-      },
-      {
         "title": "America's largest IPO ever carries potentially seismic implications for political spending ahead of 2028",
         "rewrite": "America's largest IPO ever carries potentially seismic implications for political spending ahead of 2028",
         "url": "https://www.foxnews.com/politics/americas-largest-ipo-carries-seismic-implications-political-spending-ahead-2028",
@@ -512,7 +524,7 @@
         "slot": "column",
         "urgent": false,
         "section": "BUSINESS",
-        "is_new": true,
+        "is_new": false,
         "summary": "Anthropic debuted at a $1.5 trillion valuation, and its seven co-founders have each pledged to give away 80% of their equity."
       },
       {
@@ -531,6 +543,30 @@
     ],
     "center": [
       {
+        "title": "Russia open to ‘NATO-like’ status for Ukraine — but only if Putin can keep captured territory: US official",
+        "rewrite": "Russia open to 'NATO-like' status for Ukraine — but only if Putin can keep captured territory: US official",
+        "url": "https://nypost.com/2026/11/20/us-news/russia-open-to-nato-like-status-for-ukraine-but-only-if-putin-can-keep-captured-territory-us-official-2/",
+        "source": "New York Post",
+        "published": "2026-11-21T09:50:36+11:00",
+        "slot": "column",
+        "urgent": true,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "A US official said Moscow has signalled it is 'OK' with Ukraine receiving protections similar to NATO's Articles 4 and 5, provided Russia keeps the territory it has captured. The aim would be to get Ukraine 'as close to NATO as possible without the brand.'"
+      },
+      {
+        "title": "Trump: Iran Wants Deal but Not One He’ll Accept — Demands ‘Real Deal,’ Slams 51 Years of ‘Bullsh–ting’",
+        "rewrite": "Trump: Iran Wants Deal but Not One He'll Accept — Demands 'Real Deal,' Slams 51 Years of 'Bullsh–ting'",
+        "url": "https://www.breitbart.com/politics/2026/11/20/trump-iran-wants-deal-but-not-one-hell-accept-demands-real-deal-slams-51-years-of-bullsh-ting/",
+        "source": "Breitbart",
+        "published": "2026-11-21T08:33:04+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "Trump said Friday that Iran wants a deal but not one acceptable to him, accusing Tehran of stringing people along for 51 years. The remarks followed new talks between US envoys and Qatari mediators as Washington keeps its naval blockade of Iran and weighs more strikes."
+      },
+      {
         "title": "Iran Rebuffs United Front Against It at Trump-Xi-Putin Summit",
         "rewrite": "Iran Rebuffs United Front Against It at Trump-Xi-Putin Summit",
         "url": "https://www.breitbart.com/middle-east/2026/11/20/iran-rebuffs-united-front-against-it-at-trump-xi-putin-summit/",
@@ -539,7 +575,7 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "summary": "Senior Iranian officials tried to frame the Trump-Xi-Putin summit as a win for Iran, contrary to the leaders' joint statement."
       },
       {
@@ -553,6 +589,18 @@
         "section": "WORLD",
         "is_new": false,
         "summary": "Trump dialled into the Coalition of the Willing meeting in Berlin from Air Force One, shortly after his summit with Putin and Xi, and told European leaders to stop funding Ukraine, GB News reports. Chuck Schumer called it 'a historic embarrassment'."
+      },
+      {
+        "title": "Zelenskyy presses US for expanded Russia talks as Kushner announces breakthrough",
+        "rewrite": "Zelenskyy presses US for expanded Russia talks as Kushner announces breakthrough",
+        "url": "https://www.foxnews.com/world/zelenskyy-presses-us-expanded-russia-talks-kushner-announces-breakthrough",
+        "source": "Fox News",
+        "published": "2026-11-20T10:20:13+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": false,
+        "summary": "At the Coalition of the Willing summit in Berlin, US envoy Jared Kushner said Moscow and Trump had agreed to a multilateral negotiating format that includes Europe. Zelenskyy urged Washington to organise a first team-level meeting with full European participation 'as soon as possible', aiming to keep Kyiv and Europe from being sidelined."
       },
       {
         "title": "Iran regime's execution spree continues as twins face death penalty, decades in prison after alleged torture",
@@ -579,40 +627,28 @@
         "summary": "'We're going to have a new year coming up, and we'll see what happens after Jan. 1. But they've been nasty,' Trump told Fox News during his China trip."
       },
       {
-        "title": "Trump blasts Vance-negotiated Iran deal as a ‘waste of time’",
-        "rewrite": "Trump blasts Vance-negotiated Iran deal as a 'waste of time'",
-        "url": "https://nypost.com/2026/11/18/us-news/trump-blasts-vance-negotiated-iran-deal-as-a-waste-of-time/",
-        "source": "New York Post",
-        "published": "2026-11-19T12:54:29+11:00",
+        "title": "Trump, Xi and Putin release joint statement after historic talks",
+        "rewrite": "Trump, Xi and Putin release joint statement after historic talks",
+        "url": "https://www.abc.net.au/news/2026-11-19/albanese-tells-putin-to-end-ukraine-war-now/107406348",
+        "source": "ABC News Australia",
+        "published": "2026-11-19T20:36:33+11:00",
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
         "is_new": false,
-        "summary": "Speaking to Fox News in China, Trump said the memorandum of understanding Vance negotiated with Iran in June 'delayed things' but 'wasn't a mistake', adding: 'I never believe too much in memorandums.' The pact fell apart in July after Iranian attacks on commercial ships. Trump said he would fight the war again and that Vance is doing 'a very good job'."
+        "summary": "The leaders met for about 90 minutes on the APEC sidelines in Shenzhen. China's CCTV readout made no mention of Ukraine but said bodies like the International Criminal Court should not abuse their jurisdiction; Putin faces an ICC warrant. They also pledged to cut nuclear risks. Hours earlier Albanese told Putin to end the war 'now'."
       },
       {
-        "title": "Trump ‘serious’ about desire to meet with Kim Jong Un in China. Rubio says ‘talking’ to enemies never a ‘concession’",
-        "rewrite": "Trump 'serious' about desire to meet with Kim Jong Un in China. Rubio says 'talking' to enemies never a...",
-        "url": "https://www.washingtonexaminer.com/news/world/4807293/trump-serious-desire-meet-kim-jong-un-china/",
-        "source": "Washington Examiner",
-        "published": "2026-11-19T09:35:43+11:00",
+        "title": "One Nation lands $25k donation from Tasmanian salmon company",
+        "rewrite": "One Nation lands $25k donation from Tasmanian salmon company",
+        "url": "https://www.abc.net.au/news/2026-11-21/salmon-farm-owner-lobbyist-donate-big-one-nation-tasmania/107407728",
+        "source": "ABC News Australia",
+        "published": "2026-11-21T08:19:08+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "Trump joins a trilateral meeting with Xi Jinping and Vladimir Putin in China on Thursday, plus a separate one-on-one with Putin. A meeting with North Korea's Kim Jong Un remains unconfirmed."
-      },
-      {
-        "title": "US races to build bunkers across Middle East as Iranian strikes threaten American troops",
-        "rewrite": "US races to build bunkers across Middle East as Iranian strikes threaten American troops",
-        "url": "https://www.foxnews.com/world/us-races-build-bunkers-across-middle-east-iranian-strikes-threaten-american-troops",
-        "source": "Fox News",
-        "published": "2026-11-19T08:18:28+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "An Army procurement notice calls for 17 reinforced concrete bunkers, 10 in Israel, five in Saudi Arabia and two in Lebanon, to replace converted shipping containers. Iranian attacks have killed at least 23 US service members since the war began in late February, and Iran claimed its third strike on a US base in Bahrain in five days on Tuesday."
+        "section": "AUSTRALIA",
+        "is_new": true,
+        "summary": "The gifts are the largest received by a political party in Tasmania since new disclosure rules took effect last year. One Nation in Tasmania is led by Lee Hanson, daughter of founder Pauline Hanson."
       },
       {
         "title": "Adelaide father and son found guilty of stabbing murder",
@@ -690,16 +726,16 @@
         "summary": "While Albanese attends global summits, his government faces a Senate grilling over budget measures it is trying to pass."
       },
       {
-        "title": "Anthony Albanese poses alongside Vladimir Putin at APEC summit despite pleas from Australia's Ukrainian community",
-        "rewrite": "Anthony Albanese poses alongside Vladimir Putin at APEC summit despite pleas from Australia's Ukrainian...",
-        "url": "https://www.dailymail.com/news/article-16303835/albanese-putin-photo-china-summit-ukraine.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-19T09:35:07+11:00",
+        "title": "Seat by seat, these are the major election issues in regional Victoria",
+        "rewrite": "Seat by seat, these are the major election issues in regional Victoria",
+        "url": "https://www.abc.net.au/news/2026-11-21/victorian-election-regional-voters-issues-seat-by-seat/107390056",
+        "source": "ABC News Australia",
+        "published": "2026-11-21T07:46:42+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "summary": "The Prime Minister appeared alongside the Russian president in a group photo of world leaders at the APEC summit in Shenzhen, China."
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "With a week left in the Victorian election campaign, renewables projects, hospitals and the state of roads are the issues on regional voters' minds."
       },
       {
         "title": "Secret briefings reveal warnings about Labor’s ‘ruthless’ data centre pursuit",
@@ -710,7 +746,7 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "As the Victorian government courted billions of dollars in data centre investment, its top energy officials warned in briefings that the push threatened the state's power grid."
       },
       {
@@ -750,18 +786,6 @@
         "summary": "Someone gained unauthorised entry to a Richmond voting centre, and the ballots there have been isolated. The Victorian Electoral Commission says there is no suggestion the integrity of the vote has been compromised."
       },
       {
-        "title": "Finks bikie boss warned of murder plot as gang division simmers",
-        "rewrite": "Finks bikie boss warned of murder plot as gang division simmers",
-        "url": "https://www.theage.com.au/national/victoria/finks-bikie-boss-warned-of-murder-plot-as-gang-division-simmers-20261120-p61ewy.html?ref=rss",
-        "source": "The Age",
-        "published": "2026-11-20T05:50:00+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "Mark Balsillie has been told a contract is out on his life as police step up pressure on the gang over a drive-by shooting at an aged care facility."
-      },
-      {
         "title": "Anthropic co-founder to make ‘large gift’ to Trump’s investment accounts for kids after record IPO: Bessent",
         "rewrite": "Anthropic co-founder to make 'large gift' to Trump's investment accounts for kids after record IPO: Bessent",
         "url": "https://nypost.com/2026/11/20/business/anthropic-co-founder-to-make-large-gift-to-trumps-investment-accounts-for-kids-after-record-ipo-bessent/",
@@ -770,7 +794,7 @@
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": true,
+        "is_new": false,
         "summary": "Treasury Secretary Scott Bessent told CNBC that one of Anthropic's founders will make 'a large gift' to Trump Accounts for children over the next few weeks."
       },
       {
@@ -782,7 +806,7 @@
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": true,
+        "is_new": false,
         "summary": "OnChain Lens tracked nearly $600 million in ETH moved over two days as the hackers shifted the stolen funds through fresh wallets and cross-chain protocols to hide the trail."
       },
       {
@@ -794,7 +818,7 @@
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": true,
+        "is_new": false,
         "summary": "ARK Invest bought $90 million of Anthropic stock across six funds during its Nasdaq debut, while selling Nvidia shares amid that company's leadership turmoil."
       },
       {
@@ -856,7 +880,7 @@
         "slot": "column",
         "urgent": false,
         "section": "UK",
-        "is_new": true,
+        "is_new": false,
         "summary": "Two men charged over a fake bomb alert outside RAF Fairford, allegedly on Iran's orders, will deny wrongdoing and face trial next year, a court heard."
       },
       {
@@ -896,16 +920,28 @@
         "is_new": false
       },
       {
-        "title": "Council worker removed protest flags from proposed migrant camp in dead of night",
-        "rewrite": "Council worker removed protest flags from proposed migrant camp in dead of night",
-        "url": "https://www.dailymail.com/news/article-16302253/Council-worker-removed-protest-flags-proposed-migrant-camp-dead-night.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-19T13:08:10+11:00",
+        "title": "Donald Trump could put billions of UK investment on ice with vow to punish tech giants for overseas data centres",
+        "rewrite": "Donald Trump could put billions of UK investment on ice with vow to punish tech giants for overseas data...",
+        "url": "https://www.gbnews.com/politics/us/donald-trump-data-centres-uk-investment",
+        "source": "GB News",
+        "published": "2026-11-21T09:34:36+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "UK",
-        "is_new": false,
-        "summary": "Protesters have gathered for months outside RAF Barnham in Suffolk, where the Home Office plans to house up to 1,000 asylum seekers. The flags went up in June."
+        "section": "TECHNOLOGY",
+        "is_new": true,
+        "summary": "Trump said tech firms that build large AI data centres in other countries would face a 'tremendous tax', a threat that could stall billions in planned UK investment."
+      },
+      {
+        "title": "Tech outage cascade exposes US vulnerabilities to foreign cyber threats",
+        "rewrite": "Tech outage cascade exposes US vulnerabilities to foreign cyber threats",
+        "url": "https://www.foxnews.com/politics/tech-outage-cascade-exposes-us-vulnerabilities-foreign-cyber-threats",
+        "source": "Fox News",
+        "published": "2026-11-21T06:23:24+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "TECHNOLOGY",
+        "is_new": true,
+        "summary": "Six days of outages have hit Microsoft 365, banks and the NSA's network. Administration officials have ruled out a coordinated cyberattack, but security experts say the failures show how damaging infrastructure disruption could be in a conflict."
       },
       {
         "title": "Hackers use Microsoft Outlook security flaw to steal your login data",
@@ -916,7 +952,7 @@
         "slot": "column",
         "urgent": false,
         "section": "TECHNOLOGY",
-        "is_new": true,
+        "is_new": false,
         "summary": "The flaw, CVE-2026-124194, lets a malicious .msg file expose NTLMv2 authentication data, and Microsoft confirms hackers have already exploited it."
       },
       {
@@ -991,16 +1027,28 @@
         "summary": "Stablecoins made up at least $3.46 billion of the $6.3 billion stolen; the hackers also took memecoins, tokenised gold and gaming tokens."
       },
       {
-        "title": "President Trump downplays panic over tech outages: ‘Nobody’s going to play games with us’",
-        "rewrite": "President Trump downplays panic over tech outages: 'Nobody's going to play games with us'",
-        "url": "https://www.foxnews.com/media/president-trump-downplays-panic-tech-outages-nobody-going-play-games-us",
-        "source": "Fox News",
-        "published": "2026-11-19T13:22:49+11:00",
+        "title": "E.J. Carroll, ‘Law & Order,’ ‘GTA 5’ and ‘Blue Bloods’ Actor, Dies at 66",
+        "rewrite": "E.J. Carroll, 'Law & Order,' 'GTA 5' and 'Blue Bloods' Actor, Dies at 66",
+        "url": "https://variety.com/2026/tv/news/e-j-carroll-dead-the-deuce-1236954725/",
+        "source": "Variety",
+        "published": "2026-11-21T11:17:59+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false,
-        "summary": "Trump urged Americans to 'relax' over the FAA and Microsoft outages and warned that any country targeting US systems would be hit hard."
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "Carroll died suddenly on Thursday, his rep told Variety; no cause of death has been given. His nearly 30-year career included 'The Deuce,' 'Law & Order,' 'Grand Theft Auto V' and Darren Aronofsky's 'The Wrestler.'"
+      },
+      {
+        "title": "CMA Awards See a 55% Ratings Bump in Key Adult Demo With Taylor Swift’s Return to the Show",
+        "rewrite": "CMA Awards See a 55% Ratings Bump in Key Adult Demo With Taylor Swift's Return to the Show",
+        "url": "https://variety.com/2026/music/news/cma-awards-taylor-swift-big-ratings-increase-1236954677/",
+        "source": "Variety",
+        "published": "2026-11-21T10:21:58+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "With Taylor Swift performing at the CMA Awards for the first time in 13 years, the 60th telecast was up 26% in total viewers and 55% among adults 18-49 on last year."
       },
       {
         "title": "‘Home Alone’ Reboot in the Works at Disney from Macaulay Culkin, Seth Rogen and Evan Goldberg",
@@ -1011,7 +1059,7 @@
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
+        "is_new": false,
         "summary": "The project is in early development at Disney, with Seth Rogen and Evan Goldberg shaping the script alongside original star Macaulay Culkin and producing through their Point Grey banner. Plot and casting are under wraps."
       },
       {
@@ -1023,7 +1071,7 @@
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
+        "is_new": false,
         "summary": "Written and directed by Markus Lehmusruusu, the film is Finland's international feature Oscar entry: a futuristic drama about a designer of artificial animals whose ordered world is upended when he finds a living squirrel."
       },
       {
@@ -1109,56 +1157,20 @@
         "section": "ENTERTAINMENT",
         "is_new": false,
         "summary": "Diane Warren was also among the 2026 HMMA winners."
-      },
-      {
-        "title": "Taylor Swift Performs ‘I Knew It, I Knew You’ and ‘Our Song’ Mashup at CMA Awards",
-        "rewrite": "Taylor Swift Performs 'I Knew It, I Knew You' and 'Our Song' Mashup at CMA Awards",
-        "url": "https://variety.com/2026/music/news/taylor-swift-performs-i-knew-it-i-knew-you-our-song-cmas-1236952619/",
-        "source": "Variety",
-        "published": "2026-11-19T13:29:00+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "It was Swift's first performance at the Country Music Association Awards in 13 years."
-      },
-      {
-        "title": "Los Angeles film industry crisis sees dire update in new report",
-        "rewrite": "Los Angeles film industry crisis sees dire update in new report",
-        "url": "https://nypost.com/2026/11/18/us-news/la-film-industry-sees-massive-production-job-cuts-since-2019-report/",
-        "source": "New York Post",
-        "published": "2026-11-19T11:39:01+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "Los Angeles County's share of US streaming series production fell from 34.6% in 2019 to 23.6% in 2025, according to the report."
-      },
-      {
-        "title": "As U.S. Infrastructure Crumbles, ABC’s ‘World News Tonight’ Posts Highest Week-Long Daily Ratings Since COVID",
-        "rewrite": "As U.S. Infrastructure Crumbles, ABC's 'World News Tonight' Posts Highest Week-Long Daily Ratings Since COVID",
-        "url": "https://variety.com/2026/tv/news/abc-world-news-tonight-ratings-best-since-covid-1236952295/",
-        "source": "Variety",
-        "published": "2026-11-19T08:24:55+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "Last week's run of news, including the Microsoft Outlook outage and the nationwide grounding of flights, gave ABC's evening newscast its biggest week-long daily audiences since the Covid era."
       }
     ]
   },
-  "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Russian_Attack_Kyiv_Nov_2026.jpg",
+  "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/vance-and-trump-in-white-house.jpg",
   "counts": {
-    "total": 94,
+    "total": 95,
     "featured": 4,
     "columns": {
-      "left": 38,
-      "center": 26,
-      "right": 25
+      "left": 39,
+      "center": 27,
+      "right": 24
     },
     "feeds_ok": 44,
     "feeds_failed": 6
   },
-  "image_source_url": "https://www.foxnews.com/world/putin-launches-ukraine-barrage-hours-after-trump-meeting-amid-alleged-russian-missile-breach-nato-airspace"
+  "image_source_url": "https://www.foxnews.com/politics/trump-responds-vance-blames-iran-war-midterm-losses-vp-says-job-support-president"
 }

@@ -2,36 +2,36 @@
   "title": "THE NEWS REPORT",
   "generated": {
     "date": "Sunday, 22 November 2026",
-    "display": "Sunday, November 22, 2026  12:26 PM AEDT (Australia/Sydney)",
-    "iso": "2026-11-22T12:26:32.524195+11:00",
-    "time": "12:26 PM AEDT",
+    "display": "Sunday, November 22, 2026  6:20 PM AEDT (Australia/Sydney)",
+    "iso": "2026-11-22T18:20:00.687458+11:00",
+    "time": "6:20 PM AEDT",
     "timezone": "Australia/Sydney"
   },
   "lean": "centre-right",
   "top": {
-    "title": "Russia-bound ship attacked in Gulf of Finland",
-    "rewrite": "Russia-bound ship attacked in Gulf of Finland",
-    "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
-    "source": "BBC News",
-    "published": "2026-11-22T05:22:09+11:00",
+    "title": "Report: Trump Favors Economic Stranglehold on Iran Over Renewed Major Strikes",
+    "rewrite": "Report: Trump Favors Economic Stranglehold on Iran Over Renewed Major Strikes",
+    "url": "https://www.breitbart.com/politics/2026/11/21/report-trump-favors-economic-stranglehold-on-iran-over-renewed-major-strikes/",
+    "source": "Breitbart",
+    "published": "2026-11-22T15:18:22+11:00",
     "slot": "top",
     "urgent": false,
     "section": "WORLD",
     "is_new": false,
-    "summary": "The Sparta II, a US-sanctioned cargo ship bound for Kaliningrad, caught fire after a drone strike on Saturday and drifted into Finnish waters. Finland's defence forces said Ukraine was likely behind it; PM Petteri Orpo said 'war is spilling over into our immediate vicinity.' Finland also suspects a Russian helicopter violated its airspace."
+    "summary": "Of four options put to him (a deal, a new major offensive, limited strikes or more economic pressure), Trump favours tightening the economic squeeze on Iran, Israel Hayom reported, citing three diplomatic sources. That means keeping the naval blockade and pressing Gulf states to shut Iranian oil-smuggling routes through Iraq."
   },
   "featured": [
     {
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
-      "rewrite": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "rewrite": "Russia-bound ship attacked in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
       "source": "BBC News",
-      "published": "2026-11-21T11:53:00+00:00",
+      "published": "2026-11-22T05:22:09+11:00",
       "slot": "featured",
       "urgent": false,
       "section": "WORLD",
       "is_new": false,
-      "summary": "Zelensky told the BBC the strikes answer 109 Russian attacks on Ukrainian bridges, rejecting Putin's claim the bridge is 'exclusively civilian' and pointing to images of Russian tanks using it. This week's Ukrainian strikes destroyed the bridge's central road section. UK minister Wes Streeting said he came to Kyiv to show Europe is united behind Ukraine."
+      "summary": "The Sparta II, a US-sanctioned cargo ship bound for Kaliningrad, caught fire after a drone strike on Saturday and drifted into Finnish waters. Finland's defence forces said Ukraine was likely behind it; PM Petteri Orpo said 'war is spilling over into our immediate vicinity.' Finland also suspects a Russian helicopter violated its airspace."
     },
     {
       "title": "Trump on credit card interest rate cap: ‘I would do it’",
@@ -46,6 +46,18 @@
       "summary": "Asked on Fox's 'Saturday in America' whether the one-year 10% cap on credit card interest rates he floated in January could be a deal with Democrats, Trump said 'I would do it.' Leading Democratic figures also back a cap."
     },
     {
+      "title": "NYC suspect in Chinatown fatal beating had 5 open cases as Mamdani pushes plan to close Rikers",
+      "rewrite": "NYC suspect in Chinatown fatal beating had 5 open cases as Mamdani pushes plan to close Rikers",
+      "url": "https://www.foxnews.com/us/nyc-suspect-chinatown-fatal-beating-5-open-cases-mamdani-pushes-plan-close-rikers",
+      "source": "Fox News",
+      "published": "2026-11-22T12:10:23+11:00",
+      "slot": "featured",
+      "urgent": false,
+      "section": "US",
+      "is_new": false,
+      "summary": "Alexander Florentino, 25, is charged with murder after a 62-year-old woman was beaten to death in Manhattan's Chinatown on Friday. Court records show he had five open cases, including three November arrests, and was due in court on Dec. 14. It came as Mayor Mamdani unveiled a plan to close Rikers by 2032."
+    },
+    {
       "title": "Amazon urges NYC residents to call their officials as $3T company threatens to impose $5 delivery fees in the Big Apple as fight with Mamdani escalates",
       "rewrite": "Amazon urges NYC residents to call their officials as $3T company threatens to impose $5 delivery fees in...",
       "url": "https://www.dailymail.com/news/article-16311545/amazon-nyc-delivery-protection-act-fees-officials.html?ns_campaign=1490",
@@ -56,22 +68,22 @@
       "section": "US",
       "is_new": false,
       "summary": "Pop-ups on Amazon's site tell New Yorkers the city council 'could add up to $5 per order' and urge them to lobby against the Delivery Protection Act, which would require firms to get licences and hire drivers directly. Mamdani and a council majority back the bill, which could pass before year's end."
-    },
-    {
-      "title": "Trump says Vance, Rubio are 'doing fantastically' ahead of 2028 Republican presidential primary",
-      "rewrite": "Trump says Vance, Rubio are 'doing fantastically' ahead of 2028 Republican presidential primary",
-      "url": "https://www.foxnews.com/politics/trump-says-vance-rubio-doing-fantastically-ahead-2028-republican-presidential-primary",
-      "source": "Fox News",
-      "published": "2026-11-22T03:56:14+11:00",
-      "slot": "featured",
-      "urgent": false,
-      "section": "US",
-      "is_new": false,
-      "summary": "Asked by Kayleigh McEnany on Fox's 'Saturday in America' about 2028, Trump called Vance and Rubio 'both very, very popular.' On the Democratic side he said Kamala Harris was doing 'pretty well,' praised AOC, and predicted the nominee may be 'somebody that nobody ever heard of.'"
     }
   ],
   "columns": {
     "left": [
+      {
+        "title": "Furious Trump was 'all set to fire' another top official after his humiliating Epstein island confession… until a $25million donation 'helped change his mind'",
+        "rewrite": "Furious Trump was 'all set to fire' another top official after his humiliating Epstein island confession…...",
+        "url": "https://www.dailymail.com/news/article-16312603/Howard-Lutnick-Trump-survivor-Epstein.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-22T17:46:06+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "The official is Commerce Secretary Howard Lutnick, who the Daily Mail says narrowly avoided being fired after his ties to Jeffrey Epstein were revealed. The report comes amid questions over Trump's cabinet after the midterm losses."
+      },
       {
         "title": "Heartbroken widow of Brooklyn building collapse victim blasts city at vigil: ‘Failed to do their job’",
         "rewrite": "Heartbroken widow of Brooklyn building collapse victim blasts city at vigil: 'Failed to do their job'",
@@ -81,7 +93,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Families of those killed in the deadly Brooklyn building collapse turned on city officials at a vigil at the site on Saturday, with one widow saying the city 'failed to do their job.'"
       },
       {
@@ -93,7 +105,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Michigan's Democratic senator-elect Abdul El-Sayed has pitched a universal healthcare plan branded 'TrumpCare', even using a fake gold card on November 12 to try to win the president over. Trump has now appeared to back the idea."
       },
       {
@@ -105,7 +117,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Sen. Chris Van Hollen is using Schumer's past opposition to the Iran nuclear deal in his bid to replace the New York Democrat as Senate majority leader in the new Congress."
       },
       {
@@ -117,7 +129,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Mayor Zohran Mamdani's plan to close Rikers would expand a little-known program that pays New Yorkers to house family members returning from jail."
       },
       {
@@ -131,6 +143,18 @@
         "section": "US",
         "is_new": false,
         "summary": "The infestation at the NYPD's 911 call centre in Brooklyn has sent staff home to work and forced the department to pull uniformed officers off the streets to help answer calls."
+      },
+      {
+        "title": "Trump says Vance, Rubio are 'doing fantastically' ahead of 2028 Republican presidential primary",
+        "rewrite": "Trump says Vance, Rubio are 'doing fantastically' ahead of 2028 Republican presidential primary",
+        "url": "https://www.foxnews.com/politics/trump-says-vance-rubio-doing-fantastically-ahead-2028-republican-presidential-primary",
+        "source": "Fox News",
+        "published": "2026-11-22T03:56:14+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": false,
+        "summary": "Asked by Kayleigh McEnany on Fox's 'Saturday in America' about 2028, Trump called Vance and Rubio 'both very, very popular.' On the Democratic side he said Kamala Harris was doing 'pretty well,' praised AOC, and predicted the nominee may be 'somebody that nobody ever heard of.'"
       },
       {
         "title": "Rail safety legislation within reach for Senate Democrats after midterm blue tsunami",
@@ -408,18 +432,6 @@
         "summary": "At a marathon White House press conference, Trump floated adviser Stephen Miller as his successor while JD Vance and Marco Rubio stood behind him. 'He was better than these two guys,' Trump said."
       },
       {
-        "title": "Hasan Piker claims the far-left is worse off because Dems dominated 2026 midterms",
-        "rewrite": "Hasan Piker claims the far-left is worse off because Dems dominated 2026 midterms",
-        "url": "https://nypost.com/2026/11/19/media/hasan-piker-claims-the-far-left-is-worse-off-because-dems-dominated-2026-midterms/",
-        "source": "New York Post",
-        "published": "2026-11-20T14:37:02+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Far-left streamer Hasan Piker argued that Democrats' big midterm win weakened progressives' leverage, saying a 40-seat margin means the party no longer needs to make far-left concessions."
-      },
-      {
         "title": "Honda, Toyota recall 1.6 million US vehicles over airbag rupture risk",
         "rewrite": "Honda, Toyota recall 1.6 million US vehicles over airbag rupture risk",
         "url": "https://www.abc.net.au/news/2026-11-21/honda-toyota-recall-vehicles-over-takata-airbag-rupture-risk/107412768",
@@ -466,7 +478,7 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "summary": "A 7-year-old boy and a 20-year-old woman were killed and 60 people wounded, six of them children, in a Friday-night strike on Kryvyi Rih, local officials said. The attack started four fires and damaged about 25 apartment buildings, a hospital and schools."
       },
       {
@@ -514,6 +526,18 @@
         "urgent": false,
         "section": "WORLD",
         "is_new": false
+      },
+      {
+        "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
+        "rewrite": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
+        "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo",
+        "source": "BBC News",
+        "published": "2026-11-21T11:53:00+00:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": false,
+        "summary": "Zelensky told the BBC the strikes answer 109 Russian attacks on Ukrainian bridges, rejecting Putin's claim the bridge is 'exclusively civilian' and pointing to images of Russian tanks using it. This week's Ukrainian strikes destroyed the bridge's central road section. UK minister Wes Streeting said he came to Kyiv to show Europe is united behind Ukraine."
       },
       {
         "title": "Donald Trump wants Ukraine peace deal by January as he brands Russian missile strike on Poland 'mistake'",
@@ -588,6 +612,30 @@
         "summary": "'I actually asked him, I said, \"Would you have gone in if I was president?\" He said, \"No, would have never happened,\"' Trump told reporters at the White House on Friday, as European critics hit out at him for calling Putin a 'friend.'"
       },
       {
+        "title": "'One-in-2,000-year weather' to be investigated post-blackout",
+        "rewrite": "'One-in-2,000-year weather' to be investigated post-blackout",
+        "url": "https://www.abc.net.au/news/2026-11-22/eyre-peninsula-blackout-weather-to-be-investigated/107404306",
+        "source": "ABC News Australia",
+        "published": "2026-11-22T17:06:26+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "AUSTRALIA",
+        "is_new": true,
+        "summary": "The SA government says ElectraNet's claim that 'one-in-2,000-year weather' likely caused the Eyre Peninsula blackout will be examined in its investigation. Power to the peninsula and West Coast was cut on Thursday when two transmission towers collapsed."
+      },
+      {
+        "title": "Spirit of Tasmania operator told not to use autopilot for entire voyage",
+        "rewrite": "Spirit of Tasmania operator told not to use autopilot for entire voyage",
+        "url": "https://www.abc.net.au/news/2026-11-22/spirit-of-tasmania-ferries-unable-to-use-autopilot/107414328",
+        "source": "ABC News Australia",
+        "published": "2026-11-22T16:11:45+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "AUSTRALIA",
+        "is_new": true,
+        "summary": "The Australian Maritime Safety Authority has ordered TT-Line to keep both new Spirit of Tasmania ferries in hand steering for the whole Bass Strait crossing while it probes an 'intermittent fault' in Spirit IV's steering system."
+      },
+      {
         "title": "One Nation rules out deal with Coalition in NSW",
         "rewrite": "One Nation rules out deal with Coalition in NSW",
         "url": "https://www.abc.net.au/news/2026-11-22/no-coalition-with-coalition-for-nsw-one-nation-mike-newman-says/107412396",
@@ -596,7 +644,7 @@
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "NSW One Nation leader Mike Newman told a firearms forum the party 'will never' form a coalition with the Coalition, and vowed to repeal gun laws passed after the Bondi Beach terror attack. He also took aim at Liberal leader Kellie Sloane, who lost an eighth MP last week."
       },
       {
@@ -636,17 +684,40 @@
         "summary": "The gifts are the largest received by a political party in Tasmania since new disclosure rules took effect last year. One Nation in Tasmania is led by Lee Hanson, daughter of founder Pauline Hanson."
       },
       {
-        "title": "Adelaide father and son found guilty of stabbing murder",
-        "rewrite": "Adelaide father and son found guilty of stabbing murder",
-        "url": "https://www.abc.net.au/news/2026-11-20/liam-and-brian-slann-guilty-of-stabbing-murder/107408242",
+        "title": "Emergency fire warning downgraded in Victoria's north-west",
+        "rewrite": "Emergency fire warning downgraded in Victoria's north-west",
+        "url": "https://www.abc.net.au/news/2026-11-22/fire-warning-nandaly-north-west-victoria-emergency-services/107414556",
         "source": "ABC News Australia",
-        "published": "2026-11-20T17:10:54+11:00",
+        "published": "2026-11-22T17:04:37+11:00",
+        "slot": "column",
+        "urgent": true,
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "The warning near Nandaly is now Watch and Act. The fast-moving grassfire started after 3pm about 55km south-east of Ouyen and has burnt around 1,300 hectares, with residents told to keep monitoring conditions."
+      },
+      {
+        "title": "Bellamy to end Storm coaching stint after 2027 NRL season",
+        "rewrite": "Bellamy to end Storm coaching stint after 2027 NRL season",
+        "url": "https://www.abc.net.au/news/2026-11-22/nrl-craig-bellamy-melbourne-storm-coaching-end-2027-season/107414288",
+        "source": "ABC News Australia",
+        "published": "2026-11-22T14:38:37+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "image": "https://live-production.wcms.abc-cdn.net.au/a7071fdb0e42ea562245451f2172072b?impolicy=wcms_watermark_news&cropH=354&cropW=629&xPos=0&yPos=254&width=862&height=485&imformat=generic",
-        "summary": "A Supreme Court jury found Brian Slann, 54, and his son Liam, 29, guilty of murdering 21-year-old William Holdback, who was stabbed after a disagreement about drugs. Both had pleaded not guilty."
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "Craig Bellamy will leave the Melbourne Storm at the end of the 2027 NRL season, ending a 25-season tenure, the longest in NRL premiership history."
+      },
+      {
+        "title": "Greens win court fight against Prahran independent how to-vote-cards",
+        "rewrite": "Greens win court fight against Prahran independent how to-vote-cards",
+        "url": "https://www.abc.net.au/news/2026-11-22/victorian-greens-win-court-injunction-liberal-labor-pledges/107414054",
+        "source": "ABC News Australia",
+        "published": "2026-11-22T13:12:38+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "The Supreme Court ordered Prahran independent Tosh-Jake Finnigan not to hand out how-to-vote cards imitating the Greens' colours and font. Separately, the Liberals pledged to make Victoria's top prosecutor face annual questioning in parliament."
       },
       {
         "title": "Police investigate three Melbourne stabbings, one fatal",
@@ -655,9 +726,9 @@
         "source": "ABC News Australia",
         "published": "2026-11-22T09:14:31+11:00",
         "slot": "column",
-        "urgent": true,
+        "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "A 21-year-old man died after an alleged stabbing on La Trobe Street in Melbourne's CBD, and three teens have been arrested. Police are also investigating two other stabbings, including one at Bourke Street Mall that injured a 24-year-old man."
       },
       {
@@ -669,44 +740,20 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "Youth advocates want more early intervention for young offenders, arguing hardline approaches are costly and ineffective. The Liberals are promising boot camps for some juveniles, while Labor pledges mandatory rehabilitation detention for low- and mid-level offenders."
       },
       {
-        "title": "Man in hospital after stabbing in Melbourne's CBD",
-        "rewrite": "Man in hospital after stabbing in Melbourne's CBD",
-        "url": "https://www.abc.net.au/news/2026-11-21/man-in-hospital-after-stabbing-on-bourke-street-mall/107412922",
-        "source": "ABC News Australia",
-        "published": "2026-11-21T16:45:38+11:00",
+        "title": "Anthropic stock slides with rest of market after big-ticker IPO",
+        "rewrite": "Anthropic stock slides with rest of market after big-ticker IPO",
+        "url": "https://www.washingtonexaminer.com/policy/technology/4811452/anthropic-stock-slide-stock-market-ipo/",
+        "source": "Washington Examiner",
+        "published": "2026-11-22T15:01:03+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "Police say a 24-year-old man was stabbed by another man on Bourke Street near Elizabeth Street about 2.30pm and taken to hospital with serious injuries. Police don't believe the two knew each other."
-      },
-      {
-        "title": "Spirit IV ferry docks late again after 'technical issue'",
-        "rewrite": "Spirit IV ferry docks late again after 'technical issue'",
-        "url": "https://www.abc.net.au/news/2026-11-21/spirit-iv-technical-issue-geelong-delay/107412682",
-        "source": "ABC News Australia",
-        "published": "2026-11-21T15:45:41+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "Spirit of Tasmania IV docked four hours late in Geelong on Saturday after looping for hours in Port Phillip Bay before a tug escorted it in. The ABC understands it is the same steering fault behind a similar delay three weeks ago."
-      },
-      {
-        "title": "Seat by seat, these are the major election issues in regional Victoria",
-        "rewrite": "Seat by seat, these are the major election issues in regional Victoria",
-        "url": "https://www.abc.net.au/news/2026-11-21/victorian-election-regional-voters-issues-seat-by-seat/107390056",
-        "source": "ABC News Australia",
-        "published": "2026-11-21T07:46:42+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "With a week left in the Victorian election campaign, renewables projects, hospitals and the state of roads are the issues on regional voters' minds."
+        "section": "MARKETS",
+        "is_new": true,
+        "summary": "Anthropic priced its IPO at $83 a share on Thursday. The stock surged at first, then slid with the broader tech sell-off to end the week, as markets digested Jensen Huang's resignation from Nvidia and Democrats retaking Congress."
       },
       {
         "title": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open",
@@ -779,18 +826,6 @@
         "section": "MARKETS",
         "is_new": false,
         "summary": "OnChain Lens tracked nearly $600 million in ETH moved over two days as the hackers shifted the stolen funds through fresh wallets and cross-chain protocols to hide the trail."
-      },
-      {
-        "title": "Cathie Wood's Ark Invest piled into Anthropic IPO, buying $90 million worth of shares",
-        "rewrite": "Cathie Wood's Ark Invest piled into Anthropic IPO, buying $90 million worth of shares",
-        "url": "https://www.coindesk.com/markets/2026/11/20/cathie-wood-s-ark-invest-piled-into-anthropic-ipo-buying-usd90-million-worth-of-shares",
-        "source": "CoinDesk",
-        "published": "2026-11-20T20:48:52+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "MARKETS",
-        "is_new": false,
-        "summary": "ARK Invest bought $90 million of Anthropic stock across six funds during its Nasdaq debut, while selling Nvidia shares amid that company's leadership turmoil."
       }
     ],
     "right": [
@@ -803,7 +838,7 @@
         "slot": "column",
         "urgent": false,
         "section": "UK",
-        "is_new": true,
+        "is_new": false,
         "summary": "Barnham residents voted 257 to 16 (94%) in a non-binding ballot to seek Crown Dependency status, protesting plans to house up to 930 asylum seekers at a former RAF site outside the village."
       },
       {
@@ -815,7 +850,7 @@
         "slot": "column",
         "urgent": false,
         "section": "UK",
-        "is_new": true,
+        "is_new": false,
         "summary": "Detectives are questioning two men, aged 27 and 29, over the alleged attack at Rosehill Park West in Sutton, south London, on Friday."
       },
       {
@@ -867,19 +902,6 @@
         "summary": "Two men charged over a fake bomb alert outside RAF Fairford, allegedly on Iran's orders, will deny wrongdoing and face trial next year, a court heard."
       },
       {
-        "title": "Piddington migrant camp 'to be built before legal appeal verdict' as construction set to begin in just WEEKS",
-        "rewrite": "Piddington migrant camp 'to be built before legal appeal verdict' as construction set to begin in just WEEKS",
-        "url": "https://www.gbnews.com/news/piddington-migrant-camp-legal-appeal-verdict-construction-set-begin",
-        "source": "GB News",
-        "published": "2026-11-20T14:55:21+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "UK",
-        "is_new": false,
-        "image": "https://www.gbnews.com/media-library/piddington-sign.jpg?id=68725997&width=1200&height=600&coordinates=0%2C85%2C0%2C86",
-        "summary": "Construction of the migrant camp at Piddington, an Oxfordshire village, could start in January, before a legal appeal is decided, local MP Calum Miller says. Angela Rayner used special powers to grant permission for the site."
-      },
-      {
         "title": "UK should only rejoin EU if it innovates on technology, Blair warns",
         "rewrite": "UK should only rejoin EU if it innovates on technology, Blair warns",
         "url": "https://www.bbc.co.uk/news/articles/c893r4923wngo",
@@ -888,7 +910,7 @@
         "slot": "column",
         "urgent": false,
         "section": "TECHNOLOGY",
-        "is_new": true,
+        "is_new": false,
         "summary": "Sir Tony Blair told The Sunday Times that any return to the EU should be 'heavily conditioned' on reform, saying the bloc is probably heading the wrong way on tech innovation. He still called Brexit 'a real mistake.'"
       },
       {
@@ -960,8 +982,20 @@
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
+        "is_new": false,
         "summary": "Kieran Culkin, now playing a young Caesar Flickerman in 'The Hunger Games: Sunrise on the Reaping', told the 'Heart Breakfast' radio show he is ruling out any 'Succession' spinoff."
+      },
+      {
+        "title": "Mahershala Ali Says It ‘Doesn’t Matter’ That He’s Won 2 Oscars Because ‘There Are Not Roles for Me’ in ‘the Vast Majority of Projects’: ‘You’re Like Everybody Else Waiting’",
+        "rewrite": "Mahershala Ali Says It 'Doesn't Matter' That He's Won 2 Oscars Because 'There Are Not Roles for Me' in...",
+        "url": "https://variety.com/2026/film/news/mahershala-ali-oscars-wins-hollywood-1236955111/",
+        "source": "Variety",
+        "published": "2026-11-22T10:40:06+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "On the '7PM in Brooklyn' podcast, the two-time Oscar winner said the awards haven't changed much, because most projects have no roles for him and he waits like everybody else."
       },
       {
         "title": "Russell Crowe’s Request to Shoot ‘A Beautiful Mind’ Chronologically Added $1 Million to the Budget, Says Ron Howard: ‘It Was the Right Kind of Investment’",
@@ -972,7 +1006,7 @@
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
+        "is_new": false,
         "summary": "Ron Howard told People that shooting the 2001 film in sequence at Crowe's request cost the studio an extra $1 million, but called it 'the right kind of investment' given Crowe's performance as mathematician John Nash."
       },
       {
@@ -1034,32 +1068,20 @@
         "section": "ENTERTAINMENT",
         "is_new": false,
         "summary": "Written and directed by Markus Lehmusruusu, the film is Finland's international feature Oscar entry: a futuristic drama about a designer of artificial animals whose ordered world is upended when he finds a living squirrel."
-      },
-      {
-        "title": "Maharaja Ranjit Singh, the Sikh Ruler Known as ‘Sher-e-Punjab,’ Gets Biopic, Plans 2027 Shoot (EXCLUSIVE)",
-        "rewrite": "Maharaja Ranjit Singh, the Sikh Ruler Known as 'Sher-e-Punjab,' Gets Biopic, Plans 2027 Shoot (EXCLUSIVE)",
-        "url": "https://variety.com/2026/film/news/maharaja-ranjit-singh-sher-e-punjab-biopic-2027-shoot-1236952982/",
-        "source": "Variety",
-        "published": "2026-11-20T16:30:00+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "Katha Studios and B4 Makers Studios are partnering on a theatrical epic about the 19th-century Sikh ruler known as the Lion of Punjab, with production set to start in 2027."
       }
     ]
   },
-  "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg",
+  "image_url": "https://media.breitbart.com/media/2026/11/Choking-off-Iran-Oil-Exports-Economy-640x335.jpeg",
   "counts": {
-    "total": 86,
+    "total": 88,
     "featured": 4,
     "columns": {
-      "left": 32,
-      "center": 28,
-      "right": 21
+      "left": 33,
+      "center": 30,
+      "right": 20
     },
     "feeds_ok": 44,
     "feeds_failed": 6
   },
-  "image_source_url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko"
+  "image_source_url": "https://www.breitbart.com/politics/2026/11/21/report-trump-favors-economic-stranglehold-on-iran-over-renewed-major-strikes/"
 }

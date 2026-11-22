@@ -2,9 +2,9 @@
   "title": "THE NEWS REPORT",
   "generated": {
     "date": "Sunday, 22 November 2026",
-    "display": "Sunday, November 22, 2026  6:25 AM AEDT (Australia/Sydney)",
-    "iso": "2026-11-22T06:25:32.098169+11:00",
-    "time": "6:25 AM AEDT",
+    "display": "Sunday, November 22, 2026  12:26 PM AEDT (Australia/Sydney)",
+    "iso": "2026-11-22T12:26:32.524195+11:00",
+    "time": "12:26 PM AEDT",
     "timezone": "Australia/Sydney"
   },
   "lean": "centre-right",
@@ -22,18 +22,6 @@
   },
   "featured": [
     {
-      "title": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
-      "rewrite": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
-      "url": "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory",
-      "source": "Fox Business",
-      "published": "2026-11-21T12:28:26+11:00",
-      "slot": "featured",
-      "urgent": false,
-      "section": "MARKETS",
-      "is_new": false,
-      "summary": "The Dow fell nearly 950 points, the S&P 500 dropped 3.7% and the Nasdaq plunged 5.28% on Friday as an AI sell-off pushed the Dow and S&P 500 into correction territory, at least 10% below recent records. Nvidia tumbled about 14% and newly listed Anthropic fell 9%, erasing the Nasdaq's gains for the year."
-    },
-    {
       "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
       "rewrite": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
       "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo",
@@ -44,6 +32,18 @@
       "section": "WORLD",
       "is_new": false,
       "summary": "Zelensky told the BBC the strikes answer 109 Russian attacks on Ukrainian bridges, rejecting Putin's claim the bridge is 'exclusively civilian' and pointing to images of Russian tanks using it. This week's Ukrainian strikes destroyed the bridge's central road section. UK minister Wes Streeting said he came to Kyiv to show Europe is united behind Ukraine."
+    },
+    {
+      "title": "Trump on credit card interest rate cap: ‘I would do it’",
+      "rewrite": "Trump on credit card interest rate cap: 'I would do it'",
+      "url": "https://www.washingtonexaminer.com/policy/economy/4811339/trump-credit-card-interest-rate-cap/",
+      "source": "Washington Examiner",
+      "published": "2026-11-22T10:36:28+11:00",
+      "slot": "featured",
+      "urgent": false,
+      "section": "US",
+      "is_new": false,
+      "summary": "Asked on Fox's 'Saturday in America' whether the one-year 10% cap on credit card interest rates he floated in January could be a deal with Democrats, Trump said 'I would do it.' Leading Democratic figures also back a cap."
     },
     {
       "title": "Amazon urges NYC residents to call their officials as $3T company threatens to impose $5 delivery fees in the Big Apple as fight with Mamdani escalates",
@@ -73,6 +73,54 @@
   "columns": {
     "left": [
       {
+        "title": "Heartbroken widow of Brooklyn building collapse victim blasts city at vigil: ‘Failed to do their job’",
+        "rewrite": "Heartbroken widow of Brooklyn building collapse victim blasts city at vigil: 'Failed to do their job'",
+        "url": "https://nypost.com/2026/11/21/us-news/victims-of-brooklyn-building-collapse-blast-city-at-vigil/",
+        "source": "New York Post",
+        "published": "2026-11-22T11:31:40+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Families of those killed in the deadly Brooklyn building collapse turned on city officials at a vigil at the site on Saturday, with one widow saying the city 'failed to do their job.'"
+      },
+      {
+        "title": "President Trump appears to endorse new Democratic senator Abdul El-Sayed's 'TrumpCare' plan to give all Americans healthcare",
+        "rewrite": "President Trump appears to endorse new Democratic senator Abdul El-Sayed's 'TrumpCare' plan to give all...",
+        "url": "https://www.dailymail.com/news/us-politics/article-16312237/trump-abdul-el-sayed-healthcare-plan.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-22T10:43:40+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Michigan's Democratic senator-elect Abdul El-Sayed has pitched a universal healthcare plan branded 'TrumpCare', even using a fake gold card on November 12 to try to win the president over. Trump has now appeared to back the idea."
+      },
+      {
+        "title": "Schumer’s opposition to 2018 Iran nuke deal weaponized in Senate leadership race",
+        "rewrite": "Schumer's opposition to 2018 Iran nuke deal weaponized in Senate leadership race",
+        "url": "https://nypost.com/2026/11/21/us-news/schumers-iran-nuke-deal-stance-used-in-leadership-challenge/",
+        "source": "New York Post",
+        "published": "2026-11-22T08:29:13+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Sen. Chris Van Hollen is using Schumer's past opposition to the Iran nuclear deal in his bid to replace the New York Democrat as Senate majority leader in the new Congress."
+      },
+      {
+        "title": "Mamdani’s ‘close Rikers’ plan pours millions more tax dollars into program paying residents to house ex-con family members",
+        "rewrite": "Mamdani's 'close Rikers' plan pours millions more tax dollars into program paying residents to house...",
+        "url": "https://nypost.com/2026/11/21/us-news/mamdanis-plan-to-close-rikers-pours-millions-of-more-tax-dollars-into-program-paying-public-to-house-ex-con-family-members/",
+        "source": "New York Post",
+        "published": "2026-11-22T08:26:02+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Mayor Zohran Mamdani's plan to close Rikers would expand a little-known program that pays New Yorkers to house family members returning from jail."
+      },
+      {
         "title": "NYC 911 call center fights major bedbug infestation — forcing staff to work from home, pulling cops from streets to answer phones",
         "rewrite": "NYC 911 call center fights major bedbug infestation — forcing staff to work from home, pulling cops from...",
         "url": "https://nypost.com/2026/11/21/us-news/bedbug-infestation-plaguing-nyc-911-call-center-sources/",
@@ -81,7 +129,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "The infestation at the NYPD's 911 call centre in Brooklyn has sent staff home to work and forced the department to pull uniformed officers off the streets to help answer calls."
       },
       {
@@ -93,7 +141,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "After the Republican midterm wipeout, Senate Democrats will be four votes shy of a supermajority next Congress, giving rail safety legislation a real shot at passing."
       },
       {
@@ -105,7 +153,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Former NYPD chief John Chell says Mayor Zohran Mamdani's plan to gut the Strategic Response Group is 'smoke and mirrors,' claiming the unit will simply be rebranded."
       },
       {
@@ -117,7 +165,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Allies of RNC co-chairwoman KC Crosbie argue the committee mismanaged campaign money during the midterms, using a hair and makeup bill to press their case that the party needs new leadership."
       },
       {
@@ -372,102 +420,6 @@
         "summary": "Far-left streamer Hasan Piker argued that Democrats' big midterm win weakened progressives' leverage, saying a 40-seat margin means the party no longer needs to make far-left concessions."
       },
       {
-        "title": "What Democrats are saying about the possibility of a government shutdown in December",
-        "rewrite": "What Democrats are saying about the possibility of a government shutdown in December",
-        "url": "https://www.washingtonexaminer.com/news/house/4809015/democrats-government-shutdown-possibility-december/",
-        "source": "Washington Examiner",
-        "published": "2026-11-20T13:48:23+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Sens. Duckworth, Bennet, Sanders and Van Hollen say they will block any short-term funding package that doesn't limit the Iran war, as Congress faces a Dec. 11 funding cliff. House Minority Leader Hakeem Jeffries has not ruled out a shutdown over the demand."
-      },
-      {
-        "title": "EXCLUSIVE: Retired police sergeant issues warning over Mamdani's NYPD shake-up ahead of Thanksgiving parade",
-        "rewrite": "Retired police sergeant issues warning over Mamdani's NYPD shake-up ahead of Thanksgiving parade",
-        "url": "https://www.foxnews.com/politics/exclusive-retired-police-sergeant-issues-warning-over-mamdanis-nypd-shake-up-ahead-thanksgiving-parade",
-        "source": "Fox News",
-        "published": "2026-11-20T12:57:47+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Retired Sgt. Betsy Brantner Smith of the National Police Association told Fox News Digital she wouldn't take her family to NYC now. Mamdani is disbanding the roughly 500-officer Strategic Response Group, which handles counterterrorism support and crowd control, and she warns of security gaps at the Macy's parade."
-      },
-      {
-        "title": "Mamdani Signs Ban Ending 150-Year Carriage Tradition Trump Called ‘a Quintessential New York Experience’",
-        "rewrite": "Mamdani Signs Ban Ending 150-Year Carriage Tradition Trump Called 'a Quintessential New York Experience'",
-        "url": "https://www.breitbart.com/politics/2026/11/19/mamdani-signs-ban-ending-150-year-carriage-tradition-trump-called-a-quintessential-new-york-experience/",
-        "source": "Breitbart",
-        "published": "2026-11-20T12:43:59+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Mamdani signed Romanch's Law on Thursday, ending Central Park horse-drawn carriage rides by June 1, 2028. No new licences will be issued, and the city plans to buy back medallions and fund job training for about 200 workers. The council passed it 40-7; Trump had argued the tradition should stay."
-      },
-      {
-        "title": "Slotkin snubs Schumer with Chris Van Hollen leader endorsement",
-        "rewrite": "Slotkin snubs Schumer with Chris Van Hollen leader endorsement",
-        "url": "https://www.washingtonexaminer.com/news/senate/4809591/slotkin-snubs-schumer-chris-van-hollen-leader-endorsement/",
-        "source": "Washington Examiner",
-        "published": "2026-11-20T11:19:13+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Sen. Elissa Slotkin said Schumer is not best positioned to lead and she will back Chris Van Hollen. Schumer remains the heavy favourite, with 15 public supporters ahead of a secret-ballot election in early December; Van Hollen had only four endorsements before Thursday."
-      },
-      {
-        "title": "Mamdani quietly hunting for ways to thin out Rikers Island population before NYC jail’s ordered closure",
-        "rewrite": "Mamdani quietly hunting for ways to thin out Rikers Island population before NYC jail's ordered closure",
-        "url": "https://nypost.com/2026/11/19/us-news/mamdani-quietly-hunting-for-ways-to-thin-out-rikers-island-population-before-nyc-jails-ordered-closure/",
-        "source": "New York Post",
-        "published": "2026-11-20T10:00:17+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Mayor Mamdani's team has asked city prosecutors to help cut Rikers Island's roughly 6,000-inmate population ahead of the jail's August 2027 closure deadline."
-      },
-      {
-        "title": "Tim Scott ‘happy’ to call Bessent to testify alongside Lutnick about Nvidia chips scandal",
-        "rewrite": "Tim Scott 'happy' to call Bessent to testify alongside Lutnick about Nvidia chips scandal",
-        "url": "https://www.washingtonexaminer.com/news/senate/4809261/tim-scott-call-bessent-testify-lutnick-nvidia-competing-accounts-chip-exports/",
-        "source": "Washington Examiner",
-        "published": "2026-11-20T09:23:55+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Sen. John Kennedy asked banking committee chairman Tim Scott to invite Bessent to December's hearing with Commerce Secretary Lutnick and export-control chief Jeffrey Kessler over China obtaining US chips. Bessent has faulted Commerce for not blacklisting Megaspeed. It is unclear whether Scott will formally invite him."
-      },
-      {
-        "title": "Turns Out Voters Did Blame Iran War For Driving Up Their Costs Afterall",
-        "rewrite": "Turns Out Voters Did Blame Iran War For Driving Up Their Costs Afterall",
-        "url": "https://dailycaller.com/2026/11/19/midterm-voters-dissect-corpse-of-republican-party-american-compass-survey-election-2026",
-        "source": "Daily Caller",
-        "published": "2026-11-20T08:10:34+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "An American Compass post-election poll found about 85% of voters said the Iran war raised their personal costs, more than named tariffs, immigration enforcement or the deficit. Affordability drove the 2026 midterms, in which Democrats won Congress."
-      },
-      {
-        "title": "Mamdani to tap just 30 civilian responders to replace NYPD’s 500 cop Strategic Response Group",
-        "rewrite": "Mamdani to tap just 30 civilian responders to replace NYPD's 500 cop Strategic Response Group",
-        "url": "https://thepostmillennial.com/news/mamdani-to-tap-just-30-civilian-responders-to-replace-nypd-s-500-cop-strategic-response-group",
-        "source": "The Post Millennial",
-        "published": "2026-11-20T08:07:01+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Mamdani said a civilian 'community dialogue and de-escalation division' of about 30 staff, housed in the Office of Community Safety, will mediate with protesters. It follows his disbanding of the roughly 500-officer Strategic Response Group, whose officers will be reassigned."
-      },
-      {
         "title": "Honda, Toyota recall 1.6 million US vehicles over airbag rupture risk",
         "rewrite": "Honda, Toyota recall 1.6 million US vehicles over airbag rupture risk",
         "url": "https://www.abc.net.au/news/2026-11-21/honda-toyota-recall-vehicles-over-takata-airbag-rupture-risk/107412768",
@@ -500,11 +452,23 @@
         "slot": "column",
         "urgent": false,
         "section": "BUSINESS",
-        "is_new": true,
+        "is_new": false,
         "summary": "Official figures show people stocking up on long-life food pushed UK retail sales higher in October, after the government's 'Be Ready' preparedness campaign launched."
       }
     ],
     "center": [
+      {
+        "title": "Russian Missile Attack on Zelensky's Hometown in Central Ukraine Kills Two, Wounds Dozens",
+        "rewrite": "Russian Missile Attack on Zelensky's Hometown in Central Ukraine Kills Two, Wounds Dozens",
+        "url": "https://www.breitbart.com/europe/2026/11/21/russian-missile-attack-on-zelenskys-hometown-in-central-ukraine-kills-two-wounds-dozens/",
+        "source": "Breitbart",
+        "published": "2026-11-22T03:37:58+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "A 7-year-old boy and a 20-year-old woman were killed and 60 people wounded, six of them children, in a Friday-night strike on Kryvyi Rih, local officials said. The attack started four fires and damaged about 25 apartment buildings, a hospital and schools."
+      },
       {
         "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
         "rewrite": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
@@ -514,7 +478,7 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
@@ -624,28 +588,16 @@
         "summary": "'I actually asked him, I said, \"Would you have gone in if I was president?\" He said, \"No, would have never happened,\"' Trump told reporters at the White House on Friday, as European critics hit out at him for calling Putin a 'friend.'"
       },
       {
-        "title": "Donald Trump tells Europe to defund Ukraine in blistering 'tirade' against Nato allies as he bows down to Putin",
-        "rewrite": "Donald Trump tells Europe to defund Ukraine in blistering 'tirade' against Nato allies as he bows down to...",
-        "url": "https://www.gbnews.com/news/world/donald-trump-europe-ukraine-blistering-tirade-nato-allies-putin",
-        "source": "GB News",
-        "published": "2026-11-20T11:08:55+11:00",
+        "title": "One Nation rules out deal with Coalition in NSW",
+        "rewrite": "One Nation rules out deal with Coalition in NSW",
+        "url": "https://www.abc.net.au/news/2026-11-22/no-coalition-with-coalition-for-nsw-one-nation-mike-newman-says/107412396",
+        "source": "ABC News Australia",
+        "published": "2026-11-22T07:51:16+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "Trump dialled into the Coalition of the Willing meeting in Berlin from Air Force One, shortly after his summit with Putin and Xi, and told European leaders to stop funding Ukraine, GB News reports. Chuck Schumer called it 'a historic embarrassment'."
-      },
-      {
-        "title": "Zelenskyy presses US for expanded Russia talks as Kushner announces breakthrough",
-        "rewrite": "Zelenskyy presses US for expanded Russia talks as Kushner announces breakthrough",
-        "url": "https://www.foxnews.com/world/zelenskyy-presses-us-expanded-russia-talks-kushner-announces-breakthrough",
-        "source": "Fox News",
-        "published": "2026-11-20T10:20:13+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "At the Coalition of the Willing summit in Berlin, US envoy Jared Kushner said Moscow and Trump had agreed to a multilateral negotiating format that includes Europe. Zelenskyy urged Washington to organise a first team-level meeting with full European participation 'as soon as possible', aiming to keep Kyiv and Europe from being sidelined."
+        "section": "AUSTRALIA",
+        "is_new": true,
+        "summary": "NSW One Nation leader Mike Newman told a firearms forum the party 'will never' form a coalition with the Coalition, and vowed to repeal gun laws passed after the Bondi Beach terror attack. He also took aim at Liberal leader Kellie Sloane, who lost an eighth MP last week."
       },
       {
         "title": "Victoria Point woman waited seven hours for ambulance before death",
@@ -697,17 +649,28 @@
         "summary": "A Supreme Court jury found Brian Slann, 54, and his son Liam, 29, guilty of murdering 21-year-old William Holdback, who was stabbed after a disagreement about drugs. Both had pleaded not guilty."
       },
       {
-        "title": "One Nation warning as ex-NSW opposition leader quits politics",
-        "rewrite": "One Nation warning as ex-NSW opposition leader quits politics",
-        "url": "https://www.abc.net.au/news/2026-11-20/nsw-former-nsw-opposition-leader-mark-speakman-resigns/107407292",
+        "title": "Police investigate three Melbourne stabbings, one fatal",
+        "rewrite": "Police investigate three Melbourne stabbings, one fatal",
+        "url": "https://www.abc.net.au/news/2026-11-22/melbourne-three-stabbings-one-fatal-victoria-police/107413738",
         "source": "ABC News Australia",
-        "published": "2026-11-20T09:47:08+11:00",
+        "published": "2026-11-22T09:14:31+11:00",
+        "slot": "column",
+        "urgent": true,
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "A 21-year-old man died after an alleged stabbing on La Trobe Street in Melbourne's CBD, and three teens have been arrested. Police are also investigating two other stabbings, including one at Bourke Street Mall that injured a 24-year-old man."
+      },
+      {
+        "title": "Intervention not jail: youth crime plea ahead of Victorian election",
+        "rewrite": "Intervention not jail: youth crime plea ahead of Victorian election",
+        "url": "https://www.abc.net.au/news/2026-11-22/victoria-youth-crime-intervention-not-jail-state-election/107408732",
+        "source": "ABC News Australia",
+        "published": "2026-11-22T08:23:49+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "image": "https://live-production.wcms.abc-cdn.net.au/8efba4f6bd82c04299d0f19672fcb7a6?impolicy=wcms_watermark_news&cropH=2807&cropW=4991&xPos=0&yPos=231&width=862&height=485&imformat=generic",
-        "summary": "Former NSW opposition leader Mark Speakman, replaced by Kellie Sloane last November, is quitting politics. He is the eighth Liberal MP to announce a departure in recent months, with the party trailing Labor and One Nation in the polls."
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "Youth advocates want more early intervention for young offenders, arguing hardline approaches are costly and ineffective. The Liberals are promising boot camps for some juveniles, while Labor pledges mandatory rehabilitation detention for low- and mid-level offenders."
       },
       {
         "title": "Man in hospital after stabbing in Melbourne's CBD",
@@ -746,39 +709,15 @@
         "summary": "With a week left in the Victorian election campaign, renewables projects, hospitals and the state of roads are the issues on regional voters' minds."
       },
       {
-        "title": "Secret briefings reveal warnings about Labor’s ‘ruthless’ data centre pursuit",
-        "rewrite": "Secret briefings reveal warnings about Labor's 'ruthless' data centre pursuit",
-        "url": "https://www.theage.com.au/national/victoria/secret-briefings-reveal-warnings-about-labor-s-ruthless-data-centre-pursuit-20261121-p61ejb.html?ref=rss",
-        "source": "The Age",
-        "published": "2026-11-21T05:00:00+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "As the Victorian government courted billions of dollars in data centre investment, its top energy officials warned in briefings that the push threatened the state's power grid."
-      },
-      {
-        "title": "Calls for One Nation candidate to withdraw from election over misconduct",
-        "rewrite": "Calls for One Nation candidate to withdraw from election over misconduct",
-        "url": "https://www.abc.net.au/news/2026-11-20/anti-violence-advocates-call-one-nation-garner-smith-to-withdraw/107367618",
-        "source": "ABC News Australia",
-        "published": "2026-11-20T17:17:31+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "Anti-violence advocates want One Nation's Murray Plains candidate Garner Smith to withdraw from the Victorian election. He breached five standards of conduct as a Gannawarra councillor, and had commented on a 2022 video of Dustin Martin allegedly touching a woman's breasts."
-      },
-      {
         "title": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open",
         "rewrite": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday's stock open",
         "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
         "source": "CoinDesk",
         "published": "2026-11-22T04:50:00+11:00",
         "slot": "column",
-        "urgent": true,
+        "urgent": false,
         "section": "MARKETS",
-        "is_new": true,
+        "is_new": false,
         "summary": "Bitcoin climbed back above $60,000, up more than 9% from an early low of $55,130, its weakest since September 2024. The sell-off wiped out about $1.8 billion in leveraged crypto positions, $1.3 billion of them bullish bets, per CoinGlass. Analysts say a lasting recovery depends on tech stocks stabilising."
       },
       {
@@ -792,6 +731,18 @@
         "section": "MARKETS",
         "is_new": false,
         "summary": "Bitcoin fell below $57,000 on Friday, its lowest since September 2024, deepening a bear market from its peak above $126,000 and a 28% quarterly drop. The sell-off spread to tech stocks, gold, copper and Asian shares; analysts cite rising real Treasury yields and a more hawkish Fed."
+      },
+      {
+        "title": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
+        "rewrite": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
+        "url": "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory",
+        "source": "Fox Business",
+        "published": "2026-11-21T12:28:26+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "MARKETS",
+        "is_new": false,
+        "summary": "The Dow fell nearly 950 points, the S&P 500 dropped 3.7% and the Nasdaq plunged 5.28% on Friday as an AI sell-off pushed the Dow and S&P 500 into correction territory, at least 10% below recent records. Nvidia tumbled about 14% and newly listed Anthropic fell 9%, erasing the Nasdaq's gains for the year."
       },
       {
         "title": "Anthropic co-founder to make ‘large gift’ to Trump’s investment accounts for kids after record IPO: Bessent",
@@ -840,21 +791,33 @@
         "section": "MARKETS",
         "is_new": false,
         "summary": "ARK Invest bought $90 million of Anthropic stock across six funds during its Nasdaq debut, while selling Nvidia shares amid that company's leadership turmoil."
-      },
-      {
-        "title": "Anthropic IPO turns thousands of tech workers into overnight millionaires, reports say",
-        "rewrite": "Anthropic IPO turns thousands of tech workers into overnight millionaires, reports say",
-        "url": "https://www.foxbusiness.com/markets/anthropic-ipo-turns-thousands-tech-workers-overnight-millionaires-reports-say",
-        "source": "Fox Business",
-        "published": "2026-11-20T11:05:39+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "MARKETS",
-        "is_new": false,
-        "summary": "Anthropic priced its IPO at $83 a share and opened at $111.50 on Nasdaq under the ticker ANT. CNBC estimates its roughly 5,300 employees hold about $232 billion at the IPO price, averaging some $44 million each."
       }
     ],
     "right": [
+      {
+        "title": "Second British Village Votes to Secede From UK over Migrant Camp Scheme",
+        "rewrite": "Second British Village Votes to Secede From UK over Migrant Camp Scheme",
+        "url": "https://www.breitbart.com/europe/2026/11/21/second-british-village-votes-to-secede-from-uk-over-migrant-camp-scheme/",
+        "source": "Breitbart",
+        "published": "2026-11-22T05:46:58+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "UK",
+        "is_new": true,
+        "summary": "Barnham residents voted 257 to 16 (94%) in a non-binding ballot to seek Crown Dependency status, protesting plans to house up to 930 asylum seekers at a former RAF site outside the village."
+      },
+      {
+        "title": "Girl, 15, is raped in London park as police arrest two men aged 27 and 29",
+        "rewrite": "Girl, 15, is raped in London park as police arrest two men aged 27 and 29",
+        "url": "https://www.dailymail.com/news/article-16311481/Girl-15-raped-London-park.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-22T03:45:23+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "UK",
+        "is_new": true,
+        "summary": "Detectives are questioning two men, aged 27 and 29, over the alleged attack at Rosehill Park West in Sutton, south London, on Friday."
+      },
       {
         "title": "Former IRGC commander behind Iran's brutal hijab crackdown to give keynote speech at London 'Islamophobia' conference",
         "rewrite": "Former IRGC commander behind Iran's brutal hijab crackdown to give keynote speech at London 'Islamophobia'...",
@@ -864,7 +827,7 @@
         "slot": "column",
         "urgent": false,
         "section": "UK",
-        "is_new": true,
+        "is_new": false,
         "summary": "A former Islamic Revolutionary Guard Corps commander linked to Iran's hijab crackdown is due to deliver a keynote speech at a London conference on Islamophobia."
       },
       {
@@ -876,7 +839,7 @@
         "slot": "column",
         "urgent": false,
         "section": "UK",
-        "is_new": true,
+        "is_new": false,
         "summary": "Lewis Pugh, the 56-year-old Plymouth-born endurance swimmer and UN patron of the oceans, finished a three-day swim through the Strait of Hormuz while attacks on oil tankers continue in the waterway."
       },
       {
@@ -888,7 +851,7 @@
         "slot": "column",
         "urgent": false,
         "section": "UK",
-        "is_new": true,
+        "is_new": false,
         "summary": "The UK's Chief of Defence Intelligence spoke after Russian missiles and drones struck Poland close to where British troops are carrying out drills."
       },
       {
@@ -917,6 +880,18 @@
         "summary": "Construction of the migrant camp at Piddington, an Oxfordshire village, could start in January, before a legal appeal is decided, local MP Calum Miller says. Angela Rayner used special powers to grant permission for the site."
       },
       {
+        "title": "UK should only rejoin EU if it innovates on technology, Blair warns",
+        "rewrite": "UK should only rejoin EU if it innovates on technology, Blair warns",
+        "url": "https://www.bbc.co.uk/news/articles/c893r4923wngo",
+        "source": "BBC News",
+        "published": "2026-11-22T06:33:49+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "TECHNOLOGY",
+        "is_new": true,
+        "summary": "Sir Tony Blair told The Sunday Times that any return to the EU should be 'heavily conditioned' on reform, saying the bloc is probably heading the wrong way on tech innovation. He still called Brexit 'a real mistake.'"
+      },
+      {
         "title": "Trump appoints former makeup executive to replace ousted National Cyber Director he branded 'not good enough' amid tech outage chaos",
         "rewrite": "Trump appoints former makeup executive to replace ousted National Cyber Director he branded 'not good...",
         "url": "https://www.dailymail.com/news/article-16309145/trump-new-national-cyber-director.html?ns_campaign=1490",
@@ -925,7 +900,7 @@
         "slot": "column",
         "urgent": false,
         "section": "TECHNOLOGY",
-        "is_new": true,
+        "is_new": false,
         "summary": "The appointment follows a string of major outages that hit Microsoft, nationwide air traffic control, JPMorgan Chase, United Airlines and Apple."
       },
       {
@@ -977,16 +952,28 @@
         "summary": "The flaw, CVE-2026-124194, lets a malicious .msg file expose NTLMv2 authentication data, and Microsoft confirms hackers have already exploited it."
       },
       {
-        "title": "California targets Nvidia in China AI chip probe",
-        "rewrite": "California targets Nvidia in China AI chip probe",
-        "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no",
-        "source": "BBC News",
-        "published": "2026-11-20T10:04:30+11:00",
+        "title": "Kieran Culkin Says a ‘Succession’ Spinoff ‘Would Be a Terrible Idea’: ‘What Are You Hoping For? “Cousin Greg: The Sitcom?”‘",
+        "rewrite": "Kieran Culkin Says a 'Succession' Spinoff 'Would Be a Terrible Idea': 'What Are You Hoping For? \"Cousin...",
+        "url": "https://variety.com/2026/tv/news/kieran-culkin-succession-spinoff-terrible-idea-1236955146/",
+        "source": "Variety",
+        "published": "2026-11-22T11:52:28+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false,
-        "summary": "California attorney general Rob Bonta served an investigative subpoena on Nvidia, probing whether the company's or Jensen Huang's actions let China obtain advanced chips or confidential information. He said that could breach state law if Nvidia misled investors and the public."
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "Kieran Culkin, now playing a young Caesar Flickerman in 'The Hunger Games: Sunrise on the Reaping', told the 'Heart Breakfast' radio show he is ruling out any 'Succession' spinoff."
+      },
+      {
+        "title": "Russell Crowe’s Request to Shoot ‘A Beautiful Mind’ Chronologically Added $1 Million to the Budget, Says Ron Howard: ‘It Was the Right Kind of Investment’",
+        "rewrite": "Russell Crowe's Request to Shoot 'A Beautiful Mind' Chronologically Added $1 Million to the Budget, Says...",
+        "url": "https://variety.com/2026/film/news/russell-crowe-a-beautiful-mind-sequence-ron-howard-1236955038/",
+        "source": "Variety",
+        "published": "2026-11-22T06:28:57+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "Ron Howard told People that shooting the 2001 film in sequence at Crowe's request cost the studio an extra $1 million, but called it 'the right kind of investment' given Crowe's performance as mathematician John Nash."
       },
       {
         "title": "E.J. Carroll, ‘Law & Order,’ ‘GTA 5’ and ‘Blue Bloods’ Actor, Dies at 66",
@@ -1059,41 +1046,17 @@
         "section": "ENTERTAINMENT",
         "is_new": false,
         "summary": "Katha Studios and B4 Makers Studios are partnering on a theatrical epic about the 19th-century Sikh ruler known as the Lion of Punjab, with production set to start in 2027."
-      },
-      {
-        "title": "Melania Trump attends world premiere for her new docuseries at NYC’s Lincoln Center",
-        "rewrite": "Melania Trump attends world premiere for her new docuseries at NYC's Lincoln Center",
-        "url": "https://nypost.com/2026/11/19/us-news/melania-the-series-makes-its-world-premiere-at-nycs-lincoln-center/",
-        "source": "New York Post",
-        "published": "2026-11-20T12:44:11+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "The first lady premiered her two-part docuseries 'Melania, The Series' at Lincoln Center in New York, following her chart-topping self-titled documentary."
-      },
-      {
-        "title": "Bill Hader’s Feature Directorial Debut ‘They Know’ Acquired by Black Bear",
-        "rewrite": "Bill Hader's Feature Directorial Debut 'They Know' Acquired by Black Bear",
-        "url": "https://variety.com/2026/film/news/bill-hader-horror-movie-they-know-acquired-black-bear-1236953795/",
-        "source": "Variety",
-        "published": "2026-11-20T11:30:46+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "Black Bear bought North American rights to the horror-thriller, which Hader wrote and stars in with Linda Cardellini. MRC fully financed the film, now in post-production."
       }
     ]
   },
   "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg",
   "counts": {
-    "total": 89,
+    "total": 86,
     "featured": 4,
     "columns": {
-      "left": 36,
-      "center": 29,
-      "right": 19
+      "left": 32,
+      "center": 28,
+      "right": 21
     },
     "feeds_ok": 44,
     "feeds_failed": 6

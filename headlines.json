@@ -2,23 +2,23 @@
   "title": "THE NEWS REPORT",
   "generated": {
     "date": "Monday, 23 November 2026",
-    "display": "Monday, November 23, 2026  12:20 PM AEDT (Australia/Sydney)",
-    "iso": "2026-11-23T12:20:39.867005+11:00",
-    "time": "12:20 PM AEDT",
+    "display": "Monday, November 23, 2026  6:24 PM AEDT (Australia/Sydney)",
+    "iso": "2026-11-23T18:24:11.703979+11:00",
+    "time": "6:24 PM AEDT",
     "timezone": "Australia/Sydney"
   },
   "lean": "centre-right",
   "top": {
-    "title": "Trump warns of new strikes against Iran after new year, calls negotiators ‘professional tap dancers’",
-    "rewrite": "Trump warns of new strikes against Iran after new year, calls negotiators 'professional tap dancers'",
-    "url": "https://www.foxnews.com/politics/trump-warns-new-strikes-against-iran-after-new-year-calls-negotiators-professional-tap-dancers",
-    "source": "Fox News",
-    "published": "2026-11-23T04:52:35+11:00",
+    "title": "Trump Dares Iran to Test Hormuz Blockade: ‘They’ll All Be at the Bottom of the Sea’",
+    "rewrite": "Trump Dares Iran to Test Hormuz Blockade: 'They'll All Be at the Bottom of the Sea'",
+    "url": "https://www.breitbart.com/politics/2026/11/22/trump-dares-iran-test-hormuz-blockade-bottom-sea/",
+    "source": "Breitbart",
+    "published": "2026-11-23T12:46:43+11:00",
     "slot": "top",
     "urgent": false,
     "section": "WORLD",
     "is_new": false,
-    "summary": "In exclusive comments to Fox News on Sunday, Trump said he is inclined to order strikes on Iran after the new year if no deal is reached, calling Iran's negotiators 'professional tap dancers' and the talks meaningless. He said Tehran has grown more aggressive since the US elections, while the US naval blockade of Iranian ports holds."
+    "summary": "Trump told Fox News' Trey Yingst that Iranian ships trying to break the US naval blockade would 'all be at the bottom of the sea.' He signalled renewed strikes after the New Year if talks fail, and said Iran had fired more drones and missiles in the past week than in over a year, all intercepted."
   },
   "featured": [
     {
@@ -34,16 +34,16 @@
       "summary": "Democrats hold at least 258 House seats to Republicans' 173, with four races still uncalled, the largest majority in over three decades. The marker came when Democrat Chuck Hubbard beat Rep. Virginia Foxx in North Carolina, 48.7% to 48.6%, in a race the AP called Sunday."
     },
     {
-      "title": "Iran amasses 14 oil tankers at key export hub as Tehran weighs challenge to US blockade: report",
-      "rewrite": "Iran amasses 14 oil tankers at key export hub as Tehran weighs challenge to US blockade: report",
-      "url": "https://nypost.com/2026/11/22/us-news/iran-amasses-14-oil-tankers-at-key-export-hub-as-tehran-weighs-challenge-to-us-blockade-report/",
-      "source": "New York Post",
-      "published": "2026-11-23T04:11:01+11:00",
+      "title": "Jim Chalmers says he doesn't expect a recession, but 'things might get a bit harder'",
+      "rewrite": "Jim Chalmers says he doesn't expect a recession, but 'things might get a bit harder'",
+      "url": "https://www.abc.net.au/news/2026-11-23/chalmers-flags-net-spending-cuts-in-mid-year-budget/107417628",
+      "source": "ABC News Australia",
+      "published": "2026-11-23T16:18:24+11:00",
       "slot": "featured",
       "urgent": false,
-      "section": "WORLD",
+      "section": "AUSTRALIA",
       "is_new": false,
-      "summary": "More than 14 tankers have gathered at Iran's most important crude export terminal as Tehran tries to get oil flowing again despite the US naval blockade, according to a report cited by the Post. Experts quoted in the story doubted the claim."
+      "summary": "Treasurer Jim Chalmers told parliament a recession is not forecast, but next month's mid-year update will lift the unemployment forecast and cut growth. He flagged spending cuts that more than cover any new spending, saying too much spending can make inflation worse."
     },
     {
       "title": "Senator hopes Jensen Huang enjoyed affair with suspected Chinese spy because 'it's the most expensive sex since Helen of Troy'",
@@ -73,6 +73,18 @@
   "columns": {
     "left": [
       {
+        "title": "Left-wing protesters troll Schumer with fake retirement party, complete with cake and the ‘Macarena’",
+        "rewrite": "Left-wing protesters troll Schumer with fake retirement party, complete with cake and the 'Macarena'",
+        "url": "https://nypost.com/2026/11/22/us-news/left-wing-protesters-troll-sen-chuck-schumer-with-fake-retirement-party/",
+        "source": "New York Post",
+        "published": "2026-11-23T12:42:53+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Protesters staged a mock retirement party for Senate Democratic leader Chuck Schumer, saying voters chose change at the midterms and that means new leadership in the Senate."
+      },
+      {
         "title": "California forging new alliance with previously unthinkable state: ‘Massive one-two punch’",
         "rewrite": "California forging new alliance with previously unthinkable state: 'Massive one-two punch'",
         "url": "https://nypost.com/2026/11/22/us-news/xavier-becerra-eyes-partnership-with-texas-after-democrats-midterm-victories/",
@@ -81,7 +93,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "California's governor-elect says years of clashes with Texas could give way to cooperation now that Texas has turned blue, calling a possible alliance a 'massive one-two punch.'"
       },
       {
@@ -93,7 +105,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Scott Colom won a Mississippi Senate seat, ending a 44-year run of Republican incumbency. The Post says his upbeat, Obama-era style of campaigning typified the Democrats' midterm sweep."
       },
       {
@@ -105,7 +117,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Michigan Democratic Sen.-elect Abdul El-Sayed suggested Israel must choose between being a Jewish state and a democracy, saying he opposes 'ethno-states' and puts equal rights first."
       },
       {
@@ -117,7 +129,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Unite NY filed 75,000 petitions seeking to bring open primaries to New York City voters, pressing ahead despite opposition from Mayor Zohran Mamdani and City Hall."
       },
       {
@@ -129,7 +141,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "House Minority Leader Hakeem Jeffries on Sunday would not rule out trying to impeach members of the Trump administration once Democrats take control of Congress in January."
       },
       {
@@ -360,18 +372,6 @@
         "summary": "Allies of RNC co-chairwoman KC Crosbie argue the committee mismanaged campaign money during the midterms, using a hair and makeup bill to press their case that the party needs new leadership."
       },
       {
-        "title": "Disgraced Trump official jailed for reckless behavior defended vile speeding crimes he was found guilty of in 'Psychotic' Reddit posts",
-        "rewrite": "Disgraced Trump official jailed for reckless behavior defended vile speeding crimes he was found guilty of...",
-        "url": "https://www.dailymail.com/news/article-16310519/Trump-vance-official-jailed-reckless-driving-reddit.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-21T17:56:56+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Aaron Kofsky, 29, a senior deputy to FHFA director Bill Pulte, spent two nights in jail after being caught driving over 100mph in Virginia, and defended the behavior in several Reddit posts."
-      },
-      {
         "title": "Australia may be headed for recession, former Federal Reserve economist says",
         "rewrite": "Australia may be headed for recession, former Federal Reserve economist says",
         "url": "https://www.abc.net.au/news/2026-11-23/sahm-rule-recession-indicator-australia-november-2026/107408750",
@@ -396,19 +396,31 @@
         "summary": "House Democrats are pushing a $25 minimum wage as an answer to the affordability crisis. Heritage Foundation economist E.J. Antoni warned it could raise costs and unemployment."
       },
       {
-        "title": "Honda, Toyota recall 1.6 million US vehicles over airbag rupture risk",
-        "rewrite": "Honda, Toyota recall 1.6 million US vehicles over airbag rupture risk",
-        "url": "https://www.abc.net.au/news/2026-11-21/honda-toyota-recall-vehicles-over-takata-airbag-rupture-risk/107412768",
-        "source": "ABC News Australia",
-        "published": "2026-11-21T15:42:05+11:00",
+        "title": "How selling off Marmite could leave Unilever open to US takeover swoop",
+        "rewrite": "How selling off Marmite could leave Unilever open to US takeover swoop",
+        "url": "https://www.dailymail.com/money/markets/article-16313251/How-selling-Marmite-leave-Unilever-open-US-takeover-swoop.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-23T01:02:27+11:00",
         "slot": "column",
         "urgent": false,
         "section": "BUSINESS",
-        "is_new": false,
-        "summary": "Honda and Toyota will replace Takata airbag inflators in 1.6 million US cars, trucks and SUVs. They report no crashes or injuries tied to the recalled vehicles, but the inflators have been blamed for at least 28 US deaths and over 400 injuries since 2009."
+        "is_new": true,
+        "summary": "One of Britain's oldest companies is now at risk of becoming a highly attractive bid target, City sources suggest."
       }
     ],
     "center": [
+      {
+        "title": "Trump's Director of National Intelligence squirms as he is pressed over whether Putin is 'a friend' to the USA",
+        "rewrite": "Trump's Director of National Intelligence squirms as he is pressed over whether Putin is 'a friend' to the USA",
+        "url": "https://www.dailymail.com/news/us-politics/article-16313969/Director-National-Intelligence-Trump-Putin-friend.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-23T15:34:51+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "DNI Jay Clayton was pressed on whether Putin is a 'friend' after Trump used the word to describe the Russian leader."
+      },
       {
         "title": "Trump says Iran unleashed missile, drone surge after midterms",
         "rewrite": "Trump says Iran unleashed missile, drone surge after midterms",
@@ -418,7 +430,7 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "summary": "Trump says Iran fired more missiles and drones over the past week than at any point in over a year. He said all of them were shot down and caused no damage."
       },
       {
@@ -430,8 +442,20 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "summary": "Armenia is launching the US-backed 'Trump Route' transit corridor along Iran's border, despite Tehran warning it would 'break their legs' if its red line was crossed."
+      },
+      {
+        "title": "Iran amasses 14 oil tankers at key export hub as Tehran weighs challenge to US blockade: report",
+        "rewrite": "Iran amasses 14 oil tankers at key export hub as Tehran weighs challenge to US blockade: report",
+        "url": "https://nypost.com/2026/11/22/us-news/iran-amasses-14-oil-tankers-at-key-export-hub-as-tehran-weighs-challenge-to-us-blockade-report/",
+        "source": "New York Post",
+        "published": "2026-11-23T04:11:01+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": false,
+        "summary": "More than 14 tankers have gathered at Iran's most important crude export terminal as Tehran tries to get oil flowing again despite the US naval blockade, according to a report cited by the Post. Experts quoted in the story doubted the claim."
       },
       {
         "title": "Zelensky renews pressure on US to provide patriot missiles after latest Russian drone strike",
@@ -516,30 +540,6 @@
         "is_new": false
       },
       {
-        "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-        "rewrite": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-        "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo",
-        "source": "BBC News",
-        "published": "2026-11-21T16:15:41+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "Speaking to CNN, Zelensky said it was up to Trump 'how to call Putin' but 'for us, he is an enemy... he's a killer.' Trump had called Putin his 'friend' on the sidelines of Thursday's trilateral meeting with Xi Jinping in China."
-      },
-      {
-        "title": "Katie Miller reposts then deletes Trump’s ‘whole civilization will die tonight’ warning on Iran",
-        "rewrite": "Katie Miller reposts then deletes Trump's 'whole civilization will die tonight' warning on Iran",
-        "url": "https://www.washingtonexaminer.com/news/white-house/4810903/katie-miller-posts-and-deletes-trump-iran-threat/",
-        "source": "Washington Examiner",
-        "published": "2026-11-21T14:13:19+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "Katie Miller shared a cropped screenshot of Trump's April post threatening that 'a whole civilization will die tonight,' then deleted it; it is unclear why she posted it. The US and Israel are reportedly weighing more strikes as indirect talks with Iran stall."
-      },
-      {
         "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
         "rewrite": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
         "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo",
@@ -552,6 +552,30 @@
         "summary": "Zelensky told the BBC the strikes answer 109 Russian attacks on Ukrainian bridges, rejecting Putin's claim the bridge is 'exclusively civilian' and pointing to images of Russian tanks using it. This week's Ukrainian strikes destroyed the bridge's central road section. UK minister Wes Streeting said he came to Kyiv to show Europe is united behind Ukraine."
       },
       {
+        "title": "Supreme Court dismisses residents' MotoGP challenge",
+        "rewrite": "Supreme Court dismisses residents' MotoGP challenge",
+        "url": "https://www.abc.net.au/news/2026-11-23/sa-supreme-court-dismisses-motogp-case-by-adelaide-residents/107417058",
+        "source": "ABC News Australia",
+        "published": "2026-11-23T15:04:22+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "AUSTRALIA",
+        "is_new": true,
+        "summary": "South Australia's Supreme Court dismissed a residents' group bid to halt the Malinauskas government's MotoGP circuit in Adelaide's eastern parklands. The group says it may appeal; primary works are due to start in December."
+      },
+      {
+        "title": "Lamarre-Condon's defence raises DNA, missing bullet in closing arguments",
+        "rewrite": "Lamarre-Condon's defence raises DNA, missing bullet in closing arguments",
+        "url": "https://www.abc.net.au/news/2026-11-23/beau-lamarre-condon-double-murder-trial-defence-closing-argument/107415790",
+        "source": "ABC News Australia",
+        "published": "2026-11-23T14:43:02+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "AUSTRALIA",
+        "is_new": true,
+        "summary": "Beau Lamarre-Condon's defence began closing submissions in his Supreme Court double murder trial, telling the jury the former police officer may have done 'plenty of foolish things' but that is a long way from a finding of guilt."
+      },
+      {
         "title": "Angus Taylor unleashed: Liberal leader gives fired-up speech about axing Albanese's taxes as poll names him Australia's preferred PM for the first time",
         "rewrite": "Angus Taylor unleashed: Liberal leader gives fired-up speech about axing Albanese's taxes as poll names...",
         "url": "https://www.dailymail.com/news/article-16313965/Angus-Taylor-unleashed-Liberal-leader-gives-fired-speech-axing-Albaneses-taxes-poll-names-Australias-preferred-PM-time.html?ns_campaign=1490",
@@ -560,7 +584,7 @@
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "Opposition Leader Angus Taylor gave a rowdy speech outside Parliament House promising to axe the Albanese government's taxes, as a poll put him ahead as preferred PM for the first time."
       },
       {
@@ -572,7 +596,7 @@
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "The PBS co-payment will be capped at $25 until the end of the decade, a price freeze costing taxpayers an extra $242 million over three years. The PM warned it is among 'limited' cost-of-living relief coming for households."
       },
       {
@@ -600,28 +624,16 @@
         "summary": "The SA government says ElectraNet's claim that 'one-in-2,000-year weather' likely caused the Eyre Peninsula blackout will be examined in its investigation. Power to the peninsula and West Coast was cut on Thursday when two transmission towers collapsed."
       },
       {
-        "title": "Spirit of Tasmania operator told not to use autopilot for entire voyage",
-        "rewrite": "Spirit of Tasmania operator told not to use autopilot for entire voyage",
-        "url": "https://www.abc.net.au/news/2026-11-22/spirit-of-tasmania-ferries-unable-to-use-autopilot/107414328",
-        "source": "ABC News Australia",
-        "published": "2026-11-22T16:11:45+11:00",
+        "title": "Sex creep Ryan Cho's victims weep in court over secret filming in Melbourne hospitals",
+        "rewrite": "Sex creep Ryan Cho's victims weep in court over secret filming in Melbourne hospitals",
+        "url": "https://7news.com.au/news/crime/sex-creep-ryan-chos-victims-weep-in-court-over-secret-filming-in-melbourne-hospitals-c-23201721",
+        "source": "7News Victoria",
+        "published": "2026-11-23T16:55:51+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "summary": "The Australian Maritime Safety Authority has ordered TT-Line to keep both new Spirit of Tasmania ferries in hand steering for the whole Bass Strait crossing while it probes an 'intermittent fault' in Spirit IV's steering system."
-      },
-      {
-        "title": "One Nation rules out deal with Coalition in NSW",
-        "rewrite": "One Nation rules out deal with Coalition in NSW",
-        "url": "https://www.abc.net.au/news/2026-11-22/no-coalition-with-coalition-for-nsw-one-nation-mike-newman-says/107412396",
-        "source": "ABC News Australia",
-        "published": "2026-11-22T07:51:16+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "summary": "NSW One Nation leader Mike Newman told a firearms forum the party 'will never' form a coalition with the Coalition, and vowed to repeal gun laws passed after the Bondi Beach terror attack. He also took aim at Liberal leader Kellie Sloane, who lost an eighth MP last week."
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "Victims told a court their lives had been shattered after the former trainee surgeon secretly filmed more than 800 people in Melbourne hospital bathrooms."
       },
       {
         "title": "Former elite solider fights rape case claiming ‘snoring’ woman gave ‘advanced consent’",
@@ -632,7 +644,7 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "Liam O'Flaherty, 37, is on trial in the County Court accused of raping a woman while she was unconscious in 2021 and 2022 and filming it. His barrister told the jury she had given 'advance consent'; the prosecution relies on videos showing her motionless."
       },
       {
@@ -644,7 +656,7 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "Labor and Coalition law and order policies are under scrutiny after three separate stabbing attacks in Melbourne over the weekend, days out from the Victorian election."
       },
       {
@@ -656,7 +668,7 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "Queensland MP Bob Katter campaigned for independents in north-east Victoria, partly to back his friend, federal independent Helen Haines."
       },
       {
@@ -672,16 +684,39 @@
         "summary": "Labor faces a potentially catastrophic result in the Victorian state election, and federal colleagues are keen to keep their distance. The ABC notes Albanese's run of overseas summits has kept him out of the state."
       },
       {
-        "title": "Emergency fire warning downgraded in Victoria's north-west",
-        "rewrite": "Emergency fire warning downgraded in Victoria's north-west",
-        "url": "https://www.abc.net.au/news/2026-11-22/fire-warning-nandaly-north-west-victoria-emergency-services/107414556",
-        "source": "ABC News Australia",
-        "published": "2026-11-22T17:04:37+11:00",
+        "title": "Market rout kills 50 basis points December Fed rate hike bets",
+        "rewrite": "Market rout kills 50 basis points December Fed rate hike bets",
+        "url": "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets",
+        "source": "CoinDesk",
+        "published": "2026-11-23T15:45:47+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "The warning near Nandaly is now Watch and Act. The fast-moving grassfire started after 3pm about 55km south-east of Ouyen and has burnt around 1,300 hectares, with residents told to keep monitoring conditions."
+        "section": "MARKETS",
+        "is_new": true
+      },
+      {
+        "title": "Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December",
+        "rewrite": "Billionaire Bill Ackman warns Fed will make a rate 'mistake' in December",
+        "url": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession",
+        "source": "Cointelegraph",
+        "published": "2026-11-23T13:47:39+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "MARKETS",
+        "is_new": true,
+        "summary": "Markets and economists widely expect the Fed to raise rates by 25 basis points at its December meeting. Ackman warns more hikes could trigger a recession."
+      },
+      {
+        "title": "Wall Street crashes to correction territory and ASX falls — as it happened",
+        "rewrite": "Wall Street crashes to correction territory and ASX falls — as it happened",
+        "url": "https://www.abc.net.au/news/2026-11-23/asx-markets-business-live-news-november-23/107414602",
+        "source": "ABC News Australia",
+        "published": "2026-11-23T06:43:19+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "MARKETS",
+        "is_new": true,
+        "summary": "Friday's sharp Wall Street sell-off, which pushed the S&P 500 into correction territory, put the ASX under pressure on Monday."
       },
       {
         "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
@@ -692,7 +727,7 @@
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": true,
+        "is_new": false,
         "summary": "Bitcoin briefly plunged to about $17,000 on Kraken's Canadian dollar market. Kraken said all orders were processed correctly, the trades stand, and it found no sign of a breach or compromised accounts."
       },
       {
@@ -716,7 +751,7 @@
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": true,
+        "is_new": false,
         "summary": "Trump blamed the Democrats' midterm win for a brutal week on Wall Street, in which the Nasdaq turned negative for the year and the S&P 500 entered correction territory, and for new Iranian aggression."
       },
       {
@@ -730,18 +765,6 @@
         "section": "MARKETS",
         "is_new": false,
         "summary": "Bitcoin climbed back above $60,000, up more than 9% from an early low of $55,130, its weakest since September 2024. The sell-off wiped out about $1.8 billion in leveraged crypto positions, $1.3 billion of them bullish bets, per CoinGlass. Analysts say a lasting recovery depends on tech stocks stabilising."
-      },
-      {
-        "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
-        "rewrite": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
-        "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
-        "source": "CoinDesk",
-        "published": "2026-11-21T15:10:07+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "MARKETS",
-        "is_new": false,
-        "summary": "Bitcoin fell below $57,000 on Friday, its lowest since September 2024, deepening a bear market from its peak above $126,000 and a 28% quarterly drop. The sell-off spread to tech stocks, gold, copper and Asian shares; analysts cite rising real Treasury yields and a more hawkish Fed."
       }
     ],
     "right": [
@@ -838,7 +861,7 @@
         "slot": "column",
         "urgent": false,
         "section": "TECHNOLOGY",
-        "is_new": true,
+        "is_new": false,
         "summary": "AI workers in San Francisco, the industry's epicentre, say the sector is overheated and fear a crash, even as the boom reshapes the city."
       },
       {
@@ -890,16 +913,40 @@
         "summary": "The appointment follows a string of major outages that hit Microsoft, nationwide air traffic control, JPMorgan Chase, United Airlines and Apple."
       },
       {
-        "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
-        "rewrite": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
-        "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
-        "source": "CoinDesk",
-        "published": "2026-11-21T17:16:42+11:00",
+        "title": "TV star Matt Wright pleads guilty to failing helicopter maintenance duties",
+        "rewrite": "TV star Matt Wright pleads guilty to failing helicopter maintenance duties",
+        "url": "https://www.abc.net.au/news/2026-11-23/matt-wright-court-work-safety-helicopter-flight-hours-helibrook/107414542",
+        "source": "ABC News Australia",
+        "published": "2026-11-23T15:09:31+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false,
-        "summary": "Bitcoin Core shipped fixes on Friday for the bug, which was flagged by Loupe, an open-source scanner from Block's Spiral that uses AI agents to examine bitcoin code."
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "Celebrity crocodile wrangler Matt Wright pleaded guilty to exposing pilots and passengers to a 'serious risk of injury or death' by failing to maintain his helicopter fleet."
+      },
+      {
+        "title": "Don Toliver’s Manchester Concert Evacuated After Suspected Tear Gas Released Into Crowd",
+        "rewrite": "Don Toliver's Manchester Concert Evacuated After Suspected Tear Gas Released Into Crowd",
+        "url": "https://variety.com/2026/music/news/don-toliver-manchester-concert-evacuated-tear-gas-1236955605/",
+        "source": "Variety",
+        "published": "2026-11-23T13:00:46+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "Greater Manchester Police said a substance believed to be tear gas was let off in the crowd near the end of Don Toliver's Sunday show at Co-op Live, which ended in an evacuation."
+      },
+      {
+        "title": "Hailee Steinfeld Confirms ‘Avengers: Doomsday’ Return as Kate Bishop",
+        "rewrite": "Hailee Steinfeld Confirms 'Avengers: Doomsday' Return as Kate Bishop",
+        "url": "https://variety.com/2026/film/news/hailee-steinfeld-avengers-doomsday-kate-bishop-1236955585/",
+        "source": "Variety",
+        "published": "2026-11-23T12:32:26+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "Marvel Studios and Disney Animation announced on Instagram on Sunday that Steinfeld will return as Kate Bishop in 'Avengers: Doomsday.'"
       },
       {
         "title": "Ateez Debuts at No. 1 on Billboard 200 for the Third Time This Year; U2’s ‘Carnaval de Luz’ Bows at No. 4",
@@ -910,7 +957,7 @@
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
+        "is_new": false,
         "summary": "Ateez's 'Golden Hour: Part 6' debuted at No. 1 on the Billboard 200, the K-pop group's third chart-topper this year. U2's 'Carnaval de Luz' entered at No. 4."
       },
       {
@@ -975,17 +1022,17 @@
       }
     ]
   },
-  "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/trump-strikes-iran.jpg",
+  "image_url": "https://media.breitbart.com/media/2026/11/Nov16-26-President-Donald-Trump-boards-Marine-One-wh-flickr-640x335.jpg",
   "counts": {
-    "total": 80,
+    "total": 84,
     "featured": 4,
     "columns": {
       "left": 28,
-      "center": 28,
-      "right": 19
+      "center": 30,
+      "right": 21
     },
-    "feeds_ok": 43,
-    "feeds_failed": 7
+    "feeds_ok": 44,
+    "feeds_failed": 6
   },
-  "image_source_url": "https://www.foxnews.com/politics/trump-warns-new-strikes-against-iran-after-new-year-calls-negotiators-professional-tap-dancers"
+  "image_source_url": "https://www.breitbart.com/politics/2026/11/22/trump-dares-iran-test-hormuz-blockade-bottom-sea/"
 }

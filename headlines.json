@@ -2,9 +2,9 @@
   "title": "THE NEWS REPORT",
   "generated": {
     "date": "Monday, 23 November 2026",
-    "display": "Monday, November 23, 2026  6:27 AM AEDT (Australia/Sydney)",
-    "iso": "2026-11-23T06:27:55.565342+11:00",
-    "time": "6:27 AM AEDT",
+    "display": "Monday, November 23, 2026  12:20 PM AEDT (Australia/Sydney)",
+    "iso": "2026-11-23T12:20:39.867005+11:00",
+    "time": "12:20 PM AEDT",
     "timezone": "Australia/Sydney"
   },
   "lean": "centre-right",
@@ -21,6 +21,18 @@
     "summary": "In exclusive comments to Fox News on Sunday, Trump said he is inclined to order strikes on Iran after the new year if no deal is reached, calling Iran's negotiators 'professional tap dancers' and the talks meaningless. He said Tehran has grown more aggressive since the US elections, while the US naval blockade of Iranian ports holds."
   },
   "featured": [
+    {
+      "title": "Democrats clinch 258 House seats to mark largest majority in over three decades",
+      "rewrite": "Democrats clinch 258 House seats to mark largest majority in over three decades",
+      "url": "https://www.washingtonexaminer.com/news/house/4811677/democrats-258-house-seats-largest-majority-three-decades/",
+      "source": "Washington Examiner",
+      "published": "2026-11-23T06:03:31+11:00",
+      "slot": "featured",
+      "urgent": false,
+      "section": "US",
+      "is_new": false,
+      "summary": "Democrats hold at least 258 House seats to Republicans' 173, with four races still uncalled, the largest majority in over three decades. The marker came when Democrat Chuck Hubbard beat Rep. Virginia Foxx in North Carolina, 48.7% to 48.6%, in a race the AP called Sunday."
+    },
     {
       "title": "Iran amasses 14 oil tankers at key export hub as Tehran weighs challenge to US blockade: report",
       "rewrite": "Iran amasses 14 oil tankers at key export hub as Tehran weighs challenge to US blockade: report",
@@ -56,22 +68,70 @@
       "section": "US",
       "is_new": false,
       "summary": "Mayor Zohran Mamdani said Sunday his office has released 84,000 more previously secret records on air quality and toxic health concerns after the Sept. 11, 2001 attacks on the World Trade Center."
-    },
-    {
-      "title": "Trump on credit card interest rate cap: ‘I would do it’",
-      "rewrite": "Trump on credit card interest rate cap: 'I would do it'",
-      "url": "https://www.washingtonexaminer.com/policy/economy/4811339/trump-credit-card-interest-rate-cap/",
-      "source": "Washington Examiner",
-      "published": "2026-11-22T10:36:28+11:00",
-      "slot": "featured",
-      "urgent": false,
-      "section": "US",
-      "is_new": false,
-      "summary": "Asked on Fox's 'Saturday in America' whether the one-year 10% cap on credit card interest rates he floated in January could be a deal with Democrats, Trump said 'I would do it.' Leading Democratic figures also back a cap."
     }
   ],
   "columns": {
     "left": [
+      {
+        "title": "California forging new alliance with previously unthinkable state: ‘Massive one-two punch’",
+        "rewrite": "California forging new alliance with previously unthinkable state: 'Massive one-two punch'",
+        "url": "https://nypost.com/2026/11/22/us-news/xavier-becerra-eyes-partnership-with-texas-after-democrats-midterm-victories/",
+        "source": "New York Post",
+        "published": "2026-11-23T10:47:37+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "California's governor-elect says years of clashes with Texas could give way to cooperation now that Texas has turned blue, calling a possible alliance a 'massive one-two punch.'"
+      },
+      {
+        "title": "In deep-red Mississippi, ‘millennial cringe’ pays off for Democrat, senator-elect Scott Colom",
+        "rewrite": "In deep-red Mississippi, 'millennial cringe' pays off for Democrat, senator-elect Scott Colom",
+        "url": "https://nypost.com/2026/11/22/us-news/in-deep-red-mississippi-millennial-cringe-pays-off-for-democrat-senator-elect-scott-colom/",
+        "source": "New York Post",
+        "published": "2026-11-23T09:56:56+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Scott Colom won a Mississippi Senate seat, ending a 44-year run of Republican incumbency. The Post says his upbeat, Obama-era style of campaigning typified the Democrats' midterm sweep."
+      },
+      {
+        "title": "Abdul El-Sayed suggests Israel should not be a Jewish state, says he opposes ‘ethno-states’",
+        "rewrite": "Abdul El-Sayed suggests Israel should not be a Jewish state, says he opposes 'ethno-states'",
+        "url": "https://www.foxnews.com/media/abdul-el-sayed-suggests-israel-should-not-be-jewish-state-opposes-ethno-states",
+        "source": "Fox News",
+        "published": "2026-11-23T09:30:13+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Michigan Democratic Sen.-elect Abdul El-Sayed suggested Israel must choose between being a Jewish state and a democracy, saying he opposes 'ethno-states' and puts equal rights first."
+      },
+      {
+        "title": "Group renews push for open primaries in deeply blue NYC, but Mamdani isn’t having it",
+        "rewrite": "Group renews push for open primaries in deeply blue NYC, but Mamdani isn't having it",
+        "url": "https://nypost.com/2026/11/22/us-news/group-renews-push-for-open-primaries-in-deeply-blue-nyc-but-mamdani-isnt-having-it/",
+        "source": "New York Post",
+        "published": "2026-11-23T08:50:03+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Unite NY filed 75,000 petitions seeking to bring open primaries to New York City voters, pressing ahead despite opposition from Mayor Zohran Mamdani and City Hall."
+      },
+      {
+        "title": "Dem House leader Hakeem Jeffries refuses to rule out future impeachment attempts: ‘Hold the crooks accountable’",
+        "rewrite": "Dem House leader Hakeem Jeffries refuses to rule out future impeachment attempts: 'Hold the crooks...",
+        "url": "https://nypost.com/2026/11/22/us-news/hakeem-jeffries-refuses-to-rule-out-future-impeachment-attempts/",
+        "source": "New York Post",
+        "published": "2026-11-23T08:38:38+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "House Minority Leader Hakeem Jeffries on Sunday would not rule out trying to impeach members of the Trump administration once Democrats take control of Congress in January."
+      },
       {
         "title": "El Sayed and Flanagan willing to call Medicare for All ‘TrumpCare’ if president signs off",
         "rewrite": "El Sayed and Flanagan willing to call Medicare for All 'TrumpCare' if president signs off",
@@ -81,7 +141,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Minnesota Sen.-elect Peggy Flanagan has joined Michigan's incoming senator Abdul El-Sayed in courting Trump to back Medicare for All."
       },
       {
@@ -93,7 +153,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Ex-cop says 'Allah told me to do it' when asked why he murdered young woman jogging in New York City",
@@ -104,7 +164,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Sayed Mohassib, accused of killing Brooklyn jogger Katie Suarez, claims he was acting on divine orders and that Allah instructed him to kill a stranger."
       },
       {
@@ -116,7 +176,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "DHS says a passenger threw hot coffee at ICE officers during a Seattle airport arrest of a man who had overstayed his visa. Washington Democrats criticised the operation."
       },
       {
@@ -128,7 +188,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Democrats who won battleground and surprise midterm races, including flips in Texas, South Carolina and Mississippi, are now fielding calls from 2028 presidential hopefuls instead of asking for endorsements themselves."
       },
       {
@@ -140,7 +200,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Campaign filings show Rep. Alexandria Ocasio-Cortez ran up $9,000 in lodging costs on a February trip to Germany, where she pitched herself as a global leader and called for 'material gains for the working class.'"
       },
       {
@@ -190,6 +250,18 @@
         "section": "US",
         "is_new": false,
         "summary": "Michigan's Democratic senator-elect Abdul El-Sayed has pitched a universal healthcare plan branded 'TrumpCare', even using a fake gold card on November 12 to try to win the president over. Trump has now appeared to back the idea."
+      },
+      {
+        "title": "Trump on credit card interest rate cap: ‘I would do it’",
+        "rewrite": "Trump on credit card interest rate cap: 'I would do it'",
+        "url": "https://www.washingtonexaminer.com/policy/economy/4811339/trump-credit-card-interest-rate-cap/",
+        "source": "Washington Examiner",
+        "published": "2026-11-22T10:36:28+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": false,
+        "summary": "Asked on Fox's 'Saturday in America' whether the one-year 10% cap on credit card interest rates he floated in January could be a deal with Democrats, Trump said 'I would do it.' Leading Democratic figures also back a cap."
       },
       {
         "title": "Schumer’s opposition to 2018 Iran nuke deal weaponized in Senate leadership race",
@@ -300,102 +372,6 @@
         "summary": "Aaron Kofsky, 29, a senior deputy to FHFA director Bill Pulte, spent two nights in jail after being caught driving over 100mph in Virginia, and defended the behavior in several Reddit posts."
       },
       {
-        "title": "Woman found dead with neck trauma in NYC apartment building as police arrest person of interest",
-        "rewrite": "Woman found dead with neck trauma in NYC apartment building as police arrest person of interest",
-        "url": "https://nypost.com/2026/11/20/us-news/woman-62-found-dead-with-neck-trauma-in-nyc-apartment-building/",
-        "source": "New York Post",
-        "published": "2026-11-21T13:21:54+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Officers responding to a 911 call at 27 Catherine St. around 3:22 p.m. found the woman unconscious and unresponsive. Police have arrested a person of interest."
-      },
-      {
-        "title": "Mamdani Tore His Achilles Chasing the Ball in Soccer Game Against NYC Press Corps",
-        "rewrite": "Mamdani Tore His Achilles Chasing the Ball in Soccer Game Against NYC Press Corps",
-        "url": "https://www.breitbart.com/politics/2026/11/20/mamdani-tore-his-achilles-chasing-the-ball-in-soccer-game-against-nyc-press-corps/",
-        "source": "Breitbart",
-        "published": "2026-11-21T11:20:01+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Mamdani, 35, tore his right Achilles tendon Thursday night playing soccer against the City Hall press corps and expects to wear a boot for six to eight weeks. He said he had skipped stretching; no one made contact on the play."
-      },
-      {
-        "title": "Locals of Michigan city with largest Muslim population in US call El-Sayed election victory 'needed' change",
-        "rewrite": "Locals of Michigan city with largest Muslim population in US call El-Sayed election victory 'needed' change",
-        "url": "https://www.foxnews.com/media/locals-michigan-city-largest-muslim-population-us-call-el-sayed-election-victory-needed-change",
-        "source": "Fox News",
-        "published": "2026-11-21T10:51:50+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Dearborn residents praised Sen.-elect Abdul El-Sayed's win as the first Muslim American elected to the US Senate, telling Fox News Digital that Michigan 'needed a change.' About half the city's population is Muslim."
-      },
-      {
-        "title": "Boebert’s midterm post-mortem: ‘I think it’s all of it’",
-        "rewrite": "Boebert's midterm post-mortem: 'I think it's all of it'",
-        "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4810647/boebert-midterm-post-mortem-after-clashing-with-trump-and-his-last-minute-endorsement/",
-        "source": "Washington Examiner",
-        "published": "2026-11-21T10:40:50+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Outgoing Rep. Lauren Boebert told the AP that Trump administration policies and congressional stagnation cost her Colorado's 4th District seat, saying gas prices and the Iran war opened a rift between the GOP and working-class voters."
-      },
-      {
-        "title": "Mamdani couldn’t explain how NYC-run grocery stores will afford 30% discounts",
-        "rewrite": "Mamdani couldn't explain how NYC-run grocery stores will afford 30% discounts",
-        "url": "https://nypost.com/2026/11/20/us-news/mamdani-couldnt-explain-how-nyc-run-grocery-stores-will-afford-30-discounts/",
-        "source": "New York Post",
-        "published": "2026-11-21T10:09:07+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Mamdani has promised five publicly funded, privately run stores selling staples at an average 30% below retail. City documents show taxpayers would build them, pay rent and property taxes and cover operators' discount losses; experts doubt the pledge."
-      },
-      {
-        "title": "DeSantis shoots down prospect of sitting on Supreme Court",
-        "rewrite": "DeSantis shoots down prospect of sitting on Supreme Court",
-        "url": "https://www.washingtonexaminer.com/news/supreme-court/4810673/ron-desantis-shoots-down-supreme-court-prospect/",
-        "source": "Washington Examiner",
-        "published": "2026-11-21T09:46:34+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "In a New York Times interview published Friday, outgoing Florida Gov. Ron DeSantis said he doesn't want to 'end up a potted plant on the Supreme Court,' saying he prefers to lead as an executive."
-      },
-      {
-        "title": "Supreme Court sitting on emergency petition over Washington’s transgender sports policies",
-        "rewrite": "Supreme Court sitting on emergency petition over Washington's transgender sports policies",
-        "url": "https://www.washingtonexaminer.com/news/supreme-court/4809943/supreme-court-sitting-on-emergency-petition-over-washington-transgender-sports-policies/",
-        "source": "Washington Examiner",
-        "published": "2026-11-21T08:57:48+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Wrestler Kallie Keeler, represented by Alliance Defending Freedom, filed an emergency petition on Oct. 2 asking the justices to halt Washington's policy letting biological males compete in girls' sports, after two lower courts declined. The court has yet to act, a question complicated by a newly passed ballot measure."
-      },
-      {
-        "title": "Poll: Americans Still Say Most Illegal Aliens Should Be Deported; Only 7% Believe All Should Stay",
-        "rewrite": "Poll: Americans Still Say Most Illegal Aliens Should Be Deported; Only 7% Believe All Should Stay",
-        "url": "https://www.breitbart.com/immigration/2026/11/20/poll-americans-still-say-most-illegal-aliens-should-be-deported-only-7-believe-all-should-stay/",
-        "source": "Breitbart",
-        "published": "2026-11-21T08:35:48+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "An Economist/YouGov post-midterm survey found 51% say most illegal immigrants should be deported (23% all immediately, 28% most with exceptions), while 41% say only those who committed serious crimes should be, and 7% say all should stay."
-      },
-      {
         "title": "Australia may be headed for recession, former Federal Reserve economist says",
         "rewrite": "Australia may be headed for recession, former Federal Reserve economist says",
         "url": "https://www.abc.net.au/news/2026-11-23/sahm-rule-recession-indicator-australia-november-2026/107408750",
@@ -404,7 +380,7 @@
         "slot": "column",
         "urgent": false,
         "section": "BUSINESS",
-        "is_new": true,
+        "is_new": false,
         "summary": "The economist behind a well-known recession indicator says Australia should be wary of rising unemployment."
       },
       {
@@ -416,7 +392,7 @@
         "slot": "column",
         "urgent": false,
         "section": "BUSINESS",
-        "is_new": true,
+        "is_new": false,
         "summary": "House Democrats are pushing a $25 minimum wage as an answer to the affordability crisis. Heritage Foundation economist E.J. Antoni warned it could raise costs and unemployment."
       },
       {
@@ -434,6 +410,30 @@
     ],
     "center": [
       {
+        "title": "Trump says Iran unleashed missile, drone surge after midterms",
+        "rewrite": "Trump says Iran unleashed missile, drone surge after midterms",
+        "url": "https://www.foxnews.com/world/trump-says-iran-unleashed-missile-drone-surge-after-midterms",
+        "source": "Fox News",
+        "published": "2026-11-23T10:33:06+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "Trump says Iran fired more missiles and drones over the past week than at any point in over a year. He said all of them were shot down and caused no damage."
+      },
+      {
+        "title": "Tehran threatens to 'break legs' as 'Trump corridor' prepares to launch on Iran's border",
+        "rewrite": "Tehran threatens to 'break legs' as 'Trump corridor' prepares to launch on Iran's border",
+        "url": "https://www.foxnews.com/world/tehran-threatens-break-legs-trump-corridor-prepares-launch-irans-border",
+        "source": "Fox News",
+        "published": "2026-11-23T09:13:15+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "Armenia is launching the US-backed 'Trump Route' transit corridor along Iran's border, despite Tehran warning it would 'break their legs' if its red line was crossed."
+      },
+      {
         "title": "Zelensky renews pressure on US to provide patriot missiles after latest Russian drone strike",
         "rewrite": "Zelensky renews pressure on US to provide patriot missiles after latest Russian drone strike",
         "url": "https://www.washingtonexaminer.com/news/world/4811591/zelensky-pressure-us-patriot-missiles-russian-strike/",
@@ -442,7 +442,7 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Flavio Bolsonaro claims judge ordered passports seized just 7 minutes after Brazil election loss",
@@ -453,7 +453,7 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "summary": "Flávio Bolsonaro, who lost Brazil's presidential election, alleges election interference by the country's Supreme Court and says his family faces political persecution."
       },
       {
@@ -465,7 +465,7 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "summary": "The new launcher is designed to fire two liquid-fuelled missiles at once, and it is the first time Iran has shown the system publicly."
       },
       {
@@ -540,17 +540,6 @@
         "summary": "Katie Miller shared a cropped screenshot of Trump's April post threatening that 'a whole civilization will die tonight,' then deleted it; it is unclear why she posted it. The US and Israel are reportedly weighing more strikes as indirect talks with Iran stall."
       },
       {
-        "title": "Young Iranian women risk their lives to join underground ballet network",
-        "rewrite": "Young Iranian women risk their lives to join underground ballet network",
-        "url": "https://www.abc.net.au/news/2026-11-21/inside-iran-illegal-underground-dance-ballet-network/107404620",
-        "source": "ABC News Australia",
-        "published": "2026-11-21T13:18:03+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false
-      },
-      {
         "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
         "rewrite": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
         "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo",
@@ -563,40 +552,28 @@
         "summary": "Zelensky told the BBC the strikes answer 109 Russian attacks on Ukrainian bridges, rejecting Putin's claim the bridge is 'exclusively civilian' and pointing to images of Russian tanks using it. This week's Ukrainian strikes destroyed the bridge's central road section. UK minister Wes Streeting said he came to Kyiv to show Europe is united behind Ukraine."
       },
       {
-        "title": "Donald Trump wants Ukraine peace deal by January as he brands Russian missile strike on Poland 'mistake'",
-        "rewrite": "Donald Trump wants Ukraine peace deal by January as he brands Russian missile strike on Poland 'mistake'",
-        "url": "https://www.dailymail.com/news/article-16310391/Trump-Ukraine-peace-deal-January.html?ns_campaign=1490",
+        "title": "Angus Taylor unleashed: Liberal leader gives fired-up speech about axing Albanese's taxes as poll names him Australia's preferred PM for the first time",
+        "rewrite": "Angus Taylor unleashed: Liberal leader gives fired-up speech about axing Albanese's taxes as poll names...",
+        "url": "https://www.dailymail.com/news/article-16313965/Angus-Taylor-unleashed-Liberal-leader-gives-fired-speech-axing-Albaneses-taxes-poll-names-Australias-preferred-PM-time.html?ns_campaign=1490",
         "source": "Daily Mail",
-        "published": "2026-11-21T11:24:32+11:00",
+        "published": "2026-11-23T11:31:41+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "Trump is pressing European leaders to get Kyiv to agree terms with Putin by early in the new year, before he loses control of Congress, according to reports. He appeared to shrug off Russia's strikes on Poland, saying Putin had been 'landing drones in Poland, and a couple of little missiles, by mistake.'"
+        "section": "AUSTRALIA",
+        "is_new": true,
+        "summary": "Opposition Leader Angus Taylor gave a rowdy speech outside Parliament House promising to axe the Albanese government's taxes, as a poll put him ahead as preferred PM for the first time."
       },
       {
-        "title": "Russia open to ‘NATO-like’ status for Ukraine — but only if Putin can keep captured territory: US official",
-        "rewrite": "Russia open to 'NATO-like' status for Ukraine — but only if Putin can keep captured territory: US official",
-        "url": "https://nypost.com/2026/11/20/us-news/russia-open-to-nato-like-status-for-ukraine-but-only-if-putin-can-keep-captured-territory-us-official-2/",
-        "source": "New York Post",
-        "published": "2026-11-21T09:50:36+11:00",
+        "title": "PBS medicines to cost no more than $25 until end of decade",
+        "rewrite": "PBS medicines to cost no more than $25 until end of decade",
+        "url": "https://www.abc.net.au/news/2026-11-23/albanese-cheaper-medicines-pbs-script-cost-of-living/107415508",
+        "source": "ABC News Australia",
+        "published": "2026-11-23T10:43:41+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "A US official said Moscow has signalled it is 'OK' with Ukraine receiving protections similar to NATO's Articles 4 and 5, provided Russia keeps the territory it has captured. The aim would be to get Ukraine 'as close to NATO as possible without the brand.'"
-      },
-      {
-        "title": "Trump: Iran Wants Deal but Not One He’ll Accept — Demands ‘Real Deal,’ Slams 51 Years of ‘Bullsh–ting’",
-        "rewrite": "Trump: Iran Wants Deal but Not One He'll Accept — Demands 'Real Deal,' Slams 51 Years of 'Bullsh–ting'",
-        "url": "https://www.breitbart.com/politics/2026/11/20/trump-iran-wants-deal-but-not-one-hell-accept-demands-real-deal-slams-51-years-of-bullsh-ting/",
-        "source": "Breitbart",
-        "published": "2026-11-21T08:33:04+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "Trump said Friday that Iran wants a deal but not one acceptable to him, accusing Tehran of stringing people along for 51 years. The remarks followed new talks between US envoys and Qatari mediators as Washington keeps its naval blockade of Iran and weighs more strikes."
+        "section": "AUSTRALIA",
+        "is_new": true,
+        "summary": "The PBS co-payment will be capped at $25 until the end of the decade, a price freeze costing taxpayers an extra $242 million over three years. The PM warned it is among 'limited' cost-of-living relief coming for households."
       },
       {
         "title": "Seismic shift in latest Newspoll as voters turn against Anthony Albanese",
@@ -607,7 +584,7 @@
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "Albanese's net approval rating fell to -31 in the latest Newspoll, with 64 per cent of voters dissatisfied with his performance and 33 per cent satisfied."
       },
       {
@@ -647,28 +624,40 @@
         "summary": "NSW One Nation leader Mike Newman told a firearms forum the party 'will never' form a coalition with the Coalition, and vowed to repeal gun laws passed after the Bondi Beach terror attack. He also took aim at Liberal leader Kellie Sloane, who lost an eighth MP last week."
       },
       {
-        "title": "Victoria Point woman waited seven hours for ambulance before death",
-        "rewrite": "Victoria Point woman waited seven hours for ambulance before death",
-        "url": "https://www.abc.net.au/news/2026-11-21/victoria-point-woman-seven-hours-ambulance-before-death/107412858",
-        "source": "ABC News Australia",
-        "published": "2026-11-21T17:18:04+11:00",
+        "title": "Former elite solider fights rape case claiming ‘snoring’ woman gave ‘advanced consent’",
+        "rewrite": "Former elite solider fights rape case claiming 'snoring' woman gave 'advanced consent'",
+        "url": "https://www.theage.com.au/national/victoria/former-elite-solider-fights-rape-case-claiming-snoring-woman-gave-advanced-consent-20261123-p61fxt.html?ref=rss",
+        "source": "The Age",
+        "published": "2026-11-23T11:40:24+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "summary": "The Brisbane woman waited almost seven hours for an ambulance before she died, the latest in a string of 'avoidable deaths' in Queensland."
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "Liam O'Flaherty, 37, is on trial in the County Court accused of raping a woman while she was unconscious in 2021 and 2022 and filming it. His barrister told the jury she had given 'advance consent'; the prosecution relies on videos showing her motionless."
       },
       {
-        "title": "Roos survive Swans scare to book trip to fourth straight AFLW decider",
-        "rewrite": "Roos survive Swans scare to book trip to fourth straight AFLW decider",
-        "url": "https://www.abc.net.au/news/2026-11-21/aflw-preliminary-finals-kangaroos-swans-demons-blues-results/107412906",
+        "title": "Live: Community safety in election focus after violent weekend in Melbourne",
+        "rewrite": "Community safety in election focus after violent weekend in Melbourne",
+        "url": "https://www.abc.net.au/news/2026-11-23/victoria-election-live-updates-labor-lib-campaign/107415730",
         "source": "ABC News Australia",
-        "published": "2026-11-21T16:08:16+11:00",
+        "published": "2026-11-23T10:39:11+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "summary": "North Melbourne advanced to its fourth consecutive AFLW grand final after surviving a stiff test from Sydney at Princes Park."
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "Labor and Coalition law and order policies are under scrutiny after three separate stabbing attacks in Melbourne over the weekend, days out from the Victorian election."
+      },
+      {
+        "title": "Bob Katter throws support behind independents ahead of Victorian election",
+        "rewrite": "Bob Katter throws support behind independents ahead of Victorian election",
+        "url": "https://www.abc.net.au/news/2026-11-23/bob-katter-supports-victoria-independents-election-campaign/107404796",
+        "source": "ABC News Australia",
+        "published": "2026-11-23T10:35:23+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "Queensland MP Bob Katter campaigned for independents in north-east Victoria, partly to back his friend, federal independent Helen Haines."
       },
       {
         "title": "Victorian Labor bracing for poll defeat as Albanese keeps his distance",
@@ -679,7 +668,7 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "Labor faces a potentially catastrophic result in the Victorian state election, and federal colleagues are keen to keep their distance. The ABC notes Albanese's run of overseas summits has kept him out of the state."
       },
       {
@@ -695,40 +684,16 @@
         "summary": "The warning near Nandaly is now Watch and Act. The fast-moving grassfire started after 3pm about 55km south-east of Ouyen and has burnt around 1,300 hectares, with residents told to keep monitoring conditions."
       },
       {
-        "title": "Bellamy to end Storm coaching stint after 2027 NRL season",
-        "rewrite": "Bellamy to end Storm coaching stint after 2027 NRL season",
-        "url": "https://www.abc.net.au/news/2026-11-22/nrl-craig-bellamy-melbourne-storm-coaching-end-2027-season/107414288",
-        "source": "ABC News Australia",
-        "published": "2026-11-22T14:38:37+11:00",
+        "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+        "rewrite": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+        "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand",
+        "source": "Cointelegraph",
+        "published": "2026-11-22T20:33:06+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "Craig Bellamy will leave the Melbourne Storm at the end of the 2027 NRL season, ending a 25-season tenure, the longest in NRL premiership history."
-      },
-      {
-        "title": "Greens win court fight against Prahran independent how to-vote-cards",
-        "rewrite": "Greens win court fight against Prahran independent how to-vote-cards",
-        "url": "https://www.abc.net.au/news/2026-11-22/victorian-greens-win-court-injunction-liberal-labor-pledges/107414054",
-        "source": "ABC News Australia",
-        "published": "2026-11-22T13:12:38+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "The Supreme Court ordered Prahran independent Tosh-Jake Finnigan not to hand out how-to-vote cards imitating the Greens' colours and font. Separately, the Liberals pledged to make Victoria's top prosecutor face annual questioning in parliament."
-      },
-      {
-        "title": "Police investigate three Melbourne stabbings, one fatal",
-        "rewrite": "Police investigate three Melbourne stabbings, one fatal",
-        "url": "https://www.abc.net.au/news/2026-11-22/melbourne-three-stabbings-one-fatal-victoria-police/107413738",
-        "source": "ABC News Australia",
-        "published": "2026-11-22T09:14:31+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "A 21-year-old man died after an alleged stabbing on La Trobe Street in Melbourne's CBD, and three teens have been arrested. Police are also investigating two other stabbings, including one at Bourke Street Mall that injured a 24-year-old man."
+        "section": "MARKETS",
+        "is_new": true,
+        "summary": "Bitcoin briefly plunged to about $17,000 on Kraken's Canadian dollar market. Kraken said all orders were processed correctly, the trades stand, and it found no sign of a breach or compromised accounts."
       },
       {
         "title": "Anthropic stock slides with rest of market after big-ticker IPO",
@@ -741,6 +706,18 @@
         "section": "MARKETS",
         "is_new": false,
         "summary": "Anthropic priced its IPO at $83 a share on Thursday. The stock surged at first, then slid with the broader tech sell-off to end the week, as markets digested Jensen Huang's resignation from Nvidia and Democrats retaking Congress."
+      },
+      {
+        "title": "Trump blames stock market plunge, new Iranian aggression on ‘weak, ineffective’ Democrats’ win",
+        "rewrite": "Trump blames stock market plunge, new Iranian aggression on 'weak, ineffective' Democrats' win",
+        "url": "https://justthenews.com/government/security/trump-blames-stock-market-plunge-new-iranian-aggression-weak-ineffective",
+        "source": "Just the News",
+        "published": "2026-11-22T11:00:00+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "MARKETS",
+        "is_new": true,
+        "summary": "Trump blamed the Democrats' midterm win for a brutal week on Wall Street, in which the Nasdaq turned negative for the year and the S&P 500 entered correction territory, and for new Iranian aggression."
       },
       {
         "title": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open",
@@ -765,18 +742,6 @@
         "section": "MARKETS",
         "is_new": false,
         "summary": "Bitcoin fell below $57,000 on Friday, its lowest since September 2024, deepening a bear market from its peak above $126,000 and a 28% quarterly drop. The sell-off spread to tech stocks, gold, copper and Asian shares; analysts cite rising real Treasury yields and a more hawkish Fed."
-      },
-      {
-        "title": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
-        "rewrite": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
-        "url": "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory",
-        "source": "Fox Business",
-        "published": "2026-11-21T12:28:26+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "MARKETS",
-        "is_new": false,
-        "summary": "The Dow fell nearly 950 points, the S&P 500 dropped 3.7% and the Nasdaq plunged 5.28% on Friday as an AI sell-off pushed the Dow and S&P 500 into correction territory, at least 10% below recent records. Nvidia tumbled about 14% and newly listed Anthropic fell 9%, erasing the Nasdaq's gains for the year."
       }
     ],
     "right": [
@@ -789,7 +754,7 @@
         "slot": "column",
         "urgent": false,
         "section": "UK",
-        "is_new": true,
+        "is_new": false,
         "summary": "Hospitality bosses warn Angela Rayner's guaranteed-hours reforms could raise costs for pubs and become the 'final roadblock' to getting young people into work."
       },
       {
@@ -801,7 +766,7 @@
         "slot": "column",
         "urgent": false,
         "section": "UK",
-        "is_new": true,
+        "is_new": false,
         "summary": "Europe minister Hamish Falconer called Vladimir Putin a 'butcher' after Trump posted an image of the two leaders together with the words 'my friend'."
       },
       {
@@ -865,6 +830,18 @@
         "summary": "The UK's Chief of Defence Intelligence spoke after Russian missiles and drones struck Poland close to where British troops are carrying out drills."
       },
       {
+        "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+        "rewrite": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+        "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o",
+        "source": "BBC News",
+        "published": "2026-11-23T11:08:00+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "TECHNOLOGY",
+        "is_new": true,
+        "summary": "AI workers in San Francisco, the industry's epicentre, say the sector is overheated and fear a crash, even as the boom reshapes the city."
+      },
+      {
         "title": "Chaos strikes California airports as Delta has major outage days before Thanksgiving",
         "rewrite": "Chaos strikes California airports as Delta has major outage days before Thanksgiving",
         "url": "https://nypost.com/2026/11/22/us-news/major-delta-outages-at-california-airports-days-before-thanksgiving/",
@@ -873,7 +850,7 @@
         "slot": "column",
         "urgent": false,
         "section": "TECHNOLOGY",
-        "is_new": true,
+        "is_new": false,
         "summary": "A major Delta Air Lines outage disrupted flights at California's busiest airports on Sunday morning, days before Thanksgiving. Hundreds of flights were also delayed at Atlanta's Hartsfield-Jackson, the world's busiest hub."
       },
       {
@@ -885,7 +862,7 @@
         "slot": "column",
         "urgent": false,
         "section": "TECHNOLOGY",
-        "is_new": true,
+        "is_new": false,
         "summary": "Jay Clayton was pressed on whether the public should prepare for prolonged disruptions after outages hit air traffic control, banks, Microsoft and the National Security Agency."
       },
       {
@@ -925,16 +902,16 @@
         "summary": "Bitcoin Core shipped fixes on Friday for the bug, which was flagged by Loupe, an open-source scanner from Block's Spiral that uses AI agents to examine bitcoin code."
       },
       {
-        "title": "Donald Trump could put billions of UK investment on ice with vow to punish tech giants for overseas data centres",
-        "rewrite": "Donald Trump could put billions of UK investment on ice with vow to punish tech giants for overseas data...",
-        "url": "https://www.gbnews.com/politics/us/donald-trump-data-centres-uk-investment",
-        "source": "GB News",
-        "published": "2026-11-21T09:34:36+11:00",
+        "title": "Ateez Debuts at No. 1 on Billboard 200 for the Third Time This Year; U2’s ‘Carnaval de Luz’ Bows at No. 4",
+        "rewrite": "Ateez Debuts at No. 1 on Billboard 200 for the Third Time This Year; U2's 'Carnaval de Luz' Bows at No. 4",
+        "url": "https://variety.com/2026/music/news/ateez-u2-album-chart-debut-billboard-1236955537/",
+        "source": "Variety",
+        "published": "2026-11-23T10:27:32+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false,
-        "summary": "Trump said tech firms that build large AI data centres in other countries would face a 'tremendous tax', a threat that could stall billions in planned UK investment."
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "Ateez's 'Golden Hour: Part 6' debuted at No. 1 on the Billboard 200, the K-pop group's third chart-topper this year. U2's 'Carnaval de Luz' entered at No. 4."
       },
       {
         "title": "Tom Jackson, Hall of Fame ESPN Broadcaster and Denver Broncos All-Pro Linebacker, Dies at 75",
@@ -945,7 +922,7 @@
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
+        "is_new": false,
         "summary": "Jackson, a former Denver Broncos linebacker and Hall of Fame ESPN analyst, died Friday at 75. ESPN announced his death after being informed by his family."
       },
       {
@@ -995,56 +972,20 @@
         "section": "ENTERTAINMENT",
         "is_new": false,
         "summary": "Ron Howard told People that shooting the 2001 film in sequence at Crowe's request cost the studio an extra $1 million, but called it 'the right kind of investment' given Crowe's performance as mathematician John Nash."
-      },
-      {
-        "title": "E.J. Carroll, ‘Law & Order,’ ‘GTA 5’ and ‘Blue Bloods’ Actor, Dies at 66",
-        "rewrite": "E.J. Carroll, 'Law & Order,' 'GTA 5' and 'Blue Bloods' Actor, Dies at 66",
-        "url": "https://variety.com/2026/tv/news/e-j-carroll-dead-the-deuce-1236954725/",
-        "source": "Variety",
-        "published": "2026-11-21T11:17:59+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "Carroll died suddenly on Thursday, his rep told Variety; no cause of death has been given. His nearly 30-year career included 'The Deuce,' 'Law & Order,' 'Grand Theft Auto V' and Darren Aronofsky's 'The Wrestler.'"
-      },
-      {
-        "title": "CMA Awards See a 55% Ratings Bump in Key Adult Demo With Taylor Swift’s Return to the Show",
-        "rewrite": "CMA Awards See a 55% Ratings Bump in Key Adult Demo With Taylor Swift's Return to the Show",
-        "url": "https://variety.com/2026/music/news/cma-awards-taylor-swift-big-ratings-increase-1236954677/",
-        "source": "Variety",
-        "published": "2026-11-21T10:21:58+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "With Taylor Swift performing at the CMA Awards for the first time in 13 years, the 60th telecast was up 26% in total viewers and 55% among adults 18-49 on last year."
-      },
-      {
-        "title": "‘Hunger Games: Sunrise On The Reaping’ Begins Global Weekend With $76M Running Cume – Update",
-        "rewrite": "'Hunger Games: Sunrise On The Reaping' Begins Global Weekend With $76M Running Cume – Update",
-        "url": "https://deadline.com/2026/11/box-office-global-hunger-games-sunrise-on-the-reaping-1237230714/",
-        "source": "Deadline",
-        "published": "2026-11-21T10:16:11+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "Lionsgate's sixth Hunger Games film reached about $76M worldwide, counting an expected $51M Friday with $21M in previews, already close to the $100.1M global start of 2023's 'The Ballad of Songbirds & Snakes.'"
       }
     ]
   },
   "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/trump-strikes-iran.jpg",
   "counts": {
-    "total": 85,
+    "total": 80,
     "featured": 4,
     "columns": {
-      "left": 30,
-      "center": 29,
-      "right": 21
+      "left": 28,
+      "center": 28,
+      "right": 19
     },
-    "feeds_ok": 44,
-    "feeds_failed": 6
+    "feeds_ok": 43,
+    "feeds_failed": 7
   },
   "image_source_url": "https://www.foxnews.com/politics/trump-warns-new-strikes-against-iran-after-new-year-calls-negotiators-professional-tap-dancers"
 }

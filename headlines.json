@@ -1,73 +1,73 @@
 {
   "title": "THE NEWS REPORT",
   "generated": {
-    "date": "Tuesday, 24 November 2026",
-    "display": "Tuesday, November 24, 2026  6:08 PM AEDT (Australia/Sydney)",
-    "iso": "2026-11-24T18:08:15.927878+11:00",
-    "time": "6:08 PM AEDT",
+    "date": "Wednesday, 25 November 2026",
+    "display": "Wednesday, November 25, 2026  6:08 AM AEDT (Australia/Sydney)",
+    "iso": "2026-11-25T06:08:10.873163+11:00",
+    "time": "6:08 AM AEDT",
     "timezone": "Australia/Sydney"
   },
   "lean": "centre-right",
   "top": {
-    "title": "Critics say it's 'censorship', the Greens are cheering and your algorithm is about to change: What Albanese's new 'digital duty of care' means for you - and free speech in Australia",
-    "rewrite": "Critics say it's 'censorship', the Greens are cheering and your algorithm is about to change: What...",
-    "url": "https://www.dailymail.com/news/article-16316819/australia-digital-duty-care-facebook-tiktok-hanson.html?ns_campaign=1490",
-    "source": "Daily Mail",
-    "published": "2026-11-24T16:25:27+11:00",
+    "title": "DOJ recovers $8B, charges more than 800 suspects in largest anti-scam surge in history",
+    "rewrite": "DOJ recovers $8B, charges more than 800 suspects in largest anti-scam surge in history",
+    "url": "https://www.foxnews.com/politics/doj-recovers-8b-charges-more-than-800-suspects-largest-anti-scam-surge-history",
+    "source": "Fox News",
+    "published": "2026-11-25T03:29:47+11:00",
     "slot": "top",
     "urgent": false,
-    "section": "AUSTRALIA",
-    "is_new": false,
-    "summary": "The Albanese Government struck a deal with the Greens to pass its Digital Duty of Care laws, forcing platforms such as Meta, Google and TikTok to proactively tackle harmful content or face fines of $109 million or up to 5% of global revenue. Users could also opt out of algorithm-driven feeds. The Coalition warned the laws open the door to 'political censorship'."
+    "section": "US",
+    "is_new": true,
+    "summary": "Attorney General Todd Blanche, alongside FBI Director Kash Patel, said prosecutors have charged more than 800 defendants and recovered over $8 billion in intended victim losses. The blitz follows Trump's March executive order on fraud; more than 400 criminal cases have been filed across 85 federal districts."
   },
   "featured": [
     {
-      "title": "Wall Street roars back as Nvidia's Jensen Huang reinstated",
-      "rewrite": "Wall Street roars back as Nvidia's Jensen Huang reinstated",
-      "url": "https://www.abc.net.au/news/2026-11-24/asx-markets-business-news-live-updates-nov-24-2026/107419524",
-      "source": "ABC News Australia",
-      "published": "2026-11-24T07:36:20+11:00",
-      "slot": "featured",
-      "urgent": false,
-      "section": "BUSINESS",
-      "is_new": false,
-      "summary": "Nvidia announced Monday that founder Jensen Huang is back as chief executive, and the S&P 500 jumped 4.7% and the Nasdaq 6.5% on the news. The ASX 200 was up 1.4% in Tuesday trade, with miners leading after an overnight copper rally."
-    },
-    {
-      "title": "Investment Firm Controlled By Trump Commerce Sec’s Sons Celebrates Jensen Huang’s Reinstatement As Nvidia CEO",
-      "rewrite": "Investment Firm Controlled By Trump Commerce Sec's Sons Celebrates Jensen Huang's Reinstatement As Nvidia CEO",
-      "url": "https://dailycaller.com/2026/11/23/howard-lutnick-cantor-fitzgerald-jensen-huang-nvidia",
-      "source": "Daily Caller",
-      "published": "2026-11-24T07:01:46+11:00",
+      "title": "Trump to award Giuliani Presidential Medal of Freedom",
+      "rewrite": "Trump to award Giuliani Presidential Medal of Freedom",
+      "url": "https://www.foxnews.com/politics/trump-award-giuliani-presidential-medal-freedom",
+      "source": "Fox News",
+      "published": "2026-11-25T01:47:59+11:00",
       "slot": "featured",
       "urgent": false,
       "section": "US",
       "is_new": false,
-      "summary": "Cantor Fitzgerald, the firm controlled by Commerce Secretary Howard Lutnick's sons, cheered Nvidia's Monday reinstatement of Huang, who stepped down on Nov. 12 over an alleged affair with a suspected Chinese intelligence asset. A Cantor research note on Nvidia was titled 'All Is Right in the World Again.'"
+      "summary": "Trump was set to present the nation's highest civilian honour to the former New York mayor, 82, at a closed-press White House ceremony on Tuesday. Giuliani said he was 'honored and humbled' and shared the credit with those who worked alongside him."
     },
     {
-      "title": "Trump admin announces sweeping measure to cut Iran’s ‘last financial lifeline’",
-      "rewrite": "Trump admin announces sweeping measure to cut Iran's 'last financial lifeline'",
-      "url": "https://www.foxnews.com/politics/trump-admin-announces-sweeping-measure-cut-iran-last-financial-lifeline",
+      "title": "Brooke Rollins vows to take case to SCOTUS after federal judge blocks her from sending Christmas, Easter messages to staff",
+      "rewrite": "Brooke Rollins vows to take case to SCOTUS after federal judge blocks her from sending Christmas, Easter...",
+      "url": "https://thepostmillennial.com/news/brooke-rollins-vows-to-take-case-to-scotus-after-federal-judge-blocks-her-from-sending-christmas",
+      "source": "The Post Millennial",
+      "published": "2026-11-25T03:28:49+11:00",
+      "slot": "featured",
+      "urgent": false,
+      "section": "US",
+      "is_new": false,
+      "summary": "A federal judge in California ruled last week that the Agriculture Secretary's Christmas and Easter emails to USDA staff, which included Christian messages, went too far under the Establishment Clause. Rollins told Fox & Friends she will fight the ruling 'all the way to the Supreme Court'."
+    },
+    {
+      "title": "Former chief of staff to Pentagon chief Hegseth says 'it’s time for Pete to call it quits': report",
+      "rewrite": "Former chief of staff to Pentagon chief Hegseth says 'it's time for Pete to call it quits': report",
+      "url": "https://www.foxnews.com/politics/former-chief-staff-pentagon-chief-hegseth-says-its-time-pete-call-quits-report",
       "source": "Fox News",
-      "published": "2026-11-24T05:08:49+11:00",
+      "published": "2026-11-24T23:04:20+11:00",
       "slot": "featured",
       "urgent": false,
-      "section": "WORLD",
+      "section": "US",
       "is_new": false,
-      "summary": "Treasury's OFAC sanctioned more than two dozen Iranian exchange houses, front companies and financial operatives accused of moving billions through a 'shadow banking' network spanning Iran, Dubai, Hong Kong and Turkey. Scott Bessent called it 'the last financial lifeline of a bankrupt regime' and vowed to keep dismantling the networks."
+      "summary": "Joe Kasper, Hegseth's chief of staff early in the administration, told Politico it is 'time for Pete to call it quits', saying the Defense Secretary's ability to be effective has been constrained, including in working with Congress on funding."
     },
     {
-      "title": "Democratic congressman Jimmy Gomez resigns as he's accused of sexual misconduct by ex-staffer",
-      "rewrite": "Democratic congressman Jimmy Gomez resigns as he's accused of sexual misconduct by ex-staffer",
-      "url": "https://www.dailymail.com/news/us-politics/article-16316487/Democratic-congressman-Jimmy-Gomez-resigns-hes-accused-sexual-misconduct-ex-staffer.html?ns_campaign=1490",
+      "title": "Critics say it's 'censorship', the Greens are cheering and your algorithm is about to change: What Albanese's new 'digital duty of care' means for you - and free speech in Australia",
+      "rewrite": "Critics say it's 'censorship', the Greens are cheering and your algorithm is about to change: What...",
+      "url": "https://www.dailymail.com/news/article-16316819/australia-digital-duty-care-facebook-tiktok-hanson.html?ns_campaign=1490",
       "source": "Daily Mail",
-      "published": "2026-11-24T09:43:22+11:00",
+      "published": "2026-11-24T16:25:27+11:00",
       "slot": "featured",
       "urgent": false,
-      "section": "UK",
+      "section": "AUSTRALIA",
       "is_new": false,
-      "summary": "California Congressman Jimmy Gomez is leaving Congress as a House Ethics Committee report details allegations that he made unwanted sexual advances toward a congressional staffer."
+      "summary": "The Albanese Government struck a deal with the Greens to pass its Digital Duty of Care laws, forcing platforms such as Meta, Google and TikTok to proactively tackle harmful content or face fines of $109 million or up to 5% of global revenue. Users could also opt out of algorithm-driven feeds. The Coalition warned the laws open the door to 'political censorship'."
     }
   ],
   "columns": {
@@ -81,7 +81,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "image": "https://media.breitbart.com/media/2026/11/june25-24-Rep-Michael-Rulli-R-Ohio-ap-640x335.jpg",
         "summary": "Newly reelected Rep. Michael Rulli (R-OH) is sharing why he believes he won his midterm race when so many of his fellow Republicans did not."
       },
@@ -122,18 +122,6 @@
         "summary": "A Manhattan State Supreme Court issued an order holding the city DOE in contempt after it \"willfully ignored\" two court orders to complete a FOIL request about the firing of teachers who didn't get vaccinated during the COVID-19 outbreak."
       },
       {
-        "title": "Mamdani announces Citi Bike fare freeze for members in deal with Lyft",
-        "rewrite": "Mamdani announces Citi Bike fare freeze for members in deal with Lyft",
-        "url": "https://nypost.com/2026/11/23/us-news/mamdani-announces-citi-bike-fare-freeze-for-members-in-deal-with-lyft/",
-        "source": "New York Post",
-        "published": "2026-11-24T10:18:02+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "The cost saver will only apply for loyal cyclists who already pay $249 for a yearly membership to the Citi Bike app for standard bike rides."
-      },
-      {
         "title": "Outrage after ICE arrest father and daughter at Seattle airport",
         "rewrite": "Outrage after ICE arrest father and daughter at Seattle airport",
         "url": "https://www.bbc.co.uk/news/videos/crd910g5x882o",
@@ -142,9 +130,21 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1167/live/142d5c60-e790-11f1-99a1-253766e7ad8b.jpg",
         "summary": "ICE officers arrested two passengers, a father and daughter, as they were boarding a flight in Seattle on Saturday."
+      },
+      {
+        "title": "Democratic congressman Jimmy Gomez resigns as he's accused of sexual misconduct by ex-staffer",
+        "rewrite": "Democratic congressman Jimmy Gomez resigns as he's accused of sexual misconduct by ex-staffer",
+        "url": "https://www.dailymail.com/news/us-politics/article-16316487/Democratic-congressman-Jimmy-Gomez-resigns-hes-accused-sexual-misconduct-ex-staffer.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-24T09:43:22+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": false,
+        "summary": "California Congressman Jimmy Gomez is leaving Congress as a House Ethics Committee report details allegations that he made unwanted sexual advances toward a congressional staffer."
       },
       {
         "title": "Catholic schools ask Supreme Court to strike Maine’s effort to ‘outmaneuver’ past public funding ruling",
@@ -157,18 +157,6 @@
         "section": "US",
         "is_new": false,
         "summary": "The Supreme Court has been urged to intervene in a legal saga between religious schools and Maine over access to the state’s tuition assistance program, as a group of Catholic schools accuses Maine of rewriting its laws to get around a landmark 2022 Supreme Court ruling."
-      },
-      {
-        "title": "Woke NYC mayor dodges question when asked whether judge should have freed serial criminal accused of killing woman, 62, in her home the day after his latest release",
-        "rewrite": "Woke NYC mayor dodges question when asked whether judge should have freed serial criminal accused of...",
-        "url": "https://www.dailymail.com/news/article-16316279/Mamdani-dodges-question-serial-criminal-killing-woman.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-24T09:05:24+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Mayor Zohran Mamdani was left squirming Monday, evading answering why a serial offender was allowed back onto the streets - hours before raping and killing a 62-year-old woman."
       },
       {
         "title": "Justice Alito offers dire outlook on the Supreme Court",
@@ -205,6 +193,18 @@
         "section": "US",
         "is_new": false,
         "summary": "Maria Middleton, who died in 2020, moved one step closer to sainthood last week when the U.S. Conference of Catholic Bishops voted to advance her cause for beatification and canonization."
+      },
+      {
+        "title": "Investment Firm Controlled By Trump Commerce Sec’s Sons Celebrates Jensen Huang’s Reinstatement As Nvidia CEO",
+        "rewrite": "Investment Firm Controlled By Trump Commerce Sec's Sons Celebrates Jensen Huang's Reinstatement As Nvidia CEO",
+        "url": "https://dailycaller.com/2026/11/23/howard-lutnick-cantor-fitzgerald-jensen-huang-nvidia",
+        "source": "Daily Caller",
+        "published": "2026-11-24T07:01:46+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": false,
+        "summary": "Cantor Fitzgerald, the firm controlled by Commerce Secretary Howard Lutnick's sons, cheered Nvidia's Monday reinstatement of Huang, who stepped down on Nov. 12 over an alleged affair with a suspected Chinese intelligence asset. A Cantor research note on Nvidia was titled 'All Is Right in the World Again.'"
       },
       {
         "title": "AOC's $12K luxury Germany trip exposed: Splurges on five-star hotels and private drivers while preaching working-class values",
@@ -255,16 +255,28 @@
         "summary": "Sen. John Kennedy (R-LA) is demanding answers from Commerce Secretary Howard Lutnick over claims he let Nvidia sidestep export controls on China, as a feud between Lutnick and Treasury Secretary Scott Bessent exposes divisions in the administration."
       },
       {
-        "title": "Former Hegseth chief of staff calls for his resignation",
-        "rewrite": "Former Hegseth chief of staff calls for his resignation",
-        "url": "https://justthenews.com/government/security/ex-hegseth-chief-staff-calls-his-resignation",
-        "source": "Just the News",
-        "published": "2026-11-23T11:00:00+11:00",
+        "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+        "rewrite": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+        "url": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
+        "source": "CNBC",
+        "published": "2026-11-25T05:28:33+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "A former chief of staff to Pete Hegseth called for the Defense Secretary to resign. Hegseth has drawn scrutiny from both parties over his shake-ups of the military's top brass and his handling of the Iran war."
+        "section": "BUSINESS",
+        "is_new": true,
+        "summary": "Co-founders of the prediction market platform were slated to appear in a state district court in December."
+      },
+      {
+        "title": "World Cup drove profits surge, says Marston's",
+        "rewrite": "World Cup drove profits surge, says Marston's",
+        "url": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo",
+        "source": "BBC News",
+        "published": "2026-11-25T00:03:20+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "BUSINESS",
+        "is_new": true,
+        "summary": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%."
       },
       {
         "title": "Amid Rising GDP, Families Still Feeling Squeezed",
@@ -289,21 +301,45 @@
         "section": "BUSINESS",
         "is_new": false,
         "summary": "Capita shares plunged 70% and its boss quit after delays to public sector pension payments in a civil service scheme the company has run since last year."
-      },
-      {
-        "title": "Australia may be headed for recession, former Federal Reserve economist says",
-        "rewrite": "Australia may be headed for recession, former Federal Reserve economist says",
-        "url": "https://www.abc.net.au/news/2026-11-23/sahm-rule-recession-indicator-australia-november-2026/107408750",
-        "source": "ABC News Australia",
-        "published": "2026-11-23T05:00:00+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "BUSINESS",
-        "is_new": false,
-        "summary": "The economist behind a well-known recession indicator says Australia should be wary of rising unemployment."
       }
     ],
     "center": [
+      {
+        "title": "Zelensky says US is aligned with Putin and criticizes Washington for Patriot missile delays",
+        "rewrite": "Zelensky says US is aligned with Putin and criticizes Washington for Patriot missile delays",
+        "url": "https://www.washingtonexaminer.com/news/world/4813814/zelensky-us-aligned-putin-criticizes-patriot-missile-delay/",
+        "source": "Washington Examiner",
+        "published": "2026-11-25T05:51:26+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "Ukrainian President Volodymyr Zelensky is amping up his pressure on the United States to increase support for his country, saying the Trump administration is “putting itself in a very unpleasant situation” by not sending more Patriot missiles to Kyiv. “Putin is counting on breaking Ukraine. Kyiv, Dnipro, Odesa, Kharkiv, Zaporizhzhia – these cities above all."
+      },
+      {
+        "title": "Ex- Ukraine prosecutor general accuses Zelenskyy's office of interfering in anti-corruption investigation",
+        "rewrite": "Ex- Ukraine prosecutor general accuses Zelenskyy's office of interfering in anti-corruption investigation",
+        "url": "https://www.foxnews.com/world/ex-ukraine-prosecutor-general-accuses-zelenskyys-office-interfering-anti-corruption-investigation",
+        "source": "Fox News",
+        "published": "2026-11-25T02:42:34+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "Former prosecutor general Ruslan Kravchenko alleges political interference, while Zelenskyy defended his removal and anti-corruption agencies rejected the accusations."
+      },
+      {
+        "title": "Houthis Claim Attack on Major Saudi Oil Refinery",
+        "rewrite": "Houthis Claim Attack on Major Saudi Oil Refinery",
+        "url": "https://www.breitbart.com/national-security/2026/11/24/houthis-claim-attack-on-major-saudi-oil-refinery/",
+        "source": "Breitbart",
+        "published": "2026-11-25T01:37:06+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "The Iran-backed Houthi insurgents of Yemen on Sunday claimed an attack on Petro Rabigh, a major oil refinery and petrochemical complex on the Red Sea coast of Saudi Arabia."
+      },
       {
         "title": "Report: JD Vance Meets with Qatari Leaders on Stalled Iran Negotiations",
         "rewrite": "Report: JD Vance Meets with Qatari Leaders on Stalled Iran Negotiations",
@@ -313,7 +349,7 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "summary": "Vice President JD Vance met with Qatar’s prime minister Monday as the Gulf nation pressed Washington and Tehran to return to negotiations over the war with Iran."
       },
       {
@@ -325,7 +361,7 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "summary": "NATO Secretary-General Mark Rutte warned Russia's war machine runs at full speed and could threaten Europe long after the war in Ukraine ends."
       },
       {
@@ -351,6 +387,18 @@
         "section": "WORLD",
         "is_new": false,
         "summary": "Gadi Eisenkot, the former IDF chief asked to form Israel's next government, said Iran poses no immediate threat needing action before a government is formed, drawing a sharp response from caretaker PM Benjamin Netanyahu as Trump weighs renewed strikes."
+      },
+      {
+        "title": "Trump admin announces sweeping measure to cut Iran’s ‘last financial lifeline’",
+        "rewrite": "Trump admin announces sweeping measure to cut Iran's 'last financial lifeline'",
+        "url": "https://www.foxnews.com/politics/trump-admin-announces-sweeping-measure-cut-iran-last-financial-lifeline",
+        "source": "Fox News",
+        "published": "2026-11-24T05:08:49+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": false,
+        "summary": "Treasury's OFAC sanctioned more than two dozen Iranian exchange houses, front companies and financial operatives accused of moving billions through a 'shadow banking' network spanning Iran, Dubai, Hong Kong and Turkey. Scott Bessent called it 'the last financial lifeline of a bankrupt regime' and vowed to keep dismantling the networks."
       },
       {
         "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
@@ -386,7 +434,7 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "summary": "Volodymyr Zelenskyy shared video of Ukraine's naval drones sinking Russia's corvette Merkury off Libya, as peace talks resume after a nine-month pause."
       },
       {
@@ -402,18 +450,6 @@
         "summary": "DNI Jay Clayton was pressed on whether Putin is a 'friend' after Trump used the word to describe the Russian leader."
       },
       {
-        "title": "Trump says Iran unleashed missile, drone surge after midterms",
-        "rewrite": "Trump says Iran unleashed missile, drone surge after midterms",
-        "url": "https://www.foxnews.com/world/trump-says-iran-unleashed-missile-drone-surge-after-midterms",
-        "source": "Fox News",
-        "published": "2026-11-23T10:33:06+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "Trump says Iran fired more missiles and drones over the past week than at any point in over a year. He said all of them were shot down and caused no damage."
-      },
-      {
         "title": "'Too much is at stake': Historic media, arts and entertainment coalition issues powerful call to Anthony Albanese: Don't water down Australia's copyright laws for the AI giants",
         "rewrite": "'Too much is at stake': Historic media, arts and entertainment coalition issues powerful call to Anthony...",
         "url": "https://www.dailymail.com/news/article-16316953/Not-AIs-Coalition-Daily-Mail.html?ns_campaign=1490",
@@ -422,7 +458,7 @@
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "A coalition of Australia's leading media, arts and entertainment companies - including Daily Mail - launched a campaign calling on the Government not to water down copyright protections."
       },
       {
@@ -487,6 +523,18 @@
         "summary": "The PBS co-payment will be capped at $25 until the end of the decade, a price freeze costing taxpayers an extra $242 million over three years. The PM warned it is among 'limited' cost-of-living relief coming for households."
       },
       {
+        "title": "How Victoria's election landscape could shape One Nation's fortunes",
+        "rewrite": "How Victoria's election landscape could shape One Nation's fortunes",
+        "url": "https://www.abc.net.au/news/2026-11-25/vic-election-one-nation-how-many-seats-could-they-win/107419866",
+        "source": "ABC News Australia",
+        "published": "2026-11-25T05:12:54+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "As Liberal leader Jess Wilson's political prospects firm, the chances of a One Nation wipeout in Victoria's lower house are receding. But pockets of opportunity remain for the resurgent party."
+      },
+      {
         "title": "Man acquitted of murdering Melbourne photographer due to psychotic illness",
         "rewrite": "Man acquitted of murdering Melbourne photographer due to psychotic illness",
         "url": "https://www.abc.net.au/news/2026-11-24/man-acquitted-mental-health-dominic-obrien-photographer/107422392",
@@ -495,7 +543,7 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "A former immigration detainee who bashed a 62-year-old news photographer to death has been acquitted of murder on mental health grounds."
       },
       {
@@ -507,7 +555,7 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "Saints College offers young people aged 12 to 25 an alternative to mainstream education, often providing assistance to the state's most vulnerable and marginalised children."
       },
       {
@@ -536,19 +584,6 @@
         "summary": "Potholes are set to be front of mind for some voters in the upcoming state election, but what are the parties proposing to fix the problem and will it be enough to restore Victoria's roads?"
       },
       {
-        "title": "One Nation candidate spreads Dezi Freeman conspiracy, anti-Muslim rhetoric",
-        "rewrite": "One Nation candidate spreads Dezi Freeman conspiracy, anti-Muslim rhetoric",
-        "url": "https://www.theage.com.au/national/victoria/one-nation-candidate-spread-dezi-freeman-conspiracy-anti-muslim-rhetoric-20261123-p61gh5.html?ref=rss",
-        "source": "The Age",
-        "published": "2026-11-23T19:30:00+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "One Nation is standing by its Williamstown candidate despite her threatening to fight a 'civil war' over vaccines and calling police 'corrupt and evil'.",
-        "image": "https://static.ffx.io/images/$zoom_0.9806%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_6/t_crop_custom/q_86%2Cf_auto/3cac0e3d04281827db0d0295309b008123473955"
-      },
-      {
         "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
         "rewrite": "Ethereum Foundation doubles protocol security team ahead of overhaul",
         "url": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul",
@@ -570,7 +605,32 @@
         "urgent": false,
         "section": "MARKETS",
         "is_new": false,
-        "summary": "The S&P 500 and Nasdaq Composite rose in their best sessions since April 2025 as Nvidia shares surged on Jensen Huang's return to the chip giant."
+        "summary": "The S&P 500 and Nasdaq Composite rose in their best sessions since April 2025 as Nvidia shares surged on Jensen Huang's return to the chip giant.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108447197-1792682617949-gettyimages-2301325199-3h4a6821_7uqxvgux.jpeg?v=1792682661&w=1920&h=1080"
+      },
+      {
+        "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+        "rewrite": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+        "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+        "source": "CNBC",
+        "published": "2026-11-24T08:00:01+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "MARKETS",
+        "is_new": true,
+        "summary": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027."
+      },
+      {
+        "title": "Wall Street roars back as Nvidia's Jensen Huang reinstated",
+        "rewrite": "Wall Street roars back as Nvidia's Jensen Huang reinstated",
+        "url": "https://www.abc.net.au/news/2026-11-24/asx-markets-business-news-live-updates-nov-24-2026/107419524",
+        "source": "ABC News Australia",
+        "published": "2026-11-24T07:36:20+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "MARKETS",
+        "is_new": false,
+        "summary": "Nvidia announced Monday that founder Jensen Huang is back as chief executive, and the S&P 500 jumped 4.7% and the Nasdaq 6.5% on the news. The ASX 200 was up 1.4% in Tuesday trade, with miners leading after an overnight copper rally."
       },
       {
         "title": "Bitcoin rebound already losing steam as AI trade returns with a bang",
@@ -607,32 +667,34 @@
         "section": "MARKETS",
         "is_new": false,
         "summary": "Nvidia rose 30% after its board reinstated Jensen Huang as president, CEO and director, lifting the Nasdaq about 6%, while bitcoin gained only modestly."
-      },
-      {
-        "title": "Market rout kills 50 basis points December Fed rate hike bets",
-        "rewrite": "Market rout kills 50 basis points December Fed rate hike bets",
-        "url": "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets",
-        "source": "CoinDesk",
-        "published": "2026-11-23T15:45:47+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "MARKETS",
-        "is_new": false
-      },
-      {
-        "title": "Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December",
-        "rewrite": "Billionaire Bill Ackman warns Fed will make a rate 'mistake' in December",
-        "url": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession",
-        "source": "Cointelegraph",
-        "published": "2026-11-23T13:47:39+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "MARKETS",
-        "is_new": false,
-        "summary": "Markets and economists widely expect the Fed to raise rates by 25 basis points at its December meeting. Ackman warns more hikes could trigger a recession."
       }
     ],
     "right": [
+      {
+        "title": "Woman screamed 'Help me!' as stranger with black eye put her in chokehold and tried to rape her in In-N-Out Burger bathroom... until good Samaritans saved her",
+        "rewrite": "Woman screamed 'Help me!' as stranger with black eye put her in chokehold and tried to rape her in...",
+        "url": "https://www.dailymail.com/news/article-16318091/Woman-screamed-stranger-rape-N-saved-her.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-25T02:44:50+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "UK",
+        "is_new": true,
+        "summary": "Vancouver Police arrested Matthew Lewellen, 39, on Sunday after receiving reports of a disturbance at the In-N-Out."
+      },
+      {
+        "title": "British police arrest two men suspected of breaking into Prince William and Kate Middleton’s country home",
+        "rewrite": "British police arrest two men suspected of breaking into Prince William and Kate Middleton's country home",
+        "url": "https://www.washingtonexaminer.com/news/crime/4813512/british-police-arrest-men-breaking-into-prince-william-home/",
+        "source": "Washington Examiner",
+        "published": "2026-11-25T02:02:30+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "UK",
+        "is_new": true,
+        "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP25189430399209.jpg?resize=1200,683",
+        "summary": "William, Kate, and their three children were not at the property at the time of the incident, according to Kensington Palace."
+      },
       {
         "title": "Ian Huntley's fellow inmate 'plotted Soham killer's alleged murder weeks before fatal attack'",
         "rewrite": "Ian Huntley's fellow inmate 'plotted Soham killer's alleged murder weeks before fatal attack'",
@@ -658,28 +720,16 @@
         "summary": "EU rules could force Britons to pay extra for making tea during TV ad breaks, it has been reported, as Andy Burnham's EU summit on Friday is tipped to add up to £17 billion to the economy."
       },
       {
-        "title": "Angela Rayner could put 'final roadblock in supporting young people into work', says Greene King boss",
-        "rewrite": "Angela Rayner could put 'final roadblock in supporting young people into work', says Greene King boss",
-        "url": "https://www.gbnews.com/politics/angela-rayner-young-people-work-greene-king-boss-employment-rights-act",
-        "source": "GB News",
-        "published": "2026-11-23T05:54:22+11:00",
+        "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+        "rewrite": "Faisal Islam: Fears over the AI boom haven't gone away",
+        "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o",
+        "source": "BBC News",
+        "published": "2026-11-25T05:21:43+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "UK",
-        "is_new": false,
-        "summary": "Hospitality bosses warn Angela Rayner's guaranteed-hours reforms could raise costs for pubs and become the 'final roadblock' to getting young people into work."
-      },
-      {
-        "title": "'Putin is a butcher': Cabinet minister hits out at Trump over 'my friend' post after summit with Russian president and China's Xi",
-        "rewrite": "'Putin is a butcher': Cabinet minister hits out at Trump over 'my friend' post after summit with Russian...",
-        "url": "https://www.dailymail.com/news/article-16312959/Putin-Cabinet-minister-Trump-friend-summit-Russia-China.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-23T04:22:03+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "UK",
-        "is_new": false,
-        "summary": "Europe minister Hamish Falconer called Vladimir Putin a 'butcher' after Trump posted an image of the two leaders together with the words 'my friend'."
+        "section": "TECHNOLOGY",
+        "is_new": true,
+        "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it"
       },
       {
         "title": "Iran believed to have launched dozens of cyber attacks and bomb threats against nearly 50 tankers as Tehran ramps up terror plots",
@@ -754,16 +804,40 @@
         "summary": "The FBI warned that the ARTEX AI hacking tool can give criminals privileged access in under three hours, targeting Microsoft 365 and financial firms."
       },
       {
-        "title": "Speaker-elect Jeffries wants national defense bill to bar sale of restricted AI chips to China",
-        "rewrite": "Speaker-elect Jeffries wants national defense bill to bar sale of restricted AI chips to China",
-        "url": "https://justthenews.com/nation/states/center-square/jeffries-demands-national-defense-bill-bar-sale-restricted-ai-chips",
-        "source": "Just the News",
-        "published": "2026-11-23T11:00:00+11:00",
+        "title": "Kevin Kline Reunites With Meryl Streep in ‘The Corrections’ Series at Netflix",
+        "rewrite": "Kevin Kline Reunites With Meryl Streep in 'The Corrections' Series at Netflix",
+        "url": "https://variety.com/2026/tv/news/kevin-kline-meryl-streep-the-corrections-series-netflix-1236957061/",
+        "source": "Variety",
+        "published": "2026-11-25T06:00:00+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "TECHNOLOGY",
+        "section": "ENTERTAINMENT",
         "is_new": true,
-        "summary": "House Minority Leader Hakeem Jeffries, D-N.Y., who is set to become majority leader in January, called the Nvidia board’s decision “indefensible, irresponsible and incomprehensible” in a statement Monday."
+        "summary": "Kevin Kline will star opposite Meryl Streep in the Netflix limited series adaptation of “The Corrections,” Variety has learned. Based on the novel of the same name by Jonathan Franzen, the series was originally announced with Streep attached back in April."
+      },
+      {
+        "title": "MS NOW Hosts ‘Disappointed’ Management Has Yet to Reach WGA Union Deal Guaranteeing ‘Fair Wages’; Network Boss Rebecca Kutler Responds to Accusations",
+        "rewrite": "MS NOW Hosts 'Disappointed' Management Has Yet to Reach WGA Union Deal Guaranteeing 'Fair Wages'; Network...",
+        "url": "https://variety.com/2026/tv/news/ms-now-hosts-disappointed-wga-union-deal-rebecca-kutler-memo-1236957154/",
+        "source": "Variety",
+        "published": "2026-11-25T05:56:56+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "Rachel Maddow and more than a dozen other MS NOW on-air hosts issued a public letter urging parent company Versant Media to reach a new deal with unionized employees affiliated with WGA East that ensures “fair wages and protections,” before their previous agreement expires Dec. 3."
+      },
+      {
+        "title": "‘Aquamarine’ TV Series Greenlit at Disney+, Disney Channel",
+        "rewrite": "'Aquamarine' TV Series Greenlit at Disney+, Disney Channel",
+        "url": "https://variety.com/2026/tv/news/aquamarine-tv-series-disney-plus-emma-roberts-jake-mcdorman-1236957019/",
+        "source": "Variety",
+        "published": "2026-11-25T05:30:00+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "Disney has officially picked up the series adaptation of “Aquamarine,” Variety has learned. The live-action series will air on both Disney Channel and Disney+. It was originally announced with a pilot order back in June."
       },
       {
         "title": "Hila Klein Exits ‘H3 Podcast’ Following Ethan Klein Affair: ‘I’m Devastated That Things Have Come to This’",
@@ -774,7 +848,7 @@
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
+        "is_new": false,
         "summary": "Hila Klein is officially exiting the “H3 Podcast” a month after it was revealed that her co-host and husband, Ethan Klein, had been having a six-month affair. The news follows Hila’s October announcement that the show would be on an “indefinite hiatus” amid the scandal’s fallout."
       },
       {
@@ -786,20 +860,8 @@
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
-        "summary": "The ABC strategy, announced today by managing director Hugh Marks, focuses on creating distinctive, live and local content. The ABC will discontinue its ABC Entertains channel and invest more in YouTube content creation."
-      },
-      {
-        "title": "Zosia Mamet Slams ‘Mad Men’ Boss Matthew Weiner as ‘Horrible’ Because He ‘Rules With Fear’: ‘He Dressed Me Down for 45 Minutes’",
-        "rewrite": "Zosia Mamet Slams 'Mad Men' Boss Matthew Weiner as 'Horrible' Because He 'Rules With Fear': 'He Dressed Me...",
-        "url": "https://variety.com/2026/tv/news/zosia-mamet-mad-men-matthew-weiner-1236956628/",
-        "source": "Variety",
-        "published": "2026-11-24T11:48:48+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
         "is_new": false,
-        "summary": "Zosia Mamet recently revealed that her “absolutely horrible” experience working with showrunner and producer Matthew Weiner on the set of “Mad Men” caused her to quit the series after just five episodes."
+        "summary": "The ABC strategy, announced today by managing director Hugh Marks, focuses on creating distinctive, live and local content. The ABC will discontinue its ABC Entertains channel and invest more in YouTube content creation."
       },
       {
         "title": "‘Michael’ Director Antoine Fuqua Accused of Assault, Battery by L.A. Bar Manager",
@@ -824,30 +886,18 @@
         "section": "ENTERTAINMENT",
         "is_new": false,
         "summary": "Spielberg will adapt Kevin Barry's novel 'The Heart in Winter' for Focus Features from a Paul Thomas Anderson script, with Jessie Buckley, Cillian Murphy and Mark Rylance starring."
-      },
-      {
-        "title": "‘The Secret Lives of Mormon Wives: Orange County’ Renewed for Season 2 at Hulu",
-        "rewrite": "'The Secret Lives of Mormon Wives: Orange County' Renewed for Season 2 at Hulu",
-        "url": "https://variety.com/2026/tv/news/secret-lives-of-mormon-wives-orange-county-renewed-season-2-1236954749/",
-        "source": "Variety",
-        "published": "2026-11-24T05:00:00+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "Hulu renewed 'The Secret Lives of Mormon Wives: Orange County' for a 20-episode second season after a successful first run."
       }
     ]
   },
-  "image_url": "https://live-production.wcms.abc-cdn.net.au/243afdeb72b57081273fdf917bd143e4?impolicy=wcms_watermark_news&cropH=1689&cropW=3000&xPos=0&yPos=308&width=862&height=485&imformat=generic",
-  "image_source_url": "https://www.abc.net.au/news/2026-11-24/asx-markets-business-news-live-updates-nov-24-2026/107419524",
+  "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/todd-blanche-kash-patel-doj-presser.jpg",
+  "image_source_url": "https://www.foxnews.com/politics/doj-recovers-8b-charges-more-than-800-suspects-largest-anti-scam-surge-history",
   "counts": {
-    "total": 68,
+    "total": 72,
     "featured": 4,
     "columns": {
       "left": 19,
-      "center": 27,
-      "right": 17
+      "center": 30,
+      "right": 18
     },
     "feeds_ok": 44,
     "feeds_failed": 6

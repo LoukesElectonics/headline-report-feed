@@ -2,48 +2,48 @@
   "title": "THE NEWS REPORT",
   "generated": {
     "date": "Wednesday, 25 November 2026",
-    "display": "Wednesday, November 25, 2026  12:22 PM AEDT (Australia/Sydney)",
-    "iso": "2026-11-25T12:22:04.254865+11:00",
-    "time": "12:22 PM AEDT",
+    "display": "Wednesday, November 25, 2026  6:25 PM AEDT (Australia/Sydney)",
+    "iso": "2026-11-25T18:25:32.044413+11:00",
+    "time": "6:25 PM AEDT",
     "timezone": "Australia/Sydney"
   },
   "lean": "centre-right",
   "top": {
-    "title": "Inflation rises more than expected to 4.9pc in year to October",
-    "rewrite": "Inflation rises more than expected to 4.9pc in year to October",
-    "url": "https://www.abc.net.au/news/2026-11-25/abs-october-cpi-inflation-rises-year-/107424668",
-    "source": "ABC News Australia",
-    "published": "2026-11-25T11:42:21+11:00",
+    "title": "Trump Says Toppling Iran’s Regime Is ‘Probably Doable’ but Not His Goal",
+    "rewrite": "Trump Says Toppling Iran's Regime Is 'Probably Doable' but Not His Goal",
+    "url": "https://www.breitbart.com/politics/2026/11/24/trump-says-toppling-irans-regime-is-probably-doable-but-not-his-goal/",
+    "source": "Breitbart",
+    "published": "2026-11-25T16:01:58+11:00",
     "slot": "top",
     "urgent": false,
-    "section": "BUSINESS",
+    "section": "WORLD",
     "is_new": false,
-    "summary": "The consumer price index rose 0.5 per cent in October, lifting annual inflation to 4.9 per cent, the Australian Bureau of Statistics said, a hotter result than expected and up on the previous month. The Reserve Bank already forecasts inflation to stay outside its target band for another year."
+    "summary": "In an Oval Office interview with the New York Post, Trump said Israel's goal of overthrowing Iran's Islamic regime is 'probably doable' but that regime change was never his objective; his priority is stopping Tehran from getting a nuclear weapon. He also said the military campaign is funded through January."
   },
   "featured": [
     {
-      "title": "Trump administration weighs targeting Iran's top regime leaders in bid to end war: report",
-      "rewrite": "Trump administration weighs targeting Iran's top regime leaders in bid to end war: report",
-      "url": "https://www.foxnews.com/world/trump-administration-weighs-targeting-irans-top-regime-leaders-bid-end-war-report",
-      "source": "Fox News",
-      "published": "2026-11-25T11:36:01+11:00",
+      "title": "Inflation rises more than expected to 4.9pc in year to October",
+      "rewrite": "Inflation rises more than expected to 4.9pc in year to October",
+      "url": "https://www.abc.net.au/news/2026-11-25/abs-october-cpi-inflation-rises-year-/107424668",
+      "source": "ABC News Australia",
+      "published": "2026-11-25T11:42:21+11:00",
       "slot": "featured",
       "urgent": false,
-      "section": "WORLD",
+      "section": "BUSINESS",
       "is_new": false,
-      "summary": "Citing a US official and another source, NBC News reported that the administration has renewed internal talks about striking senior Iranian regime leaders. Some officials believe it could pressure Tehran to end the war by showing Washington can find and hit its leadership at any time; the option has been under renewed discussion as Trump weighs the war's next phase."
+      "summary": "The consumer price index rose 0.5 per cent in October, lifting annual inflation to 4.9 per cent, the Australian Bureau of Statistics said, a hotter result than expected and up on the previous month. The Reserve Bank already forecasts inflation to stay outside its target band for another year."
     },
     {
-      "title": "Trump says Iran war ‘funded’ through January and addresses Israel’s goal of Tehran regime change",
-      "rewrite": "Trump says Iran war 'funded' through January and addresses Israel's goal of Tehran regime change",
-      "url": "https://nypost.com/2026/11/24/us-news/trump-says-iran-war-funded-through-january-and-addresses-israels-goal-of-tehran-regime-change/",
-      "source": "New York Post",
-      "published": "2026-11-25T11:34:15+11:00",
+      "title": "Jim Chalmers warns he will finally cut Australia's bloated public service - as he desperately tries to get inflation under control",
+      "rewrite": "Jim Chalmers warns he will finally cut Australia's bloated public service - as he desperately tries to get...",
+      "url": "https://www.dailymail.com/news/article-16320221/jim-chalmers-public-service-cuts-australia-inflation.html?ns_campaign=1490",
+      "source": "Daily Mail",
+      "published": "2026-11-25T16:25:40+11:00",
       "slot": "featured",
       "urgent": false,
-      "section": "US",
+      "section": "AUSTRALIA",
       "is_new": false,
-      "summary": "In an Oval Office interview with The Post, Trump acknowledged his military options may be constrained once Democrats take control of Congress in January. He said he hopes they won't end the conflict early, warning they would 'take a total win and make it a loss'."
+      "summary": "The Treasurer signalled fresh cuts to the federal public service as the government hunts for savings, after the ABS reported annual inflation jumped from 4.3% in September to 4.9% in October. Trimmed mean inflation rose to 3.8%, above the Reserve Bank's 2-3% target band."
     },
     {
       "title": "Trump vows to meet with Abdul El-Sayed on golden ‘Trumpcare,’ tells The Post he and Dems could do ‘great things’",
@@ -58,20 +58,68 @@
       "summary": "In a 45-minute Oval Office interview with The Post, Trump called the Michigan Democrat's branding of his single-payer plan as 'Trumpcare' 'very smart' and said he would meet El-Sayed. He sounded optimistic the two could reach an agreement."
     },
     {
-      "title": "DOJ recovers $8B, charges more than 800 suspects in largest anti-scam surge in history",
-      "rewrite": "DOJ recovers $8B, charges more than 800 suspects in largest anti-scam surge in history",
-      "url": "https://www.foxnews.com/politics/doj-recovers-8b-charges-more-than-800-suspects-largest-anti-scam-surge-history",
+      "title": "Trump administration weighs targeting Iran's top regime leaders in bid to end war: report",
+      "rewrite": "Trump administration weighs targeting Iran's top regime leaders in bid to end war: report",
+      "url": "https://www.foxnews.com/world/trump-administration-weighs-targeting-irans-top-regime-leaders-bid-end-war-report",
       "source": "Fox News",
-      "published": "2026-11-25T03:29:47+11:00",
+      "published": "2026-11-25T11:36:01+11:00",
       "slot": "featured",
       "urgent": false,
-      "section": "US",
+      "section": "WORLD",
       "is_new": false,
-      "summary": "Attorney General Todd Blanche, alongside FBI Director Kash Patel, said prosecutors have charged more than 800 defendants and recovered over $8 billion in intended victim losses. The blitz follows Trump's March executive order on fraud; more than 400 criminal cases have been filed across 85 federal districts."
+      "summary": "Citing a US official and another source, NBC News reported that the administration has renewed internal talks about striking senior Iranian regime leaders. Some officials believe it could pressure Tehran to end the war by showing Washington can find and hit its leadership at any time; the option has been under renewed discussion as Trump weighs the war's next phase."
     }
   ],
   "columns": {
     "left": [
+      {
+        "title": "Marjorie Taylor Greene slams Trump over 'dirty bomb in Iowa' as Army prepares to detonate 10,000 pounds of explosives sparking toxic fallout fears",
+        "rewrite": "Marjorie Taylor Greene slams Trump over 'dirty bomb in Iowa' as Army prepares to detonate 10,000 pounds of...",
+        "url": "https://www.dailymail.com/news/article-16320229/Marjorie-Taylor-Greene-jail-Trump-Hegseth-Iowa-bomb.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-25T17:16:37+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Marjorie Taylor Greene said Americans should 'lock up' Donald Trump and Pete Hegseth over the Army's planned detonation of bomb-making chemicals."
+      },
+      {
+        "title": "Missouri Supreme Court Disbars Former St. Louis Prosecutor Kim Gardner",
+        "rewrite": "Missouri Supreme Court Disbars Former St. Louis Prosecutor Kim Gardner",
+        "url": "https://www.breitbart.com/politics/2026/11/24/missouri-supreme-court-disbars-former-st-louis-prosecutor-kim-gardner/",
+        "source": "Breitbart",
+        "published": "2026-11-25T14:28:13+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "The Missouri Supreme Court voted 7–0 Tuesday to disbar former St. Louis Circuit Attorney Kim Gardner after she used more than $5,000 in public funds to reimburse herself for costs from an earlier ethics case."
+      },
+      {
+        "title": "NYC Mayor Zohran Mamdani offers to help fellow socialist Nithya Raman run Los Angeles",
+        "rewrite": "NYC Mayor Zohran Mamdani offers to help fellow socialist Nithya Raman run Los Angeles",
+        "url": "https://nypost.com/2026/11/24/us-news/nyc-mayor-zohran-mamdani-offers-to-help-socialist-nithya-raman-run-los-angeles/",
+        "source": "New York Post",
+        "published": "2026-11-25T12:00:00+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "New York City Mayor Zohran Mamdani offered to help fellow Democratic socialist Nithya Raman as she prepares to take office in Los Angeles."
+      },
+      {
+        "title": "Paris Hilton Joins AOC on Capitol Hill to Fight Against Deepfake Porn",
+        "rewrite": "Paris Hilton Joins AOC on Capitol Hill to Fight Against Deepfake Porn",
+        "url": "https://www.breitbart.com/politics/2026/11/24/paris-hilton-joins-aoc-on-capitol-hill-to-fight-against-deepfake-porn/",
+        "source": "Breitbart",
+        "published": "2026-11-25T10:56:17+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Socialite and mogul Paris Hilton traveled to Capitol Hill Tuesday to urge Congress to put more protections in place for victims of deepfake porn."
+      },
       {
         "title": "ICE Arrests Illegal Alien Linked to Assassination Threats Against Trump",
         "rewrite": "ICE Arrests Illegal Alien Linked to Assassination Threats Against Trump",
@@ -81,7 +129,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "An illegal alien is now in Immigration and Customs Enforcement (ICE) custody after a federal investigation linked him to assassination threats against President Donald Trump."
       },
       {
@@ -93,7 +141,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Sen. Chris Van Hollen (D-MD) holds a double-digit advantage over Senate Democrat Leader Chuck Schumer (D-NY) among both Democrats and 2024 Kamala Harris voters surveyed in an Economist/YouGov poll on who should lead the party in the Senate, as the two senators vie to lead the incoming majority."
       },
       {
@@ -105,7 +153,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Donald Trump was joined by Melania as he pardoned two Thanksgiving turkeys at the White House on Tuesday, then used the ceremony to vent about his party's midterm defeat."
       },
       {
@@ -117,7 +165,19 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true
+        "is_new": false
+      },
+      {
+        "title": "DOJ recovers $8B, charges more than 800 suspects in largest anti-scam surge in history",
+        "rewrite": "DOJ recovers $8B, charges more than 800 suspects in largest anti-scam surge in history",
+        "url": "https://www.foxnews.com/politics/doj-recovers-8b-charges-more-than-800-suspects-largest-anti-scam-surge-history",
+        "source": "Fox News",
+        "published": "2026-11-25T03:29:47+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": false,
+        "summary": "Attorney General Todd Blanche, alongside FBI Director Kash Patel, said prosecutors have charged more than 800 defendants and recovered over $8 billion in intended victim losses. The blitz follows Trump's March executive order on fraud; more than 400 criminal cases have been filed across 85 federal districts."
       },
       {
         "title": "Brooke Rollins vows to take case to SCOTUS after federal judge blocks her from sending Christmas, Easter messages to staff",
@@ -255,90 +315,6 @@
         "summary": "Justice Samuel Alito warned last week that the U.S. Supreme Court faces a threat that may leave it \"fundamentally\" and perhaps even \"permanently\" changed The 76-year-old conservative justice spoke at the American Enterprise Institute's annual dinner last Monday, when he was presented with the 2026 Irving Kristol Award."
       },
       {
-        "title": "States rally behind Catholic church in first-of-its-kind Supreme Court fight over prayer shrine",
-        "rewrite": "States rally behind Catholic church in first-of-its-kind Supreme Court fight over prayer shrine",
-        "url": "https://www.foxnews.com/politics/states-rally-behind-catholic-church-first-of-its-kind-supreme-court-fight-prayer-shrine",
-        "source": "Fox News",
-        "published": "2026-11-24T07:23:27+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "A Kentucky Catholic community's Virgin Mary prayer grotto sparked a neighbors' zoning fight now at the Supreme Court in a RLUIPA religious liberty case."
-      },
-      {
-        "title": "Gen Z could have their first saint! Pennsylvania girl who died of brain tumor aged 18 is one step closer to canonization",
-        "rewrite": "Gen Z could have their first saint! Pennsylvania girl who died of brain tumor aged 18 is one step closer...",
-        "url": "https://www.dailymail.com/news/article-16315915/Gen-Z-saint-Pennsylvania-girl-died-brain-tumor-18-canonization.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-24T07:14:41+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Maria Middleton, who died in 2020, moved one step closer to sainthood last week when the U.S. Conference of Catholic Bishops voted to advance her cause for beatification and canonization."
-      },
-      {
-        "title": "Investment Firm Controlled By Trump Commerce Sec’s Sons Celebrates Jensen Huang’s Reinstatement As Nvidia CEO",
-        "rewrite": "Investment Firm Controlled By Trump Commerce Sec's Sons Celebrates Jensen Huang's Reinstatement As Nvidia CEO",
-        "url": "https://dailycaller.com/2026/11/23/howard-lutnick-cantor-fitzgerald-jensen-huang-nvidia",
-        "source": "Daily Caller",
-        "published": "2026-11-24T07:01:46+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Cantor Fitzgerald, the firm controlled by Commerce Secretary Howard Lutnick's sons, cheered Nvidia's Monday reinstatement of Huang, who stepped down on Nov. 12 over an alleged affair with a suspected Chinese intelligence asset. A Cantor research note on Nvidia was titled 'All Is Right in the World Again.'"
-      },
-      {
-        "title": "AOC's $12K luxury Germany trip exposed: Splurges on five-star hotels and private drivers while preaching working-class values",
-        "rewrite": "AOC's $12K luxury Germany trip exposed: Splurges on five-star hotels and private drivers while preaching...",
-        "url": "https://www.dailymail.com/news/us-politics/article-16315515/AOC-Germany-trip-splurged-five-star-hotels.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-24T05:30:23+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Representative Alexandria Ocasio-Cortez's campaign lived large during a trip to Germany, after records revealed she spent more than $12,000 on luxury hotels and transportation for a conference."
-      },
-      {
-        "title": "Inside Trump's secret late-night meetings with Epstein-tainted cabinet secretary Howard Lutnick",
-        "rewrite": "Inside Trump's secret late-night meetings with Epstein-tainted cabinet secretary Howard Lutnick",
-        "url": "https://www.dailymail.com/news/article-16315241/Inside-Trumps-secret-late-night-meetings-Epstein-tainted-cabinet-secretary.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-24T02:57:30+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Trump has reportedly been giving Commerce Secretary Howard Lutnick orders in late-night White House meetings after staff have gone home."
-      },
-      {
-        "title": "Rahm Emanuel: Schumer should commit to stepping down from leadership in two years",
-        "rewrite": "Rahm Emanuel: Schumer should commit to stepping down from leadership in two years",
-        "url": "https://www.washingtonexaminer.com/news/senate/4811995/rahm-emanuel-chuck-schumer-commit-step-down-leadership/",
-        "source": "Washington Examiner",
-        "published": "2026-11-24T01:33:06+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Rahm Emanuel, who wants a 75-year age limit for federal officeholders, said Chuck Schumer, who turned 76 on Monday, should commit to leaving the Senate Democratic leadership in 2028 as some Democratic senators push him to step aside."
-      },
-      {
-        "title": "GOP Senator Implies A Trump Cabinet Member Is Knowingly Aiding Communist China",
-        "rewrite": "GOP Senator Implies A Trump Cabinet Member Is Knowingly Aiding Communist China",
-        "url": "https://www.dailywire.com/news/gop-senator-implies-a-trump-cabinet-member-is-knowingly-aiding-communist-china",
-        "source": "Daily Wire",
-        "published": "2026-11-23T23:01:47+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Sen. John Kennedy (R-LA) is demanding answers from Commerce Secretary Howard Lutnick over claims he let Nvidia sidestep export controls on China, as a feud between Lutnick and Treasury Secretary Scott Bessent exposes divisions in the administration."
-      },
-      {
         "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
         "rewrite": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
         "url": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
@@ -389,15 +365,39 @@
     ],
     "center": [
       {
+        "title": "Israeli Defense Minister Warns Iran Developing Chemical Weapons as ‘Game-Changer’ — Israel Won’t Allow It",
+        "rewrite": "Israeli Defense Minister Warns Iran Developing Chemical Weapons as 'Game-Changer' — Israel Won't Allow It",
+        "url": "https://www.breitbart.com/politics/2026/11/24/israeli-defense-minister-warns-iran-developing-chemical-weapons-as-game-changer-israel-wont-allow-it/",
+        "source": "Breitbart",
+        "published": "2026-11-25T11:25:17+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "Israeli Defense Minister Israel Katz warned Tuesday that Iran is developing chemical weapons in an effort to restore its military deterrence, vowing that Israel would prevent Tehran from acquiring the capability and revealing that the American and Israeli militaries have drawn up plans for potential renewed strikes."
+      },
+      {
+        "title": "Iran to execute 2 anti-regime protesters at dawn after 3 days in death row holding cells",
+        "rewrite": "Iran to execute 2 anti-regime protesters at dawn after 3 days in death row holding cells",
+        "url": "https://www.foxnews.com/world/iran-execute-2-anti-regime-protesters-dawn-3-days-death-row-holding-cells",
+        "source": "Fox News",
+        "published": "2026-11-25T11:16:46+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "Iran Human Rights says Milad Armoun, 27, and Navid Najaran, 34, were due to be executed early on Wednesday 25 November at Ghezel Hesar Prison after Iran's Supreme Court upheld their death sentences. The group says they were condemned after torture and forced confessions, and urged UN intervention."
+      },
+      {
         "title": "US court convicts Huawei for deceiving banks about Iran dealings",
         "rewrite": "US court convicts Huawei for deceiving banks about Iran dealings",
         "url": "https://www.abc.net.au/news/2026-11-25/huawei-convicted-us-trial-deception-trade-secrets/107423640",
         "source": "ABC News Australia",
         "published": "2026-11-25T08:09:13+11:00",
         "slot": "column",
-        "urgent": true,
+        "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "summary": "A US court found the Chinese tech giant guilty of deceiving banks about its business in Iran and of stealing trade secrets from US companies. Huawei was placed on a trade blacklist restricting its access to technology after the case began in 2018."
       },
       {
@@ -534,16 +534,16 @@
         "summary": "Volodymyr Zelenskyy shared video of Ukraine's naval drones sinking Russia's corvette Merkury off Libya, as peace talks resume after a nine-month pause."
       },
       {
-        "title": "Trump's Director of National Intelligence squirms as he is pressed over whether Putin is 'a friend' to the USA",
-        "rewrite": "Trump's Director of National Intelligence squirms as he is pressed over whether Putin is 'a friend' to the USA",
-        "url": "https://www.dailymail.com/news/us-politics/article-16313969/Director-National-Intelligence-Trump-Putin-friend.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-23T15:34:51+11:00",
+        "title": "Door not closed on capital gains carve-out for businesses as inquiry confirmed",
+        "rewrite": "Door not closed on capital gains carve-out for businesses as inquiry confirmed",
+        "url": "https://www.abc.net.au/news/2026-11-25/door-not-closed-on-capital-gains-carve-out-for-business/107427094",
+        "source": "ABC News Australia",
+        "published": "2026-11-25T17:52:03+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "DNI Jay Clayton was pressed on whether Putin is a 'friend' after Trump used the word to describe the Russian leader."
+        "section": "AUSTRALIA",
+        "is_new": true,
+        "summary": "Allegra Spender's proposal to carve out all active businesses and business assets from Labor's capital gains tax changes could yet succeed, with the carve-outs issue to be referred to a Senate inquiry."
       },
       {
         "title": "Beau Lamarre-Condon jury retires to consider verdict in double murder trial",
@@ -554,7 +554,7 @@
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "The former police officer is accused of murdering his former love interest Jesse Baird and his new partner Luke Davies."
       },
       {
@@ -607,16 +607,28 @@
         "summary": "Anthony Albanese locked in 2027 as the China-Australia Year of Tourism at APEC, with Chinese tour groups set to bring more visitors. It is hoped to bring billions into the economy."
       },
       {
-        "title": "Jim Chalmers says he doesn't expect a recession, but 'things might get a bit harder'",
-        "rewrite": "Jim Chalmers says he doesn't expect a recession, but 'things might get a bit harder'",
-        "url": "https://www.abc.net.au/news/2026-11-23/chalmers-flags-net-spending-cuts-in-mid-year-budget/107417628",
+        "title": "18-year-old denied bail over fatal stabbing in Melbourne CBD",
+        "rewrite": "18-year-old denied bail over fatal stabbing in Melbourne CBD",
+        "url": "https://www.abc.net.au/news/2026-11-25/la-trobe-street-fatal-stabbing-accused-denied-bail/107425670",
         "source": "ABC News Australia",
-        "published": "2026-11-23T16:18:24+11:00",
+        "published": "2026-11-25T17:37:10+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "summary": "Treasurer Jim Chalmers told parliament a recession is not forecast, but next month's mid-year update will lift the unemployment forecast and cut growth. He flagged spending cuts that more than cover any new spending, saying too much spending can make inflation worse."
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "The court heard Peter Hlawnchan was a key support for his mother, who has cancer."
+      },
+      {
+        "title": "Ping-pong sex parties and payment in cocaine: Secret witness’s explosive testimony reveals CFMEU demands",
+        "rewrite": "Ping-pong sex parties and payment in cocaine: Secret witness's explosive testimony reveals CFMEU demands",
+        "url": "https://www.theage.com.au/national/victoria/ping-pong-sex-parties-and-payment-in-cocaine-secret-witness-s-explosive-testimony-reveals-cfmeu-demands-20261125-p61h2y.html?ref=rss",
+        "source": "The Age",
+        "published": "2026-11-25T16:22:32+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "An anonymous building industry insider has given evidence of rampant bribery, threats and brazen drug-taking on work sites controlled by the CFMEU."
       },
       {
         "title": "Live: Liberal leader Jess Wilson cleans up graffiti in election campaign stunt",
@@ -627,7 +639,7 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "The major parties are ramping up their campaigns as election day approaches, with the Coalition promising $5 million to \"clean up\" Victoria if voted into government on Saturday."
       },
       {
@@ -639,7 +651,7 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "Jade Whittingham thought she was doing the right thing taking a wombat across the border to NSW for vet care, but now she could lose her wildlife licence."
       },
       {
@@ -655,28 +667,27 @@
         "summary": "As Liberal leader Jess Wilson's political prospects firm, the chances of a One Nation wipeout in Victoria's lower house are receding. But pockets of opportunity remain for the resurgent party."
       },
       {
-        "title": "Man acquitted of murdering Melbourne photographer due to psychotic illness",
-        "rewrite": "Man acquitted of murdering Melbourne photographer due to psychotic illness",
-        "url": "https://www.abc.net.au/news/2026-11-24/man-acquitted-mental-health-dominic-obrien-photographer/107422392",
+        "title": "Why inflation is up, but interest rates are not expected to follow",
+        "rewrite": "Why inflation is up, but interest rates are not expected to follow",
+        "url": "https://www.abc.net.au/news/2026-11-25/inflation-up-but-rates-not-expected-to-follow/107424642",
         "source": "ABC News Australia",
-        "published": "2026-11-24T17:08:36+11:00",
+        "published": "2026-11-25T14:32:26+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "A former immigration detainee who bashed a 62-year-old news photographer to death has been acquitted of murder on mental health grounds."
+        "section": "MARKETS",
+        "is_new": true
       },
       {
-        "title": "Job losses feared after $20m slashed from Victorian specialist schools",
-        "rewrite": "Job losses feared after $20m slashed from Victorian specialist schools",
-        "url": "https://www.abc.net.au/news/2026-11-24/victorian-specialist-schools-saints-college-funding-cut/107420108",
-        "source": "ABC News Australia",
-        "published": "2026-11-24T16:51:34+11:00",
+        "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
+        "rewrite": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
+        "url": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books",
+        "source": "Cointelegraph",
+        "published": "2026-11-25T12:40:59+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "Saints College offers young people aged 12 to 25 an alternative to mainstream education, often providing assistance to the state's most vulnerable and marginalised children."
+        "section": "MARKETS",
+        "is_new": true,
+        "summary": "The Bitcoin miner sold 2,102 BTC while it produced just 1,708 BTC in the September quarter."
       },
       {
         "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
@@ -687,7 +698,7 @@
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": true,
+        "is_new": false,
         "summary": "The crypto asset manager warned that Bitcoin’s downturn could persist amid weak investor demand, while forecasting an uneven recovery across crypto sectors."
       },
       {
@@ -773,7 +784,7 @@
         "slot": "column",
         "urgent": false,
         "section": "UK",
-        "is_new": true,
+        "is_new": false,
         "image": "https://www.gbnews.com/media-library/man-looking-at-energy-bill-and-gas-bill.jpg?id=67980735&width=1200&height=600&coordinates=0%2C50%2C0%2C50",
         "summary": "Britons likely to turn their heating this winter, report warns, as gas bills surge once again . Seven in ten people are likely to turn down their heating this winter, with gas bills more than twice as high as before the Ukraine invasion, a report warns"
       },
@@ -835,7 +846,7 @@
         "slot": "column",
         "urgent": false,
         "section": "TECHNOLOGY",
-        "is_new": true,
+        "is_new": false,
         "summary": "Microsoft is changing how it approaches future service failures after a three-day outage left its customers without access to its products."
       },
       {
@@ -911,6 +922,18 @@
         "summary": "The FBI warned that the ARTEX AI hacking tool can give criminals privileged access in under three hours, targeting Microsoft 365 and financial firms."
       },
       {
+        "title": "Lionsgate Play Casts AI Actor Yug R.Ai in Series ‘Eklavya,’ Partners With Google Cloud (EXCLUSIVE)",
+        "rewrite": "Lionsgate Play Casts AI Actor Yug R.Ai in Series 'Eklavya,' Partners With Google Cloud (EXCLUSIVE)",
+        "url": "https://variety.com/2026/tv/news/lionsgate-play-ai-actor-eklavya-ai-led-original-1236957605/",
+        "source": "Variety",
+        "published": "2026-11-25T17:15:00+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "Streaming platform Lionsgate Play has cast an AI performer, Yug R.Ai, as the lead of “Eklavya,” a mythological series that is the platform’s first AI-led original. Rohit Jain, founder and CEO of Lionsgate Play, presented a first look at the show and introduced Yug R.Ai as the company’s first AI actor."
+      },
+      {
         "title": "Philip Rosenberg, Oscar-Winning Production Designer for ‘All That Jazz,’ Dies at 91",
         "rewrite": "Philip Rosenberg, Oscar-Winning Production Designer for 'All That Jazz,' Dies at 91",
         "url": "https://variety.com/2026/film/news/philip-rosenberg-dead-all-that-jazz-1236957540/",
@@ -919,8 +942,20 @@
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
+        "is_new": false,
         "summary": "Philip Rosenberg, a production designer and art director who was part of the team that won the art direction-set decoration Oscar for “All That Jazz,” died Oct. 28 in West Palm Beach, Florida. He was 91. His death was announced by his nephew, Alan Rosenberg."
+      },
+      {
+        "title": "Jimmy Carr 'pulls out of hosting Top Gear reboot leaving BBC bosses scrambling to find a replacement'",
+        "rewrite": "Jimmy Carr 'pulls out of hosting Top Gear reboot leaving BBC bosses scrambling to find a replacement'",
+        "url": "https://www.dailymail.com/tvshowbiz/article-16319743/Jimmy-Carr-quits-TopGear-reboot.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-25T10:41:59+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "Jimmy Carr is said to have 'pulled out' of hosting the upcoming Top Gear reboot despite negotiations being at an 'advanced stage'."
       },
       {
         "title": "Kevin Kline Reunites With Meryl Streep in ‘The Corrections’ Series at Netflix",
@@ -996,15 +1031,15 @@
       }
     ]
   },
-  "image_url": "https://live-production.wcms.abc-cdn.net.au/cc2b42edc32a34def24f1345f4210d2d?impolicy=wcms_watermark_news&cropH=3375&cropW=6000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-  "image_source_url": "https://www.abc.net.au/news/2026-11-25/abs-october-cpi-inflation-rises-year-/107424668",
+  "image_url": "https://media.breitbart.com/media/2026/11/Iranian-Leadership-Regime-640x335.jpeg",
+  "image_source_url": "https://www.breitbart.com/politics/2026/11/24/trump-says-toppling-irans-regime-is-probably-doable-but-not-his-goal/",
   "counts": {
-    "total": 81,
+    "total": 84,
     "featured": 4,
     "columns": {
-      "left": 26,
-      "center": 31,
-      "right": 19
+      "left": 24,
+      "center": 34,
+      "right": 21
     },
     "feeds_ok": 44,
     "feeds_failed": 6

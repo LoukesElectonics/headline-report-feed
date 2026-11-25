@@ -2,76 +2,160 @@
   "title": "THE NEWS REPORT",
   "generated": {
     "date": "Wednesday, 25 November 2026",
-    "display": "Wednesday, November 25, 2026  6:08 AM AEDT (Australia/Sydney)",
-    "iso": "2026-11-25T06:08:10.873163+11:00",
-    "time": "6:08 AM AEDT",
+    "display": "Wednesday, November 25, 2026  12:22 PM AEDT (Australia/Sydney)",
+    "iso": "2026-11-25T12:22:04.254865+11:00",
+    "time": "12:22 PM AEDT",
     "timezone": "Australia/Sydney"
   },
   "lean": "centre-right",
   "top": {
-    "title": "DOJ recovers $8B, charges more than 800 suspects in largest anti-scam surge in history",
-    "rewrite": "DOJ recovers $8B, charges more than 800 suspects in largest anti-scam surge in history",
-    "url": "https://www.foxnews.com/politics/doj-recovers-8b-charges-more-than-800-suspects-largest-anti-scam-surge-history",
-    "source": "Fox News",
-    "published": "2026-11-25T03:29:47+11:00",
+    "title": "Inflation rises more than expected to 4.9pc in year to October",
+    "rewrite": "Inflation rises more than expected to 4.9pc in year to October",
+    "url": "https://www.abc.net.au/news/2026-11-25/abs-october-cpi-inflation-rises-year-/107424668",
+    "source": "ABC News Australia",
+    "published": "2026-11-25T11:42:21+11:00",
     "slot": "top",
     "urgent": false,
-    "section": "US",
-    "is_new": true,
-    "summary": "Attorney General Todd Blanche, alongside FBI Director Kash Patel, said prosecutors have charged more than 800 defendants and recovered over $8 billion in intended victim losses. The blitz follows Trump's March executive order on fraud; more than 400 criminal cases have been filed across 85 federal districts."
+    "section": "BUSINESS",
+    "is_new": false,
+    "summary": "The consumer price index rose 0.5 per cent in October, lifting annual inflation to 4.9 per cent, the Australian Bureau of Statistics said, a hotter result than expected and up on the previous month. The Reserve Bank already forecasts inflation to stay outside its target band for another year."
   },
   "featured": [
     {
-      "title": "Trump to award Giuliani Presidential Medal of Freedom",
-      "rewrite": "Trump to award Giuliani Presidential Medal of Freedom",
-      "url": "https://www.foxnews.com/politics/trump-award-giuliani-presidential-medal-freedom",
+      "title": "Trump administration weighs targeting Iran's top regime leaders in bid to end war: report",
+      "rewrite": "Trump administration weighs targeting Iran's top regime leaders in bid to end war: report",
+      "url": "https://www.foxnews.com/world/trump-administration-weighs-targeting-irans-top-regime-leaders-bid-end-war-report",
       "source": "Fox News",
-      "published": "2026-11-25T01:47:59+11:00",
+      "published": "2026-11-25T11:36:01+11:00",
+      "slot": "featured",
+      "urgent": false,
+      "section": "WORLD",
+      "is_new": false,
+      "summary": "Citing a US official and another source, NBC News reported that the administration has renewed internal talks about striking senior Iranian regime leaders. Some officials believe it could pressure Tehran to end the war by showing Washington can find and hit its leadership at any time; the option has been under renewed discussion as Trump weighs the war's next phase."
+    },
+    {
+      "title": "Trump says Iran war ‘funded’ through January and addresses Israel’s goal of Tehran regime change",
+      "rewrite": "Trump says Iran war 'funded' through January and addresses Israel's goal of Tehran regime change",
+      "url": "https://nypost.com/2026/11/24/us-news/trump-says-iran-war-funded-through-january-and-addresses-israels-goal-of-tehran-regime-change/",
+      "source": "New York Post",
+      "published": "2026-11-25T11:34:15+11:00",
       "slot": "featured",
       "urgent": false,
       "section": "US",
       "is_new": false,
-      "summary": "Trump was set to present the nation's highest civilian honour to the former New York mayor, 82, at a closed-press White House ceremony on Tuesday. Giuliani said he was 'honored and humbled' and shared the credit with those who worked alongside him."
+      "summary": "In an Oval Office interview with The Post, Trump acknowledged his military options may be constrained once Democrats take control of Congress in January. He said he hopes they won't end the conflict early, warning they would 'take a total win and make it a loss'."
     },
     {
-      "title": "Brooke Rollins vows to take case to SCOTUS after federal judge blocks her from sending Christmas, Easter messages to staff",
-      "rewrite": "Brooke Rollins vows to take case to SCOTUS after federal judge blocks her from sending Christmas, Easter...",
-      "url": "https://thepostmillennial.com/news/brooke-rollins-vows-to-take-case-to-scotus-after-federal-judge-blocks-her-from-sending-christmas",
-      "source": "The Post Millennial",
-      "published": "2026-11-25T03:28:49+11:00",
+      "title": "Trump vows to meet with Abdul El-Sayed on golden ‘Trumpcare,’ tells The Post he and Dems could do ‘great things’",
+      "rewrite": "Trump vows to meet with Abdul El-Sayed on golden 'Trumpcare,' tells The Post he and Dems could do 'great...",
+      "url": "https://nypost.com/2026/11/24/us-news/trump-vows-to-meet-with-abdul-el-sayed-on-golden-trumpcare-tells-the-post-he-and-dems-could-do-great-things/",
+      "source": "New York Post",
+      "published": "2026-11-25T10:22:23+11:00",
       "slot": "featured",
       "urgent": false,
       "section": "US",
       "is_new": false,
-      "summary": "A federal judge in California ruled last week that the Agriculture Secretary's Christmas and Easter emails to USDA staff, which included Christian messages, went too far under the Establishment Clause. Rollins told Fox & Friends she will fight the ruling 'all the way to the Supreme Court'."
+      "summary": "In a 45-minute Oval Office interview with The Post, Trump called the Michigan Democrat's branding of his single-payer plan as 'Trumpcare' 'very smart' and said he would meet El-Sayed. He sounded optimistic the two could reach an agreement."
     },
     {
-      "title": "Former chief of staff to Pentagon chief Hegseth says 'it’s time for Pete to call it quits': report",
-      "rewrite": "Former chief of staff to Pentagon chief Hegseth says 'it's time for Pete to call it quits': report",
-      "url": "https://www.foxnews.com/politics/former-chief-staff-pentagon-chief-hegseth-says-its-time-pete-call-quits-report",
+      "title": "DOJ recovers $8B, charges more than 800 suspects in largest anti-scam surge in history",
+      "rewrite": "DOJ recovers $8B, charges more than 800 suspects in largest anti-scam surge in history",
+      "url": "https://www.foxnews.com/politics/doj-recovers-8b-charges-more-than-800-suspects-largest-anti-scam-surge-history",
       "source": "Fox News",
-      "published": "2026-11-24T23:04:20+11:00",
+      "published": "2026-11-25T03:29:47+11:00",
       "slot": "featured",
       "urgent": false,
       "section": "US",
       "is_new": false,
-      "summary": "Joe Kasper, Hegseth's chief of staff early in the administration, told Politico it is 'time for Pete to call it quits', saying the Defense Secretary's ability to be effective has been constrained, including in working with Congress on funding."
-    },
-    {
-      "title": "Critics say it's 'censorship', the Greens are cheering and your algorithm is about to change: What Albanese's new 'digital duty of care' means for you - and free speech in Australia",
-      "rewrite": "Critics say it's 'censorship', the Greens are cheering and your algorithm is about to change: What...",
-      "url": "https://www.dailymail.com/news/article-16316819/australia-digital-duty-care-facebook-tiktok-hanson.html?ns_campaign=1490",
-      "source": "Daily Mail",
-      "published": "2026-11-24T16:25:27+11:00",
-      "slot": "featured",
-      "urgent": false,
-      "section": "AUSTRALIA",
-      "is_new": false,
-      "summary": "The Albanese Government struck a deal with the Greens to pass its Digital Duty of Care laws, forcing platforms such as Meta, Google and TikTok to proactively tackle harmful content or face fines of $109 million or up to 5% of global revenue. Users could also opt out of algorithm-driven feeds. The Coalition warned the laws open the door to 'political censorship'."
+      "summary": "Attorney General Todd Blanche, alongside FBI Director Kash Patel, said prosecutors have charged more than 800 defendants and recovered over $8 billion in intended victim losses. The blitz follows Trump's March executive order on fraud; more than 400 criminal cases have been filed across 85 federal districts."
     }
   ],
   "columns": {
     "left": [
+      {
+        "title": "ICE Arrests Illegal Alien Linked to Assassination Threats Against Trump",
+        "rewrite": "ICE Arrests Illegal Alien Linked to Assassination Threats Against Trump",
+        "url": "https://www.breitbart.com/politics/2026/11/24/ice-arrests-illegal-alien-linked-assassination-threats-against-trump/",
+        "source": "Breitbart",
+        "published": "2026-11-25T10:10:12+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "An illegal alien is now in Immigration and Customs Enforcement (ICE) custody after a federal investigation linked him to assassination threats against President Donald Trump."
+      },
+      {
+        "title": "Poll: Democrats Prefer Chris Van Hollen over Chuck Schumer for Senate Majority Leader by 21 Points",
+        "rewrite": "Poll: Democrats Prefer Chris Van Hollen over Chuck Schumer for Senate Majority Leader by 21 Points",
+        "url": "https://www.breitbart.com/politics/2026/11/24/poll-democrats-prefer-chris-van-hollen-over-chuck-schumer-for-senate-majority-leader-by-21-points/",
+        "source": "Breitbart",
+        "published": "2026-11-25T09:17:31+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Sen. Chris Van Hollen (D-MD) holds a double-digit advantage over Senate Democrat Leader Chuck Schumer (D-NY) among both Democrats and 2024 Kamala Harris voters surveyed in an Economist/YouGov poll on who should lead the party in the Senate, as the two senators vie to lead the incoming majority."
+      },
+      {
+        "title": "Trump rages about midterms at Thanksgiving turkey pardon, sneers at birds' names... but saves kind words for Melania",
+        "rewrite": "Trump rages about midterms at Thanksgiving turkey pardon, sneers at birds' names... but saves kind words...",
+        "url": "https://www.dailymail.com/news/article-16319231/trump-thanksgiving-turkey-pardon-midterms-white-house.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-25T07:42:09+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Donald Trump was joined by Melania as he pardoned two Thanksgiving turkeys at the White House on Tuesday, then used the ceremony to vent about his party's midterm defeat."
+      },
+      {
+        "title": "EXCLUSIVE: Rep. Ryan Zinke Doubles Down On Trump Policies After GOP’s Midterm ‘Mauling,’ Says Messaging Was To Blame",
+        "rewrite": "Rep. Ryan Zinke Doubles Down On Trump Policies After GOP's Midterm 'Mauling,' Says Messaging Was To Blame",
+        "url": "https://dailycaller.com/2026/11/24/ryan-zinke-interview-midterms-republicans-democrats",
+        "source": "Daily Caller",
+        "published": "2026-11-25T04:55:12+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true
+      },
+      {
+        "title": "Brooke Rollins vows to take case to SCOTUS after federal judge blocks her from sending Christmas, Easter messages to staff",
+        "rewrite": "Brooke Rollins vows to take case to SCOTUS after federal judge blocks her from sending Christmas, Easter...",
+        "url": "https://thepostmillennial.com/news/brooke-rollins-vows-to-take-case-to-scotus-after-federal-judge-blocks-her-from-sending-christmas",
+        "source": "The Post Millennial",
+        "published": "2026-11-25T03:28:49+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": false,
+        "summary": "A federal judge in California ruled last week that the Agriculture Secretary's Christmas and Easter emails to USDA staff, which included Christian messages, went too far under the Establishment Clause. Rollins told Fox & Friends she will fight the ruling 'all the way to the Supreme Court'.",
+        "image": "https://cdn.sanity.io/images/v3d3jm0s/production/fe5235123a30a538b10039c46e2cc28a13c23839-1000x500.jpg"
+      },
+      {
+        "title": "Trump to award Giuliani Presidential Medal of Freedom",
+        "rewrite": "Trump to award Giuliani Presidential Medal of Freedom",
+        "url": "https://www.foxnews.com/politics/trump-award-giuliani-presidential-medal-freedom",
+        "source": "Fox News",
+        "published": "2026-11-25T01:47:59+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": false,
+        "summary": "Trump was set to present the nation's highest civilian honour to the former New York mayor, 82, at a closed-press White House ceremony on Tuesday. Giuliani said he was 'honored and humbled' and shared the credit with those who worked alongside him."
+      },
+      {
+        "title": "Former chief of staff to Pentagon chief Hegseth says 'it’s time for Pete to call it quits': report",
+        "rewrite": "Former chief of staff to Pentagon chief Hegseth says 'it's time for Pete to call it quits': report",
+        "url": "https://www.foxnews.com/politics/former-chief-staff-pentagon-chief-hegseth-says-its-time-pete-call-quits-report",
+        "source": "Fox News",
+        "published": "2026-11-24T23:04:20+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": false,
+        "summary": "Joe Kasper, Hegseth's chief of staff early in the administration, told Politico it is 'time for Pete to call it quits', saying the Defense Secretary's ability to be effective has been constrained, including in working with Congress on funding."
+      },
       {
         "title": "Exclusive: Ohio Rep. Michael Rulli Calls on GOP to Have 'Awakening' After Midterms, Points Out Iran War and Ramaswamy's Campaign Blunders",
         "rewrite": "Ohio Rep. Michael Rulli Calls on GOP to Have 'Awakening' After Midterms, Points Out Iran War and...",
@@ -263,7 +347,7 @@
         "slot": "column",
         "urgent": false,
         "section": "BUSINESS",
-        "is_new": true,
+        "is_new": false,
         "summary": "Co-founders of the prediction market platform were slated to appear in a state district court in December."
       },
       {
@@ -275,7 +359,7 @@
         "slot": "column",
         "urgent": false,
         "section": "BUSINESS",
-        "is_new": true,
+        "is_new": false,
         "summary": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%."
       },
       {
@@ -305,6 +389,18 @@
     ],
     "center": [
       {
+        "title": "US court convicts Huawei for deceiving banks about Iran dealings",
+        "rewrite": "US court convicts Huawei for deceiving banks about Iran dealings",
+        "url": "https://www.abc.net.au/news/2026-11-25/huawei-convicted-us-trial-deception-trade-secrets/107423640",
+        "source": "ABC News Australia",
+        "published": "2026-11-25T08:09:13+11:00",
+        "slot": "column",
+        "urgent": true,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "A US court found the Chinese tech giant guilty of deceiving banks about its business in Iran and of stealing trade secrets from US companies. Huawei was placed on a trade blacklist restricting its access to technology after the case began in 2018."
+      },
+      {
         "title": "Zelensky says US is aligned with Putin and criticizes Washington for Patriot missile delays",
         "rewrite": "Zelensky says US is aligned with Putin and criticizes Washington for Patriot missile delays",
         "url": "https://www.washingtonexaminer.com/news/world/4813814/zelensky-us-aligned-putin-criticizes-patriot-missile-delay/",
@@ -313,7 +409,7 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "summary": "Ukrainian President Volodymyr Zelensky is amping up his pressure on the United States to increase support for his country, saying the Trump administration is “putting itself in a very unpleasant situation” by not sending more Patriot missiles to Kyiv. “Putin is counting on breaking Ukraine. Kyiv, Dnipro, Odesa, Kharkiv, Zaporizhzhia – these cities above all."
       },
       {
@@ -325,7 +421,7 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "summary": "Former prosecutor general Ruslan Kravchenko alleges political interference, while Zelenskyy defended his removal and anti-corruption agencies rejected the accusations."
       },
       {
@@ -337,7 +433,7 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "summary": "The Iran-backed Houthi insurgents of Yemen on Sunday claimed an attack on Petro Rabigh, a major oil refinery and petrochemical complex on the Red Sea coast of Saudi Arabia."
       },
       {
@@ -450,6 +546,30 @@
         "summary": "DNI Jay Clayton was pressed on whether Putin is a 'friend' after Trump used the word to describe the Russian leader."
       },
       {
+        "title": "Beau Lamarre-Condon jury retires to consider verdict in double murder trial",
+        "rewrite": "Beau Lamarre-Condon jury retires to consider verdict in double murder trial",
+        "url": "https://www.abc.net.au/news/2026-11-25/beau-lamarre-condon-murder-trial-jury-retires-consider-verdict/107423638",
+        "source": "ABC News Australia",
+        "published": "2026-11-25T10:18:31+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "AUSTRALIA",
+        "is_new": true,
+        "summary": "The former police officer is accused of murdering his former love interest Jesse Baird and his new partner Luke Davies."
+      },
+      {
+        "title": "Critics say it's 'censorship', the Greens are cheering and your algorithm is about to change: What Albanese's new 'digital duty of care' means for you - and free speech in Australia",
+        "rewrite": "Critics say it's 'censorship', the Greens are cheering and your algorithm is about to change: What...",
+        "url": "https://www.dailymail.com/news/article-16316819/australia-digital-duty-care-facebook-tiktok-hanson.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-24T16:25:27+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "AUSTRALIA",
+        "is_new": false,
+        "summary": "The Albanese Government struck a deal with the Greens to pass its Digital Duty of Care laws, forcing platforms such as Meta, Google and TikTok to proactively tackle harmful content or face fines of $109 million or up to 5% of global revenue. Users could also opt out of algorithm-driven feeds. The Coalition warned the laws open the door to 'political censorship'."
+      },
+      {
         "title": "'Too much is at stake': Historic media, arts and entertainment coalition issues powerful call to Anthony Albanese: Don't water down Australia's copyright laws for the AI giants",
         "rewrite": "'Too much is at stake': Historic media, arts and entertainment coalition issues powerful call to Anthony...",
         "url": "https://www.dailymail.com/news/article-16316953/Not-AIs-Coalition-Daily-Mail.html?ns_campaign=1490",
@@ -499,28 +619,28 @@
         "summary": "Treasurer Jim Chalmers told parliament a recession is not forecast, but next month's mid-year update will lift the unemployment forecast and cut growth. He flagged spending cuts that more than cover any new spending, saying too much spending can make inflation worse."
       },
       {
-        "title": "Angus Taylor unleashed: Liberal leader gives fired-up speech about axing Albanese's taxes as poll names him Australia's preferred PM for the first time",
-        "rewrite": "Angus Taylor unleashed: Liberal leader gives fired-up speech about axing Albanese's taxes as poll names...",
-        "url": "https://www.dailymail.com/news/article-16313965/Angus-Taylor-unleashed-Liberal-leader-gives-fired-speech-axing-Albaneses-taxes-poll-names-Australias-preferred-PM-time.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-23T11:31:41+11:00",
+        "title": "Live: Liberal leader Jess Wilson cleans up graffiti in election campaign stunt",
+        "rewrite": "Liberal leader Jess Wilson cleans up graffiti in election campaign stunt",
+        "url": "https://www.abc.net.au/news/2026-11-25/victoria-election-live-updates-labor-liberals-campaign/107422466",
+        "source": "ABC News Australia",
+        "published": "2026-11-25T10:02:09+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "summary": "Opposition Leader Angus Taylor gave a rowdy speech outside Parliament House promising to axe the Albanese government's taxes, as a poll put him ahead as preferred PM for the first time."
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "The major parties are ramping up their campaigns as election day approaches, with the Coalition promising $5 million to \"clean up\" Victoria if voted into government on Saturday."
       },
       {
-        "title": "PBS medicines to cost no more than $25 until end of decade",
-        "rewrite": "PBS medicines to cost no more than $25 until end of decade",
-        "url": "https://www.abc.net.au/news/2026-11-23/albanese-cheaper-medicines-pbs-script-cost-of-living/107415508",
+        "title": "Victorian wildlife carer facing ban for taking sick wombat to NSW vet",
+        "rewrite": "Victorian wildlife carer facing ban for taking sick wombat to NSW vet",
+        "url": "https://www.abc.net.au/news/2026-11-25/wildlife-carer-facing-ban-victoria-wombat/107422358",
         "source": "ABC News Australia",
-        "published": "2026-11-23T10:43:41+11:00",
+        "published": "2026-11-25T09:33:59+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "summary": "The PBS co-payment will be capped at $25 until the end of the decade, a price freeze costing taxpayers an extra $242 million over three years. The PM warned it is among 'limited' cost-of-living relief coming for households."
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "Jade Whittingham thought she was doing the right thing taking a wombat across the border to NSW for vet care, but now she could lose her wildlife licence."
       },
       {
         "title": "How Victoria's election landscape could shape One Nation's fortunes",
@@ -531,7 +651,7 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "As Liberal leader Jess Wilson's political prospects firm, the chances of a One Nation wipeout in Victoria's lower house are receding. But pockets of opportunity remain for the resurgent party."
       },
       {
@@ -559,29 +679,16 @@
         "summary": "Saints College offers young people aged 12 to 25 an alternative to mainstream education, often providing assistance to the state's most vulnerable and marginalised children."
       },
       {
-        "title": "Live: One Nation has 'no desire' for coalition with Liberals, Nationals in Vic",
-        "rewrite": "One Nation has 'no desire' for coalition with Liberals, Nationals in Vic",
-        "url": "https://www.abc.net.au/news/2026-11-24/victoria-election-live-updates-labor-liberals-campaign/107419958",
-        "source": "ABC News Australia",
-        "published": "2026-11-24T10:07:35+11:00",
+        "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
+        "rewrite": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
+        "url": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares",
+        "source": "Cointelegraph",
+        "published": "2026-11-25T06:44:23+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "image": "https://live-production.wcms.abc-cdn.net.au/bd53bf09644fec2ef09c5fa0257c8da8?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-        "summary": "There are just four days until polling day in Victoria, with political parties ramping up their campaigns around the state in a last-minute bid to sway undecided voters. Follow live."
-      },
-      {
-        "title": "Election promises not enough to fix Victoria's crumbling roads, experts say",
-        "rewrite": "Election promises not enough to fix Victoria's crumbling roads, experts say",
-        "url": "https://www.abc.net.au/news/2026-11-24/victorian-election-parties-pothole-promises/107416310",
-        "source": "ABC News Australia",
-        "published": "2026-11-24T08:36:43+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "Potholes are set to be front of mind for some voters in the upcoming state election, but what are the parties proposing to fix the problem and will it be enough to restore Victoria's roads?"
+        "section": "MARKETS",
+        "is_new": true,
+        "summary": "The crypto asset manager warned that Bitcoin’s downturn could persist amid weak investor demand, while forecasting an uneven recovery across crypto sectors."
       },
       {
         "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
@@ -596,19 +703,6 @@
         "summary": "The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it easier to ship bugs."
       },
       {
-        "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
-        "rewrite": "Tuesday's big stock stories: What's likely to move the market in the next trading session",
-        "url": "https://www.cnbc.com/2026/11/23/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-        "source": "CNBC",
-        "published": "2026-11-24T11:12:29+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "MARKETS",
-        "is_new": false,
-        "summary": "The S&P 500 and Nasdaq Composite rose in their best sessions since April 2025 as Nvidia shares surged on Jensen Huang's return to the chip giant.",
-        "image": "https://image.cnbcfm.com/api/v1/image/108447197-1792682617949-gettyimages-2301325199-3h4a6821_7uqxvgux.jpeg?v=1792682661&w=1920&h=1080"
-      },
-      {
         "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
         "rewrite": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
         "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
@@ -617,7 +711,7 @@
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": true,
+        "is_new": false,
         "summary": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027."
       },
       {
@@ -671,6 +765,19 @@
     ],
     "right": [
       {
+        "title": "Britons likely to turn their heating this winter, report warns, as gas bills surge once again",
+        "rewrite": "Britons likely to turn their heating this winter, report warns, as gas bills surge once again",
+        "url": "https://www.gbnews.com/money/gas-bills-heating-winter-prices",
+        "source": "GB News",
+        "published": "2026-11-25T11:01:01+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "UK",
+        "is_new": true,
+        "image": "https://www.gbnews.com/media-library/man-looking-at-energy-bill-and-gas-bill.jpg?id=67980735&width=1200&height=600&coordinates=0%2C50%2C0%2C50",
+        "summary": "Britons likely to turn their heating this winter, report warns, as gas bills surge once again . Seven in ten people are likely to turn down their heating this winter, with gas bills more than twice as high as before the Ukraine invasion, a report warns"
+      },
+      {
         "title": "Woman screamed 'Help me!' as stranger with black eye put her in chokehold and tried to rape her in In-N-Out Burger bathroom... until good Samaritans saved her",
         "rewrite": "Woman screamed 'Help me!' as stranger with black eye put her in chokehold and tried to rape her in...",
         "url": "https://www.dailymail.com/news/article-16318091/Woman-screamed-stranger-rape-N-saved-her.html?ns_campaign=1490",
@@ -679,7 +786,7 @@
         "slot": "column",
         "urgent": false,
         "section": "UK",
-        "is_new": true,
+        "is_new": false,
         "summary": "Vancouver Police arrested Matthew Lewellen, 39, on Sunday after receiving reports of a disturbance at the In-N-Out."
       },
       {
@@ -691,7 +798,7 @@
         "slot": "column",
         "urgent": false,
         "section": "UK",
-        "is_new": true,
+        "is_new": false,
         "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP25189430399209.jpg?resize=1200,683",
         "summary": "William, Kate, and their three children were not at the property at the time of the incident, according to Kensington Palace."
       },
@@ -720,6 +827,18 @@
         "summary": "EU rules could force Britons to pay extra for making tea during TV ad breaks, it has been reported, as Andy Burnham's EU summit on Friday is tipped to add up to £17 billion to the economy."
       },
       {
+        "title": "Microsoft goes ‘Code Red’ on its response after industry-wide outages left customers in the dark",
+        "rewrite": "Microsoft goes 'Code Red' on its response after industry-wide outages left customers in the dark",
+        "url": "https://www.washingtonexaminer.com/policy/technology/4814499/microsoft-code-red-response-outlook-outages/",
+        "source": "Washington Examiner",
+        "published": "2026-11-25T09:52:53+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "TECHNOLOGY",
+        "is_new": true,
+        "summary": "Microsoft is changing how it approaches future service failures after a three-day outage left its customers without access to its products."
+      },
+      {
         "title": "Faisal Islam: Fears over the AI boom haven't gone away",
         "rewrite": "Faisal Islam: Fears over the AI boom haven't gone away",
         "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o",
@@ -728,7 +847,7 @@
         "slot": "column",
         "urgent": false,
         "section": "TECHNOLOGY",
-        "is_new": true,
+        "is_new": false,
         "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it"
       },
       {
@@ -742,18 +861,6 @@
         "section": "TECHNOLOGY",
         "is_new": false,
         "summary": "US authorities suspect Iran may be behind a wave of cyberattacks targeting nearly 50 energy tankers worldwide, with some crews receiving chilling bomb threats."
-      },
-      {
-        "title": "Van Hollen promises ‘emergency’ action on AI in bid to defeat Schumer as leader",
-        "rewrite": "Van Hollen promises 'emergency' action on AI in bid to defeat Schumer as leader",
-        "url": "https://www.washingtonexaminer.com/news/senate/4813054/van-hollen-promises-emergency-action-ai-schumer/",
-        "source": "Washington Examiner",
-        "published": "2026-11-24T09:10:16+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false,
-        "summary": "Sen. Chris Van Hollen (D-MD), vying to defeat Sen. Chuck Schumer (D-NY) in a race for Senate majority leader, has promised a flurry of “emergency” legislation on artificial intelligence if elected by his caucus next month."
       },
       {
         "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
@@ -804,6 +911,18 @@
         "summary": "The FBI warned that the ARTEX AI hacking tool can give criminals privileged access in under three hours, targeting Microsoft 365 and financial firms."
       },
       {
+        "title": "Philip Rosenberg, Oscar-Winning Production Designer for ‘All That Jazz,’ Dies at 91",
+        "rewrite": "Philip Rosenberg, Oscar-Winning Production Designer for 'All That Jazz,' Dies at 91",
+        "url": "https://variety.com/2026/film/news/philip-rosenberg-dead-all-that-jazz-1236957540/",
+        "source": "Variety",
+        "published": "2026-11-25T11:50:47+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "Philip Rosenberg, a production designer and art director who was part of the team that won the art direction-set decoration Oscar for “All That Jazz,” died Oct. 28 in West Palm Beach, Florida. He was 91. His death was announced by his nephew, Alan Rosenberg."
+      },
+      {
         "title": "Kevin Kline Reunites With Meryl Streep in ‘The Corrections’ Series at Netflix",
         "rewrite": "Kevin Kline Reunites With Meryl Streep in 'The Corrections' Series at Netflix",
         "url": "https://variety.com/2026/tv/news/kevin-kline-meryl-streep-the-corrections-series-netflix-1236957061/",
@@ -812,7 +931,7 @@
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
+        "is_new": false,
         "summary": "Kevin Kline will star opposite Meryl Streep in the Netflix limited series adaptation of “The Corrections,” Variety has learned. Based on the novel of the same name by Jonathan Franzen, the series was originally announced with Streep attached back in April."
       },
       {
@@ -824,7 +943,7 @@
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
+        "is_new": false,
         "summary": "Rachel Maddow and more than a dozen other MS NOW on-air hosts issued a public letter urging parent company Versant Media to reach a new deal with unionized employees affiliated with WGA East that ensures “fair wages and protections,” before their previous agreement expires Dec. 3."
       },
       {
@@ -836,7 +955,7 @@
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
+        "is_new": false,
         "summary": "Disney has officially picked up the series adaptation of “Aquamarine,” Variety has learned. The live-action series will air on both Disney Channel and Disney+. It was originally announced with a pilot order back in June."
       },
       {
@@ -874,30 +993,18 @@
         "section": "ENTERTAINMENT",
         "is_new": false,
         "summary": "“Michael” director Antoine Fuqua has been accused of assault, battery and intentional infliction of emotional distress by a Los Angeles bar manager following an incident back in February during which Fuqua allegedly pulled a gun on and struck the employee in the head."
-      },
-      {
-        "title": "Steven Spielberg to Direct Western Movie Starring Cillian Murphy, Jessie Buckley; Paul Thomas Anderson to Write Script Based on ‘The Heart in Winter’",
-        "rewrite": "Steven Spielberg to Direct Western Movie Starring Cillian Murphy, Jessie Buckley; Paul Thomas Anderson to...",
-        "url": "https://variety.com/2026/film/news/steven-spielberg-western-cillian-murphy-jessie-buckley-1236956084/",
-        "source": "Variety",
-        "published": "2026-11-24T05:03:43+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "Spielberg will adapt Kevin Barry's novel 'The Heart in Winter' for Focus Features from a Paul Thomas Anderson script, with Jessie Buckley, Cillian Murphy and Mark Rylance starring."
       }
     ]
   },
-  "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/todd-blanche-kash-patel-doj-presser.jpg",
-  "image_source_url": "https://www.foxnews.com/politics/doj-recovers-8b-charges-more-than-800-suspects-largest-anti-scam-surge-history",
+  "image_url": "https://live-production.wcms.abc-cdn.net.au/cc2b42edc32a34def24f1345f4210d2d?impolicy=wcms_watermark_news&cropH=3375&cropW=6000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+  "image_source_url": "https://www.abc.net.au/news/2026-11-25/abs-october-cpi-inflation-rises-year-/107424668",
   "counts": {
-    "total": 72,
+    "total": 81,
     "featured": 4,
     "columns": {
-      "left": 19,
-      "center": 30,
-      "right": 18
+      "left": 26,
+      "center": 31,
+      "right": 19
     },
     "feeds_ok": 44,
     "feeds_failed": 6

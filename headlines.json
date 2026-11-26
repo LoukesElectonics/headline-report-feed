@@ -2,9 +2,9 @@
   "title": "THE NEWS REPORT",
   "generated": {
     "date": "Thursday, 26 November 2026",
-    "display": "Thursday, November 26, 2026  6:27 AM AEDT (Australia/Sydney)",
-    "iso": "2026-11-26T06:27:36.772423+11:00",
-    "time": "6:27 AM AEDT",
+    "display": "Thursday, November 26, 2026  12:20 PM AEDT (Australia/Sydney)",
+    "iso": "2026-11-26T12:20:33.947491+11:00",
+    "time": "12:20 PM AEDT",
     "timezone": "Australia/Sydney"
   },
   "lean": "centre-right",
@@ -58,20 +58,56 @@
       "summary": "The East Wing says Melania Trump's office has brokered the return of nine more Russian and Ukrainian children to their families, its seventh reunification mission, bringing the total to 43. She said the effort had the support of both Russian and Ukrainian leaders."
     },
     {
-      "title": "Inflation rises more than expected to 4.9pc in year to October",
-      "rewrite": "Inflation rises more than expected to 4.9pc in year to October",
-      "url": "https://www.abc.net.au/news/2026-11-25/abs-october-cpi-inflation-rises-year-/107424668",
+      "title": "Senator Leah Blyth defects to One Nation saying Liberals cannot save Australia",
+      "rewrite": "Senator Leah Blyth defects to One Nation saying Liberals cannot save Australia",
+      "url": "https://www.abc.net.au/news/2026-11-26/leah-blyth-liberal-one-nation-angus-taylor-/107428224",
       "source": "ABC News Australia",
-      "published": "2026-11-25T11:42:21+11:00",
+      "published": "2026-11-26T09:27:08+11:00",
       "slot": "featured",
       "urgent": false,
-      "section": "BUSINESS",
+      "section": "AUSTRALIA",
       "is_new": false,
-      "summary": "The consumer price index rose 0.5 per cent in October, lifting annual inflation to 4.9 per cent, the Australian Bureau of Statistics said, a hotter result than expected and up on the previous month. The Reserve Bank already forecasts inflation to stay outside its target band for another year."
+      "summary": "South Australian senator Leah Blyth, a member of Angus Taylor's shadow ministry and former state Liberal president, quit the Liberals to become One Nation's first federal senator for SA. She said she had lost confidence in the opposition on immigration, spending and energy; a former colleague said the move 'smacks of self-interest'. She faces re-election in 2028."
     }
   ],
   "columns": {
     "left": [
+      {
+        "title": "Hit-and-run driver busted 3 months after allegedly killing NYC nurse on way home from overnight shift",
+        "rewrite": "Hit-and-run driver busted 3 months after allegedly killing NYC nurse on way home from overnight shift",
+        "url": "https://nypost.com/2026/11/25/us-news/hit-and-run-driver-accused-of-fatally-striking-dedicated-nyc-nurse-on-way-home-from-overnight-shift-is-busted/",
+        "source": "New York Post",
+        "published": "2026-11-26T09:53:38+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Justin Mercado, 22, was charged with manslaughter and criminally negligent homicide in the Aug. 29 death of Jiayi Zheng, 28, who had been crossing at the intersection of Third Avenue and 55th Street in Sunset Park when she was killed, according to the Brooklyn District Attorney’s Office."
+      },
+      {
+        "title": "Maine Democrat Senator-Elect Troy Jackson Backs Chris Van Hollen to Oust Chuck Schumer as Majority Leader",
+        "rewrite": "Maine Democrat Senator-Elect Troy Jackson Backs Chris Van Hollen to Oust Chuck Schumer as Majority Leader",
+        "url": "https://www.breitbart.com/politics/2026/11/25/maine-democrat-senator-elect-troy-jackson-backs-chris-van-hollen-to-oust-chuck-schumer-as-majority-leader/",
+        "source": "Breitbart",
+        "published": "2026-11-26T09:01:34+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Sen.-elect Troy Jackson (D-ME), a longtime skeptic of Senate Democrat Leader Chuck Schumer (D-NY), announced Wednesday that he will vote for Sen. Chris Van Hollen (D-MD) in the upcoming Senate Democrat leadership election, citing their shared support for eliminating the filibuster, passing Medicare for All, and increasing the minimum wage."
+      },
+      {
+        "title": "ICE arrests migrant a week after he won $1 million on Massachusetts State Lottery and posed proudly with his prize check",
+        "rewrite": "ICE arrests migrant a week after he won $1 million on Massachusetts State Lottery and posed proudly with...",
+        "url": "https://www.dailymail.com/news/article-16321965/ice-arrests-migrant-massachusetts-lottery-million-check.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-26T07:38:06+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "'Looks like his luck ran out,' Micah Bock, ICE's Assistant Director of Public Affairs, said in a press release sent to the Daily Mail on Wednesday afternoon."
+      },
       {
         "title": "Texas state lawmakers push back on Ted Cruz’s narrative of GOP defeat in Lone Star state",
         "rewrite": "Texas state lawmakers push back on Ted Cruz's narrative of GOP defeat in Lone Star state",
@@ -81,7 +117,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "After Sen. Ted Cruz announced his team’s plan for a fresh nonprofit organization called “Saving Texas,” state representatives did not hold back their stark dispute with his midterm diagnosis."
       },
       {
@@ -93,7 +129,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Trump previously called El-Sayed a “jihadist,” but pivoted to praising the political upstart"
       },
       {
@@ -105,7 +141,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Under the leadership of Secretary Pete Hegseth, the Pentagon has sought to use the schools as models for the broader Republican education agenda."
       },
       {
@@ -117,7 +153,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "New York's socialist Mayor Zohran Mamdani went on the attack on social media — in a dozen languages — against Immigration and Customs Enforcement (ICE), accusing the agency of \"tearing New York City's families apart\" and offering taxpayer funded \"free\" legal aid to help them skirt American immigration laws."
       },
       {
@@ -129,7 +165,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "The Supreme Court will go forward with oral arguments in a pair of cases challenging the legality of “assault weapons” bans next month, after punting on a request to dismiss one of the two cases as moot on Tuesday."
       },
       {
@@ -141,8 +177,20 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "House Republicans are pushing Secretary of State Marco Rubio to launch a 2028 presidential run, calling him the GOP's unifier after midterm losses."
+      },
+      {
+        "title": "Senate GOP takes risky bet on Dems as holiday shutdown deadline looms: 'It's a gamble'",
+        "rewrite": "Senate GOP takes risky bet on Dems as holiday shutdown deadline looms: 'It's a gamble'",
+        "url": "https://www.foxnews.com/politics/senate-gop-takes-risky-bet-dems-holiday-shutdown-deadline-looms-its-gamble",
+        "source": "Fox News",
+        "published": "2026-11-25T21:00:09+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Senate Republicans are betting on Senate Democrats to avert another government shutdown as Democrats aim to use funding to end the eight-month Iran war."
       },
       {
         "title": "Marjorie Taylor Greene slams Trump over 'dirty bomb in Iowa' as Army prepares to detonate 10,000 pounds of explosives sparking toxic fallout fears",
@@ -264,56 +312,6 @@
         "summary": "Attorney General Todd Blanche, alongside FBI Director Kash Patel, said prosecutors have charged more than 800 defendants and recovered over $8 billion in intended victim losses. The blitz follows Trump's March executive order on fraud; more than 400 criminal cases have been filed across 85 federal districts."
       },
       {
-        "title": "Brooke Rollins vows to take case to SCOTUS after federal judge blocks her from sending Christmas, Easter messages to staff",
-        "rewrite": "Brooke Rollins vows to take case to SCOTUS after federal judge blocks her from sending Christmas, Easter...",
-        "url": "https://thepostmillennial.com/news/brooke-rollins-vows-to-take-case-to-scotus-after-federal-judge-blocks-her-from-sending-christmas",
-        "source": "The Post Millennial",
-        "published": "2026-11-25T03:28:49+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "A federal judge in California ruled last week that the Agriculture Secretary's Christmas and Easter emails to USDA staff, which included Christian messages, went too far under the Establishment Clause. Rollins told Fox & Friends she will fight the ruling 'all the way to the Supreme Court'.",
-        "image": "https://cdn.sanity.io/images/v3d3jm0s/production/fe5235123a30a538b10039c46e2cc28a13c23839-1000x500.jpg"
-      },
-      {
-        "title": "Trump to award Giuliani Presidential Medal of Freedom",
-        "rewrite": "Trump to award Giuliani Presidential Medal of Freedom",
-        "url": "https://www.foxnews.com/politics/trump-award-giuliani-presidential-medal-freedom",
-        "source": "Fox News",
-        "published": "2026-11-25T01:47:59+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Trump was set to present the nation's highest civilian honour to the former New York mayor, 82, at a closed-press White House ceremony on Tuesday. Giuliani said he was 'honored and humbled' and shared the credit with those who worked alongside him."
-      },
-      {
-        "title": "Former chief of staff to Pentagon chief Hegseth says 'it’s time for Pete to call it quits': report",
-        "rewrite": "Former chief of staff to Pentagon chief Hegseth says 'it's time for Pete to call it quits': report",
-        "url": "https://www.foxnews.com/politics/former-chief-staff-pentagon-chief-hegseth-says-its-time-pete-call-quits-report",
-        "source": "Fox News",
-        "published": "2026-11-24T23:04:20+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Joe Kasper, Hegseth's chief of staff early in the administration, told Politico it is 'time for Pete to call it quits', saying the Defense Secretary's ability to be effective has been constrained, including in working with Congress on funding."
-      },
-      {
-        "title": "Exclusive: Ohio Rep. Michael Rulli Calls on GOP to Have 'Awakening' After Midterms, Points Out Iran War and Ramaswamy's Campaign Blunders",
-        "rewrite": "Ohio Rep. Michael Rulli Calls on GOP to Have 'Awakening' After Midterms, Points Out Iran War and...",
-        "url": "https://www.breitbart.com/politics/2026/11/23/exclusive-ohio-rep-michael-rulli-calls-gop-awakening-midterm/",
-        "source": "Breitbart",
-        "published": "2026-11-24T15:59:43+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "image": "https://media.breitbart.com/media/2026/11/june25-24-Rep-Michael-Rulli-R-Ohio-ap-640x335.jpg",
-        "summary": "Newly reelected Rep. Michael Rulli (R-OH) is sharing why he believes he won his midterm race when so many of his fellow Republicans did not."
-      },
-      {
         "title": "Consumer Spending Posts Solid Gain After Strong Third Quarter",
         "rewrite": "Consumer Spending Posts Solid Gain After Strong Third Quarter",
         "url": "https://www.breitbart.com/economy/2026/11/25/consumer-spending-posts-solid-gain-after-strong-third-quarter/",
@@ -322,8 +320,20 @@
         "slot": "column",
         "urgent": false,
         "section": "BUSINESS",
-        "is_new": true,
+        "is_new": false,
         "summary": "Americans spent more in October after a strong summer, as rising incomes gave households room to increase their spending and save more of what they earned."
+      },
+      {
+        "title": "Inflation rises more than expected to 4.9pc in year to October",
+        "rewrite": "Inflation rises more than expected to 4.9pc in year to October",
+        "url": "https://www.abc.net.au/news/2026-11-25/abs-october-cpi-inflation-rises-year-/107424668",
+        "source": "ABC News Australia",
+        "published": "2026-11-25T11:42:21+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "BUSINESS",
+        "is_new": false,
+        "summary": "The consumer price index rose 0.5 per cent in October, lifting annual inflation to 4.9 per cent, the Australian Bureau of Statistics said, a hotter result than expected and up on the previous month. The Reserve Bank already forecasts inflation to stay outside its target band for another year."
       },
       {
         "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
@@ -352,6 +362,29 @@
     ],
     "center": [
       {
+        "title": "Military Doctors Warn Pentagon’s Iran War Medical Preparations Could Cost American Lives",
+        "rewrite": "Military Doctors Warn Pentagon's Iran War Medical Preparations Could Cost American Lives",
+        "url": "https://dailycaller.com/2026/11/25/military-doctors-iran-war-pentagon-medical-preparations",
+        "source": "Daily Caller",
+        "published": "2026-11-26T08:35:22+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true
+      },
+      {
+        "title": "Putin's war death toll reportedly tops 700,000 as Russia scrambles for recruits",
+        "rewrite": "Putin's war death toll reportedly tops 700,000 as Russia scrambles for recruits",
+        "url": "https://www.foxnews.com/world/putins-war-death-toll-reportedly-tops-700000-russia-scrambles-recruits",
+        "source": "Fox News",
+        "published": "2026-11-26T06:34:13+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "Kremlin spokesman Dmitry Peskov dismisses an investigation estimating 700,000 Russian troops have died in Vladimir Putin's war against Ukraine."
+      },
+      {
         "title": "Dragged off the street and sent to war: Girlfriend desperately clutches her boyfriend as videos show Ukraine's conscription squads forcing men to fight Putin's invaders",
         "rewrite": "Dragged off the street and sent to war: Girlfriend desperately clutches her boyfriend as videos show...",
         "url": "https://www.dailymail.com/news/article-16320731/Dragged-street-sent-war-Girlfriend-desperately-clutches-boyfriend-videos-Ukraines-conscription-squads-forcing-men-fight-Putins-invaders.html?ns_campaign=1490",
@@ -360,7 +393,7 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "summary": "Now in its fifth year, Russia's war on Ukraine has taken a devastating toll on both sides."
       },
       {
@@ -372,7 +405,7 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "summary": "Russian attacks on the GPS signals of commercial flights could produce a disaster akin to the downing of Malaysia Airlines flight MH17, experts have warned."
       },
       {
@@ -384,7 +417,7 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f4f9/live/01698130-e808-11f1-95bb-3f37d3e026b0.jpg",
         "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm."
       },
@@ -397,7 +430,7 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "summary": "How a big drop in liquified natural gas supplies from the Middle East is putting up Briton's fuel bills."
       },
       {
@@ -409,7 +442,7 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "summary": "Yemeni armed forces say Iran's IRGC and Hezbollah experts are directing Houthis' missile, drone and naval attacks on shipping near Bab el-Mandeb."
       },
       {
@@ -485,30 +518,6 @@
         "summary": "Former prosecutor general Ruslan Kravchenko alleges political interference, while Zelenskyy defended his removal and anti-corruption agencies rejected the accusations."
       },
       {
-        "title": "Houthis Claim Attack on Major Saudi Oil Refinery",
-        "rewrite": "Houthis Claim Attack on Major Saudi Oil Refinery",
-        "url": "https://www.breitbart.com/national-security/2026/11/24/houthis-claim-attack-on-major-saudi-oil-refinery/",
-        "source": "Breitbart",
-        "published": "2026-11-25T01:37:06+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "The Iran-backed Houthi insurgents of Yemen on Sunday claimed an attack on Petro Rabigh, a major oil refinery and petrochemical complex on the Red Sea coast of Saudi Arabia."
-      },
-      {
-        "title": "Report: JD Vance Meets with Qatari Leaders on Stalled Iran Negotiations",
-        "rewrite": "Report: JD Vance Meets with Qatari Leaders on Stalled Iran Negotiations",
-        "url": "https://www.breitbart.com/politics/2026/11/23/report-jd-vance-meets-with-qatari-leaders-on-stalled-iran-negotiations/",
-        "source": "Breitbart",
-        "published": "2026-11-24T11:22:02+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "Vice President JD Vance met with Qatar’s prime minister Monday as the Gulf nation pressed Washington and Tehran to return to negotiations over the war with Iran."
-      },
-      {
         "title": "Albanese had some wins this week — then inflation numbers landed with a thud",
         "rewrite": "Albanese had some wins this week — then inflation numbers landed with a thud",
         "url": "https://www.abc.net.au/news/2026-11-26/inflation-numbers-ruin-governments-good-week/107424930",
@@ -517,7 +526,7 @@
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "The final week of parliament for the year has seen Labor whipping through their legislative to-do list. But the latest inflation numbers make it hard to celebrate."
       },
       {
@@ -581,17 +590,29 @@
         "summary": "A coalition of Australia's leading media, arts and entertainment companies - including Daily Mail - launched a campaign calling on the Government not to water down copyright protections."
       },
       {
-        "title": "Iran-based operation used ChatGPT to create fake news, influence Australians",
-        "rewrite": "Iran-based operation used ChatGPT to create fake news, influence Australians",
-        "url": "https://www.abc.net.au/news/2026-11-24/penny-wong-iran-linked-ai-foreign-influence/107419864",
+        "title": "Geelong teacher's licence suspended amid police investigation",
+        "rewrite": "Geelong teacher's licence suspended amid police investigation",
+        "url": "https://www.abc.net.au/news/2026-11-26/geelong-teacher-licence-suspended-amid-police-investigation/107425790",
         "source": "ABC News Australia",
-        "published": "2026-11-24T11:56:23+11:00",
+        "published": "2026-11-26T11:37:30+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "image": "https://live-production.wcms.abc-cdn.net.au/2f1cf1fa2093bc58ded79e285e11c0cb?impolicy=wcms_watermark_news&cropH=605&cropW=1075&xPos=0&yPos=238&width=862&height=485&imformat=generic",
-        "summary": "An Iran-based foreign influence operation used AI to create a fake journalist which wrote news articles and posts on X about Australia's involvement in the US-Iran War, the ABC can reveal."
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "A Geelong high school teacher's registration has been suspended amid a sexual offences and child abuse police team investigation into allegations relating to a previous role in Bendigo."
+      },
+      {
+        "title": "Live: Victorian election stoush over dumped Liberal's blue t-shirts back in court",
+        "rewrite": "Victorian election stoush over dumped Liberal's blue t-shirts back in court",
+        "url": "https://www.abc.net.au/news/2026-11-26/victorian-election-live-updates-labor-liberal-court-battle/107428608",
+        "source": "ABC News Australia",
+        "published": "2026-11-26T10:25:43+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "VICTORIA",
+        "is_new": true,
+        "image": "https://live-production.wcms.abc-cdn.net.au/d476eae69940cfdb99fb4d384a7cf40d?impolicy=wcms_watermark_news&cropH=471&cropW=837&xPos=0&yPos=173&width=862&height=485&imformat=generic",
+        "summary": "As the major parties continue their push to election day, Labor are seeking an injunction in the Supreme Court to stop dumped Liberal candidate for Williamstown Paul Lindemann from campaigning in a blue t-shirt. Follow live in our election blog."
       },
       {
         "title": "How anger at data centres is boiling over at Victoria's ballot box",
@@ -602,7 +623,7 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "Data centres have become a piping hot political issue in a seemingly short length of time. Will they be a factor in this weekend's Victorian election?"
       },
       {
@@ -614,7 +635,7 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "image": "https://static.ffx.io/images/$zoom_0.5064%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_196%2C$y_0/t_crop_custom/q_86%2Cf_auto/d8637c1f964c95f8ba7e8c1e33ff6b572d8e6c7b",
         "summary": "The Commonwealth Bank repossessed and sold Warren Pickering’s house, then tried to pursue him for a further $200,000."
       },
@@ -627,35 +648,23 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "On the eve of a transformative state election, the vast regional seat of Ripon has become a microcosm of Australian disaffection."
-      },
-      {
-        "title": "18-year-old denied bail over fatal stabbing in Melbourne CBD",
-        "rewrite": "18-year-old denied bail over fatal stabbing in Melbourne CBD",
-        "url": "https://www.abc.net.au/news/2026-11-25/la-trobe-street-fatal-stabbing-accused-denied-bail/107425670",
-        "source": "ABC News Australia",
-        "published": "2026-11-25T17:37:10+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "The court heard Peter Hlawnchan was a key support for his mother, who has cancer."
-      },
-      {
-        "title": "Ping-pong sex parties and payment in cocaine: Secret witness’s explosive testimony reveals CFMEU demands",
-        "rewrite": "Ping-pong sex parties and payment in cocaine: Secret witness's explosive testimony reveals CFMEU demands",
-        "url": "https://www.theage.com.au/national/victoria/ping-pong-sex-parties-and-payment-in-cocaine-secret-witness-s-explosive-testimony-reveals-cfmeu-demands-20261125-p61h2y.html?ref=rss",
-        "source": "The Age",
-        "published": "2026-11-25T16:22:32+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "An anonymous building industry insider has given evidence of rampant bribery, threats and brazen drug-taking on work sites controlled by the CFMEU."
       }
     ],
     "right": [
+      {
+        "title": "Grade inflation at university is blamed on 'soft' subject degrees... just as Labour pushes for more in schools",
+        "rewrite": "Grade inflation at university is blamed on 'soft' subject degrees... just as Labour pushes for more in schools",
+        "url": "https://www.dailymail.com/news/article-16322439/Rampant-degree-grade-inflation-arts-subjects.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-26T11:14:11+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "UK",
+        "is_new": true,
+        "summary": "A paper from the Higher Education Policy Institute think-tank found the number of first-class marks handed out by British universities had surged in the past ten years."
+      },
       {
         "title": "Kemi Badenoch blasts Nigel Farage for taking aim at her Remain-voting husband - with Tory leader rebuking 'desperate' Reform chief for 'personal' attacks as he 'slides into irrelevance'",
         "rewrite": "Kemi Badenoch blasts Nigel Farage for taking aim at her Remain-voting husband - with Tory leader rebuking...",
@@ -665,7 +674,7 @@
         "slot": "column",
         "urgent": false,
         "section": "UK",
-        "is_new": true,
+        "is_new": false,
         "summary": "At a press conference this week, Mr Farage listed a series of senior Tory figures who backed staying in the EU at the 2016 Brexit referendum."
       },
       {
@@ -707,16 +716,16 @@
         "summary": "William, Kate, and their three children were not at the property at the time of the incident, according to Kensington Palace."
       },
       {
-        "title": "Ian Huntley's fellow inmate 'plotted Soham killer's alleged murder weeks before fatal attack'",
-        "rewrite": "Ian Huntley's fellow inmate 'plotted Soham killer's alleged murder weeks before fatal attack'",
-        "url": "https://www.gbnews.com/news/ian-huntley-inmate-soham-killer-murder-fatal-attack",
-        "source": "GB News",
-        "published": "2026-11-24T07:57:59+11:00",
+        "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
+        "rewrite": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
+        "url": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites",
+        "source": "Cointelegraph",
+        "published": "2026-11-26T08:22:19+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "UK",
-        "is_new": false,
-        "summary": "Ian Huntley's alleged murder was \"cold-blooded\" and had been \"planned weeks in advance,\" a court has heard. Anthony Russell, 44, is currently on trial at Newcastle Crown Court, having been charged with the murder of child-killer Huntley, which he denies."
+        "section": "MARKETS",
+        "is_new": true,
+        "summary": "Bitcoin mining pool operator Braiins warned that attackers are exploiting unsecured connections to hijack miners’ computing power and potentially steal rewards."
       },
       {
         "title": "Anthropic teeters at $1 trillion market cap. Why it may stabilize from here",
@@ -727,7 +736,7 @@
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": true,
+        "is_new": false,
         "summary": "Anthropic's post-IPO slide tests the AI trade as analysts defend its enterprise edge."
       },
       {
@@ -739,7 +748,7 @@
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": true,
+        "is_new": false,
         "summary": "Crypto sentiment is near rock bottom, but Galaxy sees room for a deeper slide and even longtime crypto bulls are wary of buying amid fears of AI and quantum computing."
       },
       {
@@ -751,7 +760,7 @@
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": true,
+        "is_new": false,
         "summary": "U.S. equities tumbled Wednesday after key PCE inflation data as Nvidia, Anthropic and Big Tech stocks slid alongside fresh Trump administration tariff proposals."
       },
       {
@@ -790,42 +799,6 @@
         "summary": "The crypto asset manager warned that Bitcoin’s downturn could persist amid weak investor demand, while forecasting an uneven recovery across crypto sectors."
       },
       {
-        "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
-        "rewrite": "Ethereum Foundation doubles protocol security team ahead of overhaul",
-        "url": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul",
-        "source": "Cointelegraph",
-        "published": "2026-11-24T11:36:26+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "MARKETS",
-        "is_new": false,
-        "summary": "The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it easier to ship bugs."
-      },
-      {
-        "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
-        "rewrite": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
-        "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
-        "source": "CNBC",
-        "published": "2026-11-24T08:00:01+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "MARKETS",
-        "is_new": false,
-        "summary": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027."
-      },
-      {
-        "title": "Wall Street roars back as Nvidia's Jensen Huang reinstated",
-        "rewrite": "Wall Street roars back as Nvidia's Jensen Huang reinstated",
-        "url": "https://www.abc.net.au/news/2026-11-24/asx-markets-business-news-live-updates-nov-24-2026/107419524",
-        "source": "ABC News Australia",
-        "published": "2026-11-24T07:36:20+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "MARKETS",
-        "is_new": false,
-        "summary": "Nvidia announced Monday that founder Jensen Huang is back as chief executive, and the S&P 500 jumped 4.7% and the Nasdaq 6.5% on the news. The ASX 200 was up 1.4% in Tuesday trade, with miners leading after an overnight copper rally."
-      },
-      {
         "title": "Trump officials reportedly at odds over tech titan's comeback as national security concerns linger",
         "rewrite": "Trump officials reportedly at odds over tech titan's comeback as national security concerns linger",
         "url": "https://www.foxnews.com/politics/trump-officials-odds-tech-titan-comeback-national-security-concerns-linger",
@@ -834,7 +807,7 @@
         "slot": "column",
         "urgent": false,
         "section": "TECHNOLOGY",
-        "is_new": true,
+        "is_new": false,
         "summary": "Jensen Huang returned to Nvidia after Trump and JD Vance intervened, but federal probes into Megaspeed and alleged chip diversion to China remain ongoing."
       },
       {
@@ -846,7 +819,7 @@
         "slot": "column",
         "urgent": false,
         "section": "TECHNOLOGY",
-        "is_new": true,
+        "is_new": false,
         "summary": "The planned Starmind constellation will process data in orbit for use on Earth, as demand for artificial intelligence computing power continues to grow."
       },
       {
@@ -874,28 +847,16 @@
         "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it"
       },
       {
-        "title": "Iran believed to have launched dozens of cyber attacks and bomb threats against nearly 50 tankers as Tehran ramps up terror plots",
-        "rewrite": "Iran believed to have launched dozens of cyber attacks and bomb threats against nearly 50 tankers as...",
-        "url": "https://www.dailymail.com/news/article-16316883/iran-tankers-cyberattack-suspect-fed.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-24T11:55:59+11:00",
+        "title": "Hollywood director pistol-whipped bar manager in antisemetic rage: suit",
+        "rewrite": "Hollywood director pistol-whipped bar manager in antisemetic rage: suit",
+        "url": "https://nypost.com/2026/11/25/us-news/hollywood-director-pistol-whipped-man-hurled-antisemitic-slurs-lawsuit/",
+        "source": "New York Post",
+        "published": "2026-11-26T09:08:04+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false,
-        "summary": "US authorities suspect Iran may be behind a wave of cyberattacks targeting nearly 50 energy tankers worldwide, with some crews receiving chilling bomb threats."
-      },
-      {
-        "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
-        "rewrite": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
-        "url": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack",
-        "source": "Cointelegraph",
-        "published": "2026-11-24T08:04:03+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false,
-        "summary": "US prosecutors are seeking control of stolen USDC, while Elliptic says hackers have moved $247 million through Bitcoin mixers."
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "Antoine Fuqua, the 61-year-old director behind the Denzel Washington blockbusters “Training Day” and “The Equalizer” franchise has denied the accusations, which surfaced in a civil lawsuit filed Friday in Los Angeles County Superior Court."
       },
       {
         "title": "‘Avengers: Doomsday’ $270M+ Opening Is Highest Pic Ever On NRG Tracking; ‘Dune 3’ Eyes $75M+ Debut – Box Office Early Look",
@@ -906,7 +867,7 @@
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
+        "is_new": false,
         "summary": "EXCLUSIVE: It’s happening. Yes, finally, Disney/Marvel Studio’s Russo Brothers’ Avengers:Doomsday arrived on NRG’s 3 week-in-advance tracking with a projection of $270M+. Yes, calm down, fanboys, we know, it has a shot at $300M+, but you can’t call it until it’s there."
       },
       {
@@ -918,7 +879,7 @@
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
+        "is_new": false,
         "summary": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart."
       },
       {
@@ -980,30 +941,18 @@
         "section": "ENTERTAINMENT",
         "is_new": false,
         "summary": "Rachel Maddow and more than a dozen other MS NOW on-air hosts issued a public letter urging parent company Versant Media to reach a new deal with unionized employees affiliated with WGA East that ensures “fair wages and protections,” before their previous agreement expires Dec. 3."
-      },
-      {
-        "title": "‘Aquamarine’ TV Series Greenlit at Disney+, Disney Channel",
-        "rewrite": "'Aquamarine' TV Series Greenlit at Disney+, Disney Channel",
-        "url": "https://variety.com/2026/tv/news/aquamarine-tv-series-disney-plus-emma-roberts-jake-mcdorman-1236957019/",
-        "source": "Variety",
-        "published": "2026-11-25T05:30:00+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "Disney has officially picked up the series adaptation of “Aquamarine,” Variety has learned. The live-action series will air on both Disney Channel and Disney+. It was originally announced with a pilot order back in June."
       }
     ]
   },
   "image_url": "https://media.breitbart.com/media/2026/11/Iranian-Leadership-Regime-640x335.jpeg",
   "image_source_url": "https://www.breitbart.com/politics/2026/11/24/trump-says-toppling-irans-regime-is-probably-doable-but-not-his-goal/",
   "counts": {
-    "total": 81,
+    "total": 77,
     "featured": 4,
     "columns": {
-      "left": 23,
-      "center": 25,
-      "right": 28
+      "left": 24,
+      "center": 24,
+      "right": 24
     },
     "feeds_ok": 44,
     "feeds_failed": 6

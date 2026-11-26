@@ -2,36 +2,48 @@
   "title": "THE NEWS REPORT",
   "generated": {
     "date": "Thursday, 26 November 2026",
-    "display": "Thursday, November 26, 2026  12:20 PM AEDT (Australia/Sydney)",
-    "iso": "2026-11-26T12:20:33.947491+11:00",
-    "time": "12:20 PM AEDT",
+    "display": "Thursday, November 26, 2026  6:27 PM AEDT (Australia/Sydney)",
+    "iso": "2026-11-26T18:27:00.202504+11:00",
+    "time": "6:27 PM AEDT",
     "timezone": "Australia/Sydney"
   },
   "lean": "centre-right",
   "top": {
-    "title": "Trump strikes back after Supreme Court torpedoes his tariffs... unleashing a new trade offensive against America's biggest economic rivals",
-    "rewrite": "Trump strikes back after Supreme Court torpedoes his tariffs... unleashing a new trade offensive against...",
-    "url": "https://www.dailymail.com/news/us-politics/article-16322027/Trumps-defiant-tariff-clapback-New-levies-China-EU-India-Supreme-Court-killed-batch.html?ns_campaign=1490",
+    "title": "Donald Trump urges 'friend' Putin not to 'expand the war' in Ukraine after Mar-a-Lago Thanksgiving meeting with NATO boss",
+    "rewrite": "Donald Trump urges 'friend' Putin not to 'expand the war' in Ukraine after Mar-a-Lago Thanksgiving meeting...",
+    "url": "https://www.dailymail.com/news/article-16323333/Trump-Putin-Ukraine-War-NATO-boss.html?ns_campaign=1490",
     "source": "Daily Mail",
-    "published": "2026-11-26T04:42:11+11:00",
+    "published": "2026-11-26T17:23:53+11:00",
     "slot": "top",
     "urgent": false,
-    "section": "US",
+    "section": "WORLD",
     "is_new": false,
-    "summary": "Trump's trade office proposed new tariffs on China, India, the EU and 11 other partners accused of subsidising industry, using Section 301 of the Trade Act after the Supreme Court struck down his emergency-power tariffs in February. A new 20% levy could lift some Chinese goods to 45%; India faces 17-25% and others capped at 15% under existing deals."
+    "summary": "Meeting NATO Secretary General Mark Rutte at Mar-a-Lago on Wednesday night, Trump and Rutte agreed Russia must not intentionally or unintentionally expand the war in Ukraine and said they want a peaceful end as soon as possible. Talks also covered the Iran war and defence spending, days after Trump met Putin and Xi at a summit in Shenzhen."
   },
   "featured": [
     {
-      "title": "Trump Says Toppling Iran’s Regime Is ‘Probably Doable’ but Not His Goal",
-      "rewrite": "Trump Says Toppling Iran's Regime Is 'Probably Doable' but Not His Goal",
-      "url": "https://www.breitbart.com/politics/2026/11/24/trump-says-toppling-irans-regime-is-probably-doable-but-not-his-goal/",
-      "source": "Breitbart",
-      "published": "2026-11-25T16:01:58+11:00",
+      "title": "Trump strikes back after Supreme Court torpedoes his tariffs... unleashing a new trade offensive against America's biggest economic rivals",
+      "rewrite": "Trump strikes back after Supreme Court torpedoes his tariffs... unleashing a new trade offensive against...",
+      "url": "https://www.dailymail.com/news/us-politics/article-16322027/Trumps-defiant-tariff-clapback-New-levies-China-EU-India-Supreme-Court-killed-batch.html?ns_campaign=1490",
+      "source": "Daily Mail",
+      "published": "2026-11-26T04:42:11+11:00",
       "slot": "featured",
       "urgent": false,
-      "section": "WORLD",
+      "section": "US",
       "is_new": false,
-      "summary": "In an Oval Office interview with the New York Post, Trump said Israel's goal of overthrowing Iran's Islamic regime is 'probably doable' but that regime change was never his objective; his priority is stopping Tehran from getting a nuclear weapon. He also said the military campaign is funded through January."
+      "summary": "Trump's trade office proposed new tariffs on China, India, the EU and 11 other partners accused of subsidising industry, using Section 301 of the Trade Act after the Supreme Court struck down his emergency-power tariffs in February. A new 20% levy could lift some Chinese goods to 45%; India faces 17-25% and others capped at 15% under existing deals."
+    },
+    {
+      "title": "Judge Upholds Mamdani Rent Freeze, Says Mayor Had No Power to Promise It",
+      "rewrite": "Judge Upholds Mamdani Rent Freeze, Says Mayor Had No Power to Promise It",
+      "url": "https://www.breitbart.com/local/2026/11/25/mamdani-rent-freeze-upheld-judge-faults-mayor-promise/",
+      "source": "Breitbart",
+      "published": "2026-11-26T11:01:22+11:00",
+      "slot": "featured",
+      "urgent": false,
+      "section": "US",
+      "is_new": false,
+      "summary": "State Supreme Court Justice Brendan T. Lantry on Wednesday dismissed a lawsuit by seven landlords seeking to overturn New York City’s rent freeze, calling Mayor Zohran Mamdani’s campaign guarantee of a freeze “reckless and irresponsible.” The Manhattan judge’s 20-page ruling"
     },
     {
       "title": "Americans Opened Wallets Wider — But Their Money Didn’t Stretch As Far In October",
@@ -44,18 +56,6 @@
       "section": "BUSINESS",
       "is_new": false,
       "summary": "The PCE price index, the Fed's preferred gauge, rose 3.8% in the year to October, up from 3.7%, with core PCE at 3.3%. Consumer spending rose 0.3% in dollars but slipped slightly after inflation, while the BEA revised third-quarter growth up to a 4.3% annual rate."
-    },
-    {
-      "title": "Melania scores Thanksgiving triumph as her soft diplomacy gets warring Putin and Zelensky to reunite nine more children",
-      "rewrite": "Melania scores Thanksgiving triumph as her soft diplomacy gets warring Putin and Zelensky to reunite nine...",
-      "url": "https://www.dailymail.com/news/article-16321509/Melania-Thanksgiving-Putin-Zelensky.html?ns_campaign=1490",
-      "source": "Daily Mail",
-      "published": "2026-11-26T03:45:46+11:00",
-      "slot": "featured",
-      "urgent": false,
-      "section": "WORLD",
-      "is_new": false,
-      "summary": "The East Wing says Melania Trump's office has brokered the return of nine more Russian and Ukrainian children to their families, its seventh reunification mission, bringing the total to 43. She said the effort had the support of both Russian and Ukrainian leaders."
     },
     {
       "title": "Senator Leah Blyth defects to One Nation saying Liberals cannot save Australia",
@@ -73,6 +73,30 @@
   "columns": {
     "left": [
       {
+        "title": "Violent anti-Israel NYC agitators clash with counterprotesters, cops at Jewish deli’s ‘Zionist real estate’ event",
+        "rewrite": "Violent anti-Israel NYC agitators clash with counterprotesters, cops at Jewish deli's 'Zionist real...",
+        "url": "https://nypost.com/2026/11/25/us-news/anti-israel-nyc-agitators-clash-with-counterprotesters-at-jewish-delis-zionist-real-estate-event/",
+        "source": "New York Post",
+        "published": "2026-11-26T13:23:13+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "The violence erupted as protesters gathered to oppose an Israeli real estate event hosted by brokerage firm CapitIL at Essen New York Deli in Midwood, Brooklyn."
+      },
+      {
+        "title": "US attorney Bill Essayli scores legal win in battle to fight off disqualification from prosecutions",
+        "rewrite": "US attorney Bill Essayli scores legal win in battle to fight off disqualification from prosecutions",
+        "url": "https://nypost.com/2026/11/25/us-news/ninth-circuit-keeps-order-disqualifying-california-prosecutor-bill-essayli-on-hold/",
+        "source": "New York Post",
+        "published": "2026-11-26T12:48:03+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Los Angeles’ top federal prosecutor Bill Essayli has won another temporary reprieve in his fight to keep his job, with a federal appeals court putting a judge’s order to disqualify him on ice while the US Supreme Court weighs a similar legal battle in Nevada."
+      },
+      {
         "title": "Hit-and-run driver busted 3 months after allegedly killing NYC nurse on way home from overnight shift",
         "rewrite": "Hit-and-run driver busted 3 months after allegedly killing NYC nurse on way home from overnight shift",
         "url": "https://nypost.com/2026/11/25/us-news/hit-and-run-driver-accused-of-fatally-striking-dedicated-nyc-nurse-on-way-home-from-overnight-shift-is-busted/",
@@ -81,8 +105,20 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Justin Mercado, 22, was charged with manslaughter and criminally negligent homicide in the Aug. 29 death of Jiayi Zheng, 28, who had been crossing at the intersection of Third Avenue and 55th Street in Sunset Park when she was killed, according to the Brooklyn District Attorney’s Office."
+      },
+      {
+        "title": "USAID Files: FAQ Disclosed How Employees Could Interact with Social Media Companies",
+        "rewrite": "USAID Files: FAQ Disclosed How Employees Could Interact with Social Media Companies",
+        "url": "https://www.breitbart.com/politics/2026/11/25/usaid-files-faq-disclosed-how-employees-could-interact-with-social-media-companies/",
+        "source": "Breitbart",
+        "published": "2026-11-26T09:09:54+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Recently unearthed documents from USAID disclosed how the Biden administration worked to influence how the federal government could interact with social media companies."
       },
       {
         "title": "Maine Democrat Senator-Elect Troy Jackson Backs Chris Van Hollen to Oust Chuck Schumer as Majority Leader",
@@ -93,7 +129,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Sen.-elect Troy Jackson (D-ME), a longtime skeptic of Senate Democrat Leader Chuck Schumer (D-NY), announced Wednesday that he will vote for Sen. Chris Van Hollen (D-MD) in the upcoming Senate Democrat leadership election, citing their shared support for eliminating the filibuster, passing Medicare for All, and increasing the minimum wage."
       },
       {
@@ -105,7 +141,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "'Looks like his luck ran out,' Micah Bock, ICE's Assistant Director of Public Affairs, said in a press release sent to the Daily Mail on Wednesday afternoon."
       },
       {
@@ -189,7 +225,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Senate Republicans are betting on Senate Democrats to avert another government shutdown as Democrats aim to use funding to end the eight-month Iran war."
       },
       {
@@ -277,41 +313,6 @@
         "summary": "Sen. Chris Van Hollen (D-MD) holds a double-digit advantage over Senate Democrat Leader Chuck Schumer (D-NY) among both Democrats and 2024 Kamala Harris voters surveyed in an Economist/YouGov poll on who should lead the party in the Senate, as the two senators vie to lead the incoming majority."
       },
       {
-        "title": "Trump rages about midterms at Thanksgiving turkey pardon, sneers at birds' names... but saves kind words for Melania",
-        "rewrite": "Trump rages about midterms at Thanksgiving turkey pardon, sneers at birds' names... but saves kind words...",
-        "url": "https://www.dailymail.com/news/article-16319231/trump-thanksgiving-turkey-pardon-midterms-white-house.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-25T07:42:09+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Donald Trump was joined by Melania as he pardoned two Thanksgiving turkeys at the White House on Tuesday, then used the ceremony to vent about his party's midterm defeat."
-      },
-      {
-        "title": "EXCLUSIVE: Rep. Ryan Zinke Doubles Down On Trump Policies After GOP’s Midterm ‘Mauling,’ Says Messaging Was To Blame",
-        "rewrite": "Rep. Ryan Zinke Doubles Down On Trump Policies After GOP's Midterm 'Mauling,' Says Messaging Was To Blame",
-        "url": "https://dailycaller.com/2026/11/24/ryan-zinke-interview-midterms-republicans-democrats",
-        "source": "Daily Caller",
-        "published": "2026-11-25T04:55:12+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false
-      },
-      {
-        "title": "DOJ recovers $8B, charges more than 800 suspects in largest anti-scam surge in history",
-        "rewrite": "DOJ recovers $8B, charges more than 800 suspects in largest anti-scam surge in history",
-        "url": "https://www.foxnews.com/politics/doj-recovers-8b-charges-more-than-800-suspects-largest-anti-scam-surge-history",
-        "source": "Fox News",
-        "published": "2026-11-25T03:29:47+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Attorney General Todd Blanche, alongside FBI Director Kash Patel, said prosecutors have charged more than 800 defendants and recovered over $8 billion in intended victim losses. The blitz follows Trump's March executive order on fraud; more than 400 criminal cases have been filed across 85 federal districts."
-      },
-      {
         "title": "Consumer Spending Posts Solid Gain After Strong Third Quarter",
         "rewrite": "Consumer Spending Posts Solid Gain After Strong Third Quarter",
         "url": "https://www.breitbart.com/economy/2026/11/25/consumer-spending-posts-solid-gain-after-strong-third-quarter/",
@@ -362,6 +363,18 @@
     ],
     "center": [
       {
+        "title": "Desperate appeals from women on death row in Iran after protests",
+        "rewrite": "Desperate appeals from women on death row in Iran after protests",
+        "url": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo",
+        "source": "BBC News",
+        "published": "2026-11-26T17:01:58+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says."
+      },
+      {
         "title": "Military Doctors Warn Pentagon’s Iran War Medical Preparations Could Cost American Lives",
         "rewrite": "Military Doctors Warn Pentagon's Iran War Medical Preparations Could Cost American Lives",
         "url": "https://dailycaller.com/2026/11/25/military-doctors-iran-war-pentagon-medical-preparations",
@@ -370,7 +383,7 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Putin's war death toll reportedly tops 700,000 as Russia scrambles for recruits",
@@ -381,8 +394,20 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "summary": "Kremlin spokesman Dmitry Peskov dismisses an investigation estimating 700,000 Russian troops have died in Vladimir Putin's war against Ukraine."
+      },
+      {
+        "title": "Rogue Libyan Militia Threatens to Attack Ukraine for Sinking Russian Ship",
+        "rewrite": "Rogue Libyan Militia Threatens to Attack Ukraine for Sinking Russian Ship",
+        "url": "https://www.breitbart.com/africa/2026/11/25/rogue-libyan-militia-threatens-to-attack-ukraine-for-sinking-russian-ship/",
+        "source": "Breitbart",
+        "published": "2026-11-26T06:12:51+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "The Libyan National Army (LNA) on Wednesday threatened to retaliate against Ukraine for the drone attack that sank a Russian warship docked at Libya’s Benghazi Naval Base on Sunday."
       },
       {
         "title": "Dragged off the street and sent to war: Girlfriend desperately clutches her boyfriend as videos show Ukraine's conscription squads forcing men to fight Putin's invaders",
@@ -407,6 +432,18 @@
         "section": "WORLD",
         "is_new": false,
         "summary": "Russian attacks on the GPS signals of commercial flights could produce a disaster akin to the downing of Malaysia Airlines flight MH17, experts have warned."
+      },
+      {
+        "title": "Melania scores Thanksgiving triumph as her soft diplomacy gets warring Putin and Zelensky to reunite nine more children",
+        "rewrite": "Melania scores Thanksgiving triumph as her soft diplomacy gets warring Putin and Zelensky to reunite nine...",
+        "url": "https://www.dailymail.com/news/article-16321509/Melania-Thanksgiving-Putin-Zelensky.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-26T03:45:46+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": false,
+        "summary": "The East Wing says Melania Trump's office has brokered the return of nine more Russian and Ukrainian children to their families, its seventh reunification mission, bringing the total to 43. She said the effort had the support of both Russian and Ukrainian leaders."
       },
       {
         "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
@@ -446,6 +483,18 @@
         "summary": "Yemeni armed forces say Iran's IRGC and Hezbollah experts are directing Houthis' missile, drone and naval attacks on shipping near Bab el-Mandeb."
       },
       {
+        "title": "Trump Says Toppling Iran’s Regime Is ‘Probably Doable’ but Not His Goal",
+        "rewrite": "Trump Says Toppling Iran's Regime Is 'Probably Doable' but Not His Goal",
+        "url": "https://www.breitbart.com/politics/2026/11/24/trump-says-toppling-irans-regime-is-probably-doable-but-not-his-goal/",
+        "source": "Breitbart",
+        "published": "2026-11-25T16:01:58+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": false,
+        "summary": "In an Oval Office interview with the New York Post, Trump said Israel's goal of overthrowing Iran's Islamic regime is 'probably doable' but that regime change was never his objective; his priority is stopping Tehran from getting a nuclear weapon. He also said the military campaign is funded through January."
+      },
+      {
         "title": "Trump administration weighs targeting Iran's top regime leaders in bid to end war: report",
         "rewrite": "Trump administration weighs targeting Iran's top regime leaders in bid to end war: report",
         "url": "https://www.foxnews.com/world/trump-administration-weighs-targeting-irans-top-regime-leaders-bid-end-war-report",
@@ -480,42 +529,6 @@
         "section": "WORLD",
         "is_new": false,
         "summary": "Iran Human Rights says Milad Armoun, 27, and Navid Najaran, 34, were due to be executed early on Wednesday 25 November at Ghezel Hesar Prison after Iran's Supreme Court upheld their death sentences. The group says they were condemned after torture and forced confessions, and urged UN intervention."
-      },
-      {
-        "title": "US court convicts Huawei for deceiving banks about Iran dealings",
-        "rewrite": "US court convicts Huawei for deceiving banks about Iran dealings",
-        "url": "https://www.abc.net.au/news/2026-11-25/huawei-convicted-us-trial-deception-trade-secrets/107423640",
-        "source": "ABC News Australia",
-        "published": "2026-11-25T08:09:13+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "A US court found the Chinese tech giant guilty of deceiving banks about its business in Iran and of stealing trade secrets from US companies. Huawei was placed on a trade blacklist restricting its access to technology after the case began in 2018."
-      },
-      {
-        "title": "Zelensky says US is aligned with Putin and criticizes Washington for Patriot missile delays",
-        "rewrite": "Zelensky says US is aligned with Putin and criticizes Washington for Patriot missile delays",
-        "url": "https://www.washingtonexaminer.com/news/world/4813814/zelensky-us-aligned-putin-criticizes-patriot-missile-delay/",
-        "source": "Washington Examiner",
-        "published": "2026-11-25T05:51:26+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "Ukrainian President Volodymyr Zelensky is amping up his pressure on the United States to increase support for his country, saying the Trump administration is “putting itself in a very unpleasant situation” by not sending more Patriot missiles to Kyiv. “Putin is counting on breaking Ukraine. Kyiv, Dnipro, Odesa, Kharkiv, Zaporizhzhia – these cities above all."
-      },
-      {
-        "title": "Ex- Ukraine prosecutor general accuses Zelenskyy's office of interfering in anti-corruption investigation",
-        "rewrite": "Ex- Ukraine prosecutor general accuses Zelenskyy's office of interfering in anti-corruption investigation",
-        "url": "https://www.foxnews.com/world/ex-ukraine-prosecutor-general-accuses-zelenskyys-office-interfering-anti-corruption-investigation",
-        "source": "Fox News",
-        "published": "2026-11-25T02:42:34+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "Former prosecutor general Ruslan Kravchenko alleges political interference, while Zelenskyy defended his removal and anti-corruption agencies rejected the accusations."
       },
       {
         "title": "Albanese had some wins this week — then inflation numbers landed with a thud",
@@ -566,28 +579,40 @@
         "summary": "The former police officer is accused of murdering his former love interest Jesse Baird and his new partner Luke Davies."
       },
       {
-        "title": "Critics say it's 'censorship', the Greens are cheering and your algorithm is about to change: What Albanese's new 'digital duty of care' means for you - and free speech in Australia",
-        "rewrite": "Critics say it's 'censorship', the Greens are cheering and your algorithm is about to change: What...",
-        "url": "https://www.dailymail.com/news/article-16316819/australia-digital-duty-care-facebook-tiktok-hanson.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-24T16:25:27+11:00",
+        "title": "Scale of voyeur doctor's offending 'beggars belief', Melbourne court told",
+        "rewrite": "Scale of voyeur doctor's offending 'beggars belief', Melbourne court told",
+        "url": "https://www.abc.net.au/news/2026-11-26/ryan-cho-doctor-who-filmed-hospital-colleagues-court-hearing/107431270",
+        "source": "ABC News Australia",
+        "published": "2026-11-26T17:04:00+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "summary": "The Albanese Government struck a deal with the Greens to pass its Digital Duty of Care laws, forcing platforms such as Meta, Google and TikTok to proactively tackle harmful content or face fines of $109 million or up to 5% of global revenue. Users could also opt out of algorithm-driven feeds. The Coalition warned the laws open the door to 'political censorship'."
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "Disgraced trainee surgeon Ryan Cho, who secretly filmed hundreds of colleagues in hospital toilets, could receive a reduced jail term because prosecutors combined his charges to streamline the case."
       },
       {
-        "title": "'Too much is at stake': Historic media, arts and entertainment coalition issues powerful call to Anthony Albanese: Don't water down Australia's copyright laws for the AI giants",
-        "rewrite": "'Too much is at stake': Historic media, arts and entertainment coalition issues powerful call to Anthony...",
-        "url": "https://www.dailymail.com/news/article-16316953/Not-AIs-Coalition-Daily-Mail.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-24T14:21:07+11:00",
+        "title": "Coalition unveils plans to privatise sewerage system if elected",
+        "rewrite": "Coalition unveils plans to privatise sewerage system if elected",
+        "url": "https://www.abc.net.au/news/2026-11-26/coalition-costings-victorian-state-election-2026/107430554",
+        "source": "ABC News Australia",
+        "published": "2026-11-26T16:38:00+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "summary": "A coalition of Australia's leading media, arts and entertainment companies - including Daily Mail - launched a campaign calling on the Government not to water down copyright protections."
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "Opposition Leader Jess Wilson will partly-privatise Melbourne's sewerage network, cut and delay level crossing removals, and cancel expanding free kindergarten if elected on Saturday."
+      },
+      {
+        "title": "Victoria faces increased bushfire risk in 'mixed bag' of summer emergencies",
+        "rewrite": "Victoria faces increased bushfire risk in 'mixed bag' of summer emergencies",
+        "url": "https://www.abc.net.au/news/2026-11-26/summer-bushfire-season-victoria-outlook/107429694",
+        "source": "ABC News Australia",
+        "published": "2026-11-26T15:48:18+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "Victoria's emergency management commissioner is warning of an increased risk of bushfires and grassfires this summer that could continue through to early autumn."
       },
       {
         "title": "Geelong teacher's licence suspended amid police investigation",
@@ -598,7 +623,7 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "A Geelong high school teacher's registration has been suspended amid a sexual offences and child abuse police team investigation into allegations relating to a previous role in Bendigo."
       },
       {
@@ -610,46 +635,9 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "image": "https://live-production.wcms.abc-cdn.net.au/d476eae69940cfdb99fb4d384a7cf40d?impolicy=wcms_watermark_news&cropH=471&cropW=837&xPos=0&yPos=173&width=862&height=485&imformat=generic",
         "summary": "As the major parties continue their push to election day, Labor are seeking an injunction in the Supreme Court to stop dumped Liberal candidate for Williamstown Paul Lindemann from campaigning in a blue t-shirt. Follow live in our election blog."
-      },
-      {
-        "title": "How anger at data centres is boiling over at Victoria's ballot box",
-        "rewrite": "How anger at data centres is boiling over at Victoria's ballot box",
-        "url": "https://www.abc.net.au/news/2026-11-26/data-centre-anger-vic-election-political-issue/107425482",
-        "source": "ABC News Australia",
-        "published": "2026-11-26T05:45:45+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "Data centres have become a piping hot political issue in a seemingly short length of time. Will they be a factor in this weekend's Victorian election?"
-      },
-      {
-        "title": "One Nation Victoria leader left state while being chased over $200,000 debt",
-        "rewrite": "One Nation Victoria leader left state while being chased over $200,000 debt",
-        "url": "https://www.theage.com.au/national/victoria/one-nation-victoria-leader-left-state-while-being-chased-over-200-000-debt-20261126-p61h39.html?ref=rss",
-        "source": "The Age",
-        "published": "2026-11-26T05:00:00+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "image": "https://static.ffx.io/images/$zoom_0.5064%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_196%2C$y_0/t_crop_custom/q_86%2Cf_auto/d8637c1f964c95f8ba7e8c1e33ff6b572d8e6c7b",
-        "summary": "The Commonwealth Bank repossessed and sold Warren Pickering’s house, then tried to pursue him for a further $200,000."
-      },
-      {
-        "title": "In country Victoria, a divided electorate sums up the mood of a nation",
-        "rewrite": "In country Victoria, a divided electorate sums up the mood of a nation",
-        "url": "https://www.abc.net.au/news/2026-11-26/country-electorate-in-victoria-sums-up-australian-disaffection/107389376",
-        "source": "ABC News Australia",
-        "published": "2026-11-26T05:00:00+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "On the eve of a transformative state election, the vast regional seat of Ripon has become a microcosm of Australian disaffection."
       }
     ],
     "right": [
@@ -662,7 +650,7 @@
         "slot": "column",
         "urgent": false,
         "section": "UK",
-        "is_new": true,
+        "is_new": false,
         "summary": "A paper from the Higher Education Policy Institute think-tank found the number of first-class marks handed out by British universities had surged in the past ten years."
       },
       {
@@ -716,6 +704,18 @@
         "summary": "William, Kate, and their three children were not at the property at the time of the incident, according to Kensington Palace."
       },
       {
+        "title": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
+        "rewrite": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
+        "url": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
+        "source": "CoinDesk",
+        "published": "2026-11-26T15:46:01+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "MARKETS",
+        "is_new": true,
+        "summary": "A bill to codify Trump’s Strategic Bitcoin Reserve has cleared committee and is eligible for a House vote, but it faces a tight deadline."
+      },
+      {
         "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
         "rewrite": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
         "url": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites",
@@ -724,7 +724,7 @@
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": true,
+        "is_new": false,
         "summary": "Bitcoin mining pool operator Braiins warned that attackers are exploiting unsecured connections to hijack miners’ computing power and potentially steal rewards."
       },
       {
@@ -799,6 +799,18 @@
         "summary": "The crypto asset manager warned that Bitcoin’s downturn could persist amid weak investor demand, while forecasting an uneven recovery across crypto sectors."
       },
       {
+        "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
+        "rewrite": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
+        "url": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack",
+        "source": "Cointelegraph",
+        "published": "2026-11-26T16:53:08+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "TECHNOLOGY",
+        "is_new": true,
+        "summary": "North Korea-linked hackers used DeFi protocols to launder stolen Binance funds, while US prosecutors moved to recover more than $1.1 billion in crypto."
+      },
+      {
         "title": "Trump officials reportedly at odds over tech titan's comeback as national security concerns linger",
         "rewrite": "Trump officials reportedly at odds over tech titan's comeback as national security concerns linger",
         "url": "https://www.foxnews.com/politics/trump-officials-odds-tech-titan-comeback-national-security-concerns-linger",
@@ -809,6 +821,18 @@
         "section": "TECHNOLOGY",
         "is_new": false,
         "summary": "Jensen Huang returned to Nvidia after Trump and JD Vance intervened, but federal probes into Megaspeed and alleged chip diversion to China remain ongoing."
+      },
+      {
+        "title": "Microsoft Launches 'Code Red' Initiative After Email Outages, Admits Engineers Lost in 'Fog of War'",
+        "rewrite": "Microsoft Launches 'Code Red' Initiative After Email Outages, Admits Engineers Lost in 'Fog of War'",
+        "url": "https://www.breitbart.com/tech/2026/11/25/microsoft-launches-code-red-initiative-after-email-outages-admits-engineers-lost-in-fog-of-war/",
+        "source": "Breitbart",
+        "published": "2026-11-26T04:36:13+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "TECHNOLOGY",
+        "is_new": true,
+        "summary": "Microsoft has initiated a comprehensive \"Code Red\" overhaul of its engineering response systems following a massive cloud outage on November 12 that disrupted access to Exchange Online, Teams, and Outlook for users around the globe. The company admitted its staff"
       },
       {
         "title": "FCC authorizes SpaceX to deploy 1M satellites for orbital AI data centers",
@@ -847,6 +871,18 @@
         "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it"
       },
       {
+        "title": "JioStar Brings Star Plus, Colors and Five More Indian TV Channels to Fubo in the U.S.",
+        "rewrite": "JioStar Brings Star Plus, Colors and Five More Indian TV Channels to Fubo in the U.S",
+        "url": "https://variety.com/2026/tv/news/jiostar-star-plus-colors-mtv-india-fubo-us-1236958804/",
+        "source": "Variety",
+        "published": "2026-11-26T17:27:20+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "Seven of India’s JioStar television channels, including popular Hindi-language entertainment channels Star Plus and Colors, are now streaming in the U.S. on live TV service Fubo. Alongside Star Plus and Colors, the slate comprises Star Bharat, Colors Rishtey, Colors Cineplex, MTV India and English-language news channel News18 English."
+      },
+      {
         "title": "Hollywood director pistol-whipped bar manager in antisemetic rage: suit",
         "rewrite": "Hollywood director pistol-whipped bar manager in antisemetic rage: suit",
         "url": "https://nypost.com/2026/11/25/us-news/hollywood-director-pistol-whipped-man-hurled-antisemitic-slurs-lawsuit/",
@@ -855,7 +891,7 @@
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
+        "is_new": false,
         "summary": "Antoine Fuqua, the 61-year-old director behind the Denzel Washington blockbusters “Training Day” and “The Equalizer” franchise has denied the accusations, which surfaced in a civil lawsuit filed Friday in Los Angeles County Superior Court."
       },
       {
@@ -929,30 +965,18 @@
         "section": "ENTERTAINMENT",
         "is_new": false,
         "summary": "Kevin Kline will star opposite Meryl Streep in the Netflix limited series adaptation of “The Corrections,” Variety has learned. Based on the novel of the same name by Jonathan Franzen, the series was originally announced with Streep attached back in April."
-      },
-      {
-        "title": "MS NOW Hosts ‘Disappointed’ Management Has Yet to Reach WGA Union Deal Guaranteeing ‘Fair Wages’; Network Boss Rebecca Kutler Responds to Accusations",
-        "rewrite": "MS NOW Hosts 'Disappointed' Management Has Yet to Reach WGA Union Deal Guaranteeing 'Fair Wages'; Network...",
-        "url": "https://variety.com/2026/tv/news/ms-now-hosts-disappointed-wga-union-deal-rebecca-kutler-memo-1236957154/",
-        "source": "Variety",
-        "published": "2026-11-25T05:56:56+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "Rachel Maddow and more than a dozen other MS NOW on-air hosts issued a public letter urging parent company Versant Media to reach a new deal with unionized employees affiliated with WGA East that ensures “fair wages and protections,” before their previous agreement expires Dec. 3."
       }
     ]
   },
-  "image_url": "https://media.breitbart.com/media/2026/11/Iranian-Leadership-Regime-640x335.jpeg",
-  "image_source_url": "https://www.breitbart.com/politics/2026/11/24/trump-says-toppling-irans-regime-is-probably-doable-but-not-his-goal/",
+  "image_url": "https://media.breitbart.com/media/2026/11/Zohran-Mamdani--640x335.jpeg",
+  "image_source_url": "https://www.breitbart.com/local/2026/11/25/mamdani-rent-freeze-upheld-judge-faults-mayor-promise/",
   "counts": {
-    "total": 77,
+    "total": 79,
     "featured": 4,
     "columns": {
       "left": 24,
-      "center": 24,
-      "right": 24
+      "center": 23,
+      "right": 27
     },
     "feeds_ok": 44,
     "feeds_failed": 6

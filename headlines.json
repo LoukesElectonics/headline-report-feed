@@ -2,9 +2,9 @@
   "title": "THE NEWS REPORT",
   "generated": {
     "date": "Friday, 27 November 2026",
-    "display": "Friday, November 27, 2026  6:26 AM AEDT (Australia/Sydney)",
-    "iso": "2026-11-27T06:26:34.717197+11:00",
-    "time": "6:26 AM AEDT",
+    "display": "Friday, November 27, 2026  12:27 PM AEDT (Australia/Sydney)",
+    "iso": "2026-11-27T12:27:03.929847+11:00",
+    "time": "12:27 PM AEDT",
     "timezone": "Australia/Sydney"
   },
   "lean": "centre-right",
@@ -46,32 +46,68 @@
       "summary": "Ukraine's military intelligence says North Korea halted military aid to Russia, including KN-23 missiles and artillery shells, after a Russian deputy foreign minister offered to help ease tensions with Seoul. Pyongyang had sent about 14,000 troops to fight for Russia and was planning 40,000 more, according to the report."
     },
     {
-      "title": "Donald Trump urges 'friend' Putin not to 'expand the war' in Ukraine after Mar-a-Lago Thanksgiving meeting with NATO boss",
-      "rewrite": "Donald Trump urges 'friend' Putin not to 'expand the war' in Ukraine after Mar-a-Lago Thanksgiving meeting...",
-      "url": "https://www.dailymail.com/news/article-16323333/Trump-Putin-Ukraine-War-NATO-boss.html?ns_campaign=1490",
-      "source": "Daily Mail",
-      "published": "2026-11-26T17:23:53+11:00",
+      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "rewrite": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo",
+      "source": "BBC News",
+      "published": "2026-11-27T09:49:27+11:00",
       "slot": "featured",
       "urgent": false,
       "section": "WORLD",
       "is_new": false,
-      "summary": "Meeting NATO Secretary General Mark Rutte at Mar-a-Lago on Wednesday night, Trump and Rutte agreed Russia must not intentionally or unintentionally expand the war in Ukraine and said they want a peaceful end as soon as possible. Talks also covered the Iran war and defence spending, days after Trump met Putin and Xi at a summit in Shenzhen."
+      "summary": "In a BBC interview in Kyiv, Zelensky said delays in US anti-ballistic missile deliveries are costing Ukrainian lives and that Washington is not pressing Russia hard enough in peace talks. He called it 'strange' that Trump posted a picture embracing Putin as 'my friend'. Talks in Abu Dhabi made no clear progress and are expected to resume in December."
     },
     {
-      "title": "Judge Upholds Mamdani Rent Freeze, Says Mayor Had No Power to Promise It",
-      "rewrite": "Judge Upholds Mamdani Rent Freeze, Says Mayor Had No Power to Promise It",
-      "url": "https://www.breitbart.com/local/2026/11/25/mamdani-rent-freeze-upheld-judge-faults-mayor-promise/",
-      "source": "Breitbart",
-      "published": "2026-11-26T11:01:22+11:00",
+      "title": "Mamdani sent in NYPD’s SRG to quell anti-Israel protest — just 10 days after ‘disbanding’ elite unit",
+      "rewrite": "Mamdani sent in NYPD's SRG to quell anti-Israel protest — just 10 days after 'disbanding' elite unit",
+      "url": "https://nypost.com/2026/11/26/us-news/mamdani-sent-in-nypds-srg-to-quell-anti-israel-protest-just-10-days-after-disbanding-elite-unit/",
+      "source": "New York Post",
+      "published": "2026-11-27T09:32:58+11:00",
       "slot": "featured",
       "urgent": false,
       "section": "US",
       "is_new": false,
-      "summary": "State Supreme Court Justice Brendan T. Lantry on Wednesday dismissed a lawsuit by seven landlords seeking to overturn New York City’s rent freeze, calling Mayor Zohran Mamdani’s campaign guarantee of a freeze “reckless and irresponsible.” The Manhattan judge’s 20-page ruling"
+      "summary": "The NYPD's Strategic Response Group was deployed Wednesday night as rival demonstrators clashed outside the Essen NY Deli in Midwood, Brooklyn, The Post reports. Mamdani announced on 16 Nov that he was disbanding the unit, though the change isn't due to take effect until February. The far-left group behind the protest also condemned the mayor over the deployment."
     }
   ],
   "columns": {
     "left": [
+      {
+        "title": "NYC public advocate says Thanksgiving is ‘commemoration of horrible time’ for some as Mamdani, AG James look on",
+        "rewrite": "NYC public advocate says Thanksgiving is 'commemoration of horrible time' for some as Mamdani, AG James...",
+        "url": "https://nypost.com/2026/11/26/us-news/nyc-public-advocate-says-thanksgiving-is-commemoration-of-horrible-time-for-some/",
+        "source": "New York Post",
+        "published": "2026-11-27T11:24:02+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "NYC Public Advocate Jumaane Williams said Thanksgiving \"is a commemoration of a horrible time in history,” at a holiday meal event in Harlem on Thursday."
+      },
+      {
+        "title": "Democratic kingmaker who chose Biden AND Kamala champions new 2028 prospect… but White House buzz sparks panic",
+        "rewrite": "Democratic kingmaker who chose Biden AND Kamala champions new 2028 prospect… but White House buzz sparks panic",
+        "url": "https://www.dailymail.com/news/us-politics/article-16301051/biden-jim-clyburn-aoc-south-carolina-president.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-27T10:55:06+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Despite being a former Vice President, Joe Biden was trailing his Democratic rival Bernie Sanders to be the party's next candidate for president in early 2020. Enter the kingmaker."
+      },
+      {
+        "title": "Donald Trump thanks 'murderers and rapists' deported from US in Thanksgiving address",
+        "rewrite": "Donald Trump thanks 'murderers and rapists' deported from US in Thanksgiving address",
+        "url": "https://www.gbnews.com/politics/us/donald-trump-thanks-murderers-rapists-thanksgiving-address",
+        "source": "GB News",
+        "published": "2026-11-27T10:04:47+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "US President Donald Trump has marked Thanksgiving by publishing a message on Truth Social that took aim at deported immigrants, Somali-Americans in Minnesota, economic officials, journalists, and his political adversaries. Instead of a conventional expression of gratitude, the post, which appeared on this morning, read as a catalogue of grievances wrapped in mock holiday cheer."
+      },
       {
         "title": "Pete Hegseth's pastor mentor ignites firestorm with call for women to be stripped of their right to vote as he declares patriarchy is God's will",
         "rewrite": "Pete Hegseth's pastor mentor ignites firestorm with call for women to be stripped of their right to vote...",
@@ -81,7 +117,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Doug Wilson is a self-described Christian nationalist who has called for women to be stripped of the right to vote. His most prominent follower is Secretary of War Pete Hegseth."
       },
       {
@@ -93,7 +129,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "image": "https://cdn.sanity.io/images/v3d3jm0s/production/5f7f501a3be08d83ed09376de89bef460b63f84c-2026x1006.png"
       },
       {
@@ -105,7 +141,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "The VA Supreme Court overturned a lower court decision against Derek Ginevan, a felon who was disarmed and convicted in light of state law."
       },
       {
@@ -117,20 +153,8 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
-        "summary": "Senate Minority Leader Chuck Schumer (D-NY) and Sen. Chris Van Hollen (D-MD) are wooing their soon-to-be colleagues in their rivalry to be the next majority leader, a secret-ballot contest that will offer greater influence to the large class of incoming Senate Democrats than in sessions prior."
-      },
-      {
-        "title": "Violent anti-Israel NYC agitators clash with counterprotesters, cops at Jewish deli’s ‘Zionist real estate’ event",
-        "rewrite": "Violent anti-Israel NYC agitators clash with counterprotesters, cops at Jewish deli's 'Zionist real...",
-        "url": "https://nypost.com/2026/11/25/us-news/anti-israel-nyc-agitators-clash-with-counterprotesters-at-jewish-delis-zionist-real-estate-event/",
-        "source": "New York Post",
-        "published": "2026-11-26T13:23:13+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
         "is_new": false,
-        "summary": "The violence erupted as protesters gathered to oppose an Israeli real estate event hosted by brokerage firm CapitIL at Essen New York Deli in Midwood, Brooklyn."
+        "summary": "Senate Minority Leader Chuck Schumer (D-NY) and Sen. Chris Van Hollen (D-MD) are wooing their soon-to-be colleagues in their rivalry to be the next majority leader, a secret-ballot contest that will offer greater influence to the large class of incoming Senate Democrats than in sessions prior."
       },
       {
         "title": "US attorney Bill Essayli scores legal win in battle to fight off disqualification from prosecutions",
@@ -143,6 +167,18 @@
         "section": "US",
         "is_new": false,
         "summary": "Los Angeles’ top federal prosecutor Bill Essayli has won another temporary reprieve in his fight to keep his job, with a federal appeals court putting a judge’s order to disqualify him on ice while the US Supreme Court weighs a similar legal battle in Nevada."
+      },
+      {
+        "title": "Judge Upholds Mamdani Rent Freeze, Says Mayor Had No Power to Promise It",
+        "rewrite": "Judge Upholds Mamdani Rent Freeze, Says Mayor Had No Power to Promise It",
+        "url": "https://www.breitbart.com/local/2026/11/25/mamdani-rent-freeze-upheld-judge-faults-mayor-promise/",
+        "source": "Breitbart",
+        "published": "2026-11-26T11:01:22+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": false,
+        "summary": "State Supreme Court Justice Brendan T. Lantry on Wednesday dismissed a lawsuit by seven landlords seeking to overturn New York City’s rent freeze, calling Mayor Zohran Mamdani’s campaign guarantee of a freeze “reckless and irresponsible.” The Manhattan judge’s 20-page ruling"
       },
       {
         "title": "Hit-and-run driver busted 3 months after allegedly killing NYC nurse on way home from overnight shift",
@@ -277,42 +313,6 @@
         "summary": "House Republicans are pushing Secretary of State Marco Rubio to launch a 2028 presidential run, calling him the GOP's unifier after midterm losses."
       },
       {
-        "title": "Senate GOP takes risky bet on Dems as holiday shutdown deadline looms: 'It's a gamble'",
-        "rewrite": "Senate GOP takes risky bet on Dems as holiday shutdown deadline looms: 'It's a gamble'",
-        "url": "https://www.foxnews.com/politics/senate-gop-takes-risky-bet-dems-holiday-shutdown-deadline-looms-its-gamble",
-        "source": "Fox News",
-        "published": "2026-11-25T21:00:09+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Senate Republicans are betting on Senate Democrats to avert another government shutdown as Democrats aim to use funding to end the eight-month Iran war."
-      },
-      {
-        "title": "Marjorie Taylor Greene slams Trump over 'dirty bomb in Iowa' as Army prepares to detonate 10,000 pounds of explosives sparking toxic fallout fears",
-        "rewrite": "Marjorie Taylor Greene slams Trump over 'dirty bomb in Iowa' as Army prepares to detonate 10,000 pounds of...",
-        "url": "https://www.dailymail.com/news/article-16320229/Marjorie-Taylor-Greene-jail-Trump-Hegseth-Iowa-bomb.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-25T17:16:37+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Marjorie Taylor Greene said Americans should 'lock up' Donald Trump and Pete Hegseth over the Army's planned detonation of bomb-making chemicals."
-      },
-      {
-        "title": "Missouri Supreme Court Disbars Former St. Louis Prosecutor Kim Gardner",
-        "rewrite": "Missouri Supreme Court Disbars Former St. Louis Prosecutor Kim Gardner",
-        "url": "https://www.breitbart.com/politics/2026/11/24/missouri-supreme-court-disbars-former-st-louis-prosecutor-kim-gardner/",
-        "source": "Breitbart",
-        "published": "2026-11-25T14:28:13+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "The Missouri Supreme Court voted 7–0 Tuesday to disbar former St. Louis Circuit Attorney Kim Gardner after she used more than $5,000 in public funds to reimburse herself for costs from an earlier ethics case."
-      },
-      {
         "title": "Marlboro maker Altria exploring Imperial Brands takeover in Big Tobacco mega deal",
         "rewrite": "Marlboro maker Altria exploring Imperial Brands takeover in Big Tobacco mega deal",
         "url": "https://nypost.com/2026/11/26/business/marlboro-maker-altria-exploring-imperial-brands-takeover-in-big-tobacco-mega-deal/",
@@ -321,7 +321,7 @@
         "slot": "column",
         "urgent": false,
         "section": "BUSINESS",
-        "is_new": true,
+        "is_new": false,
         "summary": "The potential deal comes as the tobacco industry grapples with long-term declines in smoking and challenges in building up new revenue streams from alternatives like vapes."
       },
       {
@@ -333,8 +333,20 @@
         "slot": "column",
         "urgent": false,
         "section": "BUSINESS",
-        "is_new": true,
+        "is_new": false,
         "summary": "Norse Atlantic suspended all flights as its board warned it may file for bankruptcy without urgent short-term financing, leaving PIA passengers stranded."
+      },
+      {
+        "title": "Nearly ONE MILLION young people not in education, employment or training",
+        "rewrite": "Nearly ONE MILLION young people not in education, employment or training",
+        "url": "https://www.gbnews.com/news/unemployment-neets-education-employment-training-ons-figures",
+        "source": "GB News",
+        "published": "2026-11-26T20:50:39+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "BUSINESS",
+        "is_new": true,
+        "summary": "Almost one million young people are not in education, employment or training, latest figures from the Office for National Statistics have revealed. The percentage of 16 to 24-year-old \"Neets\" in the latest quarter was 12.7 per cent, remaining largely unchanged from the same period last year."
       },
       {
         "title": "Americans Opened Wallets Wider — But Their Money Didn’t Stretch As Far In October",
@@ -359,21 +371,33 @@
         "section": "BUSINESS",
         "is_new": false,
         "summary": "Americans spent more in October after a strong summer, as rising incomes gave households room to increase their spending and save more of what they earned."
-      },
-      {
-        "title": "Inflation rises more than expected to 4.9pc in year to October",
-        "rewrite": "Inflation rises more than expected to 4.9pc in year to October",
-        "url": "https://www.abc.net.au/news/2026-11-25/abs-october-cpi-inflation-rises-year-/107424668",
-        "source": "ABC News Australia",
-        "published": "2026-11-25T11:42:21+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "BUSINESS",
-        "is_new": false,
-        "summary": "The consumer price index rose 0.5 per cent in October, lifting annual inflation to 4.9 per cent, the Australian Bureau of Statistics said, a hotter result than expected and up on the previous month. The Reserve Bank already forecasts inflation to stay outside its target band for another year."
       }
     ],
     "center": [
+      {
+        "title": "Iran accuses Zelenskyy of 'false flag' Kuwait drone strike op to get Trump's attention",
+        "rewrite": "Iran accuses Zelenskyy of 'false flag' Kuwait drone strike op to get Trump's attention",
+        "url": "https://www.foxnews.com/world/iran-accuses-zelenskyy-false-flag-kuwait-drone-strike-op-get-trumps-attention",
+        "source": "Fox News",
+        "published": "2026-11-27T10:19:59+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "A former Iran nuclear adviser claimed Thursday the Kuwait drone attack was a Ukrainian \"false flag\" staged to get President Donald Trump's attention."
+      },
+      {
+        "title": "Ukraine 'shoots down Russian drone with a laser in world first'",
+        "rewrite": "Ukraine 'shoots down Russian drone with a laser in world first'",
+        "url": "https://www.dailymail.com/news/article-16325015/Ukraine-shoots-Russian-drone-laser-world-first.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-27T08:29:14+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "President Volodymyr Zelensky's military adviser, Serhii 'Flash' Beskrestnov, said Ukraine's Blysk laser air defence systems had intercepted a jet-powered Iranian-made Shahed drone."
+      },
       {
         "title": "Putin, ‘the grandmaster of politics,’ showed restraint by not going nuclear on Ukraine, Kushner says",
         "rewrite": "Putin, 'the grandmaster of politics,' showed restraint by not going nuclear on Ukraine, Kushner says",
@@ -383,8 +407,20 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "summary": "Russian tyrant Vladimir Putin has shown \"restraint\" in his bloody war on Ukraine by not deploying nuclear weapons, special envoy Jared Kushner claimed in an interview."
+      },
+      {
+        "title": "Donald Trump urges 'friend' Putin not to 'expand the war' in Ukraine after Mar-a-Lago Thanksgiving meeting with NATO boss",
+        "rewrite": "Donald Trump urges 'friend' Putin not to 'expand the war' in Ukraine after Mar-a-Lago Thanksgiving meeting...",
+        "url": "https://www.dailymail.com/news/article-16323333/Trump-Putin-Ukraine-War-NATO-boss.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-26T17:23:53+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": false,
+        "summary": "Meeting NATO Secretary General Mark Rutte at Mar-a-Lago on Wednesday night, Trump and Rutte agreed Russia must not intentionally or unintentionally expand the war in Ukraine and said they want a peaceful end as soon as possible. Talks also covered the Iran war and defence spending, days after Trump met Putin and Xi at a summit in Shenzhen."
       },
       {
         "title": "Desperate appeals from women on death row in Iran after protests",
@@ -507,40 +543,29 @@
         "summary": "Yemeni armed forces say Iran's IRGC and Hezbollah experts are directing Houthis' missile, drone and naval attacks on shipping near Bab el-Mandeb."
       },
       {
-        "title": "Trump Says Toppling Iran’s Regime Is ‘Probably Doable’ but Not His Goal",
-        "rewrite": "Trump Says Toppling Iran's Regime Is 'Probably Doable' but Not His Goal",
-        "url": "https://www.breitbart.com/politics/2026/11/24/trump-says-toppling-irans-regime-is-probably-doable-but-not-his-goal/",
-        "source": "Breitbart",
-        "published": "2026-11-25T16:01:58+11:00",
+        "title": "It isn't easy under Albanese... except for Pauline Hanson. How PM has fuelled One Nation leader's rise and rise: PETER VAN ONSELEN",
+        "rewrite": "It isn't easy under Albanese... except for Pauline Hanson. How PM has fuelled One Nation leader's rise and...",
+        "url": "https://www.dailymail.com/news/article-16325369/albanese-one-nation-poll-surge-cost-living-hanson.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-27T10:36:53+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "In an Oval Office interview with the New York Post, Trump said Israel's goal of overthrowing Iran's Islamic regime is 'probably doable' but that regime change was never his objective; his priority is stopping Tehran from getting a nuclear weapon. He also said the military campaign is funded through January."
+        "section": "AUSTRALIA",
+        "is_new": true,
+        "summary": "Recurring complaints about Albanese are where the conversations turn, including concerns about the worsening cost-of-living crisis on his watch."
       },
       {
-        "title": "Trump administration weighs targeting Iran's top regime leaders in bid to end war: report",
-        "rewrite": "Trump administration weighs targeting Iran's top regime leaders in bid to end war: report",
-        "url": "https://www.foxnews.com/world/trump-administration-weighs-targeting-irans-top-regime-leaders-bid-end-war-report",
-        "source": "Fox News",
-        "published": "2026-11-25T11:36:01+11:00",
+        "title": "Live: PM concedes government doesn't 'get everything right' as political year wraps",
+        "rewrite": "PM concedes government doesn't 'get everything right' as political year wraps",
+        "url": "https://www.abc.net.au/news/2026-11-27/federal-politics-live-blog-november-27/107431796",
+        "source": "ABC News Australia",
+        "published": "2026-11-27T07:03:09+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "Citing a US official and another source, NBC News reported that the administration has renewed internal talks about striking senior Iranian regime leaders. Some officials believe it could pressure Tehran to end the war by showing Washington can find and hit its leadership at any time; the option has been under renewed discussion as Trump weighs the war's next phase."
-      },
-      {
-        "title": "Israeli Defense Minister Warns Iran Developing Chemical Weapons as ‘Game-Changer’ — Israel Won’t Allow It",
-        "rewrite": "Israeli Defense Minister Warns Iran Developing Chemical Weapons as 'Game-Changer' — Israel Won't Allow It",
-        "url": "https://www.breitbart.com/politics/2026/11/24/israeli-defense-minister-warns-iran-developing-chemical-weapons-as-game-changer-israel-wont-allow-it/",
-        "source": "Breitbart",
-        "published": "2026-11-25T11:25:17+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "Israeli Defense Minister Israel Katz warned Tuesday that Iran is developing chemical weapons in an effort to restore its military deterrence, vowing that Israel would prevent Tehran from acquiring the capability and revealing that the American and Israeli militaries have drawn up plans for potential renewed strikes."
+        "section": "AUSTRALIA",
+        "is_new": true,
+        "image": "https://live-production.wcms.abc-cdn.net.au/72dd1fb4a5c8ee1b46644573d81096dd?impolicy=wcms_watermark_news&cropH=3510&cropW=6240&xPos=0&yPos=1&width=862&height=485&imformat=generic",
+        "summary": "As Prime Minister Anthony Albanese wraps up the parliamentary year, he admits the government does not always get everything right. Follow live."
       },
       {
         "title": "Senator Leah Blyth defects to One Nation saying Liberals cannot save Australia",
@@ -591,16 +616,29 @@
         "summary": "The Treasurer signalled fresh cuts to the federal public service as the government hunts for savings, after the ABS reported annual inflation jumped from 4.3% in September to 4.9% in October. Trimmed mean inflation rose to 3.8%, above the Reserve Bank's 2-3% target band."
       },
       {
-        "title": "Beau Lamarre-Condon jury retires to consider verdict in double murder trial",
-        "rewrite": "Beau Lamarre-Condon jury retires to consider verdict in double murder trial",
-        "url": "https://www.abc.net.au/news/2026-11-25/beau-lamarre-condon-murder-trial-jury-retires-consider-verdict/107423638",
-        "source": "ABC News Australia",
-        "published": "2026-11-25T10:18:31+11:00",
+        "title": "Teaching old cops new tricks: The comeback veterans helping fight a modern crime wave",
+        "rewrite": "Teaching old cops new tricks: The comeback veterans helping fight a modern crime wave",
+        "url": "https://www.theage.com.au/national/victoria/teaching-old-cops-new-tricks-the-comeback-veterans-helping-fight-a-modern-crime-wave-20261127-p61h2b.html?ref=rss",
+        "source": "The Age",
+        "published": "2026-11-27T11:40:00+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "summary": "The former police officer is accused of murdering his former love interest Jesse Baird and his new partner Luke Davies."
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "Bored with retirement, former police officers are returning to the job in droves – and relishing the challenge."
+      },
+      {
+        "title": "Live: Victorian opposition defends election eve kinder cuts, VicRoads sell-off",
+        "rewrite": "Victorian opposition defends election eve kinder cuts, VicRoads sell-off",
+        "url": "https://www.abc.net.au/news/2026-11-27/victorian-election-live-coalition-labor-costings-polling-day-eve/107433332",
+        "source": "ABC News Australia",
+        "published": "2026-11-27T08:43:20+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "VICTORIA",
+        "is_new": true,
+        "image": "https://live-production.wcms.abc-cdn.net.au/fc2f429ce62f5f96c5334f4b52f36f17?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=209&width=862&height=485&imformat=generic",
+        "summary": "One Nation says it will use any influence it holds after the election to oppose a Coalition plan to partly privatise Melbourne's sewerage network. Follow live in our election blog."
       },
       {
         "title": "Labor's day of reckoning nears as multiple polls indicate wipeout in Victorian election this weekend",
@@ -611,7 +649,7 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "Victorians will head to the ballot box on Saturday, November 28, with three new polls released Thursday night showing Opposition leader Jess Wilson will soon be in the top job."
       },
       {
@@ -637,33 +675,21 @@
         "section": "VICTORIA",
         "is_new": false,
         "summary": "Opposition Leader Jess Wilson will partly-privatise Melbourne's sewerage network, cut and delay level crossing removals, and cancel expanding free kindergarten if elected on Saturday."
-      },
-      {
-        "title": "Victoria faces increased bushfire risk in 'mixed bag' of summer emergencies",
-        "rewrite": "Victoria faces increased bushfire risk in 'mixed bag' of summer emergencies",
-        "url": "https://www.abc.net.au/news/2026-11-26/summer-bushfire-season-victoria-outlook/107429694",
-        "source": "ABC News Australia",
-        "published": "2026-11-26T15:48:18+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "Victoria's emergency management commissioner is warning of an increased risk of bushfires and grassfires this summer that could continue through to early autumn."
-      },
-      {
-        "title": "Geelong teacher's licence suspended amid police investigation",
-        "rewrite": "Geelong teacher's licence suspended amid police investigation",
-        "url": "https://www.abc.net.au/news/2026-11-26/geelong-teacher-licence-suspended-amid-police-investigation/107425790",
-        "source": "ABC News Australia",
-        "published": "2026-11-26T11:37:30+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "A Geelong high school teacher's registration has been suspended amid a sexual offences and child abuse police team investigation into allegations relating to a previous role in Bendigo."
       }
     ],
     "right": [
+      {
+        "title": "Why are Burnham and Miliband doing NOTHING to help my poor mother, locked in a rat-infested Iranian jail cell on trumped-up spying charges?",
+        "rewrite": "Why are Burnham and Miliband doing NOTHING to help my poor mother, locked in a rat-infested Iranian jail...",
+        "url": "https://www.dailymail.com/news/article-16325305/Miliband-mother-jail-Iranian-spying.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-27T11:01:38+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "UK",
+        "is_new": true,
+        "summary": "Never was the gulf between the appearance of power and the exercise of it more obvious than when I went to the Foreign Office in Whitehall recently to see the Foreign Secretary, Ed Miliband."
+      },
       {
         "title": "Another huge crack in Labour's vow to deliver 1.5million new homes as additions to housing stock FELL last year to lowest for a decade - but Rayner refuses to drop key pledge",
         "rewrite": "Another huge crack in Labour's vow to deliver 1.5million new homes as additions to housing stock FELL last...",
@@ -673,7 +699,7 @@
         "slot": "column",
         "urgent": false,
         "section": "UK",
-        "is_new": true,
+        "is_new": false,
         "summary": "New data published by the Ministry of Housing, Communities and Local Government (MHCLG) showed there were 203,690 net additional dwellings in England in 2025-26."
       },
       {
@@ -701,17 +727,28 @@
         "summary": "At a press conference this week, Mr Farage listed a series of senior Tory figures who backed staying in the EU at the 2016 Brexit referendum."
       },
       {
-        "title": "Britons likely to turn their heating this winter, report warns, as gas bills surge once again",
-        "rewrite": "Britons likely to turn their heating this winter, report warns, as gas bills surge once again",
-        "url": "https://www.gbnews.com/money/gas-bills-heating-winter-prices",
-        "source": "GB News",
-        "published": "2026-11-25T11:01:01+11:00",
+        "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
+        "rewrite": "Binance completes withdrawal recovery four weeks after $6.3B hack",
+        "url": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack",
+        "source": "Cointelegraph",
+        "published": "2026-11-27T08:33:47+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "UK",
-        "is_new": false,
-        "image": "https://www.gbnews.com/media-library/man-looking-at-energy-bill-and-gas-bill.jpg?id=67980735&width=1200&height=600&coordinates=0%2C50%2C0%2C50",
-        "summary": "Britons likely to turn their heating this winter, report warns, as gas bills surge once again . Seven in ten people are likely to turn down their heating this winter, with gas bills more than twice as high as before the Ukraine invasion, a report warns"
+        "section": "MARKETS",
+        "is_new": true,
+        "summary": "The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto theft."
+      },
+      {
+        "title": "Live: ASX edges higher as global stocks climb",
+        "rewrite": "ASX edges higher as global stocks climb",
+        "url": "https://www.abc.net.au/news/2026-11-27/asx-markets-business-news-live-updates/107430390",
+        "source": "ABC News Australia",
+        "published": "2026-11-27T07:27:46+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "MARKETS",
+        "is_new": true,
+        "summary": "The ASX has opened a little higher after solid gains across Europe and Asia. Follow the day's events and insights from our business reporters on the ABC News live markets blog."
       },
       {
         "title": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
@@ -774,27 +811,40 @@
         "summary": "U.S. equities tumbled Wednesday after key PCE inflation data as Nvidia, Anthropic and Big Tech stocks slid alongside fresh Trump administration tariff proposals."
       },
       {
-        "title": "Why inflation is up, but interest rates are not expected to follow",
-        "rewrite": "Why inflation is up, but interest rates are not expected to follow",
-        "url": "https://www.abc.net.au/news/2026-11-25/inflation-up-but-rates-not-expected-to-follow/107424642",
-        "source": "ABC News Australia",
-        "published": "2026-11-25T14:32:26+11:00",
+        "title": "Elon Musk announces two SpaceX shares for every American child",
+        "rewrite": "Elon Musk announces two SpaceX shares for every American child",
+        "url": "https://www.washingtonexaminer.com/news/business/4816338/elon-musk-two-spacex-shares-every-american-child/",
+        "source": "Washington Examiner",
+        "published": "2026-11-27T10:27:52+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "MARKETS",
-        "is_new": false
+        "section": "TECHNOLOGY",
+        "is_new": true,
+        "summary": "SpaceX CEO Elon Musk announced the gifting of two SpaceX shares to every American child. The company on Wednesday said the shares will be distributed to Trump Accounts, tax-advantaged investment accounts for all children in the United States opened in the president’s name last year."
       },
       {
-        "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
-        "rewrite": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
-        "url": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books",
-        "source": "Cointelegraph",
-        "published": "2026-11-25T12:40:59+11:00",
+        "title": "Asia made a big AI bet on Nvidia. What happens now?",
+        "rewrite": "Asia made a big AI bet on Nvidia. What happens now?",
+        "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo",
+        "source": "BBC News",
+        "published": "2026-11-27T10:08:12+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "MARKETS",
-        "is_new": false,
-        "summary": "The Bitcoin miner sold 2,102 BTC while it produced just 1,708 BTC in the September quarter."
+        "section": "TECHNOLOGY",
+        "is_new": true,
+        "summary": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO."
+      },
+      {
+        "title": "GOP Sen. Cramer: Need to Codify Trump Chips EO 'So That It Isn't So Flexible'",
+        "rewrite": "GOP Sen. Cramer: Need to Codify Trump Chips EO 'So That It Isn't So Flexible'",
+        "url": "https://www.breitbart.com/clips/2026/11/26/gop-sen-cramer-need-to-codify-trump-chips-eo-so-that-it-isnt-so-flexible/",
+        "source": "Breitbart",
+        "published": "2026-11-27T09:52:40+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "TECHNOLOGY",
+        "is_new": true,
+        "summary": "On Tuesday’s broadcast of the Fox Business Network’s “Claman Countdown,” Sen. Kevin Cramer (R-ND) called for Congress to pass legislation codifying President Donald Trump’s export controls on advanced chips “so that it isn’t so flexible” and predicted it will pass"
       },
       {
         "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
@@ -833,28 +883,40 @@
         "summary": "Microsoft has initiated a comprehensive \"Code Red\" overhaul of its engineering response systems following a massive cloud outage on November 12 that disrupted access to Exchange Online, Teams, and Outlook for users around the globe. The company admitted its staff"
       },
       {
-        "title": "FCC authorizes SpaceX to deploy 1M satellites for orbital AI data centers",
-        "rewrite": "FCC authorizes SpaceX to deploy 1M satellites for orbital AI data centers",
-        "url": "https://cointelegraph.com/news/fcc-authorizes-spacex-1m-satellites-orbital-ai-data-centers",
-        "source": "Cointelegraph",
-        "published": "2026-11-26T04:10:53+11:00",
+        "title": "‘Blade Runner 2099’ Boss Silka Luisa on What the Finale Means for Replicants and the Fate of Cora and Olwen",
+        "rewrite": "'Blade Runner 2099' Boss Silka Luisa on What the Finale Means for Replicants and the Fate of Cora and Olwen",
+        "url": "https://variety.com/2026/tv/news/blade-runner-2099-finale-cora-olwen-fates-1236958380/",
+        "source": "Variety",
+        "published": "2026-11-27T12:00:00+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false,
-        "summary": "The planned Starmind constellation will process data in orbit for use on Earth, as demand for artificial intelligence computing power continues to grow."
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "SPOILER ALERT: This article contains major spoilers for the finale of “Blade Runner 2099,” now streaming on Prime Video. In the finale of “Blade Runner 2099,” the future of humanity is anything but certain."
       },
       {
-        "title": "Microsoft goes ‘Code Red’ on its response after industry-wide outages left customers in the dark",
-        "rewrite": "Microsoft goes 'Code Red' on its response after industry-wide outages left customers in the dark",
-        "url": "https://www.washingtonexaminer.com/policy/technology/4814499/microsoft-code-red-response-outlook-outages/",
-        "source": "Washington Examiner",
-        "published": "2026-11-25T09:52:53+11:00",
+        "title": "Gerald R. Molen, Oscar-Winning ‘Schindler’s List’ Producer, Dies at 91",
+        "rewrite": "Gerald R. Molen, Oscar-Winning 'Schindler's List' Producer, Dies at 91",
+        "url": "https://variety.com/2026/film/news/gerald-r-molen-dead-schindlers-list-producer-1236959200/",
+        "source": "Variety",
+        "published": "2026-11-27T10:33:00+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false,
-        "summary": "Microsoft is changing how it approaches future service failures after a three-day outage left its customers without access to its products."
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "Gerald R. Molen, the Oscar-winning producer behind Steven Spielberg’s “Schindler’s List,” has died. He was 91. Molen’s death was announced by his great-niece, Rachel Lorraine Pullan, in an Instagram post on Sunday."
+      },
+      {
+        "title": "Ex-ESPN star Sage Steele settles explosive lawsuit against Hollywood talent giant over COVID vaccine backlash",
+        "rewrite": "Ex-ESPN star Sage Steele settles explosive lawsuit against Hollywood talent giant over COVID vaccine backlash",
+        "url": "https://nypost.com/2026/11/26/us-news/sage-steele-settles-covid-19-and-freedom-of-speech-lawsuit-with-caa/",
+        "source": "New York Post",
+        "published": "2026-11-27T09:00:00+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "The former ESPN personality accused Creative Artists Agency of leaving her twisting in the wind when her outspoken comments sparked a backlash and the network allegedly demanded she apologize."
       },
       {
         "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
@@ -865,7 +927,7 @@
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
+        "is_new": false,
         "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould."
       },
       {
@@ -915,54 +977,18 @@
         "section": "ENTERTAINMENT",
         "is_new": false,
         "summary": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart."
-      },
-      {
-        "title": "Lionsgate Play Casts AI Actor Yug R.Ai in Series ‘Eklavya,’ Partners With Google Cloud (EXCLUSIVE)",
-        "rewrite": "Lionsgate Play Casts AI Actor Yug R.Ai in Series 'Eklavya,' Partners With Google Cloud (EXCLUSIVE)",
-        "url": "https://variety.com/2026/tv/news/lionsgate-play-ai-actor-eklavya-ai-led-original-1236957605/",
-        "source": "Variety",
-        "published": "2026-11-25T17:15:00+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "Streaming platform Lionsgate Play has cast an AI performer, Yug R.Ai, as the lead of “Eklavya,” a mythological series that is the platform’s first AI-led original. Rohit Jain, founder and CEO of Lionsgate Play, presented a first look at the show and introduced Yug R.Ai as the company’s first AI actor."
-      },
-      {
-        "title": "Philip Rosenberg, Oscar-Winning Production Designer for ‘All That Jazz,’ Dies at 91",
-        "rewrite": "Philip Rosenberg, Oscar-Winning Production Designer for 'All That Jazz,' Dies at 91",
-        "url": "https://variety.com/2026/film/news/philip-rosenberg-dead-all-that-jazz-1236957540/",
-        "source": "Variety",
-        "published": "2026-11-25T11:50:47+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "Philip Rosenberg, a production designer and art director who was part of the team that won the art direction-set decoration Oscar for “All That Jazz,” died Oct. 28 in West Palm Beach, Florida. He was 91. His death was announced by his nephew, Alan Rosenberg."
-      },
-      {
-        "title": "Jimmy Carr 'pulls out of hosting Top Gear reboot leaving BBC bosses scrambling to find a replacement'",
-        "rewrite": "Jimmy Carr 'pulls out of hosting Top Gear reboot leaving BBC bosses scrambling to find a replacement'",
-        "url": "https://www.dailymail.com/tvshowbiz/article-16319743/Jimmy-Carr-quits-TopGear-reboot.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-25T10:41:59+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "Jimmy Carr is said to have 'pulled out' of hosting the upcoming Top Gear reboot despite negotiations being at an 'advanced stage'."
       }
     ]
   },
   "image_url": "https://live-production.wcms.abc-cdn.net.au/6c8a595e4ccc8edff9d690d824d16936?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
   "image_source_url": "https://www.abc.net.au/news/2026-11-27/italians-killed-in-kuwait-attack-iran/107432996",
   "counts": {
-    "total": 78,
+    "total": 80,
     "featured": 4,
     "columns": {
       "left": 25,
-      "center": 24,
-      "right": 24
+      "center": 25,
+      "right": 25
     },
     "feeds_ok": 44,
     "feeds_failed": 6

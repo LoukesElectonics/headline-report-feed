@@ -2,25 +2,37 @@
   "title": "THE NEWS REPORT",
   "generated": {
     "date": "Saturday, 28 November 2026",
-    "display": "Saturday, November 28, 2026  12:03 PM AEDT (Australia/Sydney)",
-    "iso": "2026-11-28T12:03:49.015309+11:00",
-    "time": "12:03 PM AEDT",
+    "display": "Saturday, November 28, 2026  5:58 PM AEDT (Australia/Sydney)",
+    "iso": "2026-11-28T17:58:54.148854+11:00",
+    "time": "5:58 PM AEDT",
     "timezone": "Australia/Sydney"
   },
   "lean": "centre-right",
   "top": {
-    "title": "U.S. Disables Ship Attempting to Breach Iran Blockade — Tehran Threatens Military Action from ‘Air and Sea’",
-    "rewrite": "U.S. Disables Ship Attempting to Breach Iran Blockade — Tehran Threatens Military Action from 'Air and Sea'",
-    "url": "https://www.breitbart.com/politics/2026/11/27/u-s-disables-ship-attempting-to-breach-iran-blockade-tehran-threatens-military-action-from-air-and-sea/",
+    "title": "Report: Half a Dozen Trump Officials Moved into Military Housing amid Iranian Death Threats",
+    "rewrite": "Report: Half a Dozen Trump Officials Moved into Military Housing amid Iranian Death Threats",
+    "url": "https://www.breitbart.com/politics/2026/11/27/half-dozen-trump-officials-moved-military-housing-iranian-death-threats/",
     "source": "Breitbart",
-    "published": "2026-11-28T10:21:17+11:00",
+    "published": "2026-11-28T15:33:58+11:00",
     "slot": "top",
     "urgent": false,
-    "section": "WORLD",
+    "section": "US",
     "is_new": false,
-    "summary": "A US aircraft struck the Palau-flagged bulk carrier M/V Pacific Archer in the Gulf of Oman on Thursday after it left Bandar Abbas and ignored warnings, disabling its propulsion; the crew was unharmed. CENTCOM says 158 ships have been redirected and six disabled. IRGC Aerospace Force commander Majid Mousavi vowed to break the blockade from 'the air and sea'."
+    "summary": "CNN reported that about six civilian officials now live on military bases around Washington, including Treasury Secretary Scott Bessent, Secretary of State Marco Rubio, War Secretary Pete Hegseth, chief of staff Stephen Miller and Attorney General Todd Blanche. Bessent moved at the Secret Service's direction after Iranian threats against him escalated."
   },
   "featured": [
+    {
+      "title": "U.S. Disables Ship Attempting to Breach Iran Blockade — Tehran Threatens Military Action from ‘Air and Sea’",
+      "rewrite": "U.S. Disables Ship Attempting to Breach Iran Blockade — Tehran Threatens Military Action from 'Air and Sea'",
+      "url": "https://www.breitbart.com/politics/2026/11/27/u-s-disables-ship-attempting-to-breach-iran-blockade-tehran-threatens-military-action-from-air-and-sea/",
+      "source": "Breitbart",
+      "published": "2026-11-28T10:21:17+11:00",
+      "slot": "featured",
+      "urgent": false,
+      "section": "WORLD",
+      "is_new": false,
+      "summary": "A US aircraft struck the Palau-flagged bulk carrier M/V Pacific Archer in the Gulf of Oman on Thursday after it left Bandar Abbas and ignored warnings, disabling its propulsion; the crew was unharmed. CENTCOM says 158 ships have been redirected and six disabled. IRGC Aerospace Force commander Majid Mousavi vowed to break the blockade from 'the air and sea'."
+    },
     {
       "title": "One Of The US Military’s Largest Cloud Computing Systems Was Hacked, Potentially Exposing Sensitive Intel",
       "rewrite": "One Of The US Military's Largest Cloud Computing Systems Was Hacked, Potentially Exposing Sensitive Intel",
@@ -46,18 +58,6 @@
       "summary": "Polls open today after a campaign marked by Labor's plunging polling and a last-minute Coalition policy dump, pitting the Coalition's Jess Wilson against Labor leader Ben Carroll. About half of Victoria's 4.7 million eligible voters had already voted early or by post."
     },
     {
-      "title": "Meloni warns Kyiv that war 'cannot spread to the Mediterranean' after bombing of Russian warship in Libya",
-      "rewrite": "Meloni warns Kyiv that war 'cannot spread to the Mediterranean' after bombing of Russian warship in Libya",
-      "url": "https://www.dailymail.com/news/article-16326607/Meloni-warns-Kyiv-war-spread-Mediterranean-Russian-warship-Libya.html?ns_campaign=1490",
-      "source": "Daily Mail",
-      "published": "2026-11-28T04:30:20+11:00",
-      "slot": "featured",
-      "urgent": false,
-      "section": "WORLD",
-      "is_new": false,
-      "summary": "Italy's prime minister publicly rebuked Ukraine after Zelensky confirmed that suicide drones destroyed the Russian corvette Merkury at a port in Benghazi on Sunday. Kyiv also hit a sanctioned Russian cargo vessel off the Libyan coast with an explosive-laden drone."
-    },
-    {
       "title": "Mamdani handed out $95K in staff raises the same day he warned of $12B budget deficit: report",
       "rewrite": "Mamdani handed out $95K in staff raises the same day he warned of $12B budget deficit: report",
       "url": "https://www.foxnews.com/politics/mamdani-handed-95k-staff-raises-same-day-warned-12b-budget-deficit-report",
@@ -73,6 +73,18 @@
   "columns": {
     "left": [
       {
+        "title": "Mamdani has surgery for torn Achilles tendon from soccer match injury",
+        "rewrite": "Mamdani has surgery for torn Achilles tendon from soccer match injury",
+        "url": "https://nypost.com/2026/11/28/us-news/nyc-mayor-mamdani-has-surgery-after-tearing-achilles-tendon-playing-soccer/",
+        "source": "New York Post",
+        "published": "2026-11-28T16:51:13+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "New York Mayor Zohran Mamdani underwent surgery Friday after tearing his right Achilles tendon last week in a soccer match against local journalists."
+      },
+      {
         "title": "Amnesty Advocates Tell Americans: Stop Saying 'Amnesty'",
         "rewrite": "Amnesty Advocates Tell Americans: Stop Saying 'Amnesty'",
         "url": "https://www.breitbart.com/economy/2026/11/27/amnesty-advocates-tell-americans-stop-saying-amnesty/",
@@ -81,7 +93,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Investor-backed amnesty advocates are telling Vice President JD Vance — and all American citizens — to stop using the word \"amnesty.\""
       },
       {
@@ -93,7 +105,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Mamdani's top 4 socialist promises met with reality checks as his first year in office nears its end",
@@ -104,7 +116,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Mayor Zohran Mamdani's rent freeze covers only about 1 million rent-stabilized units, while his city-run grocery pilot faces long lines and shortages."
       },
       {
@@ -129,7 +141,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Lawmakers should investigate how much U.S. Agency for International Development (USAID) money \"made its way back into dark money accounts funding Democrats,\" Sen. Bernie Moreno (R-OH) said this week after the release of a trove of documents showcasing how the now-defunct agency was \"weaponized to advance a radical agenda fundamentally at odds with American values.”"
       },
       {
@@ -165,7 +177,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "On Friday’s broadcast of CNN’s “News Central,” Rep. Debbie Wasserman Schultz (D-FL) said the new Congress will end the war in Iran within its first 100 hours."
       },
       {
@@ -228,18 +240,6 @@
         "summary": "US President Donald Trump has marked Thanksgiving by publishing a message on Truth Social that took aim at deported immigrants, Somali-Americans in Minnesota, economic officials, journalists, and his political adversaries. Instead of a conventional expression of gratitude, the post, which appeared on this morning, read as a catalogue of grievances wrapped in mock holiday cheer."
       },
       {
-        "title": "Mamdani to skip postponed Macy's Thanksgiving Day on 'doctor's orders' after torn Achilles",
-        "rewrite": "Mamdani to skip postponed Macy's Thanksgiving Day on 'doctor's orders' after torn Achilles",
-        "url": "https://thepostmillennial.com/news/mamdani-to-skip-postponed-macy-s-thanksgiving-day-on-doctor-s-orders-after-torn-achilles",
-        "source": "The Post Millennial",
-        "published": "2026-11-27T07:26:27+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "\"As a result of this rescheduling I will not be able to make it because of the doctor’s orders.”"
-      },
-      {
         "title": "Pete Hegseth's pastor mentor ignites firestorm with call for women to be stripped of their right to vote as he declares patriarchy is God's will",
         "rewrite": "Pete Hegseth's pastor mentor ignites firestorm with call for women to be stripped of their right to vote...",
         "url": "https://www.dailymail.com/news/article-16324401/Pete-Hegseths-pastor-mentor-women-vote.html?ns_campaign=1490",
@@ -260,8 +260,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": false,
-        "image": "https://cdn.sanity.io/images/v3d3jm0s/production/5f7f501a3be08d83ed09376de89bef460b63f84c-2026x1006.png"
+        "is_new": false
       },
       {
         "title": "Comer: 'I'm Pretty Confident that Donald Trump's Not Going to Fall for a Socialist Agenda'",
@@ -308,7 +307,7 @@
         "slot": "column",
         "urgent": false,
         "section": "BUSINESS",
-        "is_new": true,
+        "is_new": false,
         "summary": "France has fallen into recession after the European nation's economy shrank by more than the predicted figures. Emmanuel Macron is said to be facing a crisis after the economy plunged by 0.2 per cent in the third quarter between July and September. The shrinking of France's economy is bigger than the predicted 0.1 per cent figure."
       },
       {
@@ -350,6 +349,18 @@
     ],
     "center": [
       {
+        "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+        "rewrite": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo",
+        "source": "BBC News",
+        "published": "2026-11-28T15:13:45+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government."
+      },
+      {
         "title": "Canadian Supreme Court largely upholds Quebec’s ban on religious symbols for public sector workers",
         "rewrite": "Canadian Supreme Court largely upholds Quebec's ban on religious symbols for public sector workers",
         "url": "https://www.washingtonexaminer.com/news/world/4816704/canada-supreme-court-upholds-quebec-ban-religious-symbols-public-workers/",
@@ -358,8 +369,32 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "summary": "The Supreme Court of Canada upheld most of Quebec’s law barring public employees in certain positions of authority from wearing religious symbols at work, delivering a major victory on Friday for the province’s secularism policy."
+      },
+      {
+        "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+        "rewrite": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+        "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo",
+        "source": "BBC News",
+        "published": "2026-11-28T05:00:40+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war."
+      },
+      {
+        "title": "Meloni warns Kyiv that war 'cannot spread to the Mediterranean' after bombing of Russian warship in Libya",
+        "rewrite": "Meloni warns Kyiv that war 'cannot spread to the Mediterranean' after bombing of Russian warship in Libya",
+        "url": "https://www.dailymail.com/news/article-16326607/Meloni-warns-Kyiv-war-spread-Mediterranean-Russian-warship-Libya.html?ns_campaign=1490",
+        "source": "Daily Mail",
+        "published": "2026-11-28T04:30:20+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": false,
+        "summary": "Italy's prime minister publicly rebuked Ukraine after Zelensky confirmed that suicide drones destroyed the Russian corvette Merkury at a port in Benghazi on Sunday. Kyiv also hit a sanctioned Russian cargo vessel off the Libyan coast with an explosive-laden drone."
       },
       {
         "title": "Putin bodyguard tipped to be his successor 'took his own life at 90ft waterfall', leaked documents show",
@@ -419,7 +454,8 @@
         "urgent": false,
         "section": "WORLD",
         "is_new": false,
-        "summary": "A former Iran nuclear adviser claimed Thursday the Kuwait drone attack was a Ukrainian \"false flag\" staged to get President Donald Trump's attention."
+        "summary": "A former Iran nuclear adviser claimed Thursday the Kuwait drone attack was a Ukrainian \"false flag\" staged to get President Donald Trump's attention.",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/kuwait-iran-us-air-force-jets.jpg"
       },
       {
         "title": "Ukraine 'shoots down Russian drone with a laser in world first'",
@@ -482,28 +518,28 @@
         "summary": "Two Italian Rheinmetall technicians died when drones hit an air-defence surveillance station in Kuwait, Italian Foreign Minister Antonio Tajani said; a Kuwaiti and a Pakistani were injured. Kuwait called it an Iranian attack, which Iran's military denied. Two ships were also reported attacked in the Strait of Hormuz within 24 hours."
       },
       {
-        "title": "Donald Trump urges 'friend' Putin not to 'expand the war' in Ukraine after Mar-a-Lago Thanksgiving meeting with NATO boss",
-        "rewrite": "Donald Trump urges 'friend' Putin not to 'expand the war' in Ukraine after Mar-a-Lago Thanksgiving meeting...",
-        "url": "https://www.dailymail.com/news/article-16323333/Trump-Putin-Ukraine-War-NATO-boss.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-26T17:23:53+11:00",
+        "title": "Adelaide-born WWE wrestler Bronson Reed dies at 38",
+        "rewrite": "Adelaide-born WWE wrestler Bronson Reed dies at 38",
+        "url": "https://www.abc.net.au/news/2026-11-28/wwe-wrestler-bronson-reed-dies-aged-38/107438016",
+        "source": "ABC News Australia",
+        "published": "2026-11-28T13:05:33+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "Meeting NATO Secretary General Mark Rutte at Mar-a-Lago on Wednesday night, Trump and Rutte agreed Russia must not intentionally or unintentionally expand the war in Ukraine and said they want a peaceful end as soon as possible. Talks also covered the Iran war and defence spending, days after Trump met Putin and Xi at a summit in Shenzhen."
+        "section": "AUSTRALIA",
+        "is_new": true,
+        "summary": "Tributes are flowing for Adelaide-born wrestler Jermaine Haley, aka Bronson Reed, whose death has been attributed to medical complications."
       },
       {
-        "title": "Desperate appeals from women on death row in Iran after protests",
-        "rewrite": "Desperate appeals from women on death row in Iran after protests",
-        "url": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo",
-        "source": "BBC News",
-        "published": "2026-11-26T17:01:58+11:00",
+        "title": "UN rapporteur Francesca Albanese denied entry at Costa Rica Airport",
+        "rewrite": "UN rapporteur Francesca Albanese denied entry at Costa Rica Airport",
+        "url": "https://www.abc.net.au/news/2026-11-28/francesca-albanese-detained-at-costa-rica-airport/107437818",
+        "source": "ABC News Australia",
+        "published": "2026-11-28T12:39:22+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "WORLD",
-        "is_new": false,
-        "summary": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says."
+        "section": "AUSTRALIA",
+        "is_new": true,
+        "summary": "The high-profile independent investigator, who was invited to Costa Rica to receive an honorary degree, is spending her second night stranded at the airport while a petition to enter the country is pending."
       },
       {
         "title": "Farmers do not miss dusty old days as they embrace harvest technology",
@@ -514,7 +550,7 @@
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
-        "is_new": true,
+        "is_new": false,
         "image": "https://live-production.wcms.abc-cdn.net.au/85c9c5bfc6b0cd83ab2ce5e965f7b777?impolicy=wcms_watermark_news&cropH=2304&cropW=4096&xPos=0&yPos=384&width=862&height=485&imformat=generic",
         "summary": "Narromine farmer Rob McCutcheon has witnessed more than five decades of technological advances that have transformed the way farmers harvest their crops."
       },
@@ -527,7 +563,7 @@
         "slot": "column",
         "urgent": false,
         "section": "AUSTRALIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "Sales of Australian wine have overtaken previous production volumes, but a glut of millions of litres persists."
       },
       {
@@ -540,7 +576,6 @@
         "urgent": false,
         "section": "AUSTRALIA",
         "is_new": false,
-        "image": "https://live-production.wcms.abc-cdn.net.au/6836176078e6984acf0c78da3f4e1de7?impolicy=wcms_watermark_news&cropH=1767&cropW=3141&xPos=0&yPos=164&width=862&height=485&imformat=generic",
         "summary": "The 13-year-old boy told the NSW Supreme Court the abuse inflicted by Rory Amon had led him \"down a path of self-harm and suffering\"."
       },
       {
@@ -556,17 +591,16 @@
         "summary": "Recurring complaints about Albanese are where the conversations turn, including concerns about the worsening cost-of-living crisis on his watch."
       },
       {
-        "title": "Live: PM concedes government doesn't 'get everything right' as political year wraps",
-        "rewrite": "PM concedes government doesn't 'get everything right' as political year wraps",
-        "url": "https://www.abc.net.au/news/2026-11-27/federal-politics-live-blog-november-27/107431796",
+        "title": "Bendigo Writers Festival in 'unreserved' apology to author Abdel-Fattah",
+        "rewrite": "Bendigo Writers Festival in 'unreserved' apology to author Abdel-Fattah",
+        "url": "https://www.abc.net.au/news/2026-11-28/bendigo-writers-festival-apology-randa-abdel-fattah/107438282",
         "source": "ABC News Australia",
-        "published": "2026-11-27T07:03:09+11:00",
+        "published": "2026-11-28T17:43:59+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "image": "https://live-production.wcms.abc-cdn.net.au/72dd1fb4a5c8ee1b46644573d81096dd?impolicy=wcms_watermark_news&cropH=3510&cropW=6240&xPos=0&yPos=1&width=862&height=485&imformat=generic",
-        "summary": "As Prime Minister Anthony Albanese wraps up the parliamentary year, he admits the government does not always get everything right. Follow live."
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "Festival organiser Greater Bendigo City Council says it sincerely regrets infringing Palestinian Australian academic Dr Randa Abdel-Fattah's intellectual and artistic freedom."
       },
       {
         "title": "Victorian Election: One Nation leader vows to cut government spending and expose decade of Victorian Cabinet decisions",
@@ -577,8 +611,9 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
-        "summary": "Warren Pickering is facing a tight contest, with the final 7NEWS election model forecasting a 50-50 chance of him winning the Labor held Pakenham seat against the Liberals."
+        "is_new": false,
+        "summary": "Warren Pickering is facing a tight contest, with the final 7NEWS election model forecasting a 50-50 chance of him winning the Labor held Pakenham seat against the Liberals.",
+        "image": "https://images.7news.com.au/publication/C-23224398/ecd9fb51abe5ec0a7e5d1e6dd35299427101a405-16x9-x0y0w1280h720.png?imwidth=1200"
       },
       {
         "title": "Live: Victorian Liberal costings reveal unannounced plan to scrap first home owner grant",
@@ -589,7 +624,7 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "Victorians head to the polls today to decide who will lead Australia's second most populous state for the next four years. Follow live."
       },
       {
@@ -615,18 +650,6 @@
         "section": "VICTORIA",
         "is_new": false,
         "summary": "‘It’s been a problem for quite some time, but now, of course, they’re very worried. Now someone died.’"
-      },
-      {
-        "title": "Melbourne drivers face two-hour delays after rolled truck shuts freeway lanes",
-        "rewrite": "Melbourne drivers face two-hour delays after rolled truck shuts freeway lanes",
-        "url": "https://7news.com.au/news/melbourne/melbourne-drivers-face-two-hour-delays-after-rolled-truck-shuts-freeway-lanes-c-23221999",
-        "source": "7News Victoria",
-        "published": "2026-11-27T16:33:17+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "Lane closures are expected to remain in place throughout the afternoon peak."
       }
     ],
     "right": [
@@ -639,7 +662,7 @@
         "slot": "column",
         "urgent": false,
         "section": "UK",
-        "is_new": true,
+        "is_new": false,
         "summary": "At least 33 people have been arrested in Southampton following an investigation into \"child sexual exploitation\". Hampshire Police is understood to have seized more than 80 mobile phones and charged two men with offences in connection to the probe, the Daily Echo reports. Detectives have been investigating reports of teenage girls being collected in taxis and taken to parties."
       },
       {
@@ -651,8 +674,9 @@
         "slot": "column",
         "urgent": false,
         "section": "UK",
-        "is_new": true,
-        "summary": "Union flags and Restore Britain banners outside Barnham migrant camp torn down as village quits UK . Banners which were erected in Barnham opposing a former military barrack being used to house illegal migrants have been vandalised, GB News can reveal"
+        "is_new": false,
+        "summary": "Union flags and Restore Britain banners outside Barnham migrant camp torn down as village quits UK . Banners which were erected in Barnham opposing a former military barrack being used to house illegal migrants have been vandalised, GB News can reveal",
+        "image": "https://www.gbnews.com/media-library/site.png?id=68785911&width=1200&height=600&coordinates=0%2C50%2C0%2C50"
       },
       {
         "title": "Will new energy fixes cost more in January?",
@@ -714,6 +738,18 @@
         "summary": "New data published by the Ministry of Housing, Communities and Local Government (MHCLG) showed there were 203,690 net additional dwellings in England in 2025-26."
       },
       {
+        "title": "Wall Street stages major comeback during Thanksgiving-shortened trading week",
+        "rewrite": "Wall Street stages major comeback during Thanksgiving-shortened trading week",
+        "url": "https://www.foxbusiness.com/markets/wall-street-stages-major-comeback-thanksgiving-shortened-trading-week",
+        "source": "Fox Business",
+        "published": "2026-11-28T13:00:10+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "MARKETS",
+        "is_new": true,
+        "summary": "Wall Street staged a strong comeback as the S&P 500 posted its largest weekly gain in more than a year, with investors returning to battered AI stocks."
+      },
+      {
         "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
         "rewrite": "Bitcoin whales pile into BTC despite shrinking profit cushion",
         "url": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion",
@@ -722,7 +758,7 @@
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": true,
+        "is_new": false,
         "summary": "CryptoQuant data shows Bitcoin whales are breaking with historical fourth-quarter selling patterns despite a market downturn."
       },
       {
@@ -734,7 +770,7 @@
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": true,
+        "is_new": false,
         "summary": "U.S. equities surged higher on Friday, with the Dow Jones Industrial Average headed for its best week since April 2025."
       },
       {
@@ -784,18 +820,6 @@
         "section": "MARKETS",
         "is_new": false,
         "summary": "Bargain hunters made the most of the Black Friday sales with cost conscious consumers snapping up deals."
-      },
-      {
-        "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
-        "rewrite": "Binance completes withdrawal recovery four weeks after $6.3B hack",
-        "url": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack",
-        "source": "Cointelegraph",
-        "published": "2026-11-27T08:33:47+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "MARKETS",
-        "is_new": false,
-        "summary": "The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto theft."
       },
       {
         "title": "Iran issues chilling Thanksgiving warning targeting America's biggest tech giants... with Amazon, Microsoft and Elon Musk's SpaceX in the crosshairs",
@@ -858,18 +882,6 @@
         "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power."
       },
       {
-        "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
-        "rewrite": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
-        "url": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack",
-        "source": "Cointelegraph",
-        "published": "2026-11-26T16:53:08+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "TECHNOLOGY",
-        "is_new": false,
-        "summary": "North Korea-linked hackers used DeFi protocols to launder stolen Binance funds, while US prosecutors moved to recover more than $1.1 billion in crypto."
-      },
-      {
         "title": "‘The Hunting Wives’ Stars and Creator Break Down Margo and Sophie’s Dangerous Love Affair in Season 2: ‘It’s a F—-ed Up Commitment’ to ‘Move Past’ Murder",
         "rewrite": "'The Hunting Wives' Stars and Creator Break Down Margo and Sophie's Dangerous Love Affair in Season 2:...",
         "url": "https://variety.com/2026/tv/news/hunting-wives-brittany-snow-malin-akerman-season-2-sex-murder-1236952232/",
@@ -878,7 +890,7 @@
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
+        "is_new": false,
         "summary": "SPOILER ALERT: This story contains spoilers for Season 2 of “The Hunting Wives,” now streaming on Netflix. Earlier this month, Texas shocked the nation by electing Democrats to the governorship, the U.S. Senate and several more key positions during this year’s midterm elections."
       },
       {
@@ -952,30 +964,18 @@
         "section": "ENTERTAINMENT",
         "is_new": false,
         "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould."
-      },
-      {
-        "title": "JioStar Brings Star Plus, Colors and Five More Indian TV Channels to Fubo in the U.S.",
-        "rewrite": "JioStar Brings Star Plus, Colors and Five More Indian TV Channels to Fubo in the U.S",
-        "url": "https://variety.com/2026/tv/news/jiostar-star-plus-colors-mtv-india-fubo-us-1236958804/",
-        "source": "Variety",
-        "published": "2026-11-26T17:27:20+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "Seven of India’s JioStar television channels, including popular Hindi-language entertainment channels Star Plus and Colors, are now streaming in the U.S. on live TV service Fubo. Alongside Star Plus and Colors, the slate comprises Star Bharat, Colors Rishtey, Colors Cineplex, MTV India and English-language news channel News18 English."
       }
     ]
   },
-  "image_url": "https://media.breitbart.com/media/2026/11/Vessel-Attempts-to-Breach-Strait-of-Hormuz-640x335.jpeg",
-  "image_source_url": "https://www.breitbart.com/politics/2026/11/27/u-s-disables-ship-attempting-to-breach-iran-blockade-tehran-threatens-military-action-from-air-and-sea/",
+  "image_url": "https://media.breitbart.com/media/2026/11/trump-cabinet-rubio-bessent-hegseth-miller-wh-flickr-640x335.jpg",
+  "image_source_url": "https://www.breitbart.com/politics/2026/11/27/half-dozen-trump-officials-moved-military-housing-iranian-death-threats/",
   "counts": {
     "total": 79,
     "featured": 4,
     "columns": {
       "left": 23,
-      "center": 23,
-      "right": 28
+      "center": 25,
+      "right": 26
     },
     "feeds_ok": 44,
     "feeds_failed": 6

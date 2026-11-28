@@ -2,36 +2,36 @@
   "title": "THE NEWS REPORT",
   "generated": {
     "date": "Saturday, 28 November 2026",
-    "display": "Saturday, November 28, 2026  6:03 AM AEDT (Australia/Sydney)",
-    "iso": "2026-11-28T06:03:47.762122+11:00",
-    "time": "6:03 AM AEDT",
+    "display": "Saturday, November 28, 2026  12:03 PM AEDT (Australia/Sydney)",
+    "iso": "2026-11-28T12:03:49.015309+11:00",
+    "time": "12:03 PM AEDT",
     "timezone": "Australia/Sydney"
   },
   "lean": "centre-right",
   "top": {
-    "title": "One Of The US Military’s Largest Cloud Computing Systems Was Hacked, Potentially Exposing Sensitive Intel",
-    "rewrite": "One Of The US Military's Largest Cloud Computing Systems Was Hacked, Potentially Exposing Sensitive Intel",
-    "url": "https://dailycaller.com/2026/11/27/us-air-force-cloud-one-system-report-reuters-hack-sensitive-intel-exposed-munitions-aircraft",
-    "source": "Daily Caller",
-    "published": "2026-11-28T02:57:09+11:00",
+    "title": "U.S. Disables Ship Attempting to Breach Iran Blockade — Tehran Threatens Military Action from ‘Air and Sea’",
+    "rewrite": "U.S. Disables Ship Attempting to Breach Iran Blockade — Tehran Threatens Military Action from 'Air and Sea'",
+    "url": "https://www.breitbart.com/politics/2026/11/27/u-s-disables-ship-attempting-to-breach-iran-blockade-tehran-threatens-military-action-from-air-and-sea/",
+    "source": "Breitbart",
+    "published": "2026-11-28T10:21:17+11:00",
     "slot": "top",
     "urgent": false,
-    "section": "US",
+    "section": "WORLD",
     "is_new": false,
-    "summary": "Sources told Reuters a breach of the Air Force's Cloud One platform, which runs on Microsoft, Amazon, Oracle and Alphabet services, was found during a system upgrade. The hackers reportedly reached its control plane, which could in theory expose data on munitions and aircraft. The Air Force said it does not comment on the security of specific networks."
+    "summary": "A US aircraft struck the Palau-flagged bulk carrier M/V Pacific Archer in the Gulf of Oman on Thursday after it left Bandar Abbas and ignored warnings, disabling its propulsion; the crew was unharmed. CENTCOM says 158 ships have been redirected and six disabled. IRGC Aerospace Force commander Majid Mousavi vowed to break the blockade from 'the air and sea'."
   },
   "featured": [
     {
-      "title": "US military disables tanker ship attempting to slip through Iran blockade on Thanksgiving Day",
-      "rewrite": "US military disables tanker ship attempting to slip through Iran blockade on Thanksgiving Day",
-      "url": "https://www.foxnews.com/world/us-military-disables-tanker-ship-attempting-slip-through-iran-blockade-thanksgiving-day",
-      "source": "Fox News",
-      "published": "2026-11-28T05:48:07+11:00",
+      "title": "One Of The US Military’s Largest Cloud Computing Systems Was Hacked, Potentially Exposing Sensitive Intel",
+      "rewrite": "One Of The US Military's Largest Cloud Computing Systems Was Hacked, Potentially Exposing Sensitive Intel",
+      "url": "https://dailycaller.com/2026/11/27/us-air-force-cloud-one-system-report-reuters-hack-sensitive-intel-exposed-munitions-aircraft",
+      "source": "Daily Caller",
+      "published": "2026-11-28T02:57:09+11:00",
       "slot": "featured",
       "urgent": false,
-      "section": "WORLD",
+      "section": "US",
       "is_new": false,
-      "summary": "US Central Command fired precision munitions at the stern of the Palau-flagged M/V Pacific Archer in the Gulf of Oman on Thursday, knocking out its propulsion after it left Bandar Abbas and tried to evade the blockade of Iranian ports in force since mid-July. CENTCOM said the civilian crew was unharmed."
+      "summary": "Sources told Reuters a breach of the Air Force's Cloud One platform, which runs on Microsoft, Amazon, Oracle and Alphabet services, was found during a system upgrade. The hackers reportedly reached its control plane, which could in theory expose data on munitions and aircraft. The Air Force said it does not comment on the security of specific networks."
     },
     {
       "title": "Victoria's election day arrives, as state appears poised to dump Labor",
@@ -58,20 +58,55 @@
       "summary": "Italy's prime minister publicly rebuked Ukraine after Zelensky confirmed that suicide drones destroyed the Russian corvette Merkury at a port in Benghazi on Sunday. Kyiv also hit a sanctioned Russian cargo vessel off the Libyan coast with an explosive-laden drone."
     },
     {
-      "title": "Trump keeps Vance, Rubio guessing on 2028 endorsement while also praising Hegseth for doing a ‘great job’",
-      "rewrite": "Trump keeps Vance, Rubio guessing on 2028 endorsement while also praising Hegseth for doing a 'great job'",
-      "url": "https://nypost.com/2026/11/27/us-news/trump-keeps-vance-rubio-guessing-on-2028-endorsement-while-also-praising-hegseth-for-doing-a-great-job/",
-      "source": "New York Post",
-      "published": "2026-11-28T05:39:30+11:00",
+      "title": "Mamdani handed out $95K in staff raises the same day he warned of $12B budget deficit: report",
+      "rewrite": "Mamdani handed out $95K in staff raises the same day he warned of $12B budget deficit: report",
+      "url": "https://www.foxnews.com/politics/mamdani-handed-95k-staff-raises-same-day-warned-12b-budget-deficit-report",
+      "source": "Fox News",
+      "published": "2026-11-28T11:23:58+11:00",
       "slot": "featured",
       "urgent": false,
       "section": "US",
       "is_new": false,
-      "summary": "Trump has spent the past year floating Vice President JD Vance and Secretary of State Marco Rubio as possible successors. Asked in the Oval Office on Tuesday whether an unexpected contender was emerging for the 2028 Republican nomination, he told The Post: 'Probably not.'"
+      "summary": "Payroll records reviewed by the New York Post show five City Hall staffers got raises totalling $95,000 on Jan. 28, the day Mamdani announced a $12 billion budget gap, later revised to about $5.4 billion. At least 46 aides have received raises worth roughly $850,000 in his first year, including 21 new hires."
     }
   ],
   "columns": {
     "left": [
+      {
+        "title": "Amnesty Advocates Tell Americans: Stop Saying 'Amnesty'",
+        "rewrite": "Amnesty Advocates Tell Americans: Stop Saying 'Amnesty'",
+        "url": "https://www.breitbart.com/economy/2026/11/27/amnesty-advocates-tell-americans-stop-saying-amnesty/",
+        "source": "Breitbart",
+        "published": "2026-11-28T08:13:52+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Investor-backed amnesty advocates are telling Vice President JD Vance — and all American citizens — to stop using the word \"amnesty.\""
+      },
+      {
+        "title": "Some Dems Want To Spend The Next Two Years Relitigating J6, Restarting Lawfare Campaign",
+        "rewrite": "Some Dems Want To Spend The Next Two Years Relitigating J6, Restarting Lawfare Campaign",
+        "url": "https://dailycaller.com/2026/11/27/democrats-midterms-win-january-6-capitol-riots-jamie-raskin-donald-trump-mass-pardon-anti-weaponization-fund",
+        "source": "Daily Caller",
+        "published": "2026-11-28T06:53:18+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true
+      },
+      {
+        "title": "Mamdani's top 4 socialist promises met with reality checks as his first year in office nears its end",
+        "rewrite": "Mamdani's top 4 socialist promises met with reality checks as his first year in office nears its end",
+        "url": "https://www.foxnews.com/politics/mamdanis-top-4-socialist-promises-met-reality-checks-his-first-year-office-nears-its-end",
+        "source": "Fox News",
+        "published": "2026-11-28T06:00:09+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Mayor Zohran Mamdani's rent freeze covers only about 1 million rent-stabilized units, while his city-run grocery pilot faces long lines and shortages."
+      },
       {
         "title": "Mamdani’s ‘affordability’ agenda could add $5 to your Amazon order",
         "rewrite": "Mamdani's 'affordability' agenda could add $5 to your Amazon order",
@@ -81,9 +116,33 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26224568008214.jpg?resize=1200,683",
         "summary": "Mamdani ran on affordability, but the delivery bill he backs could make New Yorkers pay up to $5 more per Amazon order."
+      },
+      {
+        "title": "Sen. Bernie Moreno: Investigate How Much USAID Money Went into 'Dark Money Accounts Funding Democrats'",
+        "rewrite": "Sen. Bernie Moreno: Investigate How Much USAID Money Went into 'Dark Money Accounts Funding Democrats'",
+        "url": "https://www.breitbart.com/politics/2026/11/27/sen-bernie-moreno-investigate-how-much-usaid-money-went-into-dark-money-accounts-funding-democrats/",
+        "source": "Breitbart",
+        "published": "2026-11-28T05:55:33+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "Lawmakers should investigate how much U.S. Agency for International Development (USAID) money \"made its way back into dark money accounts funding Democrats,\" Sen. Bernie Moreno (R-OH) said this week after the release of a trove of documents showcasing how the now-defunct agency was \"weaponized to advance a radical agenda fundamentally at odds with American values.”"
+      },
+      {
+        "title": "Trump keeps Vance, Rubio guessing on 2028 endorsement while also praising Hegseth for doing a ‘great job’",
+        "rewrite": "Trump keeps Vance, Rubio guessing on 2028 endorsement while also praising Hegseth for doing a 'great job'",
+        "url": "https://nypost.com/2026/11/27/us-news/trump-keeps-vance-rubio-guessing-on-2028-endorsement-while-also-praising-hegseth-for-doing-a-great-job/",
+        "source": "New York Post",
+        "published": "2026-11-28T05:39:30+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": false,
+        "summary": "Trump has spent the past year floating Vice President JD Vance and Secretary of State Marco Rubio as possible successors. Asked in the Oval Office on Tuesday whether an unexpected contender was emerging for the 2028 Republican nomination, he told The Post: 'Probably not.'"
       },
       {
         "title": "Journalist Catherine Herridge moves to take fight to preserve secret source’s identity to Supreme Court",
@@ -94,8 +153,20 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "Investigative TV journalist Catherine Herridge is asking the highest court in the land to hear a widely watched case on reporters' privilege to use confidential sources."
+      },
+      {
+        "title": "Wasserman Schultz: We Will End Iran War in First 100 Hours of the New Congress",
+        "rewrite": "Wasserman Schultz: We Will End Iran War in First 100 Hours of the New Congress",
+        "url": "https://www.breitbart.com/clips/2026/11/27/wasserman-schultz-we-will-end-iran-war-in-first-100-hours-of-the-new-congress/",
+        "source": "Breitbart",
+        "published": "2026-11-28T04:05:50+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "US",
+        "is_new": true,
+        "summary": "On Friday’s broadcast of CNN’s “News Central,” Rep. Debbie Wasserman Schultz (D-FL) said the new Congress will end the war in Iran within its first 100 hours."
       },
       {
         "title": "Republican Rep. Maria Salazar Fires Back At Immigration Hardliners, Calls ‘Amnesty’ A ‘Cheap Word Trick’",
@@ -106,7 +177,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "SCOTUS Prepares To Scope Out Legality Of ‘Devastating’ AR-15 Bans",
@@ -117,7 +188,7 @@
         "slot": "column",
         "urgent": false,
         "section": "US",
-        "is_new": true,
+        "is_new": false,
         "summary": "The Democrat-led effort to ban these guns 'is really not driven by numbers or harm. It's driven by a political agenda that is just anti-gun in general.'"
       },
       {
@@ -229,64 +300,16 @@
         "summary": "Senate Minority Leader Chuck Schumer (D-NY) and Sen. Chris Van Hollen (D-MD) are wooing their soon-to-be colleagues in their rivalry to be the next majority leader, a secret-ballot contest that will offer greater influence to the large class of incoming Senate Democrats than in sessions prior."
       },
       {
-        "title": "US attorney Bill Essayli scores legal win in battle to fight off disqualification from prosecutions",
-        "rewrite": "US attorney Bill Essayli scores legal win in battle to fight off disqualification from prosecutions",
-        "url": "https://nypost.com/2026/11/25/us-news/ninth-circuit-keeps-order-disqualifying-california-prosecutor-bill-essayli-on-hold/",
-        "source": "New York Post",
-        "published": "2026-11-26T12:48:03+11:00",
+        "title": "France falls into recession after far-left riots break out across country in blow to Emmanuel Macron",
+        "rewrite": "France falls into recession after far-left riots break out across country in blow to Emmanuel Macron",
+        "url": "https://www.gbnews.com/news/world/france-recession-far-left-riots-break-out-blow-emmanuel-macron",
+        "source": "GB News",
+        "published": "2026-11-28T08:50:54+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Los Angeles’ top federal prosecutor Bill Essayli has won another temporary reprieve in his fight to keep his job, with a federal appeals court putting a judge’s order to disqualify him on ice while the US Supreme Court weighs a similar legal battle in Nevada."
-      },
-      {
-        "title": "Judge Upholds Mamdani Rent Freeze, Says Mayor Had No Power to Promise It",
-        "rewrite": "Judge Upholds Mamdani Rent Freeze, Says Mayor Had No Power to Promise It",
-        "url": "https://www.breitbart.com/local/2026/11/25/mamdani-rent-freeze-upheld-judge-faults-mayor-promise/",
-        "source": "Breitbart",
-        "published": "2026-11-26T11:01:22+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "State Supreme Court Justice Brendan T. Lantry on Wednesday dismissed a lawsuit by seven landlords seeking to overturn New York City’s rent freeze, calling Mayor Zohran Mamdani’s campaign guarantee of a freeze “reckless and irresponsible.” The Manhattan judge’s 20-page ruling"
-      },
-      {
-        "title": "Hit-and-run driver busted 3 months after allegedly killing NYC nurse on way home from overnight shift",
-        "rewrite": "Hit-and-run driver busted 3 months after allegedly killing NYC nurse on way home from overnight shift",
-        "url": "https://nypost.com/2026/11/25/us-news/hit-and-run-driver-accused-of-fatally-striking-dedicated-nyc-nurse-on-way-home-from-overnight-shift-is-busted/",
-        "source": "New York Post",
-        "published": "2026-11-26T09:53:38+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Justin Mercado, 22, was charged with manslaughter and criminally negligent homicide in the Aug. 29 death of Jiayi Zheng, 28, who had been crossing at the intersection of Third Avenue and 55th Street in Sunset Park when she was killed, according to the Brooklyn District Attorney’s Office."
-      },
-      {
-        "title": "USAID Files: FAQ Disclosed How Employees Could Interact with Social Media Companies",
-        "rewrite": "USAID Files: FAQ Disclosed How Employees Could Interact with Social Media Companies",
-        "url": "https://www.breitbart.com/politics/2026/11/25/usaid-files-faq-disclosed-how-employees-could-interact-with-social-media-companies/",
-        "source": "Breitbart",
-        "published": "2026-11-26T09:09:54+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Recently unearthed documents from USAID disclosed how the Biden administration worked to influence how the federal government could interact with social media companies."
-      },
-      {
-        "title": "Maine Democrat Senator-Elect Troy Jackson Backs Chris Van Hollen to Oust Chuck Schumer as Majority Leader",
-        "rewrite": "Maine Democrat Senator-Elect Troy Jackson Backs Chris Van Hollen to Oust Chuck Schumer as Majority Leader",
-        "url": "https://www.breitbart.com/politics/2026/11/25/maine-democrat-senator-elect-troy-jackson-backs-chris-van-hollen-to-oust-chuck-schumer-as-majority-leader/",
-        "source": "Breitbart",
-        "published": "2026-11-26T09:01:34+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "US",
-        "is_new": false,
-        "summary": "Sen.-elect Troy Jackson (D-ME), a longtime skeptic of Senate Democrat Leader Chuck Schumer (D-NY), announced Wednesday that he will vote for Sen. Chris Van Hollen (D-MD) in the upcoming Senate Democrat leadership election, citing their shared support for eliminating the filibuster, passing Medicare for All, and increasing the minimum wage."
+        "section": "BUSINESS",
+        "is_new": true,
+        "summary": "France has fallen into recession after the European nation's economy shrank by more than the predicted figures. Emmanuel Macron is said to be facing a crisis after the economy plunged by 0.2 per cent in the third quarter between July and September. The shrinking of France's economy is bigger than the predicted 0.1 per cent figure."
       },
       {
         "title": "Marlboro maker Altria exploring Imperial Brands takeover in Big Tobacco mega deal",
@@ -327,6 +350,18 @@
     ],
     "center": [
       {
+        "title": "Canadian Supreme Court largely upholds Quebec’s ban on religious symbols for public sector workers",
+        "rewrite": "Canadian Supreme Court largely upholds Quebec's ban on religious symbols for public sector workers",
+        "url": "https://www.washingtonexaminer.com/news/world/4816704/canada-supreme-court-upholds-quebec-ban-religious-symbols-public-workers/",
+        "source": "Washington Examiner",
+        "published": "2026-11-28T09:49:45+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "WORLD",
+        "is_new": true,
+        "summary": "The Supreme Court of Canada upheld most of Quebec’s law barring public employees in certain positions of authority from wearing religious symbols at work, delivering a major victory on Friday for the province’s secularism policy."
+      },
+      {
         "title": "Putin bodyguard tipped to be his successor 'took his own life at 90ft waterfall', leaked documents show",
         "rewrite": "Putin bodyguard tipped to be his successor 'took his own life at 90ft waterfall', leaked documents show",
         "url": "https://www.dailymail.com/news/article-16326763/Putin-bodyguard-tipped-successor-took-life-90ft-waterfall.html?ns_campaign=1490",
@@ -335,7 +370,7 @@
         "slot": "column",
         "urgent": false,
         "section": "WORLD",
-        "is_new": true,
+        "is_new": false,
         "summary": "The mysterious death of Vladimir Putin's former bodyguard was recorded as suicide in secret Russian government files, it was revealed today."
       },
       {
@@ -471,15 +506,29 @@
         "summary": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says."
       },
       {
-        "title": "Military Doctors Warn Pentagon’s Iran War Medical Preparations Could Cost American Lives",
-        "rewrite": "Military Doctors Warn Pentagon's Iran War Medical Preparations Could Cost American Lives",
-        "url": "https://dailycaller.com/2026/11/25/military-doctors-iran-war-pentagon-medical-preparations",
-        "source": "Daily Caller",
-        "published": "2026-11-26T08:35:22+11:00",
+        "title": "Farmers do not miss dusty old days as they embrace harvest technology",
+        "rewrite": "Farmers do not miss dusty old days as they embrace harvest technology",
+        "url": "https://www.abc.net.au/news/2026-11-28/advances-in-harvesting-machinery-transformed-farming-western-nsw/107399560",
+        "source": "ABC News Australia",
+        "published": "2026-11-28T10:00:01+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "WORLD",
-        "is_new": false
+        "section": "AUSTRALIA",
+        "is_new": true,
+        "image": "https://live-production.wcms.abc-cdn.net.au/85c9c5bfc6b0cd83ab2ce5e965f7b777?impolicy=wcms_watermark_news&cropH=2304&cropW=4096&xPos=0&yPos=384&width=862&height=485&imformat=generic",
+        "summary": "Narromine farmer Rob McCutcheon has witnessed more than five decades of technological advances that have transformed the way farmers harvest their crops."
+      },
+      {
+        "title": "Australia selling more wine than it is making but huge glut persists",
+        "rewrite": "Australia selling more wine than it is making but huge glut persists",
+        "url": "https://www.abc.net.au/news/2026-11-28/australian-wine-glut-continues-despite-sales-production/107425900",
+        "source": "ABC News Australia",
+        "published": "2026-11-28T06:40:41+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "AUSTRALIA",
+        "is_new": true,
+        "summary": "Sales of Australian wine have overtaken previous production volumes, but a glut of millions of litres persists."
       },
       {
         "title": "Ex-NSW Liberal MP jailed for two years over rape of 13yo boy",
@@ -520,16 +569,28 @@
         "summary": "As Prime Minister Anthony Albanese wraps up the parliamentary year, he admits the government does not always get everything right. Follow live."
       },
       {
-        "title": "Senator Leah Blyth defects to One Nation saying Liberals cannot save Australia",
-        "rewrite": "Senator Leah Blyth defects to One Nation saying Liberals cannot save Australia",
-        "url": "https://www.abc.net.au/news/2026-11-26/leah-blyth-liberal-one-nation-angus-taylor-/107428224",
-        "source": "ABC News Australia",
-        "published": "2026-11-26T09:27:08+11:00",
+        "title": "Victorian Election: One Nation leader vows to cut government spending and expose decade of Victorian Cabinet decisions",
+        "rewrite": "Victorian Election: One Nation leader vows to cut government spending and expose decade of Victorian...",
+        "url": "https://7news.com.au/news/vic/vic-election-2026/victorian-election-one-nation-leader-vows-to-cut-government-spending-and-expose-decade-of-victorian-cabinet-decisions-c-23224398",
+        "source": "7News Victoria",
+        "published": "2026-11-28T09:51:37+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "AUSTRALIA",
-        "is_new": false,
-        "summary": "South Australian senator Leah Blyth, a member of Angus Taylor's shadow ministry and former state Liberal president, quit the Liberals to become One Nation's first federal senator for SA. She said she had lost confidence in the opposition on immigration, spending and energy; a former colleague said the move 'smacks of self-interest'. She faces re-election in 2028."
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "Warren Pickering is facing a tight contest, with the final 7NEWS election model forecasting a 50-50 chance of him winning the Labor held Pakenham seat against the Liberals."
+      },
+      {
+        "title": "Live: Victorian Liberal costings reveal unannounced plan to scrap first home owner grant",
+        "rewrite": "Victorian Liberal costings reveal unannounced plan to scrap first home owner grant",
+        "url": "https://www.abc.net.au/news/2026-11-28/victorian-election-live-updates-voting-results-seat-count/107418038",
+        "source": "ABC News Australia",
+        "published": "2026-11-28T07:00:08+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "VICTORIA",
+        "is_new": true,
+        "summary": "Victorians head to the polls today to decide who will lead Australia's second most populous state for the next four years. Follow live."
       },
       {
         "title": "Victoria braces for political earthquake as angry voters head to polls",
@@ -540,7 +601,7 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "7NEWS Political Editor Mark Riley says voters will turn up with proverbial ‘bazookas to blow out a government’."
       },
       {
@@ -552,7 +613,7 @@
         "slot": "column",
         "urgent": false,
         "section": "VICTORIA",
-        "is_new": true,
+        "is_new": false,
         "summary": "‘It’s been a problem for quite some time, but now, of course, they’re very worried. Now someone died.’"
       },
       {
@@ -566,34 +627,33 @@
         "section": "VICTORIA",
         "is_new": false,
         "summary": "Lane closures are expected to remain in place throughout the afternoon peak."
-      },
-      {
-        "title": "Victorian Coalition's election spending and saving explained",
-        "rewrite": "Victorian Coalition's election spending and saving explained",
-        "url": "https://www.abc.net.au/news/2026-11-27/victorian-coalition-election-spending-savings/107433826",
-        "source": "ABC News Australia",
-        "published": "2026-11-27T14:36:20+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "image": "https://live-production.wcms.abc-cdn.net.au/12bf44fdcd2557f3e7a10f1c6eeb45e4?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-        "summary": "Victorians have now gotten a proper glimpse of how the Coalition plans to reduce spending in the state budget, if it wins the election this Saturday. Here are the key takeaways."
-      },
-      {
-        "title": "Good Samaritan grocer was killed trying to stop a gang of teens over two pairs of stolen $17 teddy bear pyjama pants - as court hears the heartbreaking toll on those he left behind",
-        "rewrite": "Good Samaritan grocer was killed trying to stop a gang of teens over two pairs of stolen $17 teddy bear...",
-        "url": "https://www.dailymail.com/news/article-16325533/Good-Samaritan-grocer-killed-melbourne-teenagers.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-27T12:42:09+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "VICTORIA",
-        "is_new": false,
-        "summary": "Van Viet Truong died in August after an altercation involving a group of teenagers, including a 14-year-old girl who faced a pre-sentence hearing at a children's court on Thursday."
       }
     ],
     "right": [
+      {
+        "title": "Police arrest 33 in grooming gang probe after girls 'rounded up in taxis and raped at parties'",
+        "rewrite": "Police arrest 33 in grooming gang probe after girls 'rounded up in taxis and raped at parties'",
+        "url": "https://www.gbnews.com/news/grooming-southampton-arrested-teenage-girls-rounded-up-raped-parties",
+        "source": "GB News",
+        "published": "2026-11-28T09:39:26+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "UK",
+        "is_new": true,
+        "summary": "At least 33 people have been arrested in Southampton following an investigation into \"child sexual exploitation\". Hampshire Police is understood to have seized more than 80 mobile phones and charged two men with offences in connection to the probe, the Daily Echo reports. Detectives have been investigating reports of teenage girls being collected in taxis and taken to parties."
+      },
+      {
+        "title": "Union flags and Restore Britain banners outside Barnham migrant camp torn down as village quits UK",
+        "rewrite": "Union flags and Restore Britain banners outside Barnham migrant camp torn down as village quits UK",
+        "url": "https://www.gbnews.com/news/barnham-banners-removed-migrant-crisis",
+        "source": "GB News",
+        "published": "2026-11-28T06:13:19+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "UK",
+        "is_new": true,
+        "summary": "Union flags and Restore Britain banners outside Barnham migrant camp torn down as village quits UK . Banners which were erected in Barnham opposing a former military barrack being used to house illegal migrants have been vandalised, GB News can reveal"
+      },
       {
         "title": "Will new energy fixes cost more in January?",
         "rewrite": "Will new energy fixes cost more in January?",
@@ -603,7 +663,7 @@
         "slot": "column",
         "urgent": false,
         "section": "UK",
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Moment RAF terror plot 'mastermind' is filmed directing Iran-backed arson attack on a London synagogue by video call from a warehouse in Iraq",
@@ -614,7 +674,7 @@
         "slot": "column",
         "urgent": false,
         "section": "UK",
-        "is_new": true,
+        "is_new": false,
         "summary": "Mohammad al-Hassani, 35, who has been stripped of his British citizenship, is among a group of men charged with planning Iran-backed terrorist plots in Europe."
       },
       {
@@ -654,16 +714,28 @@
         "summary": "New data published by the Ministry of Housing, Communities and Local Government (MHCLG) showed there were 203,690 net additional dwellings in England in 2025-26."
       },
       {
-        "title": "Grade inflation at university is blamed on 'soft' subject degrees... just as Labour pushes for more in schools",
-        "rewrite": "Grade inflation at university is blamed on 'soft' subject degrees... just as Labour pushes for more in schools",
-        "url": "https://www.dailymail.com/news/article-16322439/Rampant-degree-grade-inflation-arts-subjects.html?ns_campaign=1490",
-        "source": "Daily Mail",
-        "published": "2026-11-26T11:14:11+11:00",
+        "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
+        "rewrite": "Bitcoin whales pile into BTC despite shrinking profit cushion",
+        "url": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion",
+        "source": "Cointelegraph",
+        "published": "2026-11-28T06:23:00+11:00",
         "slot": "column",
         "urgent": false,
-        "section": "UK",
-        "is_new": false,
-        "summary": "A paper from the Higher Education Policy Institute think-tank found the number of first-class marks handed out by British universities had surged in the past ten years."
+        "section": "MARKETS",
+        "is_new": true,
+        "summary": "CryptoQuant data shows Bitcoin whales are breaking with historical fourth-quarter selling patterns despite a market downturn."
+      },
+      {
+        "title": "Stocks Surge Higher, Dow Up Nearly 600, Nasdaq Jumps 2.3%",
+        "rewrite": "Stocks Surge Higher, Dow Up Nearly 600, Nasdaq Jumps 2.3%",
+        "url": "https://www.breitbart.com/economy/2026/11/27/stocks-surge-higher/",
+        "source": "Breitbart",
+        "published": "2026-11-28T04:44:14+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "MARKETS",
+        "is_new": true,
+        "summary": "U.S. equities surged higher on Friday, with the Dow Jones Industrial Average headed for its best week since April 2025."
       },
       {
         "title": "Binance to launch tokenized IPO program after regulatory approval: Yi He",
@@ -674,7 +746,7 @@
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": true,
+        "is_new": false,
         "summary": "Binance is hiring for equity capital markets roles, including an analyst to develop tokenized equity products and assess prospective issuers."
       },
       {
@@ -686,7 +758,7 @@
         "slot": "column",
         "urgent": false,
         "section": "MARKETS",
-        "is_new": true,
+        "is_new": false,
         "summary": "Stocks are broadly higher, but bitcoin has slipped back near $60,000, reversing a turkey day advance."
       },
       {
@@ -724,30 +796,6 @@
         "section": "MARKETS",
         "is_new": false,
         "summary": "The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto theft."
-      },
-      {
-        "title": "Live: ASX edges higher as global stocks climb",
-        "rewrite": "ASX edges higher as global stocks climb",
-        "url": "https://www.abc.net.au/news/2026-11-27/asx-markets-business-news-live-updates/107430390",
-        "source": "ABC News Australia",
-        "published": "2026-11-27T07:27:46+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "MARKETS",
-        "is_new": false,
-        "summary": "The ASX has opened a little higher after solid gains across Europe and Asia. Follow the day's events and insights from our business reporters on the ABC News live markets blog."
-      },
-      {
-        "title": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
-        "rewrite": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
-        "url": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
-        "source": "CoinDesk",
-        "published": "2026-11-26T15:46:01+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "MARKETS",
-        "is_new": false,
-        "summary": "A bill to codify Trump’s Strategic Bitcoin Reserve has cleared committee and is eligible for a House vote, but it faces a tight deadline."
       },
       {
         "title": "Iran issues chilling Thanksgiving warning targeting America's biggest tech giants... with Amazon, Microsoft and Elon Musk's SpaceX in the crosshairs",
@@ -806,7 +854,7 @@
         "slot": "column",
         "urgent": false,
         "section": "TECHNOLOGY",
-        "is_new": true,
+        "is_new": false,
         "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power."
       },
       {
@@ -822,6 +870,18 @@
         "summary": "North Korea-linked hackers used DeFi protocols to launder stolen Binance funds, while US prosecutors moved to recover more than $1.1 billion in crypto."
       },
       {
+        "title": "‘The Hunting Wives’ Stars and Creator Break Down Margo and Sophie’s Dangerous Love Affair in Season 2: ‘It’s a F—-ed Up Commitment’ to ‘Move Past’ Murder",
+        "rewrite": "'The Hunting Wives' Stars and Creator Break Down Margo and Sophie's Dangerous Love Affair in Season 2:...",
+        "url": "https://variety.com/2026/tv/news/hunting-wives-brittany-snow-malin-akerman-season-2-sex-murder-1236952232/",
+        "source": "Variety",
+        "published": "2026-11-28T09:30:00+11:00",
+        "slot": "column",
+        "urgent": false,
+        "section": "ENTERTAINMENT",
+        "is_new": true,
+        "summary": "SPOILER ALERT: This story contains spoilers for Season 2 of “The Hunting Wives,” now streaming on Netflix. Earlier this month, Texas shocked the nation by electing Democrats to the governorship, the U.S. Senate and several more key positions during this year’s midterm elections."
+      },
+      {
         "title": "TV station that backed Iran regime loses UK broadcast licence after GB News investigation",
         "rewrite": "TV station that backed Iran regime loses UK broadcast licence after GB News investigation",
         "url": "https://www.gbnews.com/news/lualua-tv-iran-regime-uk-gb-news-investigation",
@@ -830,7 +890,7 @@
         "slot": "column",
         "urgent": false,
         "section": "ENTERTAINMENT",
-        "is_new": true,
+        "is_new": false,
         "summary": "A TV channel exposed by GB News for backing the Iranian regime has had its broadcast license revoked by OfCom. The regulator said in an announcement today that Lualua TV had broadcast a speech that glorified the Hamas October 7 terrorist atrocities."
       },
       {
@@ -904,30 +964,18 @@
         "section": "ENTERTAINMENT",
         "is_new": false,
         "summary": "Seven of India’s JioStar television channels, including popular Hindi-language entertainment channels Star Plus and Colors, are now streaming in the U.S. on live TV service Fubo. Alongside Star Plus and Colors, the slate comprises Star Bharat, Colors Rishtey, Colors Cineplex, MTV India and English-language news channel News18 English."
-      },
-      {
-        "title": "Hollywood director pistol-whipped bar manager in antisemetic rage: suit",
-        "rewrite": "Hollywood director pistol-whipped bar manager in antisemetic rage: suit",
-        "url": "https://nypost.com/2026/11/25/us-news/hollywood-director-pistol-whipped-man-hurled-antisemitic-slurs-lawsuit/",
-        "source": "New York Post",
-        "published": "2026-11-26T09:08:04+11:00",
-        "slot": "column",
-        "urgent": false,
-        "section": "ENTERTAINMENT",
-        "is_new": false,
-        "summary": "Antoine Fuqua, the 61-year-old director behind the Denzel Washington blockbusters “Training Day” and “The Equalizer” franchise has denied the accusations, which surfaced in a civil lawsuit filed Friday in Los Angeles County Superior Court."
       }
     ]
   },
-  "image_url": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/11/GettyImages-2269542249.jpeg",
-  "image_source_url": "https://dailycaller.com/2026/11/27/us-air-force-cloud-one-system-report-reuters-hack-sensitive-intel-exposed-munitions-aircraft",
+  "image_url": "https://media.breitbart.com/media/2026/11/Vessel-Attempts-to-Breach-Strait-of-Hormuz-640x335.jpeg",
+  "image_source_url": "https://www.breitbart.com/politics/2026/11/27/u-s-disables-ship-attempting-to-breach-iran-blockade-tehran-threatens-military-action-from-air-and-sea/",
   "counts": {
-    "total": 75,
+    "total": 79,
     "featured": 4,
     "columns": {
-      "left": 21,
-      "center": 22,
-      "right": 27
+      "left": 23,
+      "center": 23,
+      "right": 28
     },
     "feeds_ok": 44,
     "feeds_failed": 6
